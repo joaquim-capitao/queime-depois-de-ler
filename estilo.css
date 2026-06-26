@@ -3,7 +3,7 @@
    ========================================================================== */
 :root {
   /* Tons quentes e suaves que reduzem o cansaço visual */
-  --bg-paper: #fcecc2;       /* Bege bem claro, lembrando papel pólen/marfim */
+  --bg-paper: #ded7c5;       /* Bege bem claro, lembrando papel pólen/marfim */
   --text-main: #2d2a26;      /* Grafite escuro em vez de preto puro (menos contraste agressivo) */
   --text-muted: #6e675f;     /* Cinza quente para subtítulos e metadados */
   --accent: #4a6b5d;         /* Verde sálvia fosco para links e detalhes (estilo editorial) */
@@ -139,7 +139,7 @@ hr {
    ========================================================================== */
 @media (max-width: 480px) {
   html {
-    font-size: 20px;         /* Reduz levemente a fonte em telas muito pequenas */
+    font-size: 18px;         /* Reduz levemente a fonte em telas muito pequenas */
   }
   
   body {
