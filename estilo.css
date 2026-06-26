@@ -139,7 +139,7 @@ hr {
    ========================================================================== */
 @media (max-width: 480px) {
   html {
-    font-size: 16px;         /* Reduz levemente a fonte em telas muito pequenas */
+    font-size: 20px;         /* Reduz levemente a fonte em telas muito pequenas */
   }
   
   body {
