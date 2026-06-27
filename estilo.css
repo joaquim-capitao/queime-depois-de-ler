@@ -27,7 +27,7 @@
 }
 
 html {
-  font-size: 22px;           /* Tamanho de fonte base ligeiramente maior para conforto */
+  font-size: 20px;           /* Tamanho de fonte base ligeiramente maior para conforto */
   line-height: 1.65;         /* Espaçamento entre linhas ideal para textos longos */
   scroll-behavior: smooth;
 }
