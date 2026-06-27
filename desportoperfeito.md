@@ -1,3 +1,7 @@
+---
+layout: styke-dark
+---
+
 # O DESPORTO PERFEITO
 
 No supermercado, vi uma mãe negar um chocolate ao filho e, perante aquela injustiça, o miúdo ativou o clássico protocolo de negociação infantil: atirou-se ao chão e começou a berrar. E eu até consigo entendê-lo. Afinal, a vida sem chocolate não faz nenhum sentido.
