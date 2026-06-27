@@ -5,7 +5,7 @@
    ========================================================================== */
 :root {
   /* Paleta Dark de Alto Conforto Visual */
-  --bg-main: #252533;        /* Fundo azul escuro */
+  --bg-main: #1e1e2b;        /* Fundo azul escuro */
   --bg-card: #37364a;        /* Fundo ligeiramente mais claro para cartões ou blocos */
   --text-main: #daeddb;      /* Cinza esverdeado fosco claro para evitar cansaço visual */
   --text-muted: #bdb695;     /* Cinza esverdeado para subtítulos, metadados e citações */
