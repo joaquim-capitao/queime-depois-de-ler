@@ -22,4 +22,5 @@ E agora, se me dão licença, dou por terminado este texto. A seguir, ficarei a 
 
 ***
 Joaquim Capitão
+
 Ponta Delgada
