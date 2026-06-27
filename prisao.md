@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: style-dark
 ---
 
 # A Prisão 
@@ -27,7 +27,8 @@ O choque paralisou-o. Se a porta nunca esteve trancada, o que o manteve ali dent
 Olhou para trás, para a cela vazia, e depois para o reflexo baço de si mesmo no metal polido pelo toque dos seus próprios dedos. Não havia guardas. Não havia juiz. Compreendeu, com uma clareza avassaladora e dolorosa, que os muros que o cercavam eram feitos de culpa, e que os cadeados eram moldados pelos seus próprios medos.
 
 
-Ele não era o prisioneiro de um castigo externo. Ele era o carcereiro, a cela e as próprias grades.
+Ele não era o prisioneiro de um castigo externo. Ele era o carcereiro, a cela e as próprias grades.
+
 
 
 
