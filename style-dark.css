@@ -1,0 +1,198 @@
+/* ==========================================================================
+   Modern Reading Mode Stylesheet - Dark Edition
+   ========================================================================== */
+
+/* Page Setup & Base Layout */
+@page {
+    size: A4;
+    margin: 20mm 18mm;
+    background-color: #121212; /* Deep, eye-friendly OLED black/dark grey background */
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 11pt;
+    line-height: 1.65;
+    color: #e0e0e0; /* Off-white for perfect dark mode contrast without glare */
+    background-color: #121212;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Typography & Headers */
+h1, h2, h3, h4 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    font-weight: 700;
+    line-height: 1.25;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+}
+
+h1 {
+    font-size: 22pt;
+    margin-top: 0;
+    margin-bottom: 0.8em;
+    letter-spacing: -0.02em;
+}
+
+h2 {
+    font-size: 15pt;
+    border-bottom: 2px solid #2c2c2c;
+    padding-bottom: 0.3em;
+    margin-top: 1.8em;
+}
+
+h3 {
+    font-size: 12pt;
+    font-style: italic;
+    font-weight: 600;
+    color: #b3b3b3;
+}
+
+/* Structural Elements */
+p {
+    margin-top: 0;
+    margin-bottom: 1.2em;
+    text-align: justify;
+}
+
+/* Subtle accent for first paragraph or lead text */
+p.lead {
+    font-size: 12pt;
+    line-height: 1.6;
+    color: #f0f0f0;
+}
+
+/* Links */
+a {
+    color: #ff7a59; /* Vibrant but warm terracotta/coral accent for contrast */
+    text-decoration: none;
+    border-bottom: 1px solid rgba(255, 122, 89, 0.4);
+}
+
+a:hover {
+    color: #ff9478;
+    border-bottom-color: #ff9478;
+}
+
+/* Blockquotes & Editorial Callouts */
+blockquote {
+    margin: 1.5em 0;
+    padding: 0.2em 0 0.2em 15px;
+    border-left: 3px solid #ff7a59;
+    font-style: italic;
+    color: #cccccc;
+    background-color: rgba(255, 122, 89, 0.05);
+    page-break-inside: avoid;
+}
+
+blockquote p {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+blockquote footer {
+    font-family: -apple-system, sans-serif;
+    font-size: 9pt;
+    font-style: normal;
+    color: #888888;
+    margin-top: 0.5em;
+}
+
+/* Lists */
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 1.2em;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 0.4em;
+}
+
+/* Clean, Minimal Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2em 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 9.5pt;
+    page-break-inside: avoid;
+}
+
+th {
+    font-weight: 600;
+    text-align: left;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    padding: 8px 12px;
+    border-bottom: 2px solid #333333;
+}
+
+td {
+    padding: 8px 12px;
+    border-bottom: 1px solid #222222;
+    color: #cccccc;
+}
+
+tr:nth-child(even) td {
+    background-color: rgba(255, 255, 255, 0.02);
+}
+
+/* Code & Technical Text */
+pre, code {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 9.5pt;
+    background-color: #1e1e1e;
+    border-radius: 3px;
+}
+
+code {
+    padding: 2px 5px;
+    color: #ff8b80;
+}
+
+pre {
+    padding: 12px;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin: 1.5em 0;
+    border: 1px solid #2c2c2c;
+    page-break-inside: avoid;
+}
+
+pre code {
+    padding: 0;
+    background-color: transparent;
+    color: #e0e0e0;
+}
+
+/* Inline Math / Special Emphasis Style */
+.math {
+    font-family: 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* Layout Utilities (No Flex/Grid for WeasyPrint compatibility) */
+.text-center {
+    text-align: center;
+}
+
+.meta-info {
+    font-family: -apple-system, sans-serif;
+    font-size: 9.5pt;
+    color: #888888;
+    margin-bottom: 2em;
+    border-bottom: 1px solid #222222;
+    padding-bottom: 1em;
+}
