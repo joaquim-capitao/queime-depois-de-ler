@@ -7,6 +7,8 @@ layout: default
 
 ### Os dedos do homem estavam brancos, tamanha a força com que se agarrava às grades de ferro. O metal frio era a única coisa sólida num mundo feito de penumbra, silêncio e o eco distante de passos que nunca chegavam até ele.
 
+![Imagem](https://dhg1h5j42swfq.cloudfront.net/2025/02/04194429/image-60.png)
+
 
 Há quantos anos estava ali? Ele já não sabia. O tempo na cela não se contava em dias, mas no peso do remorso que lhe esmagava o peito. Cada barra de ferro diante de si representava um erro, uma palavra dita com raiva, um laço partido. Ele olhava para o corredor escuro além do cárcere, desejando a liberdade mais do que o próprio ar, mas aceitando que o seu destino era definhar ali, trancado pelo julgamento do mundo.
 
