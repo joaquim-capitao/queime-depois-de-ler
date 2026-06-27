@@ -196,3 +196,24 @@ pre code {
     border-bottom: 1px solid #222222;
     padding-bottom: 1em;
 }
+
+/* ==========================================================================
+   ADAPTAÇÃO ADICIONAL PARA SMARTPHONES (Media Queries)
+   ========================================================================== */
+@media (max-width: 480px) {
+  html {
+    font-size: 18px;         /* Reduz levemente a fonte em telas muito pequenas */
+  }
+  
+  body {
+    padding: 1.5rem 1rem;    /* Otimiza o espaço das margens no celular */
+  }
+
+  h1 {
+    font-size: 1.8rem;       /* Título proporcional à tela do celular */
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+}
