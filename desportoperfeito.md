@@ -26,5 +26,5 @@ Moral da história: Quando o teu mundo estiver a desabar, não te preocupes. Vai
 
 ---
 
-Joaquim Capitão 
+Joaquim Capitão   
 27/06/2026
