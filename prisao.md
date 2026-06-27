@@ -5,7 +5,7 @@ layout: default
 # A Prisão 
 
 
-### Os dedos do homem estavam brancos, tamanha a força com que se agarrava às grades de ferro. O metal frio era a única coisa sólida num mundo feito de penumbra, silêncio e o eco distante de passos que nunca chegavam até ele.
+Os dedos do homem estavam brancos, tamanha a força com que se agarrava às grades de ferro. O metal frio era a única coisa sólida num mundo feito de penumbra, silêncio e o eco distante de passos que nunca chegavam até ele.
 
 ![Imagem](https://dhg1h5j42swfq.cloudfront.net/2025/02/04194429/image-60.png)
 
