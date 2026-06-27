@@ -21,6 +21,5 @@ Portanto, se as férias do teu vizinho te causam úlceras, não o culpes. É mel
 E agora, se me dão licença, dou por terminado este texto. A seguir, ficarei a olhar para o ecrã à espera da minha merecida dose de elogios.
 
 ***
-Joaquim Capitão
-
+Joaquim Capitão  
 Ponta Delgada
