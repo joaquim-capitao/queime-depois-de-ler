@@ -1,219 +1,174 @@
-/* ==========================================================================
-   Modern Reading Mode Stylesheet - Dark Edition
-   ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
-/* Page Setup & Base Layout */
-@page {
-    size: A4;
-    margin: 20mm 18mm;
-    background-color: #121212; /* Deep, eye-friendly OLED black/dark grey background */
+/* ==========================================================================
+   VARIÁVEIS GLOBAIS (Tema Dark Moderno)
+   ========================================================================== */
+:root {
+  /* Paleta Dark de Alto Conforto Visual */
+  --bg-main: #121214;        /* Fundo escuro profundo (estilo Nord/Slate) */
+  --bg-card: #1a1a1e;        /* Fundo ligeiramente mais claro para cartões ou blocos */
+  --text-main: #e2e8f0;      /* Branco fosco/cinza claro para evitar cansaço visual */
+  --text-muted: #94a3b8;     /* Cinza médio para subtítulos, metadados e citações */
+  --accent: #6366f1;         /* Índigo elétrico moderno para links e destaques */
+  --accent-hover: #818cf8;   /* Variação mais clara do accent para estados hover */
+  --border-color: #2e2e35;   /* Linhas divisórias subtis */
+  
+  /* Tipografia */
+  --font-ubuntu: "Ubuntu", system-ui, -apple-system, sans-serif;
+  
+  /* Espaçamento e Largura */
+  --max-width: 680px;        /* Largura ideal para leitura (entre 60-75 caracteres por linha) */
 }
 
-*, *::before, *::after {
-    box-sizing: border-box;
+/* ==========================================================================
+   RESET E CONFIGURAÇÃO BASE
+   ========================================================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 20px;           /* Ajustado para o design digital moderno */
+  line-height: 1.6;          /* Excelente legibilidade para a fonte Ubuntu */
+  scroll-behavior: smooth;
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    font-family: "Georgia", "Times New Roman", serif;
-    font-size: 11pt;
-    line-height: 1.65;
-    color: #e0e0e0; /* Off-white for perfect dark mode contrast without glare */
-    background-color: #121212;
-    -webkit-font-smoothing: antialiased;
-}
-
-/* Typography & Headers */
-h1, h2, h3, h4 {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: #ffffff;
-    font-weight: 700;
-    line-height: 1.25;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-    page-break-after: avoid;
-}
-
-h1 {
-    font-size: 22pt;
-    margin-top: 0;
-    margin-bottom: 0.8em;
-    letter-spacing: -0.02em;
-}
-
-h2 {
-    font-size: 15pt;
-    border-bottom: 2px solid #2c2c2c;
-    padding-bottom: 0.3em;
-    margin-top: 1.8em;
-}
-
-h3 {
-    font-size: 12pt;
-    font-style: italic;
-    font-weight: 600;
-    color: #b3b3b3;
-}
-
-/* Structural Elements */
-p {
-    margin-top: 0;
-    margin-bottom: 1.2em;
-    text-align: justify;
-}
-
-/* Subtle accent for first paragraph or lead text */
-p.lead {
-    font-size: 12pt;
-    line-height: 1.6;
-    color: #f0f0f0;
-}
-
-/* Links */
-a {
-    color: #ff7a59; /* Vibrant but warm terracotta/coral accent for contrast */
-    text-decoration: none;
-    border-bottom: 1px solid rgba(255, 122, 89, 0.4);
-}
-
-a:hover {
-    color: #ff9478;
-    border-bottom-color: #ff9478;
-}
-
-/* Blockquotes & Editorial Callouts */
-blockquote {
-    margin: 1.5em 0;
-    padding: 0.2em 0 0.2em 15px;
-    border-left: 3px solid #ff7a59;
-    font-style: italic;
-    color: #cccccc;
-    background-color: rgba(255, 122, 89, 0.05);
-    page-break-inside: avoid;
-}
-
-blockquote p {
-    margin-bottom: 0;
-    text-align: left;
-}
-
-blockquote footer {
-    font-family: -apple-system, sans-serif;
-    font-size: 9pt;
-    font-style: normal;
-    color: #888888;
-    margin-top: 0.5em;
-}
-
-/* Lists */
-ul, ol {
-    margin-top: 0;
-    margin-bottom: 1.2em;
-    padding-left: 20px;
-}
-
-li {
-    margin-bottom: 0.4em;
-}
-
-/* Clean, Minimal Tables */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 2em 0;
-    font-family: -apple-system, sans-serif;
-    font-size: 9.5pt;
-    page-break-inside: avoid;
-}
-
-th {
-    font-weight: 600;
-    text-align: left;
-    background-color: #1a1a1a;
-    color: #ffffff;
-    padding: 8px 12px;
-    border-bottom: 2px solid #333333;
-}
-
-td {
-    padding: 8px 12px;
-    border-bottom: 1px solid #222222;
-    color: #cccccc;
-}
-
-tr:nth-child(even) td {
-    background-color: rgba(255, 255, 255, 0.02);
-}
-
-/* Code & Technical Text */
-pre, code {
-    font-family: "Courier New", Courier, monospace;
-    font-size: 9.5pt;
-    background-color: #1e1e1e;
-    border-radius: 3px;
-}
-
-code {
-    padding: 2px 5px;
-    color: #ff8b80;
-}
-
-pre {
-    padding: 12px;
-    overflow-x: auto;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    margin: 1.5em 0;
-    border: 1px solid #2c2c2c;
-    page-break-inside: avoid;
-}
-
-pre code {
-    padding: 0;
-    background-color: transparent;
-    color: #e0e0e0;
-}
-
-/* Inline Math / Special Emphasis Style */
-.math {
-    font-family: 'Times New Roman', serif;
-    font-style: italic;
-    font-weight: bold;
-    color: #ffffff;
-}
-
-/* Layout Utilities (No Flex/Grid for WeasyPrint compatibility) */
-.text-center {
-    text-align: center;
-}
-
-.meta-info {
-    font-family: -apple-system, sans-serif;
-    font-size: 9.5pt;
-    color: #888888;
-    margin-bottom: 2em;
-    border-bottom: 1px solid #222222;
-    padding-bottom: 1em;
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  font-family: var(--font-ubuntu);
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 2.5rem 1.2rem;    /* Margem confortável para respiração do layout */
 }
 
 /* ==========================================================================
-   ADAPTAÇÃO ADICIONAL PARA SMARTPHONES (Media Queries)
+   ESTRUTURA E LAYOUT
+   ========================================================================== */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 0.5rem;
+}
+
+/* Header / Título da Página */
+header {
+  margin-bottom: 3.5rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1.5rem;
+}
+
+/* ==========================================================================
+   TIPOGRAFIA (Estilo Clean & Moderno)
+   ========================================================================== */
+h1, h2, h3, h4 {
+  color: #ffffff;            /* Branco puro para dar pop nos títulos */
+  font-family: var(--font-ubuntu);
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 1.25rem;
+  margin-top: 2.5rem;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.7rem;
+  font-weight: 500;          /* Peso ligeiramente menor para elegância */
+  border-left: 4px solid var(--accent);
+  padding-left: 0.75rem;
+}
+
+p {
+  margin-bottom: 1.5rem;
+  font-weight: 300;          /* A variante Light da Ubuntu funciona muito bem em ecrãs escuros */
+  text-align: left; 
+}
+
+.meta {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* ==========================================================================
+   ELEMENTOS DE TEXTO E LINKS
+   ========================================================================== */
+a {
+  color: var(--accent);
+  text-decoration: none;     /* Estilo moderno prefere links sem sublinhado por padrão */
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: var(--accent-hover);
+}
+
+/* Citações em Bloco (Blockquotes) */
+blockquote {
+  margin: 2rem 0;
+  padding: 1rem 1.5rem;
+  background-color: var(--bg-card); /* Destaca a citação num bloco moderno */
+  border-left: 4px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+blockquote p {
+  margin-bottom: 0;          /* Remove margem extra dentro do bloco */
+}
+
+/* Imagens */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+  border-radius: 8px;        /* Cantos ligeiramente mais arredondados para o look moderno */
+  border: 1px solid var(--border-color); /* Protege os limites de imagens escuras */
+}
+
+/* Elementos de Destaque */
+strong {
+  color: #ffffff;            /* Branco puro para realçar o negrito no fundo escuro */
+  font-weight: 700;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--border-color); /* Linha sólida e fina em vez de tracejada */
+  margin: 3rem 0;
+}
+
+/* ==========================================================================
+   ADAPTAÇÃO PARA SMARTPHONES (Media Queries)
    ========================================================================== */
 @media (max-width: 480px) {
   html {
-    font-size: 18px;         /* Reduz levemente a fonte em telas muito pequenas */
+    font-size: 18px;         /* Ajuste da escala de fonte para ecrãs pequenos */
   }
   
   body {
-    padding: 1.5rem 1rem;    /* Otimiza o espaço das margens no celular */
+    padding: 1.5rem 1rem;
   }
 
   h1 {
-    font-size: 1.8rem;       /* Título proporcional à tela do celular */
+    font-size: 2rem;
   }
 
   h2 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
   }
 }
