@@ -122,6 +122,15 @@ blockquote {
   color: var(--text-muted);
 }
 
+/* Garante que as imagens nunca ultrapassam a largura do texto e mantêm a proporção */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto; /* Cria espaço acima/abaixo e centra a imagem */
+  border-radius: 4px;  /* Opcional: suaviza os cantos da imagem como num livro */
+}
+
 /* Elementos de Destaque */
 strong {
   color: #000; /* Um pouco mais escuro para destacar no papel */
