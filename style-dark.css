@@ -5,13 +5,13 @@
    ========================================================================== */
 :root {
   /* Paleta Dark de Alto Conforto Visual */
-  --bg-main: #121214;        /* Fundo escuro profundo (estilo Nord/Slate) */
-  --bg-card: #1a1a1e;        /* Fundo ligeiramente mais claro para cartões ou blocos */
-  --text-main: #e2e8f0;      /* Branco fosco/cinza claro para evitar cansaço visual */
-  --text-muted: #94a3b8;     /* Cinza médio para subtítulos, metadados e citações */
-  --accent: #6366f1;         /* Índigo elétrico moderno para links e destaques */
+  --bg-main: #3a394d;        /* Fundo escuro profundo (estilo Nord/Slate) */
+  --bg-card: #515169;        /* Fundo ligeiramente mais claro para cartões ou blocos */
+  --text-main: #bfd9c0;      /* Branco fosco/cinza claro para evitar cansaço visual */
+  --text-muted: #c0cfc1;     /* Cinza médio para subtítulos, metadados e citações */
+  --accent: #9b9dfa;         /* Índigo elétrico moderno para links e destaques */
   --accent-hover: #818cf8;   /* Variação mais clara do accent para estados hover */
-  --border-color: #2e2e35;   /* Linhas divisórias subtis */
+  --border-color: #689670;   /* Linhas divisórias subtis */
   
   /* Tipografia */
   --font-ubuntu: "Ubuntu", system-ui, -apple-system, sans-serif;
