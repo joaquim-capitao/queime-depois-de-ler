@@ -1,3 +1,7 @@
+---
+layout: style-dark
+---
+
 # Respiração?
 
 De vez em quando, recebo vídeos supostamente inspiradores, e eu agradeço a amabilidade. No entanto, quando vêm acompanhados de música épica, começo logo a desconfiar. Provavelmente pretendem revelar uma verdade escondida há milhares de anos, mas que só foi descoberta anteontem no TikTok.
@@ -18,8 +22,8 @@ Quanto ao nome divino, a pronúncia original perdeu-se no tempo, assim como tant
 
 
 -------------------------------------
-Joaquim Capitão 
-Ponta Delgada, Açores 
+Joaquim Capitão   
+Ponta Delgada, Açores    
 26/05/2026
 
 
