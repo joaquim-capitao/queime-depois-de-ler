@@ -6,6 +6,8 @@ layout: default
 
 ## Música 
 
+<img src="https://lifelineanimal.org/wp-content/uploads/2021/02/myths-about-community-cats-header-1.jpg" width="300">
+
 ![imagem](https://lifelineanimal.org/wp-content/uploads/2021/02/myths-about-community-cats-header-1.jpg)
 
 Era uma vez, um *gato* maltês.
