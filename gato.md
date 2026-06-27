@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Atirei o pau ao gato
 
 ## Música 
