@@ -1,5 +1,5 @@
 ---
-layout: styke-dark
+layout: style-dark
 ---
 
 # O DESPORTO PERFEITO
