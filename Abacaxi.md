@@ -1,11 +1,4 @@
 ---
-created: 2026-06-28T08:00:48+00:00
-modified: 2026-06-28T08:02:28+00:00
----
-
-# Abacaxi
-
----
 layout: default
 ---
 
