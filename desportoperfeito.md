@@ -6,7 +6,7 @@ layout: style-light
 
 Há dias, assisti a uma cena dramática no supermercado. Uma mãe negou um chocolate ao seu pequeno filho. E é claro que, perante aquela injustiça, o miúdo ativou o protocolo de negociação infantil: atirou-se para o chão e começou a berrar. 
 
-Sinceramente, eu até consigo entender o desespero da pobre criança. Afinal, qual é o sentido de uma vida sem chocolate?
+Sinceramente, eu até consigo entender o desespero da pobre criança. Creio que todos concordamos que a vida sem chocolate não faz nenhum sentido.
 
 ![](https://i.ibb.co/v6WSSqk6/Captura-de-ecr-2026-06-27-002349.png)
 
