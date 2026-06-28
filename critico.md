@@ -24,7 +24,7 @@ E agora, se me dão licença, dou por terminado este texto. A seguir, ficarei a 
 
 ***
 <p style="text-align: right; background-color: #f0f0f0; border-left: 4px solid #007acc; padding: 5px; display: inline-block; float: right;">
-  Joaquim Capitão
+  Joaquim Capitão   
   28/06/2026
 </p>
 <div style="clear: both;"></div>
