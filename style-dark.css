@@ -30,7 +30,7 @@
 }
 
 html {
-  font-size: 18px;           /* Ajustado para o design digital moderno */
+  font-size: 18px;           /* Tamanho da fonte principal em PC */
   line-height: 1.6;          /* Excelente legibilidade para a fonte Ubuntu */
   scroll-behavior: smooth;
 }
@@ -136,7 +136,7 @@ img {
   height: auto;
   display: block;
   margin: 2rem auto;
-  border-radius: 8px;        /* Cantos ligeiramente mais arredondados para o look moderno */
+  border-radius: 8px;        /* Cantos arredondados */
   border: 1px solid var(--border-color); /* Protege os limites de imagens escuras */
 }
 
