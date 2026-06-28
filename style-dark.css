@@ -154,7 +154,7 @@ hr {
 /* ==========================================================================
    ADAPTAÇÃO PARA SMARTPHONES (Media Queries)
    ========================================================================== */
-@media (max-width: 768px) {
+@media (max-width: 640px) {
   html {
     font-size: 18px;         /* Ajuste da escala de fonte para ecrãs pequenos */
   }
