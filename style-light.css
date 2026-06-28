@@ -30,7 +30,7 @@
 }
 
 html {
-  font-size: 20px;           /* Tamanho da fonte principal em PC */
+  font-size: 18px;           /* Tamanho da fonte principal em PC */
   line-height: 1.6;          /* Excelente legibilidade para a fonte Ubuntu */
   scroll-behavior: smooth;
 }
@@ -75,7 +75,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.4rem;
   font-weight: 700;
 }
 
