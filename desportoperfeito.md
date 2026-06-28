@@ -22,7 +22,7 @@ Esses juízes à paisana estão por toda a parte, escondidos entre prateleiras d
 
 Opinar sobre a vida dos outros é o desporto perfeito. Exige zero esforço, tem custo nulo e o risco de fracasso é inexistente. Se o conselho falhar, a culpa é de quem não o soube aplicar. Se funcionar, fomos nós que salvámos o dia.
 
-Moral da história: Quando o teu mundo estiver a desabar, não te preocupes. Vai logo Lidl ou ao Pingo Doce. Talvez, entre os congelados e os detergentes, encontres alguém capaz de te salvar a vida. Se não encontrares, pelo menos compra um chocolate.
+Moral da história: Quando o teu mundo estiver a desabar, não te preocupes. Vai logo Lidl ou ao Pingo Doce. Talvez, entre os congelados e os detergentes, encontres alguém capaz de te salvar a vida. Se não encontrares, pelo menos compra um chocolate..
 
 ---
 
