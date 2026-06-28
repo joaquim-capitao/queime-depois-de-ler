@@ -7,7 +7,7 @@
   /* Paleta Dark de Alto Conforto Visual */
   --bg-main: #d6d0b6;        /* Fundo beije */
   --bg-card: #ebe6cc;        /* Fundo ligeiramente mais claro para cartões ou blocos */
-  --text-main: #525150;      /* Cinza esverdeado fosco claro para evitar cansaço visual */
+  --text-main: #2c2b33;      /* Fosco escuro para texto principal */
   --text-muted: #1e1e2b;     /* Cinza esverdeado para subtítulos, metadados e citações */
   --accent: #24267d;         /* Índigo elétrico moderno para links e destaques */
   --accent-hover: #595bd4;   /* Variação mais clara do accent para estados hover */
