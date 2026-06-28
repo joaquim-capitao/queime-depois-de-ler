@@ -30,7 +30,7 @@
 }
 
 html {
-  font-size: 22px;           /* Ajustado para o design digital moderno */
+  font-size: 20px;           /* Tamanho da fonte principal em PC */
   line-height: 1.6;          /* Excelente legibilidade para a fonte Ubuntu */
   scroll-behavior: smooth;
 }
