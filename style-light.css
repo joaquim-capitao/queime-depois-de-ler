@@ -64,9 +64,9 @@ header {
    TIPOGRAFIA (Estilo Clean & Moderno)
    ========================================================================== */
 h1, h2, h3, h4 {
-  color: #4a3923;            /* Branco puro para dar pop nos títulos */
+  color: #693001;            /* Branco puro para dar pop nos títulos */
   font-family: var(--font-ubuntu);
-  font-weight: 700;
+  font-weight: 900;
   line-height: 1.25;
   margin-bottom: 1.25rem;
   margin-top: 1.5rem;
