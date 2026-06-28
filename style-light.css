@@ -11,7 +11,7 @@
   --text-muted: #1e1e2b;     /* Cinza esverdeado para subtítulos, metadados e citações */
   --accent: #24267d;         /* Índigo elétrico moderno para links e destaques */
   --accent-hover: #595bd4;   /* Variação mais clara do accent para estados hover */
-  --border-color: #71c9c2;   /* Linhas divisórias subtis */
+  --border-color: #1e1e2b;   /* Linhas divisórias subtis */
 
   /* Tipografia */
   --font-ubuntu: "Ubuntu", system-ui, -apple-system, sans-serif;
