@@ -83,7 +83,7 @@ h2 {
 p {
   margin-bottom: 1.5rem;
   /* Justificar em telas grandes, mas manter à esquerda em celulares para evitar buracos no texto */
-  text-align: left; 
+  text-align: justify; 
 }
 
 /* Pequeno truque de indentação estilo livro para parágrafos seguidos (opcional) */
@@ -146,7 +146,7 @@ hr {
 /* ==========================================================================
    ADAPTAÇÃO ADICIONAL PARA SMARTPHONES (Media Queries)
    ========================================================================== */
-@media (max-width: 480px) {
+@media (max-width: 500px) {
   html {
     font-size: 18px;         /* Reduz levemente a fonte em telas muito pequenas */
   }
@@ -162,4 +162,9 @@ hr {
   h2 {
     font-size: 1.4rem;
   }
+
+  p {
+  text-align: left;        /* O texto fica alinhado à esquerda no telemóvel */
+  line-height: 1.6;
+  }  
 }
