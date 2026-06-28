@@ -5,10 +5,10 @@
    ========================================================================== */
 :root {
   /* Paleta Dark de Alto Conforto Visual */
-  --bg-main: #1e1e2b;        /* Fundo azul escuro */
+  --bg-main: #daeddb;        /* Fundo azul escuro */
   --bg-card: #37364a;        /* Fundo ligeiramente mais claro para cartões ou blocos */
-  --text-main: #daeddb;      /* Cinza esverdeado fosco claro para evitar cansaço visual */
-  --text-muted: #bdb695;     /* Cinza esverdeado para subtítulos, metadados e citações */
+  --text-main: #1e1e2b;      /* Cinza esverdeado fosco claro para evitar cansaço visual */
+  --text-muted: #1e1e2b;     /* Cinza esverdeado para subtítulos, metadados e citações */
   --accent: #9b9dfa;         /* Índigo elétrico moderno para links e destaques */
   --accent-hover: #818cf8;   /* Variação mais clara do accent para estados hover */
   --border-color: #689670;   /* Linhas divisórias subtis */
@@ -65,7 +65,7 @@ header {
    TIPOGRAFIA (Estilo Clean & Moderno)
    ========================================================================== */
 h1, h2, h3, h4 {
-  color: #bdb695;            /* Branco puro para dar pop nos títulos */
+  color: #1e1e2b;            /* Branco puro para dar pop nos títulos */
   font-family: var(--font-ubuntu);
   font-weight: 700;
   line-height: 1.25;
