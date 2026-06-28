@@ -171,11 +171,13 @@ hr {
   h2 {
     font-size: 1.5rem;
   }
-}
 
-/* 1. Configuração padrão (para Smartphones / Telemóveis) */
-p {
+   p {
   text-align: left;        /* O texto fica alinhado à esquerda no telemóvel */
   line-height: 1.6;
 }
+}
+
+/* 1. Configuração padrão (para Smartphones / Telemóveis) */
+
    
