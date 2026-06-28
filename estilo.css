@@ -27,18 +27,19 @@
 }
 
 html {
-  font-size: 18px;           /* Tamanho de fonte base ligeiramente maior para conforto */
+  font-size: 20px;           /* Tamanho de fonte base ligeiramente maior para conforto */
   line-height: 1.65;         /* Espaçamento entre linhas ideal para textos longos */
   scroll-behavior: smooth;
 }
 
 body {
-  background-color: var(--bg-paper);
+  background-color: var(--bg-main);
   color: var(--text-main);
-  font-family: var(--font-serif);
+  font-family: var(--font-ubuntu);
+  font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  padding: 2rem 1.2rem;      /* Margem lateral generosa para smartphones */
+  padding: 1.5rem 1.2rem;    /* Margem confortável para respiração do layout */
 }
 
 /* ==========================================================================
