@@ -154,13 +154,13 @@ hr {
 /* ==========================================================================
    ADAPTAÇÃO PARA SMARTPHONES (Media Queries)
    ========================================================================== */
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   html {
     font-size: 18px;         /* Ajuste da escala de fonte para ecrãs pequenos */
   }
-  
+
   body {
-    padding: 1.5rem 1rem;
+    padding: 1rem 1rem;
   }
 
   h1 {
@@ -170,4 +170,9 @@ hr {
   h2 {
     font-size: 1.5rem;
   }
+
+   p {
+  text-align: left;        /* O texto fica alinhado à esquerda no telemóvel */
+  line-height: 1.6;
+}
 }
