@@ -30,7 +30,7 @@
 }
 
 html {
-  font-size: 20px;           /* Ajustado para o design digital moderno */
+  font-size: 22px;           /* Ajustado para o design digital moderno */
   line-height: 1.6;          /* Excelente legibilidade para a fonte Ubuntu */
   scroll-behavior: smooth;
 }
@@ -39,7 +39,7 @@ body {
   background-color: var(--bg-main);
   color: var(--text-main);
   font-family: var(--font-ubuntu);
-  font-weight: 400;
+  font-weight: 500;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding: 2.5rem 1.2rem;    /* Margem confortável para respiração do layout */
