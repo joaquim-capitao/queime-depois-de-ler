@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: style-light
 ---
 
 # O Discreto e o Crítico
