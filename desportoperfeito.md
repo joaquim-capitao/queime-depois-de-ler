@@ -12,7 +12,7 @@ Naquele exato momento, saiu uma senhora do corredor das bolachas e fez um olhar 
 
 Claramente, aquela mulher acredita que as crianças saem de uma linha de montagem: todas iguais, mudando apenas o penteado. Para ela, educar um ser humano é como reiniciar um router: desligar, esperar dez segundos e voltar a ligar.
 
-Alguém sabe se a criança está doente, exausta ou a precisar de apoio especializado? Alguém sabe se a mãe acumula dois empregos precários e está a um milímetro de um burnout? Alguém conhece o contexto familiar? Claro que não. A empatia dá muito trabalho. O importante é vestir a toga e bater com o martelo.
+Alguém sabe se a criança está doente, exausta ou a precisar de apoio especializado? Alguém sabe se a mãe acumula dois empregos precários e está a um milímetro de um burnout? Alguém conhece o contexto familiar? Claro que não. A empatia dá muito trabalho. É mais fácil vestir a toga e bater com o martelo.
 
 Esses juízes à paisana estão por toda a parte, escondidos entre prateleiras de supermercado e paragens de autocarro. Sempre que surge oportunidade, decretam as suas sentenças.
 
