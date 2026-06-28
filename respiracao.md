@@ -18,12 +18,10 @@ Portanto, se aplicássemos a teoria com consistência, a leitura da Bíblia seri
 
 Aliás, nós próprios convivemos perfeitamente com palavras sem vogais. Quando nos deparamos com siglas como *"DVD"* ou *"BMW"*, sabemos exatamente como pronunciá-las, sem entrarmos em êxtase espiritual. Também não as encaramos como enigmas esotéricos à espera de interpretação. Limitamo-nos a perceber a sigla e seguimos com a vida, que já é suficientemente complicada.
 
-Quanto ao nome divino, a pronúncia original perdeu-se no tempo, assim como tantos outros nomes. Ainda assim, pronunciamos *"Jeová"* tal como fazemos com os nomes hebraicos  *"José"*, *"Daniel"* e até mesmo *"Jesus"*. A regra é pronunciar as palavras tal como chegaram até nós, sem precisarmos de hiperventilar por causa disso. 
+Quanto ao nome divino, a pronúncia original perdeu-se no tempo, assim como tantos outros nomes. Ainda assim, pronunciamos *"Jeová"* tal como fazemos com os nomes hebraicos  *"José"*, *"Daniel"* e até mesmo *"Jesus"*. A regra é pronunciar as palavras tal como chegaram até nós, sem precisarmos de hiperventilar por causa disso..
 
 
 -------------------------------------
 Joaquim Capitão   
 Ponta Delgada, Açores    
 26/05/2026
-
-
