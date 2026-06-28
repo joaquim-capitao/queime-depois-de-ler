@@ -157,7 +157,7 @@ hr {
    ========================================================================== */
 @media (max-width: 480px) {
   html {
-    font-size: 20px;         /* Ajuste da escala de fonte para ecrãs pequenos */
+    font-size: 18px;         /* Ajuste da escala de fonte para ecrãs pequenos */
   }
 
   body {
