@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: style-light
 ---
 
 # Abacaxi 
