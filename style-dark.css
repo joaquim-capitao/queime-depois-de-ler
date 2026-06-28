@@ -10,7 +10,7 @@
   --text-muted: #bdb695;     /* Subtítulos, metadados e citações */
   --accent: #9b9dfa;         /* Links e destaques */
   --accent-hover: #818cf8;   /* Variação mais clara do accent para estados hover */
-  --border-color: #bdb695;   /* Linhas divisórias subtis */
+  --border-color: #e8781c;   /* Linhas divisórias subtis */
   
   /* Tipografia */
   --font-ubuntu: "Ubuntu", system-ui, -apple-system, sans-serif;
@@ -64,7 +64,7 @@ header {
    TIPOGRAFIA (Estilo Clean & Moderno)
    ========================================================================== */
 h1, h2, h3, h4 {
-  color: #abccab;            /* Branco puro para dar pop nos títulos */
+  color: #e8781c;            /* Branco puro para dar pop nos títulos */
   font-family: var(--font-ubuntu);
   font-weight: 700;
   line-height: 1.25;
