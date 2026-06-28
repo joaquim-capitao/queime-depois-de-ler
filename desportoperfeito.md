@@ -4,9 +4,9 @@ layout: style-light
 
 # O DESPORTO PERFEITO
 
-No supermercado, vi uma cena dramática. Uma mãe negou um chocolate ao pequeno filho. E é claro que, perante aquela injustiça, o miúdo ativou o protocolo de negociação infantil: atirou-se ao chão e começou a berrar. 
+No supermercado, assisti a uma cena dramática. Uma mãe negou um chocolate ao seu pequeno filho. E é claro que, perante aquela injustiça, o miúdo ativou o protocolo de negociação infantil: atirou-se para o chão e começou a berrar. 
 
-Sinceramente, eu até consigo entendê-lo. Afinal, na ausência de chocolate, qual é mesmo o sentido da vida?
+Sinceramente, eu até consigo entendê-lo. Afinal,  sem chocolate, qual é o sentido da vida?
 
 ![](https://i.ibb.co/v6WSSqk6/Captura-de-ecr-2026-06-27-002349.png)
 
