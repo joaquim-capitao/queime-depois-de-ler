@@ -136,7 +136,7 @@ img {
   height: auto;
   display: block;
   margin: 2rem auto;
-  border-radius: 8px;        /* Cantos ligeiramente mais arredondados para o look moderno */
+  border-radius: 8px;        /* Cantos arredondados */
   border: 2px solid var(--border-color); /* Protege os limites de imagens escuras */
 }
 
