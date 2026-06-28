@@ -4,7 +4,6 @@
    VARIÁVEIS GLOBAIS (Tema Dark Moderno)
    ========================================================================== */
 :root {
-  /* Paleta Dark de Alto Conforto Visual */
   --bg-main: #1e1e2b;        /* Fundo */
   --bg-card: #37364a;        /* Fundo ligeiramente mais claro para cartões ou blocos */
   --text-main: #bdb695;      /* Texto principa */
