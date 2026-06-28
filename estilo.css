@@ -14,7 +14,7 @@
   --font-ubuntu: "Ubuntu", system-ui, -apple-system, sans-serif;
   
   /* Espaçamento e Largura */
-  --max-width: 700px;        /* Largura ideal para leitura (entre 60-75 caracteres por linha) */
+  --max-width: 640px;        /* Largura ideal para leitura (entre 60-75 caracteres por linha) */
 }
 
 /* ==========================================================================
@@ -136,7 +136,7 @@ img {
 /* Elementos de Destaque */
 strong {
   color: #000; /* Um pouco mais escuro para destacar no papel */
-  font-weight: 700;
+  font-weight: 100;
 }
 
 hr {
