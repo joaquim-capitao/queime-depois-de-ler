@@ -10,7 +10,7 @@
   --text-muted: #4a3923;     /* Subtítulos, metadados e citações */
   --accent: #24267d;         /* Links e destaques */
   --accent-hover: #595bd4;   /* Variação mais clara do accent para estados hover */
-  --border-color: #1e1e2b;   /* Linhas divisórias subtis */
+  --border-color: #693001;   /* Linhas divisórias subtis */
 
   /* Tipografia */
   --font-ubuntu: "Ubuntu", system-ui, -apple-system, sans-serif;
