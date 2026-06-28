@@ -5,11 +5,11 @@
    ========================================================================== */
 :root {
   /* Paleta Dark de Alto Conforto Visual */
-  --bg-main: #1e1e2b;        /* Fundo azul escuro */
+  --bg-main: #1e1e2b;        /* Fundo */
   --bg-card: #37364a;        /* Fundo ligeiramente mais claro para cartões ou blocos */
-  --text-main: #bdb695;      /* Cinza esverdeado fosco claro para evitar cansaço visual */
-  --text-muted: #bdb695;     /* Cinza esverdeado para subtítulos, metadados e citações */
-  --accent: #9b9dfa;         /* Índigo elétrico moderno para links e destaques */
+  --text-main: #bdb695;      /* Texto principa */
+  --text-muted: #bdb695;     /* Subtítulos, metadados e citações */
+  --accent: #9b9dfa;         /* Links e destaques */
   --accent-hover: #818cf8;   /* Variação mais clara do accent para estados hover */
   --border-color: #bdb695;   /* Linhas divisórias subtis */
   
@@ -142,7 +142,7 @@ img {
 
 /* Elementos de Destaque */
 strong {
-  color: #bdb695;            /* Branco puro para realçar o negrito no fundo escuro */
+  color: #bdb695;            /* Realçar negrito */
   font-weight: 700;
 }
 
