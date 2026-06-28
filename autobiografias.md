@@ -1,6 +1,9 @@
+---
+layout: style-light
+---
+
 # AUTOBIOGRAFIAS INVOLUNTÁRIAS
-
-
+
 Há pessoas que passam a vida convencidas de que estão a fazer avaliações objectivas sobre os outros, quando, na verdade, estão apenas a fazer um striptease emocional sem música de fundo. Acham que estão a descrever o vizinho, o colega ou o comentador da televisão, mas o que estão realmente a fazer é preencher o impresso da própria personalidade em voz alta.
 
 O elogio, por exemplo, funciona como aqueles testes psicológicos das revistas antigas: “A primeira qualidade que admiras nos outros revela quem és.” Quem elogia a generosidade, normalmente conheceu a avareza. Quem valoriza a lealdade, provavelmente já levou uma facada metafórica, ou literal, nas costas. E quem diz “gosto de pessoas simples” está quase sempre a referir-se a pessoas que não o obriguem a sentir-se intelectualmente ameaçado.
