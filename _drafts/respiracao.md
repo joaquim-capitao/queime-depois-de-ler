@@ -6,12 +6,11 @@ layout: style-dark
 
 Agradeço a intenção de quem me envia vídeos inspiradores, mas quando vêm acompanhados de uma voz grave e do som de violinos, fico logo de pé atrás. Geralmente, são vídeos cheios de 'verdades ocultas há milhares de anos'... cujo lançamento mundial aconteceu anteontem nas redes sociais.
 
+![imagem](https://cms-imgp.jw-cdn.org/img/p/2008567/univ/art/2008567_univ_lsr_lg.jpg)
+
 O último vídeo que recebi trazia a seguinte teoria: o nome divino em hebraico יהוה (YHWH) estaria ligado ao ato de respirar. Por não ter vogais, o som do nome seria uma espécie de inspiração e expiração contínua. Ou seja, os seres humanos passariam a vida inteira a chamar por Deus sem dar por isso. Até quando ressonam.
 
 É uma teoria bonita, pois parece profunda e emocionante. O problema dessas teorias é que há sempre um desmancha-prazeres que decide abrir um livro de gramática para estragar a festa. 
-
-![imagem](https://cms-imgp.jw-cdn.org/img/p/2008567/univ/art/2008567_univ_lsr_lg.jpg)
-
 
 Não era apenas o nome divino que não tinha vogais. Na verdade, o hebraico antigo não tinha vogais em palavra nenhuma, pois esse era o sistema de escrita dos hebreus. Simplesmente,escreviam as consoantes e completavam o resto mentalmente pela tradição e contexto.
 
