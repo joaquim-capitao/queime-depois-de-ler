@@ -7,7 +7,6 @@ layout: style-dark
 
 ## Índice
 
-
 * [O Desporto Perfeito](https://joaquim-capitao.github.io/queime-depois-de-ler/desporto-perfeito) (28/06/2026)
 * [O Congresso em Barcelona em 2003](http://simp.ly/p/tpPccy) (15/06/2026)
 * [O Congresso](http://simp.ly/p/rgDds2) (07/06/2026)
