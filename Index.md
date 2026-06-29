@@ -1,3 +1,7 @@
+---
+layout: style-light
+---
+
 # QUEIME DEPOIS DE LER
 (Leia por sua conta e risco)
 
