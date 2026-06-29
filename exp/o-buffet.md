@@ -1,3 +1,7 @@
+---
+layout: style-light
+---
+
 # O BUFFET
 
 Desde criança, apresento um defeito de fabrico: tenho convicções e gosto de defendê-las. Sinto prazer em conversar com toda a gente, incluindo quem discorda de mim (desde que a pessoa não comece a espumar pela boca, claro). 
@@ -20,6 +24,3 @@ Ao contrário do que agora se diz, mudar de opinião não é uma derrota. É ape
 
 <div align="right">Joaquim Capitão</div>
 <div align="right">28/06/2026</div>
-
-
-
