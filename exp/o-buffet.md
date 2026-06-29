@@ -18,5 +18,8 @@ Prefiro, portanto, ser antiquado e acreditar que existem coisas verdadeiras e co
 
 Ao contrário do que agora se diz, mudar de opinião não é uma derrota. É apenas um reconhecimento de que a verdade existe e que é mais importante do que o ego.
 
+<div align="right">Joaquim Capitão</div>
+<div align="right">28/06/2026</div>
+
 
 
