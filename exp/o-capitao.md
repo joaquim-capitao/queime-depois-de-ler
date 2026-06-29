@@ -1,3 +1,5 @@
+
+
 # O Capitão
 
 Às vezes, ter o nome “Capitão” é uma patente difícil de carregar. Quando me apresento, lá vem a piada: “Então, quando é que passas a major?” E eu limito-me a esboçar um sorriso forçado. Depois, disparo um facto sobre mim: “Apesar de ser Capitão, não quis ir à tropa.” E isso deixa muita gente surpreendida.
@@ -13,3 +15,6 @@ Há quem diga que isto é apenas um idealismo ingénuo. Mas aqueles que marcham 
 E não estou sozinho. Há mais pessoas que aceitam a prisão ou até a morte, mas nunca aceitariam participar em guerras. E a existência dessas pessoas convence-me de que é possível quebrar o ciclo de ódio que domina a humanidade.
 
 Sim, sou um “Capitão” que não sabe disparar um tiro, mas que carrega outra arma; uma arma que dispara palavras que curam, consolam e, às vezes, libertam. No fim, a vitória que ambiciono é simples: viver em paz com os outros e com a minha própria consciência.
+
+<div align="right">Joaquim Capitão</div>
+<div align="right">23/03/2026</div>
