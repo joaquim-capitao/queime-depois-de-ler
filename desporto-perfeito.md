@@ -27,5 +27,6 @@ Decretar soluções para os problemas dos outros é o desporto perfeito. Exige z
 Moral da história: Quando o teu mundo estiver a desabar, não te preocupes. Vai ao Lidl ou ao Pingo Doce. Talvez, entre os congelados e os detergentes, encontres alguém capaz de te salvar a vida. Se não encontrares, pelo menos compra um chocolate.
 
 ---
-Joaquim Capitão   
-28/06/2026
+<div align="right">Joaquim Capitão</div>
+<div align="right">28/06/2026</div>
+
