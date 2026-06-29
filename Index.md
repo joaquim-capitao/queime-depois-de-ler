@@ -1,9 +1,9 @@
 ---
-layout: style-light
+layout: style-dark
 ---
 
 # QUEIME DEPOIS DE LER
-(Leia por sua conta e risco)
+  (Leia por sua conta e risco)
 
 ## Índice
 
