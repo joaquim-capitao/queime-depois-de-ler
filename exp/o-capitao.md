@@ -1,8 +1,12 @@
-
+---
+layout: style-dark
+---
 
 # O Capitão
 
 Às vezes, ter o nome “Capitão” é uma patente difícil de carregar. Quando me apresento, lá vem a piada: “Então, quando é que passas a major?” E eu limito-me a esboçar um sorriso forçado. Depois, disparo um facto sobre mim: “Apesar de ser Capitão, não quis ir à tropa.” E isso deixa muita gente surpreendida.
+
+![](https://i.ibb.co/mr5997Xd/Screenshot-2026-06-28-235447.png)
 
 A minha desconfiança em relação à guerra começou cedo. Em miúdo, passava diariamente por um monumento aos heróis da Grande Guerra. Ao olhar para aquele amontoado de pedras, pensava: “As pedras são péssimas a contar histórias. Nunca falam do choro das mães, nem dos soldados que voltaram sem pernas". E assim fui desenvolvendo uma atitude de rejeição à guerra.
 
