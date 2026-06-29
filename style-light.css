@@ -4,7 +4,7 @@
    VARIÁVEIS GLOBAIS (Tema Claro Moderno)
    ========================================================================== */
 :root {
-  --bg-main: #d6d0b6;        /* Fundo */
+  --bg-main: #d9cd98;        /* Fundo */
   --bg-card: #ebe6cc;        /* Fundo ligeiramente mais claro para cartões ou blocos */
   --text-main: #2c2b33;      /* Texto principal */
   --text-muted: #4a3923;     /* Subtítulos, metadados e citações */
@@ -155,7 +155,7 @@ hr {
 /* ==========================================================================
    ADAPTAÇÃO PARA SMARTPHONES (Media Queries)
    ========================================================================== */
-@media (max-width: 640px) {
+@media (max-width: 768px) {
   html {
     font-size: 18px;         /* Ajuste da escala de fonte para ecrãs pequenos */
   }
@@ -177,5 +177,3 @@ hr {
   line-height: 1.6;
 }
 }
-
-   
