@@ -4,7 +4,7 @@ layout: style-dark
 
 # O Capitão
 
-Às vezes, ter o nome “Capitão” é uma patente difícil de carregar. Quando me apresento, escuto sempre a piada: “Então, quando é que passas a major?” E eu limito-me a esboçar um sorriso forçado. Depois, disparo um facto sobre mim: *“Apesar de ser Capitão, não quis ir à tropa.”* E isso deixa muita gente surpreendida.
+Às vezes, ter o nome “Capitão” é uma patente difícil de carregar. Quando me apresento, escuto sempre a piada: *“Então, quando é que passas a major?”* E eu limito-me a esboçar um sorriso forçado. Depois, disparo um facto sobre mim: *“Apesar de ser Capitão, não quis ir à tropa.”* E isso deixa muita gente surpreendida.
 
 ![](https://i.ibb.co/mr5997Xd/Screenshot-2026-06-28-235447.png)
 
