@@ -1,6 +1,5 @@
 ---
-created: 2026-06-30T23:20:27+00:00
-modified: 2026-06-30T23:29:07+00:00
+layout: style-dark
 ---
 
 # Dom José, Sansão e Dalila
