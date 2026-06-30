@@ -1,5 +1,5 @@
 ---
-layout: styledark
+layout: style-dark
 ---
 
 #A DEDICAÇÃO
