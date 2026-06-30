@@ -12,7 +12,7 @@ A admiração é um sentimento que exige uma distância de segurança. Só admir
 
 Se formos aos textos bíblicos (o maior repositório de dramas humanos), encontramos exemplos extraordinários desta confusão.
 
-Sansão tinha uma densidade capilar invejável e força física para derrotar um exército com queixada de um burro. Os filisteus temiam-no e o povo de Israel admirava-o. No entanto, quando Sansão deitou-se nos joelhos de Dalila, ele não queria elogios aos bíceps. Queria ser amado. Queria fechar os olhos e descansar. E o que é que Dalila fez? Fez-lhe um corte de cabelo que lhe arruinou a vida. 
+Sansão tinha uma densidade capilar invejável e força física para derrotar um exército com a queixada de um burro. Os filisteus temiam-no e o povo de Israel admirava-o. No entanto, quando Sansão deitou-se nos joelhos de Dalila, ele não queria elogios aos bíceps. Queria ser amado. Queria fechar os olhos e descansar. E o que é que Dalila fez? Fez-lhe um corte de cabelo que lhe arruinou a vida. 
 
 O exemplo de Jesus também mostra que a admiração é condicional. Certo dia, o povo estendeu-lhe ramos de palmeira e aclamou-o como rei. Jesus era o homem do momento, pois multiplicava farnéis. Cinco dias depois, o mesmo povo gritou: "Para a estaca com ele!".  Ao parecer vulnerável, as pessoas trocaram a admiração por linchamento público.
 
