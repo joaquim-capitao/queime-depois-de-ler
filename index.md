@@ -40,7 +40,7 @@ layout: style-dark
 * [O verdadeiro lar](http://simp.ly/p/CgWxft) (10/11/2025)
 * [As duas hortênsias](http://simp.ly/p/cpTkWb) (05/07/2025)
 * [Beleza eterna](http://simp.ly/p/yJMMGt) (20/05/2024)
-* [A Dedicação](http://simp.ly/p/zgNQvC) (04/02/2025)
+* [A Dedicação](http://simp.ly/p/zgNQvC](https://joaquim-capitao.github.io/queime-depois-de-ler/dedicacao) (04/02/2025)
 * [O campo minado](http://simp.ly/p/SQXThs) (16/12/2025)
 * [A avó Lourdes](https://sites.google.com/view/naturezaespiritual/a-natureza-espiritual-do-ser-humano) (13/05/2024)
 * [O que é uma seita?](https://sites.google.com/view/seitas/seitas) (02/02/2024)
