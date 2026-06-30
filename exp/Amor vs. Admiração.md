@@ -2,7 +2,7 @@
 layout: style-dark
 ---
 
-# Dom José, Sansão e Dalila
+# Amor ou Admiração?
 
 Diz-se que o ser humano tem uma grande necessidade de ser amado. Mas eu acho que, atualmente, o ser humano deseja, acima de tudo, ser aplaudido. Quer que olhem para ele e digam: *"Olha ali aquele indivídio espetacular!"* E apesar da enorme diferença, continuamos a confundir amor com admiração.
 
