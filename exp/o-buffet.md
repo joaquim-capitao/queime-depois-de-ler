@@ -8,7 +8,7 @@ Desde criança, apresento um defeito de fabrico: tenho convicções e gosto de d
 
 Infelizmente, tenho notado que a arte de debater assuntos racionalmente está, tal como o lince-ibérico e o orangotango-de-sumatra, em vias de extinção, o que é uma pena.
 
-<a href="https://ibb.co/LhQ9jKwK"><img src="https://i.ibb.co/G3sCYmwm/1782790449375.png" alt="1782790449375" border="0"></a><br /><a target='_blank' href='https://pt.imgbb.com/'>plugin de upload de imagens</a><br />
+<a href="https://ibb.co/LhQ9jKwK"><img src="https://i.ibb.co/G3sCYmwm/1782790449375.png" alt="1782790449375" border="0"></a><br /><a target='_blank' href='https://pt.imgbb.com/'> </a><br />
 
 Recentemente, desenvolveu-se a ideia de que respeitar opiniões implica que a realidade seja maleável. “Tu tens a tua verdade, e eu tenho a minha", dizem eles. E assim a "verdade" passa a ser um buffet onde cada pessoa escolhe o que lhe cai melhor no estômago. Parece uma algo bonito, respeitoso, inclusivo, mas não faz sentido absolutamente nenhum.
 
