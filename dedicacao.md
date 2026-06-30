@@ -2,7 +2,7 @@
 layout: style-dark
 ---
 
-#A DEDICAÇÃO
+# A DEDICAÇÃO
 
 Quando era criança, a vastidão do universo exercia sobre mim um fascínio irresistível. Em certa ocasião, enquanto o céu noturno se estendia como um manto sobre a terra, deixei o meu olhar perder-se no céu estrelado. Foi então que vivi o momento mais solene da minha vida.
 
