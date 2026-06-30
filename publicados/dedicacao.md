@@ -14,6 +14,6 @@ Naquele instante, sozinho sob as estrelas, soube qual era o meu caminho. Sem hes
 
 
 _______________________________
-Joaquim Capitão
-Ponta Delgada - Açores 
-4 de fevereiro de 2025
+Joaquim Capitão  
+Ponta Delgada - Açores  
+4 de fevereiro de 2025  
