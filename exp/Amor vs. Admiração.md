@@ -1,6 +1,6 @@
 ---
 created: 2026-06-30T23:20:27+00:00
-modified: 2026-06-30T23:24:58+00:00
+modified: 2026-06-30T23:25:11+00:00
 ---
 
 # Amor vs. Admiração
@@ -9,7 +9,7 @@ Diz-se que o ser humano tem uma grande necessidade de ser amado. Mas eu acho que
 
 A admiração é um sentimento que exige uma distância de segurança. Só admiramos o que está longe e não nos chateia, como a estátua de D. José I na Praça do Comércio. Ninguém vai para lá desafabar. Sabemos que ele está ali, impecável, sem caspa, apenas para ser admirado.
 
-![D.José I](
+![D.José I]https://live.staticflickr.com/65535/54232529250_c0a78802ff_b.jpg
 
 Se formos aos textos bíblicos (o maior repositório de dramas humanos), encontramos exemplos extraordinários desta confusão.
 
