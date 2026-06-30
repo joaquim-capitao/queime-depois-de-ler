@@ -12,7 +12,7 @@ A minha desconfiança em relação à guerra começou cedo. Em miúdo, passava d
 
 Depois, havia o clássico: *“A tropa faz com que os rapazes se tornem homens.”* Mas eu pensava: *“Se ser homem significa aprender a matar, talvez seja mais prudente permanecer na infância."* Com o tempo, concluí: a paz é muito mais que um conceito bonito. A paz é uma escolha.
 
-Então, quando atingi a idade do serviço militar obrigatório, a decisão já estava tomada. Pedi o estatuto de objetor de consciência, não por rebeldia, nem para fugir às flexões matinais. Foi uma convicção, daquelas chatas, que não passam com a idade, profundamente influenciada por valores cristãos. E, após 3 décadas, continuo com o mesmo “defeito”: não me apetece matar. Sei que é estranho, mas é verdade. Embora respeite os militares, escolhi vestir outra farda: a farda da neutralidade.
+Então, quando atingi a idade do serviço militar obrigatório, a decisão já estava tomada. Pedi o estatuto de objetor de consciência, não por rebeldia, nem para fugir às flexões matinais (embora essas também não fossem do meu agrado). Foi uma convicção, daquelas chatas, que não passam com a idade, profundamente influenciada por [valores cristãos](https://www.jw.org/pt-pt/testemunhas-de-jeova/perguntas-frequentes/testemunhas-de-jeova-nao-participam-em-guerra/). E, após 3 décadas, continuo com o mesmo “defeito”: não me apetece matar. Sei que é estranho, mas é verdade. Embora respeite os militares, escolhi vestir outra farda: a farda da neutralidade.
 
 Há quem diga que isto é apenas um idealismo ingénuo. Mas aqueles que marcham para a guerra também o fazem movidos por ideais. Portanto, se temos de escolher os ideais pelos quais vamos viver (ou morrer), prefiro os que defendem o valor da vida humana. 
 
