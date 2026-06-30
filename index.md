@@ -3,9 +3,13 @@ layout: style-dark
 ---
 
 # QUEIME DEPOIS DE LER
-  (Leia por sua conta e risco)
+
+(Leia por sua conta e risco)
 
 ## Índice
+
+  
+  
 
 * [O Desporto Perfeito](https://joaquim-capitao.github.io/queime-depois-de-ler/desporto-perfeito) (28/06/2026)
 * [O Congresso em Barcelona em 2003](http://simp.ly/p/tpPccy) (15/06/2026)
@@ -53,5 +57,3 @@ layout: style-dark
 * [A minha infância feliz](https://sites.google.com/view/20211105infancia/inf%C3%A2ncia) (25/12/2018)
 * [Autobiografias involuntárias](https://app.simplenote.com/p/hnXRnr) (18/06/2016)
 * [Os ultracrepidários](http://simp.ly/p/s9HSvN) (12/01/2015)
-
-
