@@ -1,9 +1,9 @@
 ---
 created: 2026-06-30T23:20:27+00:00
-modified: 2026-06-30T23:25:38+00:00
+modified: 2026-06-30T23:26:51+00:00
 ---
 
-# Amor vs. Admiração
+# Dom José, Sansão e Dalila
 
 Diz-se que o ser humano tem uma grande necessidade de ser amado. Mas eu acho que, atualmente, o ser humano deseja, acima de tudo, ser aplaudido. Quer que olhem para ele e digam: *"Olha ali aquele indivídio espetacular!"* E apesar da enorme diferença, continuamos a confundir amor com admiração.
 
