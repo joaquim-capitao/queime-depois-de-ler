@@ -20,6 +20,6 @@ O amor, por sua vez, é o oposto. Quem nos ama suporta até o nosso hálito mati
 
 No fundo, passar a vida a tentar ser admirado é como viver permanentemente em cima de um palco, de fato brilhante, a sorrir para o público. É cansativo, dá dores nas costas e a plateia, ao mínimo precalço, vai pedir o dinheiro do bilhete de volta. 
 
-Portanto, prefiro vestir o pijama gasto e ir para junto de quem me ama. Ali, se eu errar, não haverá apupos. No máximo, levarei com um revirar de olhos, que até acho ternurento.
+Portanto, prefiro vestir o meu pijama gasto e ir para junto de quem me ama. Ali, se eu errar, não haverá apupos. No máximo, levarei com um revirar de olhos, que até acho ternurento.
 
 E isso, meus amigos, não tem preço.
