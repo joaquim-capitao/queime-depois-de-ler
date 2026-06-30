@@ -20,7 +20,7 @@ Seria útil que a realidade funcionasse como alguns desejam. Imagine-se, por exe
 
 Alguns querem que o mundo seja como um jardim-de-infância onde todos recebem uma medalha de participação para não correrem o risco traumático de estarem errados. Embora pareça uma ideia ternurenta, não funciona na prática.
 
-Prefiro, portanto, ser antiquado e acreditar que existem coisas verdadeiras e coisas falsas. Nunca tive vocação para embalar as minhas opiniões em plástico-bolha. Prefiro discuti-las, com respeito, sabendo que corro sempre o risco humilhante de ter de dizer: “Afinal, tens razão.”
+Prefiro, portanto, ser antiquado e acreditar que existem coisas verdadeiras e coisas falsas. Nunca tive vocação para embalar as minhas opiniões em plástico-bolha. Prefiro discuti-las, com respeito, sabendo que corro sempre o risco humilhante de ter de dizer: *“Afinal, tens razão.”*
 
 Ao contrário do que agora se diz, mudar de opinião não é uma derrota. É apenas um reconhecimento de que a verdade existe e que é mais importante do que o ego.
 
