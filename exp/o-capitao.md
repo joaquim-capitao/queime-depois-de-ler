@@ -20,6 +20,14 @@ Há quem diga que isto é apenas um idealismo ingénuo. Mas aqueles que marcham 
 
 E não estou sozinho. Há mais pessoas que aceitam a prisão ou até a morte, mas nunca aceitariam participar em guerras. E a existência dessas pessoas convence-me de que é possível quebrar o ciclo de ódio que domina a humanidade.
 
+## Mermaid diagrams
+```mermaid
+graph TD
+  A[Start] --> B{Decision}
+  B -->|Yes| C[Finish]
+  B -->|No| D[Alternate]
+```
+
 Sim, sou um “Capitão” que não sabe disparar um tiro, mas que carrega outra arma; uma arma que dispara palavras que curam, consolam e, às vezes, libertam. No fim, a vitória que ambiciono é simples: viver em paz com os outros e com a minha própria consciência.
 
 <div align="right">Joaquim Capitão</div>
