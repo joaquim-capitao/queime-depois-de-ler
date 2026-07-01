@@ -14,12 +14,12 @@ Se formos aos textos bíblicos (o maior repositório de dramas humanos), encontr
 
 Sansão tinha uma densidade capilar invejável e força física para derrotar um exército com a queixada de um burro. Os filisteus temiam-no e o povo de Israel admirava-o. No entanto, quando Sansão deitou-se nos joelhos de Dalila, ele não queria elogios aos bíceps. Queria ser amado. Queria fechar os olhos e descansar. E o que é que Dalila fez? Fez-lhe um corte de cabelo que lhe arruinou a vida. 
 
-O exemplo de Jesus também mostra que a admiração é condicional. Certo dia, o povo estendeu-lhe ramos de palmeira e aclamou-o como rei. Jesus era o homem do momento, pois multiplicava farnéis. Cinco dias depois, o mesmo povo gritou: "Para a estaca com ele!".  Ao parecer vulnerável, as pessoas trocaram a admiração por linchamento público.
+O exemplo de Jesus também mostra que a admiração é condicional. Certo dia, o povo estendeu-lhe ramos de palmeira e aclamou-o como rei. Jesus era o homem do momento, pois multiplicava farnéis. Cinco dias depois, o mesmo povo gritou: "Para a estaca com ele!".  Quando pareceu vulnerável, as pessoas trocaram a admiração pelo linchamento público.
 
-O amor, por sua vez, é o oposto. Quem nos ama suporta até o nosso hálito matinal, mesmo que pareça que mastigámos um alho cru. O amor vê a nossa decadência biológica, as nossas idiossincrasias, e diz: "Lá está ele a falhar outra vez... Mas amo-o mesmo assim".
+O amor, por sua vez, é o oposto disso. Quem nos ama suporta até o nosso hálito matinal. O amor vê a nossa decadência biológica, as nossas idiossincrasias, e diz: "Lá está ele a falhar outra vez... Mas amo-o mesmo assim".
 
 No fundo, passar a vida a tentar ser admirado é como viver permanentemente em cima de um palco, de fato brilhante, a sorrir para o público. É cansativo, dá dores nas costas e a plateia, ao mínimo precalço, vai pedir o dinheiro do bilhete de volta. 
 
-Portanto, prefiro vestir o meu pijama gasto e ir para junto de quem me ama. Ali, se eu errar, não haverá apupos. No máximo, levarei com um revirar de olhos, que até acho ternurento.
+Prefiro, portanto, vestir o meu pijama gasto e ir para junto de quem me ama. Ali, se eu errar, não haverá apupos. No máximo, levarei com um revirar de olhos, que até acho ternurento.
 
 E isso, meus amigos, não tem preço.
