@@ -6,7 +6,7 @@ layout: style-dark
 
 Diz-se que o ser humano tem uma grande necessidade de ser amado. Mas eu acho que, atualmente, o ser humano deseja, acima de tudo, ser aplaudido. Quer que olhem para ele e digam: *"Olha ali aquele indivíduo espetacular!"* E apesar da enorme diferença entre amor e admiração, continuamos a confundir as duas coisas.
 
-A admiração é um sentimento que exige uma distância de segurança. Só admiramos o que está longe e não nos chateia, como acontece com as estátuas. Ninguém vai à Praça do Comércio para fazer amizade com o D.José I. Mas sabemos que ele está ali, impecável, sem caspa, apenas para ser admirada.
+A admiração é um sentimento que exige uma distância de segurança. Só admiramos o que não nos chateia, como as estátuas. Ninguém vai à Praça do Comércio para fazer amizade com o D.José I. Mas as pessoas vão lá para tirar-lhe fotografias. Sabem que ele está ali, com uma fatiota impecável, sem caspa, apenas para ser admirado.
 
 ![D.José I](https://www.penaestrada.blog.br/wp-content/uploads/2026/02/Praca-do-Comercio-em-Lisboa-17-1.jpg)
 
