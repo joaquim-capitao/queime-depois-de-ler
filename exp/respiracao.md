@@ -24,3 +24,5 @@ Quanto ao nome divino, a pronúncia original perdeu-se no tempo, assim como tant
 
 <div align="right">Joaquim Capitão</div>
 <div align="right">28/06/2026</div>
+
+<script src="https://gist.github.com/joaquim-capitao/e1a09c0d469e1aa3982af03b4e28ff61.js"></script>
