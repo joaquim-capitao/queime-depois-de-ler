@@ -1,0 +1,415 @@
+# Os Três Pilares
+
+
+
+Introdução
+
+# 1 – Deus
+
+- [1.1 – O que é existência](#11-o-que-e-existencia)
+
+- [1.2 – Conceito infantil X Conceito amadurecido](#12-conceito-infantil-x-conceito-amadurecido)
+
+- [1.3 – Para lá do Big Bang](#13-para-la-do-big-bang)
+
+- [1.4 – O que é inteligência](#14-o-que-e-inteligencia)
+
+- [1.5 – O ateus](#15-o-ateus)
+
+- [1.6 – Os criacionistas](#16-os-criacionistas)
+
+- [1.7 – O Deus das lacunas](#17-o-deus-das-lacunas)
+
+- [1.8 – A inutilidade dos milagres](#18-a-inutilidade-dos-milagres)
+
+- [1.9 – Deus só existe na nossa cabeça?](#19-deus-so-existe-na-nossa-cabeca)
+
+- [1.10 – Quem fez Deus?](#110-quem-fez-deus)
+
+- [1.11 – Comunicação entre Deus e Homens](#111-comunicacao-entre-deus-e-homens)
+
+
+
+# 2 - Bíblia
+
+- [2.1 – O que é a Bíblia](#21-o-que-e-a-biblia)
+
+- [2.2 – Inspiração divina](#22-inspiracao-divina)
+
+- [2.3 – Evidência cumulativa](#23-evidencia-cumulativa)
+
+- [2.4 – Saber ler a Bíblia](#24-saber-ler-a-biblia)
+
+- [2.5 – Leitura para discernir princípios](#25-leitura-para-discernir-principios)
+
+- [2.6 – A superioridade da Bíblia](#26-a-superioridade-da-biblia)
+
+- [2.7 – Supostas contradições](#27-supostas-contradicoes)
+
+- [2.8 – Evolução X Criação](#28-evolucao-x-criacao)
+
+- [2.9 – Cientificismo](#29-cientificismo)
+
+
+
+# 3 - Religião
+
+- [3.1 – O cenário religioso mundial](#31-o-cenario-religioso-mundial)
+
+- [3.2 – A Cristandade](#32-a-cristandade)
+
+- [3.3 – Testemunhas de Jeová](#33-testemunhas-de-jeova)
+
+- [3.3.1 – O curso intensivo](#331-o-curso-intensivo)
+
+- [3.3.2 – Desassociação e Dissociação](#332-desassociacao-e-dissociacao)
+
+- [3.3.3 – A Questão do Sangue](#333-a-questao-do-sangue)
+
+- [3.3.4 – Mitos](#334-mitos)
+
+- [3.3.5 – A esperança](#335-a-esperanca)
+
+
+
+# Conclusão
+
+
+---
+
+
+
+# Introdução
+
+Imaginem um menino introspetivo que, de forma calma e serena, está a caminhar pelo quintal da sua casa. Ele olha para o céu ao anoitecer e vê algumas estrelas. O menino esboça um sorriso porque, finalmente, conseguiu obter a resposta a um questionamento íntimo. Ajoelha-se, fecha os olhos e fica imóvel por uns momentos.
+
+Esse menino era eu. E esse foi o momento mais solene da minha vida. Mas o que estava eu a fazer? E o que me levou a esse momento tão especial? Mais à frente irei responder a essas questões. Mas primeiro gostaria de falar sobre a minha infância.
+
+Tive uma infância normal como qualquer criança. Os meus pais eram trabalhadores e eu tive tudo o que necessitava. Muito cedo, porém, comecei a questionar-me sobre as questões mais profundas da vida. Introvertido por natureza, evitava fazer perguntas aos adultos. Então, comecei a ler bastante. E foi através dos livros que fui aumentando o meu conhecimento e formando opiniões.
+
+Atualmente, a minha visão do mundo resume-se em três pilares: Deus, Bíblia e Religião. No entanto, a forma como olho para esses três conceitos difere, em muito, da maioria das pessoas.
+
+Muito já se escreveu sobre esses temas polémicos. Não faltam livros nas livrarias para abordar esse tipo de assuntos. Mas eu decidi organizar as minhas ideias num livro para o meu próprio benefício. Se alguém tiver paciência de ler, acredito que também ficará beneficiado. Mesmo que não concorde com o que escrevi, pelo menos ficará a entender o meu modo de pensar. E a empatia nunca fez mal a ninguém.
+
+# 1 - Deus
+
+Desde o início da civilização, o ser humano tende a acreditar em algo maior. Talvez por medo da morte, ou por não compreender os fenómenos à sua volta, a maioria dos povos criaram os seus próprios deuses. Alguns passaram a adorar antepassados falecidos, acreditando que os mesmos tinham-se transformado em espíritos poderosos. Em outros casos, a necessidade de adorar algo superior levou alguns povos a criar deuses mitológicos tais como Zeus, Júpiter, Osíris, Baal, etc...
+
+Atualmente, milhões de pessoas também acreditam na existência de um Deus, ou deuses. Algumas pessoas vivem toda a sua vida em função de alguma divindade. Encaram tudo o que lhes acontece como uma recompensa ou castigo do Deus que adoram. Assim, no século XXI, muitas pessoas têm crenças idênticas às que os povos antigos tinham há milhares de anos.
+
+Hoje, há quem consulte o horóscopo para saber o que vai acontecer no futuro, quem acenda velas à Virgem Maria na esperança de ser curado, quem agradeça a Cristo por ter encontrado um bom emprego, quem consulte um cartomante em busca de conselhos sobre a vida amorosa, etc. Fazem isso porque acreditam em algo transcendente.
+
+Em contraste, existem pessoas que não acreditam em nada além do mundo natural. Identificam-se como ateus. Declaram abertamente que não acreditam em nenhuma divindade. Alguns até adotam uma atitude mais agressiva e afirmam que todas as formas de religião devem ser combatidas.
+
+Eu tenho um enorme respeito por todas as pessoas, independentemente de serem crentes ou ateias. Acho que todos têm o direito de refletir sobre o mundo à sua volta e ter a sua própria visão do mundo. O meu dever, enquanto ser humano, é respeitar as ideias dos outros, mesmo que tais ideias me pareçam absurdas. De facto, todas as opiniões são absurdas aos olhos de alguém, incluindo as minhas.
+
+Portanto, o meu objetivo neste livro não é atacar ninguém, ateus ou crentes. De facto, eu decidi escrever este livro por duas razões. Em primeiro lugar, escrevo para mim, com o objetivo de organizar as minhas próprias ideias. Em segundo lugar, escrevo para os outros. Sinto muito prazer em dar a conhecer o meu ponto de vista. Acredito que todos nós nos beneficiamos de conhecer o modo de pensar dos outros. Não somos obrigados a concordar, mas podemos desenvolver empatia.
+
+Foi isso que aconteceu comigo quando tinha 12 anos. Nessa ocasião, recebi um livro intitulado "O Homem em Busca de Deus". O livro narrava, de forma simples e direta, a incrível história das principais religiões do mundo. Devorei aquele livro em poucos dias. Desde então, a história das religiões passou a ser um das minhas principais áreas de interesse. Por compreender as crenças dos outros, a minha empatia aumentou.
+
+Dito isto, gostava de referir que eu e os ateus temos muito em comum. Por exemplo:
+
+- Os ateus acreditam que os mortos simplesmente deixaram de existir. Eu também.
+- Os ateus não acreditam em curas milagrosas. Eu também não.
+- Os ateus não acreditam em destino, reencarnação, poderes mágicos, etc. Eu também não.
+- Os ateus não acreditam na existência de um ser celestial que está a controlar cada acontecimento que ocorre na Terra. Eu também não acredito.
+
+Mesmo assim, apesar do mencionado acima, considero-me crente. Acredito mesmo que Deus existe. Mas o meu conceito sobre Deus é muito diferente do conceito que muitos religiosos têm. Explicarei isso, nos capítulos à frente. Mas, primeiro, vou começar por falar do significado da palavra “existência”.
+
+## 1.1 - O que é existência
+
+Um dos maiores problemas do debate sobre a existência de Deus é a dificuldade que alguns têm em entender que há diferentes tipos de existência. O que significa exatamente a palavra "existência"? Parece uma pergunta de resposta fácil, mas não é.
+
+Uma definição possível para "existência" é a seguinte: "condição daquilo que está em algum lugar". E essa definição está correta se estivermos a falar sobre a existência de um país, uma casa, um rio, ou uma montanha. Todas essas coisas têm existência física e estão num lugar geográfico específico. Podemos encontrá-las, medi-las e descrever as suas características físicas. Mas a mesma definição não poderá ser usada se estivermos a falar de algo intangível.
+
+Suponhamos que estamos a debater a existência do amor. Será que o amor existe mesmo?  E o que podemos dizer da gratidão? Será que existe? E será que existe liberdade? Realmente, dependendo do que estamos a falar, a palavra "existência" pode assumir significados diferentes. Uma coisa é falar da existência de algo tangível, palpável ou mensurável; outra coisa é falar da existência de algo intangível que não está em nenhum lugar geográfico. Nesses casos, uma definição mais correta para a palavra "existência" seria: "qualidade do que é verificável", "qualidade do que é verdadeiro" ou  "condição daquilo que é real".
+
+O que é que isto tem a ver com Deus? No debate sobre a existência de Deus, muitas vezes comete-se o erro de discutir o assunto como se estivéssemos a falar da existência de uma montanha. Mas é um absurdo discutir a existência de Deus dessa forma. A palavra "Deus" é apenas um conceito humano que serve para descrever a Causa Primária de tudo. Se essa Causa Primária deu origem ao universo, então não pode fazer parte dele. Tem de ser algo intemporal, imaterial, fora do universo físico. Portanto, quando dizemos que Deus existe, não estamos a usar o verbo "existir" como usaríamos para falar da existência da Serra da Estrela, do Rio Nilo, do Polo Norte, ou da Via Láctea.
+
+É neste ponto que, a meu ver, a maioria das pessoas erra. Os crentes erram ao tentar provar que Deus existe materialmente. Isso é tão inútil como tentar provar que o Amor está num determinado lugar geográfico, pesa X quilos e mede Y metros. Por outro lado, os ateus erram quando dizem que não acreditam em Deus porque nunca o viram.
+
+Mas, afinal, o que é "Deus"? Vejamos dois conceitos.
+
+## 1.2 - Conceito infantil X Conceito amadurecido
+
+Para quase tudo na vida existem vários conceitos. Sobre a natureza do Ser Divino acontece a mesma coisa. Existem muitos conceitos diferentes. Contudo, para simplificar, eu diria que há um conceito infantil e outro amadurecido. Quando digo "conceito infantil" não o digo no sentido pejorativo. Significa apenas que, assim como acontece com todas as áreas do conhecimento humano, o nosso entendimento passa por vários estágios.
+
+Podemos ilustrar da seguinte maneira. Suponhamos que dizemos a uma criança que nós temos um relógio biológico. O que a criança vai pensar? Certamente irá pensar que temos, literalmente, um relógio dentro de nós, digital ou de ponteiros, a pilhas ou a corda.
+
+Com o passar dos anos, a criança vai crescer e tornar-se um adolescente. Nessa fase da vida, terá maturidade suficiente para perceber que o relógio biológico é muito mais que um simples relógio literal. É algo mais grandioso. Trata-se dum mecanismo dentro de nós que regula os nossos ciclos.
+
+Com o tempo, o adolescente cresce, vai para a universidade, e torna-se um cientista. Ele estuda profundamente o tal "relógio" e passa a ter um conceito muito mais exato (ou amadurecido).
+
+O exemplo acima mostra como o conceito que temos sobre algo pode evoluir. Mas há uma pergunta que merece reflexão. Será que o relógio deixou de ser real? De facto, o relógio sempre esteve lá, sempre foi real. Simplesmente existem conceitos diferentes, uns mais ingénuos e outros mais amadurecidos.
+
+O mesmo acontece com o conceito sobre Deus. Por exemplo, alguns acreditam que Deus é uma espécie de "homenzinho" que está lá em cima, entre as nuvens do céu, a controlar tudo o que se passa na Terra. Mas outros acreditam que Deus é muito maior do que isso.
+
+## 1.3 - Para lá do Big Bang
+
+Durante muitos séculos prevaleceu a ideia de um Universo estático e eterno. A visão dominante defendia que sempre existira tal como o observamos. Contudo, atualmente a maioria da comunidade científica aceita a teoria do Big Bang, segundo a qual o Universo teve um começo e continua em expansão.
+
+Pelo que tenho lido e refletido, enquanto apreciador de astronomia, parece razoável concluir que o Universo terá tido origem há cerca de 13.800 milhões de anos. Ainda assim surge uma questão inevitável. O que existia antes do Big Bang? Terá havido um momento em que não existia absolutamente nada?
+
+A hipótese de um “nada” absoluto levanta dificuldades lógicas. Se em algum momento nada existisse, nada poderia ter surgido depois, pois do nada não pode resultar coisa alguma. Assim, mesmo que o Big Bang represente o início do Universo tal como o conhecemos, é coerente admitir que algo esteve na sua origem.
+
+Dessa forma, torna-se inevitável reconhecer a existência de “Algo” eterno. Muitos entendem esse “Algo” como uma energia primordial impessoal e sem propósito definido. Pessoalmente, inclino-me para a ideia de que esse “Algo” seja dotado de inteligência, tendo em conta o sentido amplo e profundo que a própria palavra “inteligência” encerra.
+
+## 1.4 - O que é inteligência
+
+De um ponto de vista meramente humano, associamos "inteligência" à atividade dos nossos neurónios. No entanto, num sentido mais amplo, "inteligência" tem a ver com 3 coisas básicas: 1) ter informação, 2) saber usá-la de forma útil e 3) ter vontade própria.
+
+Por exemplo, um computador pode conter muitas informações. Mas não podemos dizer que seja inteligente. O computador não consegue usar essas informações espontaneamente de forma útil. Mas, suponhamos que, no futuro, um computador decide por si mesmo compor uma música ou fazer um desenho. Imagine que, por vontade própria, o mesmo computador decide fazer uso da informação que tem para projetar e construir, por exemplo, uma máquina de cortar relva. O que diríamos? Certamente, chegaríamos à conclusão de que, finalmente, os computadores tornaram-se inteligentes. Não a Inteligência Artificial, que, apesar de chamamros assim, não tem vontade própria e precisa de ser programada. O que descrevo seria, de facto, uma inteligência real, mas sem neurónios.  
+
+Então o que podemos dizer sobre a tal energia mencionada no ponto anterior, que esteve na origem do Universo? Foi uma força cega, abstrata, desprovida de propósito? Sejamos objetivos! O que sabemos é que a matéria agrupou-se em átomos e moléculas. Formaram-se galáxias cheias de estrelas e planetas. Moléculas combinaram-se para formar seres vivos unicelulares. Esses seres, apesar de serem chamados "simples" são seres altamente complexos. Mais complexos do que uma cidade moderna. Sabemos que existem vários animais e plantas. Cada animal é composto por milhões de células que colaboram entre si para formar tecidos, órgãos e sistemas. Cada célula possui uma coisa extraordinária chamada DNA.
+
+Entre os seres extraordinários que existem neste planeta, existimos nós, os humanos, capazes de refletir sobre a nossa própria existência, cujo cérebro tem sido descrito como o objeto mais complexo do universo.
+
+Como já referi, se um computador organizasse os seus dados, "zeros" e "uns", para criar uma música, um desenho ou uma máquina, seria prova de inteligência. Então, como é que todas as combinações entre átomos, moléculas e células vivas não são o resultado duma inteligência?
+
+Muitos dizem: “Mas tudo isto foi o resultado de eventos aleatórios ao longo de milhares de milhões de anos.” Eu entendo o raciocínio, mas não concordo com ele por várias razões. É verdade que eventos aleatórios podem resultar, ocasionalmente, em algo que parece ser o resultado duma inteligência. Sabemos, por exemplo, que a erosão causada pelo mar pode fazer com que uma rocha fique parecida com um animal. Mas o bom senso leva-nos a entender que existem limites naquilo que pode acontecer por meio de processos aleatórios.
+
+Suponhamos que seria possível atirar uma lata de tinta ao teto duma casa durante milhares de milhões de anos. Acredito que esse movimento aleatório pudesse, ocasionalmente, desenhar algo parecido com uma letra do nosso alfabeto. Admito até que, em raras ocasiões, poderia surgir uma palavra completa. Mas penso que nunca, em circunstância alguma, surgiria os Lusíadas de Luís Vaz de Camões. É uma questão de bom senso.
+
+Também acredito que o mar, ao bater constantemente numa rocha durante milhares de milhões de anos, poderia esculpir a rocha a ponto dela se parecer com um cão, uma tartaruga, ou mesmo um homem. Mas não posso acreditar que a erosão seja capaz de esculpir a estátua de David de Miguel Ângelo. A complexidade da famosa escultura elimina a possibilidade disso acontecer.
+
+A observação da natureza faz-me acreditar que tudo o que existe é o resultado duma inteligência superior, à qual chamamos "Deus". Mas não será uma força abstrata? Não creio. Uma inteligência exige personalidade. Portanto, entendo que Deus é uma pessoa, mas não no mesmo sentido que nós. Deus é uma pessoa no sentido de que tem inteligência, personalidade e objetivos. É esse o Deus que eu acredito desde a minha juventude.
+
+Eu sei que muitos dirão que os indícios de inteligência são uma ilusão. No entanto, nunca li argumentos plausíveis que apoiem essa ideia. Curiosamente, um dos mais ferrenhos defensores do ateísmo, Richard Dawkins, quando questionado a respeito da complexidade da vida, admitiu que a mesma evidenciava a existência de um projeto. Contudo, para ele, esse projeto teria sido feito por alguma civilização extraterrestre. Ou seja, o famoso ateu admite que há um projeto. Mas nega categoricamente que tal projeto tenha sido feito por Deus. Porquê? Porque ele não quer que tenha sido assim. Claramente, ele só entende Deus como um ser mitológico, assim como os unicórnios e as fadas. Não entende que Deus é muito superior a isso.
+
+Conforme relatei na introdução deste livro, quando eu tinha perto de 13 anos, no quintal da minha casa ao anoitecer, olhei para o céu e vi algumas estrelas a brilhar. Ao meditar sobre o que representa cada um desses corpos celestes e a energia contida neles percebi que eu estava diante duma inteligência sem igual. Entendi, finalmente, que Deus não é um ser humanoide, uma espécie de "Pai Natal" celestial, a quem fazemos pedidos. Entendi que Deus é a inteligência que deu origem a tudo o que existe. Ao ter esse discernimento, curvei-me diante dessa Inteligência Superior e prometi que iria dedicar-lhe a minha vida. A partir desse momento, tornei-me crente.
+
+A minha crença em Deus não resultou de tradições, do medo de morrer ou de alguma superstição. A minha crença em Deus sempre foi racional, baseada numa profunda reflexão sobre a complexidade do universo e da vida.
+
+Hoje, quando observo o mar, as estrelas ou uma simples flor, consigo ver Deus. Um Deus muito maior do que aquele que é ensinado pela maioria das religiões. Um Deus que supera tudo o que podemos imaginar. E quanto mais leio sobre biologia, astronomia, e todas as ciências em geral, mais me convenço de que o meu Deus existe.
+
+Eu sei que muitos acham que a teoria da Evolução veio descartar a existência de Deus. Mas isso é um grande engano. A teoria da Evolução é irrelevante para o debate sobre a existência de Deus. Com ou sem Evolução, a complexidade da vida e do universo exige a existência duma Inteligência Suprema.
+
+Mas, como é que uma pessoa racional pode ter fé? É curioso que a palavra “fé”, conforme usada nos tempos bíblicos, tinha um significado diferente do que tem hoje. Muitos dicionários definem a “fé” como “acreditar sem evidências”. Mas, em contraste, o apóstolo S.Paulo escreveu que “a fé é a demonstração clara de realidades que não se veem.”(Hebreus 11:1) Segundo essa definição, a verdadeira fé baseia-se em evidências que podem ser demonstradas. Ou seja, a verdadeira fé é acreditar em algo que não vemos porque temos evidências válidas.
+
+Podemos ilustrar isso por recuar até ao século XIX. Nessa época, os astrónomos notaram algo estranho na órbita do planeta Urano e concluíram que deveria haver outro planeta por perto. Foi assim que descobriram Neptuno. Portanto, algo parecido acontece com a fé. Nós acreditamos em algo, não porque conseguimos ver, mas porque existem evidências, ou provas convincentes da sua existência. A verdadeira fé difere da credulidade, a qual consiste em acreditar por ingenuidade ou emoção.
+
+Não me considero dogmático. Também não tenho medo de conversar com aqueles que pensam de forma diferente. Aliás, até tenho prazer nisso. Tudo aquilo que eu acredito baseia-se em evidências. Contudo, se alguém me apresentar provas de que estou errado, estarei disposto a reavaliar as minhas crenças e a mudar de opinião. Não encaro isso como um problema. Eu só quero a verdade.
+
+## 1.5 - Os ateus
+
+Os ateus afirmam categoricamente que Deus não existe. Ao contrário dos agnósticos (os quais admitem não saber se Deus existe ou não) os ateus têm a certeza absoluta da inexistência de divindades.
+
+Curiosamente, muitos argumentos usados pelos ateus não entram em conflito com as minhas ideias pessoais. De facto, o que eles tentam derrubar é o tal conceito infantil sobre Deus (que eu mencionei atrás). Eles rejeitam o tal Deus humanoide que estaria lá em cima entre as nuvens, que é um conceito que eu, enquanto crente, também rejeito. Parece que falta a muitos ateus, assim como a muitos crentes, uma reflexão séria sobre a complexidade da vida e do universo.
+
+O famoso escritor português Virgílio Ferreira, no seu livro Aparição, expressa-se por meio do personagem Alberto dizendo o seguinte: "E uma vez pensei: 'Afinal, Deus não existe.' Não existia mesmo. Era evidente, natural, claro, como era claro não haver Pai Natal." Essa analogia que o escritor fez entre Deus e o Pai Natal é bastante interessante. Realmente, como poderia existir um Pai Natal? A ideia é ridícula. Embora seja um raciocínio lógico, percebe-se que o autor apenas conhecia o conceito infantil sobre Deus. Não se debruçou sobre um conceito mais profundo acerca do Ser Divino.
+
+Também é frequente ouvir alguns ateus dizerem que não podem acreditar em Deus porque existe muito sofrimento no mundo. Mas o que uma coisa tem a ver com outra? A existência (ou a inexistência) de um Criador nada tem a ver com o sofrimento. Essa é a falácia *non sequitur*, ou seja, um argumento em que a conclusão não decorre da premissa. Por exemplo, uma avaria num automóvel não prova que o mesmo não foi projetado por uma mente inteligente. Da mesma forma, a existência do sofrimento não prova a inexistência duma Inteligência Superior que originou o Universo. A questão do sofrimento e a questão da existência de Deus são questões independentes uma da outra.
+
+Outro argumento que escuto com frequência é que, supostamente, a maioria dos cientistas professam o ateísmo. Essa falácia lógica chama-se *ad verecundiam*, ou apelo à autoridade. É a tentativa de usar uma autoridade num assunto para tentar provar algo. No entanto, mesmo que todos os cientistas fossem ateus, isso não provaria a inexistência de Deus. A História já nos ensinou que a verdade sobre um assunto não é ditada pela opinião da maioria.
+
+Outro erro de muitos ateus é usar os crimes cometidos pelas religiões para provar a inexistência de Deus. Por exemplo, o famoso biólogo e ateu militante Richard Dawkins afirma frequentemente nos seus livros que a religião é algo prejudicial. Fala sobre a inquisição, as cruzadas, e muitos crimes que foram cometidos em nome de Deus, como se isso provasse que Ele não existe. Todavia, mais uma vez, isso é misturar as coisas. O que é que o Ser Supremo tem a ver com as ações dos humanos? Mesmo na opinião de muitos crentes, o que certas religiões têm feito é condenável. Quem garante que tais religiões representam o Ser Divino? Não é porque alguém diz ser o porta-voz de Deus que o é.
+
+Por fim, são muitos os ateus que acham que o seu modo de pensar é tão superior que é impossível haver ex-ateus. Argumentam que, depois da pessoa abrir os olhos e perceber que Deus não existe, não há como voltar atrás. Mas estão enganados. Vários homens inteligentes, com pensamento crítico, deixaram de ser ateus.
+
+O famoso geneticista Francis Collins não teve formação religiosa. Foi agnóstico e, mais tarde, chegou a tornar-se ateu. No entanto, vários fatores levaram-no a acreditar na existência de Deus. O cientista explica o que o levou a mudar de opinião no seu livro ***A Linguagem de Deus***.
+
+Outro caso bastante conhecido é o do filósofo Antony Flew, o qual, durante décadas, foi um dos ateus mais convictos e influentes do mundo. Participou em debates públicos e escreveu livros que defendiam o ateísmo. Contudo, ao tomar conhecimento das pesquisas mais recentes sobre a origem da vida e o DNA, concluiu que existe uma “inteligência criadora”. No seu livro ***Deus Existe: Como o ateu mais famoso do mundo mudou de ideias*** ele explica as razões da sua mudança.
+
+Os dois exemplos acima não provam que Deus existe. Mas provam, sem dúvida, que é possível deixar de ser ateu. Provam também que não existe conflito entre a ciência e a crença num Criador. Portanto, embora eu respeite os ateus, lamento que muitos se deixem levar pela arrogância.
+
+## 1.6 - Os criacionistas
+
+Algumas pessoas pensam que acreditar em Deus é a mesma coisa que ser criacionista. Mas essa ideia está incorreta. Atualmente, o termo "criacionista" refere-se a alguém que nega a ciência e que prefere acreditar em lendas e mitos sobre a criação do mundo. No entanto, é perfeitamente possível acreditar que o Universo teve uma causa inteligente e, ao mesmo tempo, aceitar todos os factos científicos.
+
+Infelizmente, alguns grupos religiosos têm feito grandes esforços para transformar a Bíblia em factos científicos. Talvez tenham boas intenções, mas penso que estão a seguir um caminho muito errado. Primeiro, porque a questão da existência de Deus ultrapassa a ciência. Segundo, porque a Bíblia não é um manual científico.
+
+Então, quer dizer que não há como provar a existência de Deus? Bem, até se pode provar, mas nunca poderemos dizer que temos provas científicas. Por exemplo, eu posso acreditar plenamente que o meu amigo "António" é uma excelente pessoa. Até posso apresentar provas de que o "António" é honesto, leal, generoso, etc. No entanto, essas "provas" nunca serão provas científicas. Na realidade, ser (ou não ser) uma boa pessoa, é uma questão que ultrapassa a ciência. O mesmo acontece com muitas questões com as quais lidamos no dia a dia. Esta comida é saborosa? Este filme é aborrecido? Esta ideologia política é melhor do que aquela? Apesar de podermos ter fortes convicções sobre esses assuntos, temos de admitir que são questões que ultrapassam a ciência.
+
+A questão da existência de Deus é uma questão mais filosófica do que científica. A verdadeira fé em Deus é o resultado duma profunda reflexão sobre a vida, a natureza e o universo. Portanto, não faz sentido esperarmos que algum cientista pegue num tubo de ensaio e diga: "Aqui está a prova de que Deus existe!" Certamente, isso nunca irá acontecer.
+
+Quanto aos livros sagrados, mais conhecidos como "Bíblia", é preciso entender que os mesmos foram escritos há muitos séculos em hebraico, aramaico e grego. Evidentemente, os escritores usaram a linguagem própria da época em que viviam. Portanto, cada livro bíblico só pode ser entendido se levarmos em conta o contexto histórico e as limitações linguísticas. Mas os criacionistas insistem em ler o livro bíblico de Génesis como se fosse um manual científico do século XXI. Isso, obviamente, conduz a um entendimento errado daquilo que está escrito.
+
+Uma leitura descontextualizada da Bíblia tem levado a equívocos gravíssimos que não resultam em nenhum benefício. Por exemplo, os criacionistas afirmam que a Terra e o Universo têm apenas alguns milhares de anos, que o mundo foi feito em 6 dias, que os homens conviveram com os dinossauros, etc... Tudo isso são ideias contrárias aos factos científicos comprovados.
+
+## 1.7 - O Deus das lacunas
+
+Uma grande parte das pessoas que afirmam ter fé em Deus acredita, de facto, no “deus das lacunas”. Esse termo foi criado por um evangelista escocês do século XIX chamado Henry Drummond. As pessoas que concebem Deus dessa forma, usam “Deus” para preencher os espaços vazios do seu conhecimento.
+
+Um exemplo disso foi o que aconteceu no dia 13 de maio de 2011. Nesse dia, milhares de peregrinos estavam reunidos na cidade de Fátima. Quando olharam para o céu, notaram que havia uma auréola com as cores do arco-íris à volta do sol. Desconhecendo que se tratava de um fenómeno natural chamado halo solar, muitos começaram a gritar: “Milagre! Milagre!”
+
+Este episódio ilustra bem o significado do “deus das lacunas”. Muitas pessoas, quando veem algo que não conseguem explicar, atribuem esse acontecimento a alguma entidade divina. O mesmo acontece quando sobrevivem a um terrível acidente ou a uma doença grave. Como não conseguem explicar o que aconteceu, preferem resumir o sucedido numa frase: “Foi Deus.”
+
+Desde criança, eu não consigo acreditar nesse “deus das lacunas”. Conforme disse Henry Drummond, esse conceito reduz Deus a um “operador ocasional de milagres”. Além disso, esse tipo de “fé” em Deus está condenado ao fracasso. Quanto mais conhecimento científico a pessoa obtém, mais frágil fica a sua crença.
+
+Se eu acreditasse que Deus criou as ilhas através dum milagre, ficaria desiludido ao descobrir que as mesmas se formaram por meio de vulcões. Se eu acreditasse que os trovões são uma expressão da ira de Deus, ficaria desiludido quando descobrisse que são apenas o som provocado por descargas elétricas. E assim sucessivamente…
+
+Por outro lado, a fé que eu tenho em Deus não se baseia em lacunas no meu conhecimento. O que me convence que Deus existe não são fenómenos sobrenaturais, mas sim naturais. Quanto mais eu estudo sobre ciência, mais a minha forte fica a minha fé na Inteligência Suprema que criou tudo isto.
+
+## 1.8 – A inutilidade dos milagres
+
+Alguns ateus dizem o seguinte: “Eu sou ateu porque nunca vi nada de extraordinário. Nunca vi nenhum milagre. Se eu visse, então acreditaria na existência de Deus.” Mas quem diz isso está a enganar a si mesmo. Por mais extraordinário que seja um evento, nunca é suficiente para convencer um ateu.
+
+Suponhamos que eu sou um ateu convicto. Certo dia, aparece à minha frente um ser brilhante com 5 metros de altura. A sua voz é claramente sobre-humana e ele diz: “Eu sou Deus! Sou o Senhor do céu e da terra! E para provar que sou mesmo Deus, vou pintar o céu de verde!!!” Instantaneamente, o céu muda de cor tal como esse ser poderoso proclamou.
+
+Diante disso, eu posso responder: “Meu caro senhor. Desculpe a minha sinceridade… O facto de vossa excelência ter essa aparência fora do comum não prova que é o Criador do céu e da terra. Também não prova que é eterno, que sempre existiu e sempre vai existir. Quem me garante que não existem seres muito mais poderosos? Como é que eu sei que tudo isto não passa de uma alucinação? Será que alguém pôs alguma substância na minha comida? E quem me garante que não estou dentro de uma simulação? E se você for simplesmente um ser de outro planeta com poderes desconhecidos pelos humanos? E se…”
+
+E eu poderia prosseguir com uma infinidade de questões. Afinal, no que diz respeito à existência de Deus, os milagres são inúteis. Não provam absolutamente nada. O que prova a existência de Deus não são eventos extraordinários que violam as leis da natureza. O que prova a existência de Deus são os eventos que observamos todos os dias e que estão em harmonia com essas leis.
+
+O corpo humano, uma flor, o sol, as estrelas… Tudo isso são coisas extraordinárias. Mas, por estarem constantemente diante dos nossos olhos, encaramos como coisas banais.
+
+Se a abertura do Mar Vermelho fosse algo frequente, nenhum de nós ficaria impressionado quando isso ocorresse. Ninguém diria que era um milagre. Se fosse comum curar pessoas com uma palavra, iríamos encarar isso como normal e não como um evento milagroso.
+
+Portanto, sejamos francos e objetivos. Não precisamos de enganar a nós mesmos. A própria Natureza (tal como ela é, sem milagres) atesta a existência de um Criador. Por outro lado, não existe evento milagroso que convença um ateu da existência de Deus.
+
+## 1.9 - Deus só existe na nossa cabeça?
+
+Será que Deus existe apenas na cabeça dos humanos? Para responder a isso, tomemos como exemplo algo muito concreto com o qual lidamos no nosso dia a dia: as cores. Será que existe a cor azul? "É claro que existe o azul", diriam alguns. Mas a resposta não é assim tão simples. É verdade que nós vemos objetos de cor azul. No entanto, alguém poderia afirmar, com uma certa razão, que tanto o azul como qualquer outra cor só existe dentro da nossa cabeça. O que realmente existe é a luz, a qual é refletida em cada objeto de forma diferente. A retina transmite os sinais recebidos ao nervo ótico que, por sua vez, comunica com o cérebro.
+
+Imagine que a espécie humana se extingue. Continuariam a existir cores? Alguém pode dizer que não. Afinal, as cores são apenas um conceito humano para descrever o comportamento da luz refletida nos objetos. Morrendo a humanidade, morreria também o conceito de cor.
+
+Mas alguém poderia argumentar que, independentemente da perceção dos humanos, a luz comporta-se da mesma maneira. Se os humanos se extinguissem, deixaria de existir o conceito de cor, mas as cores continuariam a existir. Portanto, tudo depende do ponto de vista.
+
+O mesmo se aplica à existência de Deus. Como já referi, a palavra "Deus" é um conceito humano usado para descrever a Causa Primária do universo. Se os humanos deixassem de existir, “Deus” enquanto conceito, deixaria de existir. Mas assim como a luz se comporta da mesma maneira independentemente de existirem humanos, a Causa Primária de todas as coisas continua a ser uma realidade, quer existam humanos para pensar nela, quer não.
+
+## 1.10 – Quem fez Deus?
+
+Muitas vezes, quando alguém pergunta 'Quem criou Deus?' está a tentar demolir a crença em deuses. De facto, essa pergunta expõe a incoerência da crença em deuses mitológicos criados pelo homem.
+
+No entanto, conforme expliquei mais atrás, eu não acredito em deuses mitológicos. Quando falo em Deus, estou a falar num Ser que sempre existiu. Ou seja, com a palavra "Deus" refiro-me a um Ser eterno, por definição. Diante desse conceito, a pergunta 'Quem criou Deus?' não faz sentido
+
+porque é redundante. Em vez de desacreditar a crença em Deus, a pergunta “Quem fez Deus?” expõe a ignorância de quem a levanta.
+
+Muitos não conseguem conceber a ideia de um Deus eterno que não precisou de ser criado. Mas, em contraste, acreditam que a matéria e a energia existiram sempre. Logo, acreditam em ALGO eterno. Só não acreditam num SER eterno. Então, o problema não está na eternidade em si. O problema está em aceitar que esse ALGO eterno possa ter personalidade ou inteligência.
+
+Por outro lado, alguém poderá dizer que a matéria e a energia não existiram sempre, que tiveram um início. Nesse caso, quem as criou? E quem criou quem quer que as tenha criado? E assim por diante. Nesse caso, entramos também numa regressão infinita. Portanto, aqueles que perguntam “Quem fez Deus?” para desacreditar a crença em Deus, encontram um problema igual em relação às suas próprias crenças.
+
+A própria pergunta também não faz sentido porque parte de uma suposição errada. É como se alguém perguntasse: “Como é o cheiro do azul?” Visto que o azul não está na categoria de coisas que têm cheiro, então a pergunta está errada em si mesma.
+
+Assim como o azul não está na categoria das coisas que têm cheiro, o Criador também não se encontra na categoria de coisas que foram criadas, vieram a existir, ou foram causadas. Deus é “não-causado” e “não-criado”: Ele simplesmente existe.
+
+Conforme referi anteriormente, o nada não pode produzir nada. Então, se alguma vez houve um tempo em que não existia absolutamente nada, então nada poderia vir a existir. Mas as coisas existem. Por isso, uma vez que nunca pode ter havido o "nada absoluto", alguma coisa existiu sempre. Esta “coisa” que sempre existiu, e que de  origem a todas as coisas, é o que eu chamo de Deus.
+
+## 1.11 - Comunicação entre Deus e Homens
+
+Existem diferentes formas de comunicação. Por exemplo, mesmo que não nos apercebamos disso, muita da nossa comunicação é corporal. Os surdos comunicam por gestos. Existe comunicação escrita, braille, código Morse, sinais de fumo, etc, etc, etc.
+
+Algumas pessoas gostariam que Deus lhes aparecesse à frente e falasse audivelmente com eles. Talvez em português ou, como nos filmes de Hollywood, em inglês. Mas é claro que, se até os humanos comunicam-se de diversas formas, o Ser Divino não está limitado a apenas uma forma de comunicar.
+
+Um pintor comunica uma mensagem através do quadro que pinta. Ele comunica de uma forma que é preciso sensibilidade da parte de quem olha para a tela. Para alguns, uma linda pintura a óleo é apenas um conjunto de pinceladas. Para outros, o pintor está a expressar um estado de espírito, opiniões políticas, sentimentos, etc. O mesmo acontece com a comunicação do Criador de todas as coisas.
+
+Ao olharmos para o Universo à nossa volta, é preciso sensibilidade para entender o que Deus está a dizer. Às vezes, a mensagem é demasiado óbvia. Por exemplo, a rotação da Terra faz com que existam períodos regulares de luz e escuridão. Com isso Deus está a dizer que devemos viver a nossa vida num ciclo contínuo de atividades e descanso.
+
+Quando insistimos em ignorar essas “orientações” de Deus, colhemos consequências nefastas. Podemos ter um esgotamento se ignorarmos a necessidade de descanso. A mensagem de Deus é óbvia, mas é preciso sensibilidade para entendê-la.
+
+Existe ainda aquilo a que alguns chamam de "Lei Moral". Como é que se desenvolveu aquela voz interior que nos diz o que devemos (ou não devemos) fazer? Porque será que sentimos compaixão por aqueles que são mais fracos? Porque é que nos atiramos ao mar para salvar alguém que nem conhecemos? O que nos leva a fazer o bem a quem nos faz mal? Porque é que existe uma noção universal do que é certo e errado? O facto de existirem muitas culturas diferentes não impede que existam também princípios morais elementares que são comuns a todos os povos. De onde vem essa "Lei Moral"?
+
+A mesma inteligência que deu origem ao Universo, deu também origem a nós. Portanto, essa noção universal do certo e do errado origina-se da mesma Inteligência Superior, a quem chamamos “Deus”.
+
+Portanto, Deus comunica-se connosco, sim. Mas não é em português nem em inglês. Ele comunica por meio da criação.
+
+Mas o que se pode dizer sobre os livros sagrados das religiões?  Será que Deus também se expressa por meio deles? É sobre isso que vou falar a seguir.
+
+# 2 - A Bíblia
+
+Se perguntarmos a algum europeu ou americano qual é o livro que expressa a palavra de Deus, em princípio a resposta será: a Bíblia. Mas a resposta será bem diferente se fizermos a mesma pergunta a um asiático. Cada religião tem o seu “livro sagrado”.
+
+No caso da Bíblia, ela afirma ter sido “inspirada por Deus”. Essa afirmação, por si só, não prova nada. Mas serve de ponto de partida para a análise que pretendo fazer a seguir.
+
+## 2.1 - O que é a Bíblia
+
+Algumas pessoas imaginam que a Bíblia seja uma lista de regras e palavras ditas pelo próprio Deus. Quem pensa assim, certamente nunca leu a Bíblia.
+
+A Bíblia é, na realidade, uma compilação de livros escritos ao longo dos séculos. Contém histórias, diálogos, poesia, metáforas, parábolas, profecias, etc.
+
+Em alguns casos, o escritor do livro está claramente identificado no próprio livro bíblico. Em outros casos, a tradição oral atribui a autoria. Portanto, quem conhece a Bíblia sabe perfeitamente que esta foi escrita por homens.
+
+## 2.2 – Inspiração divina
+
+Se a Bíblia foi, obviamente, escrita por homens porque é que alguns lhe chamam “Palavra de Deus”? Comecemos por lembrar quem é Deus.
+
+Conforme já mencionei, Deus não é um ser humanoide, mas sim a fonte de energia originou o Universo físico. Essa fonte de energia não é abstrata e desprovida de propósito. Deus é um Ser espiritual com personalidade e inteligência. Portanto, a inteligência dos humanos, assim como a sua Lei Moral contida no seu íntimos, são um reflexo da Inteligência Suprema: Deus.
+
+Sendo assim, existe uma infinidade de livros que contém bons conselhos e que, de certa forma, expressam os pensamentos de Deus. Mas existem, na minha opinião, razões válidas para acreditar que a Bíblia reflete a inteligência de Deus de forma muito mais perfeita.
+
+O que me leva a afirmar isso? O que torna a Bíblia diferente?
+
+## 2.3 – Evidência cumulativa
+
+Não existe uma prova de que a Bíblia seja inspirada por Deus. O que existe é uma evidência cumulativa. Ou seja, existem vários factos que, isoladamente, não provam nada. Mas todos juntos servem de prova. Isso não nos deve surpreender porque no nosso dia a dia estamos habituados a lidar com esse tipo de evidências.
+
+Tomemos como exemplo o meu primo João. Eu acredito que ele é um homem confiável. Conheço-o desde pequeno e posso relatar vários episódios que confirmam a sua honestidade, bondade e integridade. Mas cada episódio, por si só, não prova absolutamente nada. Contudo, se eu juntar tudo o que sei sobre ele posso provar que ele é uma excelente pessoa. Mesmo assim, nada irá substituir a experiência de conhecê-lo pessoalmente e conviver com ele durante muitos anos.
+
+O mesmo acontece na Bíblia. Eu posso mencionar mil e uma coisas diferentes sobre a Bíblia. Mas cada uma delas, isoladamente, não provará a sua autenticidade. Apenas lendo a Bíblia na totalidade e aplicando os princípios bíblicos na vida é que uma pessoa pode constatar que se trata dum livro confiável, com uma sabedoria sobre-humana.
+
+Mas esse é um exercício que poucos estão dispostos a fazer.
+
+## 2.4 – Saber ler a Bíblia
+
+Quando lemos um livro, seja ele qual for, temos de levar em conta coisas tais como: o género literário, a época, etc. Todos aqueles que leem a Bíblia sem levar em conta esses fatores acabam por desanimar ou fazem uma leitura equivocada.
+
+Um exemplo disso é a bibliomancia. Essa prática supersticiosa consiste em abrir a Bíblia numa parte qualquer e ler um ou mais versículos. Aquilo que os versículos disserem, entende-se que seja a mensagem de Deus para nós.
+
+Essa prática é inútil por várias razões. Primeiro, sem conhecer o contexto, a leitura irá conduzir-nos a um entendimento errado. Além disso, em muitos casos, uma leitura descontextualizada pode nos levar a ler exatamente o contrário da mensagem da Bíblia.
+
+Considere, por exemplo, o livro bíblico de Jó. Trata-se dum livro poético que conta a história dum homem que era muito rico, mas que perdeu tudo. Entretanto vieram 3 falsos amigos e disseram imensas coisas para o desanimar. Jó, apesar de ser justo, também disse uns quantos disparates para se defender. Já no fim do livro, Deus corrige Jó e os falsos amigos e recompensa Jó pela sua integridade.
+
+Curiosamente, as falas dos falsos amigos de Jó ocupam capítulos inteiros. Agora imagine que alguém abre a Bíblia aleatoriamente e começa a ler um desses capítulos cheios de disparates. A pessoa imagina que aquilo são mensagens de Deus para si. Mas, na verdade, está a ler os piores conselhos que alguém poderia ler.
+
+Este exemplo serve apenas para mostrar que uma leitura correta envolve conhecer o contexto.
+
+## 2.5 – Leitura para discernir princípios
+
+Existem vários tipos de leitura. Podemos fazer uma leitura mecânica, recreativa, reflexiva, etc. Há quem estude a semântica, morfologia, ou a sintaxe dos textos bíblicos. Tudo isso pode ser interessante mas, se a Bíblia é uma expressão da inteligência divina, então precisamos de aprender a lê-la com o objetivo de discernir os princípios.
+
+Tomemos como exemplo a história sobre a arca de Noé. Essa é uma história extremamente conhecida. E algumas pessoas gastam horas a discutir o tamanho da arca, de onde veio tanta água, para onde foi a água, como é que os animais entraram, como é que saíram, etc…
+
+No meu caso, só há uma coisa que me importa: o que é que Deus está a querer transmitir-me? Uma breve reflexão sobre a história de Noé permite-nos entender lições importantes tais como:
+
+. A família deve ser unida
+
+. Devemos dar atenção aos avisos
+
+. Seguir instruções à risca pode salvar vidas
+
+Após a leitura de cada passagem bíblica, é importante discernir quais são os princípios (ou verdades fundamentais) contidos naquela passagem. Só assim conseguimos perceber a mensagem divina.
+
+Quer isto dizer que os pormenores não são importantes? Claro que são importantes. Mas o que eu quero dizer é que não podemos deixar que os pormenores ofusquem a mensagem.
+
+Por exemplo, imagine que vive na Judeia ou na Galileia do século I d.C. Um simples carpinteiro começa a pregar uma mensagem impopular e, após apenas 3 anos, é condenado à morte. O expectável é que a mensagem fique por ali. No entanto, contra todas as expectativas, a mensagem espalha-se por todo o Império Romano e diáspora judaica em apenas algumas décadas.
+
+Perante esse fenómeno, um judeu que ficou conhecido como apóstolo Paulo escreveu que “a mensagem do evangelho foi anunciada a toda a criatura que vive debaixo do céu”. (Colossenses 1:23) Será que ele estava a mentir? Claro que não. Simplesmente, ele estava a descrever os factos da perspetiva de um judeu do primeiro século.
+
+Ao lermos qualquer outro livro, levamos sempre em conta o contexto histórico. Porque é que deveríamos usar critérios diferentes na leitura da Bíblia? Os escritores registaram os acontecimentos que viram e ouviram usando linguagem própria da época, segundo e perceção que tiveram dos factos. Isso não tira nenhum valor à Bíblia.
+
+Mas quando eu digo que o mais importante são as lições práticas, algumas pessoas poderão dizer: “Sendo assim, a Bíblia tem tanto valor como a história dos Três Porquinhos. Todos os contos fantasiosos possuem alguma lição de vida.” E, sim, é verdade que podemos tirar lições práticas de muitas histórias. Mas a diferença entre a Bíblia e esses contos fantasiosos é abismal. A Bíblia conta a história de pessoas reais e lugares reais, muitas vezes comprovados pela arqueologia. E, como já referi, o efeito na vida é incomparável.
+
+Não conheço ninguém que tivesse a vida transformada por causa da história dos Três Porquinhos, da Branca de Neve, ou do Bela Adormecida. Em contraste, existem milhões de pessoas que melhoraram a sua vida consideravelmente com a ajuda da Bíblia.
+
+Tenho a certeza de que qualquer pessoa que leia a Bíblia e se esforce para discernir os princípios básicos irá tirar muitos benefícios práticos da leitura.
+
+## 2.6 – A superioridade da Bíblia
+
+Para ilustrar a superioridade da Bíblia, podemos compará-la com qualquer outro livro. Por exemplo, vamos pensar num prémio Nobel da Literatura: José Saramago. Ele escreveu, sem dúvida, livros magníficos. Mas quantas pessoas tiveram a sua vida transformada por causa dos seus livros? Provavelmente, muito poucas, se é que existem.
+
+Em contraste, quantas pessoas tiveram as suas vidas transformadas por causa da Bíblia? A resposta é: milhões. Pessoalmente, conheço centenas de pessoas que estavam no fundo do poço, mas recuperaram a vida familiar, profissional, etc., simplesmente por meio da leitura e estudo da Bíblia. Não conheço outro livro que tenha o mesmo poder.
+
+2.7 - Supostas contradições
+
+2.8 - Evolução X Criação
+
+2.9 - Cientificismo
+
+# 3 - A Religião Verdadeira
+
+3.1 - O cenário religioso mundial
+
+3.2 - A Cristandade
+
+3.3 - Testemunhas de Jeová
+
+3.3.1 - O curso intensivo
+
+3.3.2 - A remoção 
+
+3.3.3 - A Questão do Sangue
+
+3.3.4 - Mitos
+
+3.3.5 - A esperança
+
+# Conclusão
