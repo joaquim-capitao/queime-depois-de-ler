@@ -8,7 +8,7 @@ Diz-se que o ser humano tem uma grande necessidade de ser amado. Mas eu acho que
 
 A admiração é um sentimento que exige uma distância de segurança. Só admiramos o que não nos chateia. É por isso que as estátuas fazem tanto sucesso. Niguem vai à Praça do Comércio para fazer amizade com o D. José I. Mas como ele está sempre impecável, sem caspa, sem opiniões e sem maçar ninguém, os turistas até lhe tiram fotograficas. A isso chamamos admiração, não amor.
 
-![D.José I](https://i.ibb.co/qYj7h2z5/Praca-do-Comercio-em-Lisboa-17-1.webp)
+![D.José I](https://i.ibb.co/jPhJxkd1/Screenshot-2026-07-02-161441.png)
 
 Se formos aos textos bíblicos (o maior repositório de dramas humanos), encontramos exemplos extraordinários desta confusão.
 
