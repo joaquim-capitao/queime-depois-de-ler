@@ -6,7 +6,7 @@ layout: style-dark
 
 Diz-se que o ser humano tem uma grande necessidade de ser amado. Mas eu acho que, atualmente, o ser humano deseja, acima de tudo, ser aplaudido. Quer que olhem para ele e digam: *"Olha ali aquele indivíduo espetacular!"* E apesar da enorme diferença, continuamos a confundir o amor com a admiração.
 
-A admiração é um sentimento que exige uma distância de segurança. Só admiramos o que não nos chateia. É por isso que as estátuas fazem tanto sucesso. Niguem vai à Praça do Comércio para fazer amizade com o D. José I. Mas como ele está sempre impecável, sem caspa, sem opiniões e sem maçar ninguém, os turistas até lhe tiram fotograficas. A isso chamamos admiração, não amor.
+A admiração é um sentimento que exige uma distância de segurança. Só admiramos o que não nos chateia. É por isso que as estátuas fazem tanto sucesso. Niguem vai à Praça do Comércio para fazer amizade com o D. José I. Mas como ele está sempre impecável,  sem caspa, sem opiniões e sem maçar ninguém, os turistas até lhe tiram fotograficas. A isso chamamos admiração, não amor.
 
 ![D.José I](https://i.ibb.co/jPhJxkd1/Screenshot-2026-07-02-161441.png)
 
