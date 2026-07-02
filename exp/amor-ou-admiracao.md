@@ -14,7 +14,7 @@ Se formos aos textos bíblicos (o maior repositório de dramas humanos), encontr
 
 Sansão tinha uma densidade capilar invejável e força física para derrotar um exército com a queixada de um burro. Os filisteus temiam-no e o povo de Israel admirava-o. No entanto, quando Sansão deitou-se nos joelhos de Dalila, ele não queria elogios aos bíceps. Queria ser amado. Queria fechar os olhos e descansar. E o que é que Dalila fez? Fez-lhe um corte de cabelo que lhe arruinou a vida. 
 
-O exemplo de Jesus ensina-nos que a admiração é condicional. Num belo dia, o povo estendeu-lhe ramos de palmeira e aclamou-o como rei. Jesus era o homem do momento! Toda a gente gostava de o ver multiplicar farnéis. Cinco dias depois, ao vê-lo aparentemente vulnerável, ninguém o defendeu. Até houve quem gritasse: *"Para a estaca com ele!"*. Isso mostra como os humanos trocam rapidamente a admiração pelo linchamento público, sempre que isso lhes for conveniente.
+O exemplo de Jesus ensina-nos que a admiração é condicional. Num belo dia, o povo estendeu-lhe ramos de palmeira e aclamou-o como rei. Jesus era o homem do momento! Toda a gente apreciava os farnéis saborosos que ele multiplicava. Cinco dias depois, ao vê-lo aparentemente vulnerável, ninguém o defendeu. Até houve quem gritasse: *"Para a estaca com ele!"*. Isso mostra como os humanos trocam rapidamente a admiração pelo linchamento público, sempre que isso lhes for conveniente.
 
 O amor, por sua vez, é o oposto disso. Quem nos ama suporta até o nosso hálito matinal, mesmo que pareça que passámos a noite a mastigar um dente de alho. O amor vê a nossa decadência biológica, as nossas idiossincrasias, e diz: *"Ok... É uma desgraça. Mas mesmo assim amo-o"*.
 
