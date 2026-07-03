@@ -18,8 +18,7 @@ No fundo, estamos todos a tentar não nos afogarmos na nossa própria insignific
 
 Mas, antes que alguém decida apedrejar-me, gostaria de esclarecer que não estou a defender a ostentação e a vaidade. Longe de mim fazer tal coisa! Acreditem que sou quase um Martin Luther King. Só que o meu sonho é viver num mundo onde cada pessoa se meta na sua própria vida.
 
-Portanto, se as férias do teu vizinho te causam úlceras, não o culpes. É melhor cuidares do teu estômago. Experimenta beber chá de gengibre, por exemplo.
-
+Portanto, se as férias do teu vizinho te causam úlceras, não o culpes. É melhor 
 E agora, se me dão licença, vou dar por terminado este texto, pois vou ficar preso ao ecrã, enquanto aguardo a minha merecida dose de elogios.
 
 
