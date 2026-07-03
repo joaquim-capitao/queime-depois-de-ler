@@ -1,6 +1,5 @@
 ---
 layout: style-light
-type: Checklist
 ---
 
 # O Senhor Discreto
