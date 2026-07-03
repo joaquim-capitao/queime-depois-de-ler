@@ -2,7 +2,7 @@
 layout: style-light
 ---
 
-# O Discreto e o Crítico
+# O Senhor Discreto
 
 Diz a sabedoria popular que quem publica fotos de si mesmo na internet padece de uma maleita incurável: a busca por validação. O diagnóstico é dado por quem se julga imune às fraquezas da carne. *"Olhem p'ra aquela sempre a exibir-se!"*, dizem alguns. Ora, isto é de uma hipocrisia comovente.
 
