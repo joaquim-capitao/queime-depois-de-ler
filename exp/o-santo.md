@@ -16,9 +16,9 @@ O *Santo* não publica fotos em tronco nu (e ainda bem). Cultiva uma existência
 
 A verdade é que estamos todos a tentar não nos afogarmos na nossa própria insignificância. Só que uns tentam alcançar elogios por mostrar os abdominais, outros por ler Saramago, e outros por não se misturarem com a plebe.
 
-Mas, antes que alguém decida apedrejar-me, gostaria de esclarecer que não estou a defender a ostentação e a vaidade. Longe de mim fazer tal coisa! Acreditem que sou quase um Martin Luther King. **"I have a dream!"** Mas o meu "dream", ou sonho, é viver num mundo onde ninguém mete o nariz na vida dos outros.
+Mas, antes que alguém decida apedrejar-me, gostaria de esclarecer que não estou a defender a ostentação e a vaidade. Longe de mim fazer tal coisa! Acreditem que sou quase um Martin Luther King. Também tenho um *dream*, ou sonho. Mas, no meu caso, o sonho inclui viver num mundo onde ninguém mete o nariz na vida dos outros.
 
-Portanto, se as férias do teu vizinho estão a causar-nos úlceras, não devemos culpá-lo. É melhor cuidarmos do estômago. Talvez possamos tomar um chá de gengibre, pois há quem diga que faz muito bem.
+Portanto, se as férias do teu vizinho estão a causar-te úlceras, não o culpes. É melhor cuidares do teu estômago. Experimenta chá de gengibre.  Talvez possamos tomar um chá de gengibre, pois há quem diga que faz muito bem.
 
 E agora, se me dão licença, dou por terminado este texto. Preciso de usar as próximas horas para ficar preso ao ecrã, enquanto aguardo humildemente a minha merecida dose de elogios. 
 
