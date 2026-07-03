@@ -6,7 +6,7 @@ layout: style-light
 
 Diz a sabedoria popular que quem publica fotos de si mesmo na internet padece de uma maleita incurável: a busca por validação. O diagnóstico é dado por quem se julga imune às fraquezas da carne. *"Olhem p'ra aquela sempre a exibir-se!"*, dizem alguns. Ora, isto é de uma hipocrisia comovente.
 
-![imagem](https://i.ibb.co/yFZmHbJB/Gemini-Generated-Image-3xffws3xffws3xff.png)
+![imagem](https://ariquemes190.com.br/fk_imagens/unnamed(5).jpg)
 
 Em que momento da História é que o desejo de aprovação passou a ser exclusivo de quem posa em biquíni no Instagram? Lamento informar, mas todos procuramos validação. Absolutamente todos. A única diferença reside no produto que estamos a tentar vender no mercado do elogio.
 
