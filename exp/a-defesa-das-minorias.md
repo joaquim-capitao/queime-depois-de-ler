@@ -1,6 +1,6 @@
 ---
 created: 2026-07-03T01:15:57+00:00
-modified: 2026-07-03T16:33:32+00:00
+modified: 2026-07-03T16:37:33+00:00
 ---
 
 # A Defesa Seletiva das Minorias
@@ -15,9 +15,7 @@ Um exemplo disso é quem se posiciona a favor de minorias raciais ou étnicas, q
 
 Não estou a sugerir que **todos** tenhamos que defender ativamente **todas** as causas. Somos livres para escolher quem ou que vamos defender. Apenas aponto para a incoerência de quem defende umas minorias, enquanto ataca outras.
 
-Alguns dirão que têm o direito de ridicularizar quem quiserem. E ninguém nega a existência da liberdade de expressão. Mas principalmente quem sabe ter o poder de influenciar a opinião pública deveria também saber que perpetuar estereótipos contribui para que muitas crianças sofram bullying, adultos sofram discriminação no trabalho, e ocorra uma série de outros efeitos negativos. 
-
-Em suma, os praticantes da moralidade seletiva agem como quem escolhe fruta no supermercado. Há minorias biológicas e intocáveis que merecem proteção imediata. Já as outras, coitadas, nem para compor a salada servem.
+Alguns dirão que têm o direito de ridicularizar quem quiserem. E ninguém lhes nega o direito à liberdade de expressão. Mas quem sabe ter o poder de influenciar a opinião pública deveria lembrar-se que perpetuar estereótipos e preconceitos contribui para que muitas crianças sofram bullying nas escolas, adultos sofram discriminação no trabalho, e ocorra uma série de outros efeitos negativos. 
 
 Proponho, portanto, um teste moral: será que conseguimos defender a dignidade de pessoas de quem discordamos?
 
