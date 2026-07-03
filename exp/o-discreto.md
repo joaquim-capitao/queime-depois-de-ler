@@ -12,11 +12,11 @@ Em que momento da História é que o desejo de aprovação passou a ser exclusiv
 
 Pensemos, por exemplo, num indivíduo a quem chamarei *o Santo*. Ele não publica fotos em tronco nu (e ainda bem). Cultiva uma existência quase monástica. Mas, será que age assim por desapego? Claro que não... Quando alguém lhe diz *"admiro-te imenso porque não ligas às redes sociais"*, o seu peito inflama-se de vaidade. Aquele elogio é equivalente a ter setecentos *likes* numa foto de sunga em Ibiza.
 
-O *Senhor Discreto* fiscaliza as redes sociais para poder tecer duras críticas à vaidade alheia. No entanto, ao apontar o dedo à fome de validação dos outros, não estará ele próprio a mendigar um aplauso? O que ele procura, na verdade, é que outros lhe digam: *"És muito corajoso e moralmente superior! As tuas críticas fazem todo o sentido."*
+O *Santo* fiscaliza as redes sociais para poder tecer duras críticas à vaidade alheia. No entanto, ao apontar o dedo à fome de validação dos outros, não estará ele próprio a mendigar um aplauso? O que ele procura, na verdade, é que outros lhe digam: *"És muito corajoso e moralmente superior! As tuas críticas fazem todo o sentido."*
 
-No fundo, estamos todos a tentar não nos afogarmos na nossa própria insignificância. Uns tentam alcançar elogios por mostrar os abdominais, outros por ler Saramago, e outros por não se misturarem com a plebe.
+A verdade é que estamos todos a tentar não nos afogarmos na nossa própria insignificância. Só que uns tentam alcançar elogios por mostrar os abdominais, outros por ler Saramago, e outros por não se misturarem com a plebe.
 
-Mas, antes que alguém decida apedrejar-me, gostaria de esclarecer que não estou a defender a ostentação e a vaidade. Longe de mim fazer tal coisa! Acreditem que sou quase um Martin Luther King. Só que o meu sonho é viver num mundo onde ninguém mete o nariz na vida dos outros.
+Mas, antes que alguém decida apedrejar-me, gostaria de esclarecer que não estou a defender a ostentação e a vaidade. Longe de mim fazer tal coisa! Acreditem que sou quase um Martin Luther King. Mas o meu sonho é viver num mundo onde ninguém mete o nariz na vida dos outros.
 
 Portanto, se as férias do teu vizinho te causam úlceras, não o culpes. É melhor cuidares do teu estômago. Experimenta chá de gengibre, pois dizem que faz muito bem.
 
