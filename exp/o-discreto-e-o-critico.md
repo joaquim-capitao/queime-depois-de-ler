@@ -10,9 +10,9 @@ Diz a sabedoria popular que quem publica fotos de si mesmo na internet padece de
 
 Em que momento da História é que o desejo de aprovação passou a ser exclusivo de quem posa em biquíni no Instagram? Lamento informar, mas todos procuramos validação. Absolutamente todos. A única diferença reside no produto que estamos a tentar vender no mercado do elogio.
 
-Pensemos, por exemplo, num indivíduo a quem chamarei *o Senhor Discreto*. Ele não publica fotos em tronco nu (e ainda bem). Cultiva uma existência quase monástica. Mas, será que age assim por desapego? Claro que não... Quando alguém diz ao *Discreto*: *"admiro-te imenso porque não ligas às redes sociais"*, o seu peito inflama-se de vaidade. Aquele elogio é equivalente a ter setecentos *likes* numa foto de sunga em Ibiza.
+Pensemos, por exemplo, num indivíduo a quem chamarei *o Senhor Discreto*. Ele não publica fotos em tronco nu (e ainda bem). Cultiva uma existência quase monástica. Mas, será que age assim por desapego? Claro que não... Quando alguém lhe diz *"admiro-te imenso porque não ligas às redes sociais"*, o seu peito inflama-se de vaidade. Aquele elogio é equivalente a ter setecentos *likes* numa foto de sunga em Ibiza.
 
-E depois temos um outro indivíduo a quem chamarei *o Crítico"*. É aquele sujeito que fiscaliza as redes sociais para poder tecer duras críticas à vaidade alheia. No entanto, ao apontar o dedo à fome de validação dos outros, não estará ele próprio a mendigar um aplauso? O que ele procura, na verdade, é que outros lhe digam: *"És muito corajoso e moralmente superior! As tuas críticas fazem todo o sentido."*
+O *Senhor Discreto*  depois temos um outro indivíduo a quem chamarei *o Crítico"*. É aquele sujeito que fiscaliza as redes sociais para poder tecer duras críticas à vaidade alheia. No entanto, ao apontar o dedo à fome de validação dos outros, não estará ele próprio a mendigar um aplauso? O que ele procura, na verdade, é que outros lhe digam: *"És muito corajoso e moralmente superior! As tuas críticas fazem todo o sentido."*
 
 No fundo, estamos todos a tentar não nos afogarmos na nossa própria insignificância. Uns tentam alcançar elogios por mostrar os abdominais, outros por ler Saramago, e outros por não se misturarem com a plebe.
 
