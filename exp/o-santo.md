@@ -18,7 +18,7 @@ A verdade é que estamos todos a tentar não nos afogarmos na nossa própria ins
 
 Mas, antes que alguém decida apedrejar-me, gostaria de esclarecer que não estou a defender a ostentação e a vaidade. Longe de mim fazer tal coisa! Acreditem que sou quase um Martin Luther King. Também tenho um *dream*, ou sonho. Mas, no meu caso, o sonho inclui viver num mundo onde ninguém mete o nariz na vida dos outros.
 
-Portanto, se as férias do teu vizinho estão a causar-te úlceras, não o culpes. É melhor cuidares do teu estômago. Experimenta chá de gengibre.  Talvez possamos tomar um chá de gengibre, pois há quem diga que faz muito bem.
+Portanto, se as férias do teu vizinho estão a causar-te úlceras, não o culpes. É melhor cuidares do teu estômago. Experimenta tomar chá de gengibre. Há quem diga que faz muito bem.
 
 E agora, se me dão licença, dou por terminado este texto. Preciso de usar as próximas horas para ficar preso ao ecrã, enquanto aguardo humildemente a minha merecida dose de elogios. 
 
