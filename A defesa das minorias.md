@@ -1,13 +1,13 @@
 ---
 created: 2026-07-03T01:15:57+00:00
-modified: 2026-07-03T01:19:55+00:00
+modified: 2026-07-03T01:20:59+00:00
 ---
 
 # A Defesa Seletiva das Minorias
 
 A defesa das minorias envolve, em teoria, proteger aqueles que, por razões numéricas, estão mais vulneráveis à discriminação ou à violência. A lógica é esta: se uma minoria sofre, deve ser protegida.
 
-Nesse sentido, parece que alguns órgãos de comunicação social e certas figuras públicas desenvolveram um algoritmo moral sofisticado. Para eles, há grupos que exigem respeito, bandeiras, hashtags e lemas solenes. Outros? Bem, esses podem ser caricaturados, ridicularizados e tratados com grande desprezo.
+Mas parece que alguns órgãos de comunicação social e certas figuras públicas desenvolveram um algoritmo moral sofisticado. Para eles, há grupos que exigem respeito, bandeiras, hashtags e lemas solenes. Outros? Bem, esses podem ser caricaturados, ridicularizados e tratados com grande desprezo.
 
 Não estou a sugerir que devemos nos envolver ativamente na defesa de todas as minorias, sejam elas étnicas, religiosas ou de qualquer outro tipo. Apenas aponto para a incoerência de quem defende umas, enquanto ataca outras. Além disso, defender pessoas não nos obriga a subscrever as suas ideias. Caso contrário, os advogados estariam todos a cumprir pena de prisão com os seus clientes.
 
