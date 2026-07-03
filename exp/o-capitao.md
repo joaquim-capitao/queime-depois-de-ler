@@ -2,13 +2,13 @@
 layout: style-dark
 ---
 
-# O Capitão Esquisito
+# O Capitão
 
 Às vezes, ter o nome “Capitão” é uma patente difícil de carregar. Quando me apresento, escuto sempre a mesma piada: *“Então, quando é que passas a major?”* E eu limito-me a esboçar um sorriso forçado. Depois, disparo um facto sobre mim: *“Apesar de ser Capitão, não quis ir à tropa.”* E isso deixa muita gente surpreendida.
 
 ![](https://i.ibb.co/mr5997Xd/Screenshot-2026-06-28-235447.png)
 
-A minha desconfiança em relação à guerra começou cedo. Cresci na cidade de Loures e, a caminho da escola, passava diariamente por um monumento dedicado aos heróis da Primeira Guerra Mundial. Ao olhar para aquele amontoado de pedras, pensava: *“As pedras são péssimas a contar histórias. Nunca falam do choro das mães, nem dos soldados que voltaram sem pernas e sem braços"*. E assim fui desenvolvendo uma atitude de rejeição à guerra.
+A minha desconfiança em relação à guerra começou cedo... Cresci na cidade de Loures e, a caminho da escola, passava diariamente por um monumento dedicado aos soldados da Primeira Guerra Mundial. Ao olhar para aquele amontoado de pedras, pensava: *“As pedras são péssimas a contar histórias. Nunca falam do choro das mães, nem dos soldados que voltaram sem pernas e sem braços"*. E assim fui desenvolvendo uma atitude de rejeição à guerra.
 
 Depois, havia o clássico: *“A tropa faz com que os rapazes se tornem homens.”* Mas eu pensava: *“Se ser homem significa aprender a matar, talvez seja mais prudente permanecer na infância."* Com o tempo, concluí que a paz é muito mais que um conceito bonito. A paz é uma escolha.
 
