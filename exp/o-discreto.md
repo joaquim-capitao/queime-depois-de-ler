@@ -20,7 +20,7 @@ Mas, antes que alguém decida apedrejar-me, gostaria de esclarecer que não esto
 
 Portanto, se as férias do teu vizinho estão a causar-nos úlceras, não devemos culpá-lo. É melhor cuidarmos do estômago. Talvez possamos tomar um chá de gengibre, pois há quem diga que faz muito bem.
 
-E agora, se me dão licença, dou por terminado este texto. Preciso de usar as próximas horas para ficar preso ao ecrã, enquanto aguardo humildemente a minha merecida dose de elogios.
+E agora, se me dão licença, dou por terminado este texto. Preciso de usar as próximas horas para ficar preso ao ecrã, enquanto aguardo humildemente a minha merecida dose de elogios. 
 
 
 <div align="right">Joaquim Capitão</div>
