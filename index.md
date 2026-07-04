@@ -1,5 +1,5 @@
 ---
-layout: style-dark
+layout: style-index
 ---
 
 # QUEIME DEPOIS DE LER
