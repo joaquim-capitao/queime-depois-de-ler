@@ -10,7 +10,7 @@ Com o tempo, também os meus olhos têm testemunhado o planeta tornar-se um luga
 
 Talvez o Alberto tenha descoberto o segredo da longevidade: manter o sentido de humor, mesmo quando o mundo parece ter perdido o juízo.
 
-_________________________________
-Joaquim Capitão
-Ponta Delgada - Açores 
-16/11/2025
+---
+
+<div align="right">Joaquim Capitão</div>
+<div align="right">16/11/2025</div>
