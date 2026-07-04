@@ -36,7 +36,7 @@ layout: style-index
 * [O Bicho-Papão](https://sites.google.com/view/obichopapao/o-bicho-pap%C3%A3o) (27/12/2025)
 * [Tempo](http://simp.ly/p/NPsGyr) (25/12/2025)
 * [Black Friday](http://simp.ly/p/RBDp5s) (28/11/2025)
-* [O meu grande amigo Alberto](http://simp.ly/p/b82sWS)
+* [O meu grande amigo Alberto](https://joaquim-capitao.github.io/queime-depois-de-ler/o-meu-amigo-alberto)
 * [O verdadeiro lar](http://simp.ly/p/CgWxft) (10/11/2025)
 * [As duas hortênsias](http://simp.ly/p/cpTkWb) (05/07/2025)
 * [Beleza eterna](http://simp.ly/p/yJMMGt) (20/05/2024)
