@@ -1,19 +1,3 @@
-.footer-nav {
-  text-align: center;
-  padding: 40px 0;
-  clear: both;
-}
-
-.home-link {
-  font-size: 28px;
-  text-decoration: none;
-  color: #222;
-  transition: opacity 0.2s;
-}
-
-.home-link:hover {
-  opacity: 0.7;
-}
 ---
 layout: style-light
 ---
@@ -42,21 +26,3 @@ Ao contrário do que agora se diz, mudar de opinião não é uma derrota. É ape
 
 <div align="right">Joaquim Capitão</div>
 <div align="right">28/06/2026</div>
-
-.footer-nav {
-  text-align: center;
-  padding: 40px 0;
-  clear: both;
-}
-
-.home-link {
-  font-size: 28px;
-  text-decoration: none;
-  color: #222;
-  transition: opacity 0.2s;
-}
-
-.home-link:hover {
-  opacity: 0.7;
-}
-
