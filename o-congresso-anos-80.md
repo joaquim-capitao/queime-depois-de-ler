@@ -12,6 +12,8 @@ Eu ainda não ando na escola, mas a minha irmã já me ensinou umas letras. Por 
 
 Quando levanto o olhar, vejo o relvado mesmo à minha frente. "Uau!". Afinal, é muito mais verde do que se vê nas televisões a cores! E as bancadas têm tanta gente! Normalmente, não gosto de barulho. Mas aqui o som é feito de alegria, risos e abraços.
 
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/Screenshot%202026-07-09%20205550.png)
+
 A minha mãe estende delicadamente mantas fofinhas para nos sentarmos nas bancadas. Depois, ouve-se uma voz forte e todos se levantam para cantar. Quando escuto o som de tantas vozes juntas, o meu peito estremece.
 
 Durante o dia, as pessoas folheiam as páginas da Bíblia em simultâneo, e o som parece o de batatas a fritar. Tento prestar atenção ao que é dito no palco, mas distraio-me a olhar para os barquinhos que cruzam o rio Tejo, lá ao fundo.
