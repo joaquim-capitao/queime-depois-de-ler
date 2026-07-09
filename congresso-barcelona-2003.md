@@ -1,4 +1,4 @@
-## O CONGRESSO (BARCELONA 2003)
+# O Congresso (Barcelona 2003)
 
 Estamos no verão de 2003 e ​os telejornais só falam sobre a onda de calor que está a sufocar a Europa. Mesmo assim, aqui vamos nós, a caminho de Barcelona!
 
@@ -11,6 +11,8 @@ Estamos no verão de 2003 e ​os telejornais só falam sobre a onda de calor qu
 ​À saída do metro, já existem indicadores a apontar o caminho. Agora, é só seguir a multidão.
 
 ​De repente... o estádio do Barça surge à nossa frente, imponente, decorado com o tema do congresso "Glorifique a Deus", tanto em castelhano como em catalão.
+
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/DSCI0245.JPG)
 
 Fico alguns segundos apenas a olhar, a absorver o momento, e a pensar que este lugar costuma receber rivalidades intensas. Mas hoje será diferente. Não há adversários. Há pessoas que se amam genuinamente.
 
