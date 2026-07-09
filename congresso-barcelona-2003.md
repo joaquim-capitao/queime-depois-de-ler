@@ -27,7 +27,7 @@ Entramos e dirigimo-nos ao setor português. Apesar do calor sufocante, mais de 
 ​A certa altura, sentado entre a minha esposa e a minha irmã, sou invadido por um sentimento sublime: uma paz indescritível.
 
 
-​O REGRESSO
+​### O REGRESSO
 
 ​A caminho de Lisboa, o cansaço físico faz-se sentir, mas o revigoramento espiritual é ainda maior. A certa altura, a minha irmã e o marido começam a falar entre si sobre os planos deles para o futuro. O congresso reforçou-lhes a ideia de mudar para onde há mais necessidade.
 
