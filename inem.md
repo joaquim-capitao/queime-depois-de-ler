@@ -1,3 +1,5 @@
+# Não chamem o INEM
+
 Em 1988, quando o Rui Veloso cantou pela primeira vez o “Fado do Ladrão Enamorado”, ninguém chamou a polícia. O público deve ter compreendido que se tratava de uma criação artística, e não de um assalto. Contudo, nem sempre as pessoas seguem o mesmo critério.
 
 Quando publico um texto mais melancólico, há sempre quem me imagine à janela, num dia de chuva, ao som de um piano triste, a enfrentar uma crise existencial. Então, surgem perguntas como: “Estás bem? Precisas de ajuda?”. E eu fico realmente enternecido, confesso. Mas começo a preocupar-me com a vossa preocupação. 
