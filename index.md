@@ -14,7 +14,7 @@ layout: style-index
 * [O Desporto Perfeito](https://joaquim-capitao.github.io/queime-depois-de-ler/desporto-perfeito) (28/06/2026)
 * [O Congresso em Barcelona em 2003](https://joaquim-capitao.github.io/queime-depois-de-ler/congresso-barcelona-2003) (15/06/2026)
 * [O Congresso](https://joaquim-capitao.github.io/queime-depois-de-ler/o-congresso-anos-80) (07/06/2026)
-* [Não chamem o INEM](https://sites.google.com/view/nochamemoinem/n%C3%A3o-chamem-o-inem) (25/05/2026)
+* [Não chamem o INEM](https://joaquim-capitao.github.io/queime-depois-de-ler/inem) (25/05/2026)
 * [O Luto](http://simp.ly/p/pkdQkb) (26/05/2026)
 * [Variações cromáticas](https://sites.google.com/view/variaescromticas/varia%C3%A7%C3%B5es-crom%C3%A1ticas) (25/05/2026)
 * [A Mulher que alinhava o mundo](https://sites.google.com/view/a-mulher-que-alinhava-o-mundo/a-mulher-que-alinhava-o-mundo) (20/05/2026)
