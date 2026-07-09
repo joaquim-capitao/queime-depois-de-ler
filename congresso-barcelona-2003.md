@@ -1,3 +1,7 @@
+---
+layout: style-light
+---
+
 # O Congresso (Barcelona 2003)
 
 Estamos no verão de 2003 e ​os telejornais só falam sobre a onda de calor que está a sufocar a Europa. Mesmo assim, aqui vamos nós, a caminho de Barcelona!
