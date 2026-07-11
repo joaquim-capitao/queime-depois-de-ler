@@ -38,5 +38,5 @@ Sinto-me tão seguro entre ela e a minha irmã... Não sei o nome do que estou a
 ---
 
 
-> Informação adicional: O meu primeiro congresso foi em 1978, no Estádio do Restelo, mas não tenho qualquer memória desse dia. Tinha apenas alguns meses de idade, o que não ajudou a guardar recordações. Poucos anos depois, no início da década de 80, realizou-se outro congresso no mesmo lugar, e esse é o mais antigo de que tenho lembrança. Não sei precisar a data nem o tema, mas sei bem o que senti.)
+> Informação adicional: O meu primeiro congresso foi em 1978, no Estádio do Restelo, mas não tenho qualquer memória desse dia. Tinha apenas alguns meses de idade, o que não ajudou a guardar recordações. Poucos anos depois, no início da década de 80, realizou-se outro congresso no mesmo lugar, e esse é o mais antigo de que tenho lembrança. Não sei precisar a data nem o tema, mas sei bem o que senti.
 
