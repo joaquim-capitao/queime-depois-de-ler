@@ -22,13 +22,10 @@ Mas sabemos que a *ocasião* não exerce uma força gravitacional irresistível.
 
 Assim como a montra não faz o assaltante, o exame também não faz o copião e o buffet não faz o glutão. (Confesso que, às vezes, tento responsabilizar o buffet pelo facto de comer um pouco mais do que devia. Estranhamente, a minha mulher nunca acredita nas minhas desculpas tão convincentes. Mas essa é outra história...)
 
-Por isso, talvez esteja na altura de reformular o ditado. Em vez de *"A ocasião **faz** o ladrão"", faria muito mais sentido dizer: *"A ocasião **revela** o ladrão."*
+Por isso, talvez esteja na altura de reformular o ditado. Em vez de *"A ocasião **faz** o ladrão"*, faria muito mais sentido dizer: *"A ocasião **revela** o ladrão."*
 
 No fundo, a *ocasião* não cria pessoas honestas nem vigaristas. Apenas acaba com as dúvidas.
 
 ---
 <div align="right">Joaquim Capitão</div>
 <div align="right">14/07/2026</div>
-
-
-#queime-depois-de-ler 
