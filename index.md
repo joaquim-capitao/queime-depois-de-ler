@@ -10,7 +10,7 @@ layout: style-index
 
   
   
-
+* [A ocasião faz o ladrão?](https://joaquim-capitao.github.io/queime-depois-de-ler/a-ocasiao-faz-o-ladrao)
 * [O Desporto Perfeito](https://joaquim-capitao.github.io/queime-depois-de-ler/desporto-perfeito) (28/06/2026)
 * [O Congresso em Barcelona em 2003](https://joaquim-capitao.github.io/queime-depois-de-ler/congresso-barcelona-2003) (15/06/2026)
 * [O Congresso](https://joaquim-capitao.github.io/queime-depois-de-ler/o-congresso-anos-80) (07/06/2026)
