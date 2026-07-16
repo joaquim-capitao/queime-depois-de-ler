@@ -38,13 +38,9 @@ Terminámos o dia cansados no corpo, mas renovados no espírito. Com mais fé, m
 ### **TERCEIRO DIA**
 
 Um evento tão extraordinário como este deveria ter mais cobertura por parte da comunicação social. Mesmo assim, esta pequena reportagem do Jornal de Notícias revela um pouco a respeito do evento:
-
-<div align="center"> <a href="https://www.youtube.com/watch?v=gGVWGWPveYs&t=3s"> <img src="https://i.ibb.co/SDrSRR8T/Screenshot-2026-07-16-163814.png" alt="Assista ao vídeo" width="500"> </a> </div>
-
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/Congresso%20Internacional%202026%20Felicidade%20Eterna%20(Est%C3%A1dio%20do%20Drag%C3%A3o)%20-%20Joaquim%20Capit%C3%A3o%20(720p%2C%20h264).mp4" controls width="100%">
   Seu navegador não suporta a tag de vídeo.
 </video>
-
 
 O terceiro e último dia do congresso chegou quase sem darmos conta. E quando a última sessão começou a aproximar-de do fim, foi impossível não sentir uma mistura de alegria e nostalgia. 
 
