@@ -21,7 +21,6 @@ layout: style-index
 * [Os rabugentos](https://sites.google.com/view/os-rabugentos/os-rabugentos) (01/05/2026)
 * ["O fogo sempre existiu"](https://sites.google.com/view/ofogosempreexistiu/o-fogo) (17/04/2026)
 * [Devíamos dar uma voltinha](http://simp.ly/p/CLVYgN) (06/04/2026)
-* [O menino que inventou a agenda](https://sites.google.com/view/omeninoqueinventouaagenda/o-menino-que-inventou-a-agenda) (29/03/2026)
 * [Carta a um filho](http://simp.ly/p/svZvHc) (21/03/2026)
 * [O Rambo e as Tartarugas](https://sites.google.com/view/o-rambo-e-as-tartarugas/o-rambo-e-as-tartarugas) (18/03/2026)
 * [Entre pandemias e pecados](https://sites.google.com/view/pandemiasepecados/entre-pandemias-e-pecados) (10/03/2026)
