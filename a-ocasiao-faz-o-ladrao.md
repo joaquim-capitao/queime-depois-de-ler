@@ -1,4 +1,4 @@
-apareceu-lhecasiãocasião A ocasião faz o ladrão?
+# A ocasião faz o ladrão?
 
 Há provérbios que envelhecem muito bem. *"Grão a grão enche a galinha o papo"* é um bom exemplo. Até hoje, a ciência ainda não encontrou uma galinha capaz de encher o papo de uma só vez.
 
