@@ -26,5 +26,3 @@ Sinto uma gratidão profunda pelos meus tios Luís e António. Quando voltar a a
 <div align="right">Joaquim Capitão</div>
 <div align="right">19/07/2026</div>
 
-#queime-depois-de-ler 
-
