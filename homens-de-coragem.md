@@ -4,7 +4,7 @@ Em Portugal, houve um tempo em que expressar opiniões diferentes era um risco. 
 
 ![](https://i.ibb.co/spTv1LFG/Gemini-Generated-Image-fsfpbofsfpbofsfp.jpg)
 
-O **Luís**, recém-casado, despediu-se da sua jovem esposa, a Fátima, com a promessa firme de um reencontro. O **António**, ainda solteiro, também partiu para a França, deixando tudo para trás. Mas nenhum deles procurava riqueza ou aventura. Buscavam, sim, liberdade para viver a sua fé.
+O **Luís**, recém-casado, despediu-se da sua jovem esposa, a Fátima, com a promessa firme de um reencontro. O **António**, ainda solteiro, também partiu para França, deixando tudo para trás. Mas nenhum deles procurava riqueza ou aventura. Buscavam, sim, liberdade para viver a sua fé.
 
 Ao cruzarem a fronteira, perceberam rapidamente que as roupas que traziam de Portugal eram inúteis contra o frio e a neve implacáveis daquele lugar. Valeu-lhes, porém, o calor do amor cristão com que foram acolhidos pelos seus irmãos espirituais.
 
