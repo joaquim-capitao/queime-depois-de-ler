@@ -8,7 +8,7 @@ layout: style-index
 
 ## Índice
 
-  
+* [Homens de Coragem](https://joaquim-capitao.github.io/queime-depois-de-ler/homens-de-coragem)
   
 * [A ocasião faz o ladrão?](https://joaquim-capitao.github.io/queime-depois-de-ler/a-ocasiao-faz-o-ladrao) (14/07/2026)
 * [Porto 2026](https://joaquim-capitao.github.io/queime-depois-de-ler/Porto2026) (12/07/2026)
