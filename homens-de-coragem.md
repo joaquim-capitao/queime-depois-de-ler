@@ -1,4 +1,4 @@
-# **Homens de Coragem**
+# Homens de Coragem
 
 Em Portugal, houve um tempo em que expressar opiniões diferentes era um risco. Dizia-se que as paredes tinham ouvidos. E entre os muitos que foram forçados a partir, estavam dois rapazes que, décadas mais tarde, viriam a desempenhar um papel muito importante na minha vida.
 
