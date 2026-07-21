@@ -23,12 +23,15 @@ Ler para os filhos vai além de pronunciar palavras. É estar presente. Cada pá
 <div align="right">Joaquim Capitão</div>
 <div align="right">30/12/2025</div>
 
-* * *
+---
 
 (*) O famoso livro amarelo, "Meu Livro de Histórias Bíblicas", deixou de ser publicado em papel. No entanto, continua disponível em formato digital no site jw.org. Existe uma edição mais recente intitulada "Aprenda com as Histórias da Bíblia", acessível tanto em formato impresso como digital no mesmo site.
 
-"Meu Livro de Histórias Bíblicas" (1978, português do Brasil): [Meu Livro de Histórias Bíblicas | Leia on-line ou baixe gratuitamente](https://www.jw.org/pt/biblioteca/livros/historias-biblicas/)
+"Meu Livro de Histórias Bíblicas" (1978, português do Brasil) 
+https://www.jw.org/pt/biblioteca/livros/historias-biblicas/
 
-"Aprende com as Histórias da Bíblia" (2017, português europeu)  [Aprende com as Histórias da Bíblia](https://www.jw.org/pt-pt/biblioteca/livros/aprende-historias-biblia/)
+"Aprende com as Histórias da Bíblia" (2017, português europeu)  
+https://www.jw.org/pt-pt/biblioteca/livros/aprende-historias-biblia/
+
 
 
