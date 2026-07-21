@@ -17,16 +17,14 @@ Conhecer aquelas 116 histórias não me tornou superior a ninguém, pois, tal co
 Por isso, admiro os pais que, nos dias agitados da atualidade, também leem para os filhos. Ao escutarem a leitura, as crianças exercitam a imaginação, ampliam o vocabulário, fortalecem a empatia e compreendem que cada atitude tem consequências. Dessa forma, desenvolvem capacidades fundamentais para viver em sociedade.
 
 Ler para os filhos vai além de pronunciar palavras. É estar presente. Cada página é um gesto de amor e uma semente de virtudes que ficará gravada no coração das crianças mesmo depois de o livro se fechar. É uma maneira bonita de lhes dizer que têm valor e que nunca estarão sozinhos.
-
 ---
-
 <div align="right">Joaquim Capitão</div>
 <div align="right">30/12/2025</div>
 
-(*) O famoso livro amarelo, *"Meu Livro de Histórias Bíblicas"*, deixou de ser publicado em papel. No entanto, continua disponível em formato digital no site jw.org. Existe uma edição mais recente intitulada *"Aprenda com as Histórias da Bíblia"*, acessível tanto em formato impresso como digital no mesmo site.
+---
+* O famoso livro amarelo, *"Meu Livro de Histórias Bíblicas"*, deixou de ser publicado em papel. No entanto, continua disponível em formato digital no site jw.org. Existe uma edição mais recente intitulada *"Aprenda com as Histórias da Bíblia"*, acessível tanto em formato impresso como digital no mesmo site.
 
 ["Meu Livro de Histórias Bíblicas"](https://www.jw.org/pt/biblioteca/livros/historias-biblicas/) (1978, português do Brasil) 
-
 ["Aprende com as Histórias da Bíblia"](https://www.jw.org/pt-pt/biblioteca/livros/aprende-historias-biblia/) (2017, português europeu)  
 
 
