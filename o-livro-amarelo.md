@@ -25,7 +25,7 @@ Ler para os filhos vai além de pronunciar palavras. É estar presente. Cada pá
 
 ---
 
-(*)
+Nota:
 O famoso livro amarelo, *"Meu Livro de Histórias Bíblicas"*, deixou de ser publicado em papel. No entanto, continua disponível em formato digital no site jw.org. Existe uma edição mais recente intitulada *"Aprenda com as Histórias da Bíblia"*, acessível tanto em formato impresso como digital no mesmo site.
 
 
