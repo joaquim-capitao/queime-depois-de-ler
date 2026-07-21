@@ -1,3 +1,7 @@
+---
+layout: style-light
+---
+
 # O LIVRO AMARELO
 
 Quando as suas mãos delicadas abriam o "livro amarelo"*, eu sabia que estávamos prestes a iniciar uma viagem extraordinária. Aconchegado ao seu lado, eu percorria terras longínquas, assistia a batalhas épicas e presenciava atos de bondade e bravura.
@@ -14,11 +18,10 @@ Por isso, admiro os pais que, nos dias agitados da atualidade, também leem para
 
 Ler para os filhos vai além de pronunciar palavras. É estar presente. Cada página é um gesto de amor e uma semente de virtudes que ficará gravada no coração das crianças mesmo depois de o livro se fechar. É uma maneira bonita de lhes dizer que têm valor e que nunca estarão sozinhos.
 
-* * *
+---
 
-Joaquim Capitão
-
-Ponta Delgada, Açores 30/12/2025
+<div align="right">Joaquim Capitão</div>
+<div align="right">30/12/2025</div>
 
 * * *
 
