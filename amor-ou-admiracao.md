@@ -11,7 +11,7 @@ Se formos aos textos bíblicos (o maior repositório de dramas humanos), encontr
 
 Veja-se o caso de <ins>**Sansão**</ins>, que tinha uma densidade capilar invejável e força física para derrotar um exército com a queixada de um burro. Os filisteus temiam-no e o povo de Israel admirava-o. No entanto, quando Sansão deitou-se nos joelhos de Dalila, ele não queria elogios aos bíceps. Queria ser amado. Queria fechar os olhos e descansar. E o que é que Dalila fez? Ofereceu-lhe um corte de cabelo que lhe arruinou a vida. 
 
-O exemplo de **Jesus** ensina-nos também que a admiração é condicional. Certo dia, o povo estendeu-lhe ramos de palmeira e aclamou-o como rei. Jesus era o homem do momento! Era o homem que multiplicava deliciosos farnéis. Como não admirar alguém assim? Mas, apenas cinco dias depois, quando viram Jesus como um prisioneiro vulnerável, ninguém se atreveu a defendê-lo. Houve até quem gritasse: *"Para a estaca com ele!"*. Isso mostra como os humanos trocam rapidamente a admiração pelo linchamento público.
+O exemplo de <ins>**Jesus**</ins> ensina-nos também que a admiração é condicional. Certo dia, o povo estendeu-lhe ramos de palmeira e aclamou-o como rei. Jesus era o homem do momento! Era o homem que multiplicava deliciosos farnéis. Como não admirar alguém assim? Mas, apenas cinco dias depois, quando viram Jesus como um prisioneiro vulnerável, ninguém se atreveu a defendê-lo. Houve até quem gritasse: *"Para a estaca com ele!"*. Isso mostra como os humanos trocam rapidamente a admiração pelo linchamento público.
 
 O amor, por sua vez, é o oposto de tudo isso. Quem nos ama suporta até o nosso hálito matinal, mesmo que pareça que passámos a noite a mastigar um dente de alho. Quem nos ama vê a nossa decadência biológica, as nossas idiossincrasias, e diz: *"Ok... Ele é mesmo uma desgraça... Mas, mesmo assim, eu amo-o"*.
 
@@ -26,8 +26,4 @@ E isso, meus amigos, não tem preço.
 <div align="right">Joaquim Capitão</div>
 <div align="right">26/07/2026</div>
 
-
-
-
-#queime-depois-de-ler 
 
