@@ -9,7 +9,7 @@ A **admiração** é um sentimento que exige uma certa distância de segurança.
 
 Se formos aos textos bíblicos (o maior repositório de dramas humanos), encontramos muitos outros exemplos extraordinários de como funciona a admiração.
 
-Veja-se o caso de **Sansão**, que tinha uma densidade capilar invejável e força física para derrotar um exército com a queixada de um burro. Os filisteus temiam-no e o povo de Israel admirava-o. No entanto, quando Sansão deitou-se nos joelhos de Dalila, ele não queria elogios aos bíceps. Queria ser amado. Queria fechar os olhos e descansar. E o que é que Dalila fez? Ofereceu-lhe um corte de cabelo que lhe arruinou a vida. 
+Veja-se o caso de <ins>**Sansão**</ins>, que tinha uma densidade capilar invejável e força física para derrotar um exército com a queixada de um burro. Os filisteus temiam-no e o povo de Israel admirava-o. No entanto, quando Sansão deitou-se nos joelhos de Dalila, ele não queria elogios aos bíceps. Queria ser amado. Queria fechar os olhos e descansar. E o que é que Dalila fez? Ofereceu-lhe um corte de cabelo que lhe arruinou a vida. 
 
 O exemplo de **Jesus** ensina-nos também que a admiração é condicional. Certo dia, o povo estendeu-lhe ramos de palmeira e aclamou-o como rei. Jesus era o homem do momento! Era o homem que multiplicava deliciosos farnéis. Como não admirar alguém assim? Mas, apenas cinco dias depois, quando viram Jesus como um prisioneiro vulnerável, ninguém se atreveu a defendê-lo. Houve até quem gritasse: *"Para a estaca com ele!"*. Isso mostra como os humanos trocam rapidamente a admiração pelo linchamento público.
 
