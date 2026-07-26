@@ -1,3 +1,7 @@
+---
+layout: style-light
+---
+
 # O Rambo e as Tartarugas
 
 Já me disseram que isto de expressar sentimentos é uma coisa pouco recomendável. Ao que parece, é melhor andar por aí com a expressividade do Rambo, aquele herói de ação dos anos 80. Segundo me dizem, demonstrar sentimentos é perigoso, pois há sempre alguém pronto a aproveitar-se da mais pequena fragilidade.
