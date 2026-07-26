@@ -3,7 +3,7 @@
 
 Todos nós gostamos que apontem para nós e digam: *"Olha ali aquele indivíduo espetacular!"*  No entanto, esse desejo por admiração pode tornar-se uma armadilha. É fácil confundir *"ser admirado"* com *"ser amado"*, quando, na realidade, são coisas muito diferentes.
 
-A **admiração** é um sentimento que exige uma certa distância de segurança. Só admiramos aquilo que não nos chateia. É por isso que as estátuas fazem tanto sucesso. Ninguém vai à Praça do Comércio porque nutre um profundo afeto pelo rei D. José I. Mas, como ele está lá no alto, sempre impecável, sem caspa e sem opiniões, até os turistas lhe tiram fotografias.
+A **admiração** é um sentimento que exige uma certa distância de segurança. Só admiramos aquilo que não nos chateia. É por isso que as estátuas fazem tanto sucesso. Ninguém vai à Praça do Comércio porque nutre um profundo afeto pelo rei D. José I. Mas, como ele está lá no alto, sempre impecável, sem caspa e sem opiniões, os turistas fotografam-no como se fosse o protagonista de Top Gun.
 
 ![](https://i.ibb.co/tM2NQmfM/Screenshot-2026-07-02-161441.jpg)
 
