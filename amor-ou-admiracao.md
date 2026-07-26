@@ -15,6 +15,8 @@ O exemplo de <ins>**Jesus**</ins> ensina-nos também que a admiração é condic
 
 O amor, por sua vez, é o oposto de tudo isso. Quem nos ama suporta até o nosso hálito matinal, mesmo que pareça que passámos a noite a mastigar um dente de alho. Quem nos ama vê a nossa decadência biológica, as nossas idiossincrasias, e diz: *"Ok... Ele é mesmo uma desgraça... Mas, mesmo assim, eu amo-o"*.
 
+Esta <span style="color: red;">palavra</span> ficou vermelha.
+
 Dito isto, concluo que passar a vida em busca de admiração é como viver permanentemente em cima de um palco, de fato brilhante, a sorrir para o público. Torna-se cansativo, dá dores nas costas e, ao mínimo percalço, a plateia vai pedir a devolução do valor do bilhete. 
 
 Prefiro, portanto, vestir o meu pijama gasto e ir para junto de quem me ama. Ali, quando eu errar, não serei vaiado. No máximo, levarei com um revirar de olhos (que, aqui para nós, até acho fofo).
