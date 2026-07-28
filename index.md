@@ -59,7 +59,7 @@ layout: style-index
 * [Os ultracrepidários](http://simp.ly/p/s9HSvN) (12/01/2015)
 
 <footer style="text-align: center; margin-top: 60px; padding: 30px 0; clear: both;">
-            <a href="{{ 'https://joaquim-capitao.github.io/' | relative_url }}" style="text-decoration: none; color: inherit; display: inline-flex; flex-direction: column; align-items: center; gap: 8px; opacity: 0.8; transition: opacity 0.2s;" title="Voltar ao índice">
+            <a href="{{ 'https://joaquim-capitao.github.io/' | relative_url }}" style="text-decoration: none; color: inherit; display: inline-flex; flex-direction: column; align-items: center; gap: 8px; opacity: 0.8; transition: opacity 0.2s;" title="Página Inicial">
                 <span style="font-size: 36px; line-height: 1;">🏠</span>
                 <span style="font-size: 14px; font-family: sans-serif; letter-spacing: 1px; text-transform: uppercase;">Início</span>
             </a>
