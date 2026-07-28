@@ -10,3 +10,7 @@ Hoje, por exemplo, o olhar atento dessa família traduziu-se num gesto simples: 
 
 Realmente, partilhar gargalhadas e conversar sobre temas de interesse comum pode ser algo muito prazeroso. Mas a verdadeira amizade vai mais longe: revela-se na capacidade de perceber as necessidades dos outros e na coragem de agir. No fundo, é essa combinação de amor e iniciativa que distingue os simples conhecidos dos amigos para toda a vida.
 
+---
+
+<div align="right">Joaquim Capitão</div>
+<div align="right">12/01/2026</div>
