@@ -31,7 +31,7 @@ layout: style-index
 * [A escrita](https://sites.google.com/view/aescrita/a-escrita) (13/02/2026)
 * [O sacrifício invisível](https://sites.google.com/view/sacrificioinvisivel/joaquim-capit%C3%A3o) (08/02/2026)
 * [A menina das mensagens](http://simp.ly/p/g8Xr6k) (05/02/2026)
-* [Amigos para toda a vida](http://simp.ly/p/fgxP2v) (12/01/2026)
+* [Amigos para toda a vida](https://joaquim-capitao.github.io/queime-depois-de-ler/amigos-para-toda-a-vida) (12/01/2026)
 * [O livro amarelo](https://joaquim-capitao.github.io/queime-depois-de-ler/o-livro-amarelo) (30/12/2025)
 * [O Bicho-Papão](https://sites.google.com/view/obichopapao/o-bicho-pap%C3%A3o) (27/12/2025)
 * [Tempo](http://simp.ly/p/NPsGyr) (25/12/2025)
