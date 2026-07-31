@@ -14,7 +14,7 @@ Por isso, não sofram por minha causa. O que escrevo é apenas um desfile das mi
 
 Não estou, portanto, a pedir ajuda, mas a partilhar um pouco de mim com vocês, o meu grupo seleto de leitores em quem reconheço tanta sabedoria. É por isso que aceito, de bom grado, o vosso feedback, as vossas críticas e sugestões.
 
-Uma última nota sobre "indiretas"
+### Uma última nota sobre "indiretas"
 
 Nunca as escrevo. Portanto, não me perguntem: “Isso era para quem?”. Essa suspeita é ofensiva, não para mim, mas para os verdadeiros profissionais da intriga e do mexerico. Eles exercem a sua atividade com muito mais empenho do que eu, mesmo sem dominarem as regras da pontuação. Não é justo compará-los comigo. Essa gente merece respeito!
 
