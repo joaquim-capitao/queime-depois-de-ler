@@ -34,5 +34,3 @@ E tu? Diz-me, com sinceridade: quantas vezes já apontaste o dedo ao *Abílio* d
 
 <div align="right">Joaquim Capitão</div>
 <div align="right">02/08/2026</div>
-
-#queime-depois-de-ler 
