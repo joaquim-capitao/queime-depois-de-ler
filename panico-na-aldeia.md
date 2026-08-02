@@ -6,11 +6,11 @@ layout: style-light
 
 Encostada ao balcão da mercearia, a D. Alzira foi a primeira a lançar o alerta: *"Então não é que o Abílio da farmácia, que sempre nos pareceu tão boa pessoa, afinal é vegetariano?!"*
 
+![](https://i.ibb.co/hJKMr8DW/Gemini-Generated-Image-59w03t59w03t59w0-1.jpg)
+
 A aldeia entrou em estado de choque. Houve quem se benzesse. Houve quem jurasse que já desconfiava. Mas ninguém queria acreditar.
 
 *"Escutem lá..."*, acrescentou a D. Alzira. *"Um homem que se recusa a comer cozido à portuguesa aos domingos terá discernimento para manusear caixas de Ben-u-ron e aviar xaropes para a tosse?"* E a dúvida era legítima. Realmente, nunca ninguém tinha visto um vegetariano a trabalhar numa farmácia. 
-
-![](https://i.ibb.co/hJKMr8DW/Gemini-Generated-Image-59w03t59w03t59w0-1.jpg)
 
 O senhor Gilberto, dono do Café Central, elevou a discussão para outro patamar. Com o dedo indicador espetado, perguntou à plateia estarrecida: *"Como é que se confia num homem que não come chouriço? Digam-me lá! Como?"*
 
