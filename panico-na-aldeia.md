@@ -20,7 +20,7 @@ Ao fim da tarde, no adro da igreja, os analistas geopolíticos da aldeia, devida
 
 O raciocínio era de uma lógica cristalina e irrefutável: *"Hoje é o farmacêutico. Amanhã é o carteiro... Em seis meses fecha o talho do Fernando. E, antes do próximo Natal, a civilização ocidental já se desmoronou, dando lugar a uma ditadura que nos vai obrigar a comer tofu e sementes de chia. É o fim!!!"*
 
-Mas o pior aconteceu ao fim do dia. O senhor Abílio subiu a escadaria do prédio a assobiar e, distraído, cometeu o delito de deixar o portão aberto. Não passaram dez minutos até que a vizinha do primeiro andar detetasse a falha de segurança.
+Mas o pior aconteceu ao fim do dia. O Abílio subiu a escadaria do prédio a assobiar e, distraído, cometeu o delito de deixar o portão aberto. Não passaram dez minutos até que a vizinha do primeiro andar detetasse a falha de segurança.
 
 *"Viram o portão escancarado?",* sussurrou da varanda para os outros vizinhos. *"Pois claro! O homem deixou de comer salsichas frescas!..."*
 
