@@ -6,7 +6,7 @@ layout: style-light
 
 Encostada ao balcão da mercearia, a D. Alzira foi a primeira a lançar o alerta: *"Então não é que o Abílio da farmácia, que sempre nos pareceu tão boa pessoa, afinal é vegetariano?!"*
 
-![](https://i.ibb.co/hJKMr8DW/Gemini-Generated-Image-59w03t59w03t59w0-1.jpg)
+![](https://i.ibb.co/xSXhMBHY/1000130793.jpg)
 
 A aldeia entrou em estado de choque. Houve quem se benzesse. Houve quem jurasse que já desconfiava. Mas ninguém queria acreditar.
 
