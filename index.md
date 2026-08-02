@@ -8,7 +8,7 @@ layout: style-index
 
 ## Índice
 
-* [Pânico na Aldeia](https://joaquim-capitao.github.io/queime-depois-de-ler/panico-na-aldeia)
+* [Pânico na Aldeia](https://joaquim-capitao.github.io/queime-depois-de-ler/panico-na-aldeia) (02/08/2026)
 * [Amor ou Admiração?](https://joaquim-capitao.github.io/queime-depois-de-ler/amor-ou-admiracao) (26/07/2026)
 * [Homens de Coragem](https://joaquim-capitao.github.io/queime-depois-de-ler/homens-de-coragem) (19/07/2026)
 * [A ocasião faz o ladrão?](https://joaquim-capitao.github.io/queime-depois-de-ler/a-ocasiao-faz-o-ladrao) (14/07/2026)
