@@ -1,3 +1,7 @@
+---
+layout: style-light
+---
+
 # Pânico na Aldeia
 
 Encostada ao balcão da mercearia, a D. Alzira foi a primeira a lançar o alerta: *"Então não é que o Abílio da farmácia, que sempre nos pareceu tão boa pessoa, afinal é vegetariano?!"*
