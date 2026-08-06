@@ -2,9 +2,9 @@
 
 Encostada ao balcão da mercearia, a D. Alzira foi a primeira a lançar o alerta: *"Então não é que o Abílio da farmácia, que sempre nos pareceu tão boa pessoa, afinal é vegetariano?!"*
 
-![](https://i.ibb.co/xSXhMBHY/1000130793.jpg)
-
 A aldeia entrou em estado de choque. Houve quem se benzesse. Houve quem jurasse que já desconfiava. Mas ninguém queria acreditar.
+
+![](https://i.ibb.co/xSXhMBHY/1000130793.jpg)
 
 *"Escutem lá..."*, acrescentou a D. Alzira. *"Um homem que se recusa a comer cozido à portuguesa aos domingos terá discernimento para manusear caixas de Ben-u-ron e aviar xaropes para a tosse?"* E a dúvida era legítima. Realmente, nunca ninguém tinha visto um vegetariano a trabalhar numa farmácia. 
 
