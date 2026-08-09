@@ -27,14 +27,14 @@ Naquele momento tão sublime, a estrutura do estádio parece tremer. Quarenta mi
 
 Mesmo feridos pelas batalhas da vida, cantam em uníssono uma verdade inegável: 
 
-"Só na minha força 
-eu não vou conseguir. 
-Mas, contigo ao meu lado, 
-eu não vou desistir. 
-Quero ter coragem 
-p’ra tudo enfrentar; 
-nem prisões, nem mesmo a morte 
-me podem derrotar!"
+"Só na minha força  
+eu não vou conseguir.   
+Mas, contigo ao meu lado,   
+eu não vou desistir.   
+Quero ter coragem   
+p’ra tudo enfrentar;   
+nem prisões, nem mesmo a morte   
+me podem derrotar!"    
 
 É o triunfo da alegria sobre o desgosto. Uma fé imensa que não se curva perante a dor. Naquele momento, quarenta mil almas resgatam o fôlego perdido e encontram uma força que não sabiam ter!
 
