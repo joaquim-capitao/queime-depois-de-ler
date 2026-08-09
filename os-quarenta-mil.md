@@ -13,7 +13,7 @@ Após o cântico, todos voltam a sentar-se. Então, a Francisca e o José repara
 
 O jovem João olha para o **Pedro**, de 45 anos, de pé no topo da bancada com o seu colete de *Indicador*. O jovem julga que a estabilidade do Pedro seria a salvação, mas não imagina que aquele chefe de família tem a cabeça a latejar, esmagado pelos gritos do patrão, do toque frenético dos telefones e dos prazos sufocantes da empresa onde trabalha. Como se libertará de tanta pressão, se ainda lhe faltam mais de vinte anos para a reforma?
 
-Mas ao seu lado está o **César**, reformado há um ano, que carrega no peito o peso de uma mancha cinzenta. Enquanto escuta discursos tão edificantes, não consegue evitar que a sua mente seja assaltada, de vez em quando, pela palavra *tumor*, pronunciada com frieza numa consulta médica recente. É um lembrete de que o tempo lhe escorre entre os dedos, como areia fina. Pergunta-se, em silêncio, se viverá o suficiente para assistir a mais congressos como este.
+Mas ao seu lado está o **César**, reformado há um ano, que carrega no peito o peso de uma mancha cinzenta. Enquanto escuta discursos tão edificantes, não consegue evitar que a sua mente seja assaltada, de vez em quando, pela palavra *tumor*, pronunciada com frieza numa consulta médica recente. É um lembrete de que o tempo escorre como areia fina entre os seus dedos. Então, pergunta-se, em silêncio, se viverá o suficiente para assistir a mais congressos como este.
 
 Nesse preciso momento, um cântico e uma oração marcam o fim daqueles três dias de imenso conforto; um congresso revigorante que ajudou todos aqueles irmãos a se distanciarem, tanto quanto possível, dos seus dramas pessoais. Mas, de forma inesperada, começa a tocar um cântico adicional. Depois outro. E mais outro...
 
