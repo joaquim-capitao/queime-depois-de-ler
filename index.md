@@ -24,7 +24,7 @@ layout: style-index
 * [Os rabugentos](https://sites.google.com/view/os-rabugentos/os-rabugentos) (01/05/2026)
 * ["O fogo sempre existiu"](https://sites.google.com/view/ofogosempreexistiu/o-fogo) (17/04/2026)
 * [Devíamos dar uma voltinha](https://joaquim-capitao.github.io/queime-depois-de-ler/deviamos-dar-uma-voltinha) (06/04/2026)
-* [Carta a um filho](http://simp.ly/p/svZvHc) (21/03/2026)
+* [Carta a um filho](https://joaquim-capitao.github.io/queime-depois-de-ler/carta-a-um-filho) (21/03/2026)
 * [O Rambo e as Tartarugas](http://joaquim-capitao.github.io/queime-depois-de-ler/o-rambo-e-as-tartarugas) (18/03/2026)
 * [Entre pandemias e pecados](https://sites.google.com/view/pandemiasepecados/entre-pandemias-e-pecados) (10/03/2026)
 * [O fruto do espírito](http://simp.ly/p/qBTR1M) (02/03/2026)
