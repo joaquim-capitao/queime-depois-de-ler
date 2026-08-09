@@ -18,7 +18,7 @@ layout: style-index
 * [O Congresso em Barcelona em 2003](https://joaquim-capitao.github.io/queime-depois-de-ler/congresso-barcelona-2003) (15/06/2026)
 * [O Congresso](https://joaquim-capitao.github.io/queime-depois-de-ler/o-congresso-anos-80) (07/06/2026)
 * [Não chamem o INEM](https://joaquim-capitao.github.io/queime-depois-de-ler/inem) (25/05/2026)
-* [O Luto](http://simp.ly/p/pkdQkb) (26/05/2026)
+* [O Luto](https://joaquim-capitao.github.io/queime-depois-de-ler/o-luto) (26/05/2026)
 * [Variações cromáticas](https://joaquim-capitao.github.io/queime-depois-de-ler/variacoes-cromaticas) (25/05/2026)
 * [A Mulher que alinhava o mundo](https://sites.google.com/view/a-mulher-que-alinhava-o-mundo/a-mulher-que-alinhava-o-mundo) (20/05/2026)
 * [Os rabugentos](https://sites.google.com/view/os-rabugentos/os-rabugentos) (01/05/2026)
