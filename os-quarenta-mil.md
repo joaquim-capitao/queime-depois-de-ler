@@ -7,11 +7,11 @@ A **Maria** ajeita a gola da camisa com a mão que ainda lhe treme. Por mais que
 
 Por breves momentos, o seu olhar fixa-se numa mulher jovem sentada à sua frente e, secretamente, inveja-lhe a paz e a serenidade. Mas não sabe que essa jovem, a **Filipa**, com 28 anos, também carrega uma enorme ansiedade no coração. Ano após ano, aguarda por um olhar de interesse que a resgate da solidão. Mas esse olhar nunca acontece. Mais um ano está a passar, e permanece sozinha, sem ninguém com quem partilhar a vida.
 
-Perto dali, na mesma bancada, um casal entrelaça as mãos durante o cântico. Ao vê-los tão unidos, a Filipa tenta conter as lágrimas. *"Queria tanto experimentar aquela felicidade..."*, pensa ela. Mas, a Filipa não sabe que o **José** e a **Francisca**, casados há 25 anos, estão a enfrentar o seu pior pesadelo. Enquanto limpa discretamente a lágrima que escorre pelo rosto, a Francisca pensa no filho adolescente que preferiu ficar em casa. O rapaz tornou-se rebelde, sem rumo, e eles perguntam a si mesmos onde foi que falharam como pais.
+Perto dali, na mesma bancada, um casal entrelaça as mãos durante o cântico. Ao vê-los tão unidos, a Filipa lamenta no íntimo: *"Queria tanto experimentar aquela felicidade...". Mas, a Filipa não sabe que o **José** e a **Francisca**, casados há 25 anos, estão a enfrentar o seu pior pesadelo. Enquanto limpa discretamente a lágrima que escorre pelo rosto, a Francisca pensa no filho adolescente que preferiu ficar em casa. O rapaz tornou-se rebelde, sem rumo, e eles perguntam a si mesmos onde foi que falharam como pais.
 
-Após o cântico, voltam a sentar-se. Então, a Francisca e o José reparam num jovem impecável, concentrado a tomar apontamentos. "Se ao menos o nosso filho fosse assim...", pensam eles. Mas aquele rapaz, o **João**, trava o seu próprio combate. Cada perfume feminino que paira no ar e cada silhueta elegante despertam-lhe a lembrança da colega de escola que diariamente lhe murmura provocações atrevidas. Determinado a resistir, o João anseia pela entrada no mundo do trabalho, certo de que a maturidade lhe trará alívio.
+Após o cântico, voltam a sentar-se. Então, a Francisca e o José reparam num adolescente impecável, concentrado a tomar apontamentos. *"Se ao menos o nosso filho fosse assim..."*, pensam eles. Mas aquele rapaz, o **João**, trava o seu próprio combate. Cada perfume feminino que paira no ar e cada silhueta elegante despertam-lhe a lembrança da colega de escola que diariamente lhe murmura provocações atrevidas. Determinado a resistir, o João anseia pela entrada no mundo do trabalho, certo de que a vida adulta é muito mais fácil.
 
-O jovem João olha para o **Pedro**, de 45 anos, de pé no topo da bancada com o seu colete de *Indicador*. O jovem julga que a estabilidade do Pedro seria a salvação, mas não imagina que aquele chefe de família tem a cabeça a latejar, esmagado pelos gritos do patrão, do toque frenético dos telefones e dos prazos sufocantes da empresa. Como se libertará de tanta pressão, se ainda lhe faltam mais de vinte anos para a reforma?
+O jovem João olha para o **Pedro**, de 45 anos, de pé no topo da bancada com o seu colete de *Indicador*. O jovem julga que a estabilidade do Pedro seria a salvação, mas não imagina que aquele chefe de família tem a cabeça a latejar, esmagado pelos gritos do patrão, do toque frenético dos telefones e dos prazos sufocantes da empresa onde trabalha. Como se libertará de tanta pressão, se ainda lhe faltam mais de vinte anos para a reforma?
 
 Mas ao seu lado está o **César**, reformado há um ano, que carrega no peito o peso de uma mancha cinzenta num exame recente. Enquanto escuta discursos tão edificantes, não consegue evitar que a sua mente seja assaltada, de vez em quando, pela palavra *tumor*, pronunciada com frieza pelo médico. É um lembrete de que o tempo lhe escorre entre os dedos, como areia fina. Pergunta-se, em silêncio, se viverá o suficiente para assistir a mais congressos como este.
 
@@ -46,5 +46,3 @@ Ao regressarem a casa, levam consigo a certeza absoluta de que, onde habita a es
 <div align="right">Joaquim Capitão</div>
 <div align="right">09/08/2026</div>
 
-
-#queime-depois-de-ler 
