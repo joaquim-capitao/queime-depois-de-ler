@@ -13,11 +13,11 @@ Ao sentarem-se após o cântico, a Francisca e o José reparam num jovem impecá
 
 O jovem João olha para o **Pedro**, de 45 anos, de pé no topo da bancada com o seu colete de *indicador*. O jovem julga que a estabilidade do Pedro seria a salvação, mas não imagina que aquele chefe de família tem a cabeça a latejar, esmagado pela memória dos gritos do patrão, do toque frenético dos telefones e dos prazos sufocantes da empresa. Como se libertará de tanta pressão, se ainda lhe faltam mais de vinte anos para a reforma?
 
-Mas ao seu lado está o **César**, reformado um ano, que carrega no peito o peso de uma mancha cinzenta num exame recente. A palavra *tumor*, pronunciada com frieza pelo médico, surge-lhe na mente no meio dos discursos edificantes, lembrando-lhe que o tempo lhe escorre entre os dedos como areia fina. Pergunta-se, em silêncio, se viverá o suficiente para assistir a mais congressos como aquele.
+Mas ao seu lado está o **César**, reformado há um ano, que carrega no peito o peso de uma mancha cinzenta num exame recente. A palavra *tumor*, pronunciada com frieza pelo médico, surge-lhe na mente no meio dos discursos edificantes, lembrando-lhe que o tempo lhe escorre entre os dedos como areia fina. Pergunta-se, em silêncio, se viverá o suficiente para assistir a mais congressos como este.
 
 Nesse momento, um cântico e uma oração marcam o fim daqueles três dias de imenso conforto; um congresso revigorante que ajudou todos aqueles irmãos a se desligarem, tanto quanto possível, dos seus dramas pessoais. Mas, de forma inesperada, começa a tocar um cântico adicional. Depois outro. E mais outro...
 
-Em uníssono, quarenta mil vozes erguem-se num entusiasmo emocionante, transformando as bancadas do **Estádio do Dragão** num local de adoração, onde ninguém, apesar das suas batalhas secretas, está verdadeiramente sozinho.
+Em uníssono, quarenta mil vozes erguem-se num entusiasmo emocionante, transformando as bancadas do **Estádio do Dragão** num local de pura união, onde ninguém, apesar das suas batalhas secretas, está verdadeiramente sozinho.
 
 ![](https://i.ibb.co/m5j1VvNz/1000132858.jpg)
 
@@ -29,7 +29,7 @@ Mesmo feridos pelas batalhas da vida, cantam em uníssono uma verdade inegável:
 
 É o triunfo da alegria sobre o desgosto. Uma fé imensa que não se curva perante a dor. Naquele momento, quarenta mil almas resgatam o fôlego perdido e encontram uma força que não sabiam ter!
 
-Ao regressarem a casa, levam consigo a certeza absoluta de que, onde habita a esperança, nem o medo, nem a solidão, nem a própria morte terão a última palavra.
+Ao regressarem a casa, levam consigo a certeza absoluta de que, onde habita a esperança, nem o medo, nem a solidão, nem a própria morte têm a última palavra.
 
 
 ---
