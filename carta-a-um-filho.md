@@ -23,5 +23,6 @@ Chego à conclusão de que amar um filho, ou alguém que se torna como tal, não
 
 ---
 
-Joaquim Capitão  
-21/03/2026
+<div align="right">Joaquim Capitão</div>  
+<div align="right">21/03/2026</div>div
+
