@@ -3,6 +3,8 @@
 
 A **Maria** ajeita a gola do casaco com a mão que ainda lhe treme. Por mais que tente evitar, o barulho da porta a bater com violência continua a ecoar-lhe na mente. Durante o dia, várias vezes lhe veio à memória a imagem do marido, cercado de garrafas e cigarros, a vociferar ameaças.
 
+![](https://i.ibb.co/FbJjnV3m/1000132853.png)
+
 Por breves momentos, o seu olhar fixa-se numa mulher jovem sentada à sua frente. Secretamente, inveja-lhe a paz e a serenidade. Mas não sabe que a **Filipa**, com 28 anos, também carrega uma enorme ansiedade no coração. Ano após ano, aguarda ver no rosto dos rapazes um único olhar de interesse que a resgate da solidão. Mas esse olhar nunca acontece. Mais um ano está a passar, e permanece sozinha, sem ninguém com quem partilhar a vida.
 
 Perto dali, na mesma bancada, um casal entrelaça as mãos durante o cântico. Ao vê-los tão unidos, a Filipa tenta conter as lágrimas. Queria tanto experimentar aquela felicidade... Mas, o que ela não sabe é que o **José** e a **Francisca**, casados há 25 anos, enfrentam o seu pior pesadelo. Discretamente, a Francisca limpa a lágrima que lhe escorre pelo rosto, enquanto pensa no filho adolescente que preferiu ficar em casa. O rapaz tornou-se rebelde, sem rumo, e eles perguntam a si mesmos onde foi que falharam como pais.
