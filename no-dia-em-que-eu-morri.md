@@ -2,6 +2,8 @@
 
 À entrada do hospital, exausto até ao limite, o meu corpo deixou de conseguir sustentar-se. Encostei-me a uma parede e fui deslizando devagar até ficar sentado no chão, amarrotado como um objeto esquecido. Continuava a respirar, mas sei que uma parte de mim morreu ali.
 
+![](https://i.ibb.co/35YhqzMR/hospital.jpg)
+
 Momentos antes, entre o grito agudo das sirenes e vozes abafadas por máscaras, vi passar numa maca a pessoa que, durante décadas, tinha sido o meu centro de equilíbrio. Vi-a desaparecer para lá de umas portas que se fecharam sem dramatismo nem cerimónia, apenas com a frieza de mais um dia rotineiro.
 
 Disseram-me então que não podia entrar. Falaram de protocolos, de regras, da pandemia... Disseram outras coisas também, mas deixei de as ouvir. Apenas procurei uma parede onde me pudesse apoiar, para deixar o corpo ceder.
