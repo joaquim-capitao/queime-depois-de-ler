@@ -21,7 +21,7 @@ layout: style-index
 * [O Luto](https://joaquim-capitao.github.io/queime-depois-de-ler/o-luto) (26/05/2026)
 * [Variações cromáticas](https://joaquim-capitao.github.io/queime-depois-de-ler/variacoes-cromaticas) (25/05/2026)
 * [A Mulher que alinhava o mundo](https://sites.google.com/view/a-mulher-que-alinhava-o-mundo/a-mulher-que-alinhava-o-mundo) (20/05/2026)
-* [Os rabugentos](https://sites.google.com/view/os-rabugentos/os-rabugentos) (01/05/2026)
+* [Os rabugentos](https://joaquim-capitao.github.io/queime-depois-de-ler/os-rabugentos) (01/05/2026)
 * ["O fogo sempre existiu"](https://sites.google.com/view/ofogosempreexistiu/o-fogo) (17/04/2026)
 * [Devíamos dar uma voltinha](https://joaquim-capitao.github.io/queime-depois-de-ler/deviamos-dar-uma-voltinha) (06/04/2026)
 * [Carta a um filho](https://joaquim-capitao.github.io/queime-depois-de-ler/carta-a-um-filho) (21/03/2026)
