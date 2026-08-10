@@ -56,8 +56,8 @@ layout: style-index
 * [A luta da minha mãe pela liberdade](https://sites.google.com/view/20211120liberdade/liberdade) (19/11/2021)
 * [Não sou criacionista](https://sites.google.com/view/20210920criacionismo/porque-n%C3%A3o-sou-criacionista) (24/09/2021)
 * [O direito de estar triste](https://sites.google.com/view/tempoparachorar/p%C3%A1gina-inicial) (23/08/2021)
-* [No dia em que eu morri...](http://joaquim.capitao.github.io/queime-depois-de-ler/no-dia-em-que-eu-morri) (02/06/2021)
-* [A minha infância feliz](https://sites.google.com/view/20211105infancia/inf%C3%A2ncia) (25/12/2018)
+* [No dia em que eu morri...](http://joaquim-capitao.github.io/queime-depois-de-ler/no-dia-em-que-eu-morri) (02/06/2021)
+* [A minha infância feliz](https://joaquim-capitao.github.io/queime-depois-de-ler/a-minha-infancia-feliz) (25/12/2018)
 * [Autobiografias involuntárias](https://app.simplenote.com/p/hnXRnr) (18/06/2016)
 * [Os ultracrepidários](http://simp.ly/p/s9HSvN) (12/01/2015)
 
