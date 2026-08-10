@@ -28,7 +28,7 @@ layout: style-index
 * [Carta a um Filho](https://joaquim-capitao.github.io/queime-depois-de-ler/carta-a-um-filho) (21/03/2026)
 * [O Rambo e as Tartarugas](http://joaquim-capitao.github.io/queime-depois-de-ler/o-rambo-e-as-tartarugas) (18/03/2026)
 * [Entre Pandemias e Pecados](https://sites.google.com/view/pandemiasepecados/entre-pandemias-e-pecados) (10/03/2026)
-* [O Fruto do Espírito](http://simp.ly/p/qBTR1M) (02/03/2026)
+* [O Fruto do Espírito](http://joaquim-capitao.github.io/queime-depois-de-ler/o-fruto-do-espirito) (02/03/2026)
 * [Aves Raras](http://simp.ly/p/qLChfk) (24/02/2026)
 * [A Inimiga Impiedosa](http://simp.ly/p/vqlf65) (19/02/2026)
 * [A Escrita](https://sites.google.com/view/aescrita/a-escrita) (13/02/2026)
