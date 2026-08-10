@@ -24,6 +24,7 @@ layout: style-index
 * [Os Rabugentos](https://joaquim-capitao.github.io/queime-depois-de-ler/os-rabugentos) (01/05/2026)
 * ["O Fogo Sempre Existiu"](https://sites.google.com/view/ofogosempreexistiu/o-fogo) (17/04/2026)
 * [Devíamos Dar Uma Voltinha](https://joaquim-capitao.github.io/queime-depois-de-ler/deviamos-dar-uma-voltinha) (06/04/2026)
+* [O Menino Que Inventou a Agenda](https://joaquim-capitao.github.io/queime-depois-de-ler/o-menino-que-inventou-a-agenda) (29/03/2026)
 * [Carta a um Filho](https://joaquim-capitao.github.io/queime-depois-de-ler/carta-a-um-filho) (21/03/2026)
 * [O Rambo e as Tartarugas](http://joaquim-capitao.github.io/queime-depois-de-ler/o-rambo-e-as-tartarugas) (18/03/2026)
 * [Entre Pandemias e Pecados](https://sites.google.com/view/pandemiasepecados/entre-pandemias-e-pecados) (10/03/2026)
