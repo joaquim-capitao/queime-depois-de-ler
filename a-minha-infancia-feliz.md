@@ -1,5 +1,7 @@
 Certo dia, quando eu tinha uns 8 anos de idade, vi o meu pai chegar a casa muito sorridente com um embrulho na mão. Fiquei feliz quando percebi que se tratava duma prenda para mim. Abri o embrulho e deparei-me com uma bola de futebol profissional, a famosa "bola de cauchu". Era o grande sonho de quase qualquer miúdo da minha idade (ainda que a mim, honestamente, o futebol nunca me tenha despertado interesse). Mas o gesto é o que contava, e nem estávamos em nenhuma data especial.
 
+![](https://i.ibb.co/fVpBh5g3/Captura-de-ecr-2026-08-10-155915.png)
+
 Algum tempo mais tarde, os meus pais ofereceram-me um computador Timex Sinclair 2048! Esse sim, fez os meus olhos brilharem de verdade. Naquela época, poucas pessoas tinham um computador em casa, por isso imaginem a minha surpresa ao ver aquele magnífico aparelho eletrónico com uns estonteantes 48 kB de memória RAM. E, mais uma vez, não estávamos numa data especial.
 
 De facto, nunca celebrei o Natal ou aniversários de nascimento. Aprendi cedo que não é preciso esperar por datas específicas para mostrar amor ou dar presentes. Frequentemente, vi os meus pais usarem os seus recursos financeiros para ajudar os outros. Essa foi a herança cultural que recebi deles e da qual tenho muito orgulho.
