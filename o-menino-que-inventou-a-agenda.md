@@ -4,6 +4,8 @@ Movido pela necessidade de se organizar, o José pegou num caderno e desenhou gr
 
 Mas, quando mostrou a invenção à mãe, percebeu que aquilo, afinal, já existia. Chamava-se “agenda”. Foi assim que conheceu a frustração de ter uma ideia genial, mas com um século de atraso. Além disso, ainda tinha de lidar com um problema logístico: lembrar-se de onde tinha guardado a agenda.
 
+![](https://i.ibb.co/qLQpTdJv/de2b4600-a52b-4b98-bd68-d1dcf28443ce.jpg)
+
 A criatividade do José era grande, mas só lhe trazia problemas. Na escola, por exemplo, enquanto os colegas memorizavam a matéria, ele questionava tudo e sugeria explicações alternativas. Rapidamente aprendeu a regra número 1 da convivência humana: a sinceridade só é valorizada quando coincide com o senso comum. Então, o José começou a calar-se, pois percebeu que era melhor passar por tímido do que ser apedrejado.
   
 Durante as aulas, os professores falavam com uma voz que fazia lembrar a música ambiente dos elevadores, e o José aproveitava para desenhar nas margens dos livros, escrever versos, inventar teorias sobre o universo e, principalmente, sobre a utilidade de estar ali sentado. Afinal, para quê estar ali se já tinha lido os livros em casa?
