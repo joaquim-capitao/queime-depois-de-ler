@@ -2,9 +2,9 @@
 
 Algo que me fascina na humanidade é a incrível variedade de tons de pele. Os seres humanos lembram-me um catálogo **Pantone**  criado por um artista com muito bom gosto. 
 
-![](https://i.ibb.co/rGgtXdmG/pantone-humano.jpg)
-
 Ainda assim, há quem olhe para essa riqueza com desconfiança. Mas, ironicamente, até mesmo o preconceito racial apresenta múltiplas tonalidades.
+
+![](https://i.ibb.co/S7sJNDkT/image.jpg)
 
 Existe, por exemplo, o preconceito em <strong><span style="color: #FFE5B4;">versão pastel</span></strong> que tenta parecer suave e inofensivo: *“Para alguém da tua cor, até és bonita.”* Quem diz isso talvez pense que está a fazer um elogio, mas a sua escolha de palavras denuncia o preconceito que tenta esconder.
 
