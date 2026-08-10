@@ -20,7 +20,7 @@ layout: style-index
 * [Não Chamem o INEM](https://joaquim-capitao.github.io/queime-depois-de-ler/inem) (25/05/2026)
 * [O Luto](https://joaquim-capitao.github.io/queime-depois-de-ler/o-luto) (26/05/2026)
 * [Variações Cromáticas](https://joaquim-capitao.github.io/queime-depois-de-ler/variacoes-cromaticas) (25/05/2026)
-* [A Mulher que Alinhava o Mundo](https://sites.google.com/view/a-mulher-que-alinhava-o-mundo/a-mulher-que-alinhava-o-mundo) (20/05/2026)
+* [A Mulher que Alinhava o Mundo](https://joaquim-capitao.github.io/queime-depois-de-ler/a-mulher-que-alinhava-o-mundo) (20/05/2026)
 * [Os Rabugentos](https://joaquim-capitao.github.io/queime-depois-de-ler/os-rabugentos) (01/05/2026)
 * ["O Fogo Sempre Existiu"](https://sites.google.com/view/ofogosempreexistiu/o-fogo) (17/04/2026)
 * [Devíamos Dar Uma Voltinha](https://joaquim-capitao.github.io/queime-depois-de-ler/deviamos-dar-uma-voltinha) (06/04/2026)
