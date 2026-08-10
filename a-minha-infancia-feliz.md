@@ -14,5 +14,5 @@ O apóstolo Paulo escreveu: "Não se esqueçam de fazer o bem e de partilhar com
 
 ---
 
-<div align="rigth">Joaquim Capitão</div>
-<div align="rigth">25/12/2018</div>
+<div align="right">Joaquim Capitão</div>
+<div align="right">25/12/2018</div>
