@@ -1,5 +1,5 @@
 ---
-layout: style-light
+layout: style-dark
 ---
 
 # O Desporto Perfeito
