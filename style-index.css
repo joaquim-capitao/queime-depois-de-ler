@@ -6,7 +6,7 @@
 :root {
   --bg-main: #1e1e2b;        /* Fundo */
   --bg-card: #37364a;        /* Fundo ligeiramente mais claro para cartões ou blocos */
-  --text-main: ##e6e0c5;      /* Texto principa */
+  --text-main: ##e6e0c5;      /* Texto principal */
   --text-muted: #bdb695;     /* Subtítulos, metadados e citações */
   --accent: #9b9dfa;         /* Links e destaques */
   --accent-hover: #818cf8;   /* Variação mais clara do accent para estados hover */
