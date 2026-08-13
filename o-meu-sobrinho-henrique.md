@@ -1,4 +1,4 @@
-# **O Meu Sobrinho Henrique**
+# O Meu Sobrinho Henrique
 
 No ano 2000, enquanto o planeta temia que o famoso _Bug do Milénio_ fizesse explodir os computadores, a minha família assistia a um evento de impacto substancialmente mais ruidoso: **o nascimento do meu sobrinho Henrique.**
 
@@ -6,14 +6,13 @@ Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmen
 
 ![](https://i.ibb.co/tMC4YqjB/99a40e70-307e-4c87-b435-c80dfb638fa9.jpg)
 
-
 — _O miúdo não estará a assar?_ — perguntei eu à minha irmã.
 
 — _Claro que não!_ — respondeu. — _Não vês que é um bebé? Os bebés têm de estar agasalhados!_
 
 Bem, o tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos dias de hoje! Penso que o agasalho excessivo do ano 2000 selou o seu termóstato interno para sempre.
 
-### A ilusão da perceção do tempo
+## A ilusão da perceção do tempo
 
 Nesses primeiros meses, contudo, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra. Anos e anos para brincarmos, viajarmos... Mas enganei-me.
 
@@ -28,7 +27,7 @@ E, num estalar de dedos, o adolescente passou a ser um homem feito, a conduzir a
 Mas não há matemática nem nostalgia que nos devolva o tempo perdido, as viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram... O tempo simplesmente não volta atrás.
 
 
-### A Surpresa I
+## A Surpresa I
 
 Porém, a vida reserva surpresas elegantes.
 
@@ -38,11 +37,11 @@ E assim, contra todas as probabilidades da distância, construímos algo raro: u
 
 Essa certeza consolidou-se num momento de aflição, quando a minha esposa foi submetida a uma cirurgia delicada e arriscada. A figura firme e serena que tive ao meu lado no hospital foi o Henrique. Nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
-### A Surpresa II
+## A Surpresa II
 
 Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: apesar da minha paixão pela música, nunca tive a oportunidade de aprender a tocar um instrumento. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir, deparei-me com uma guitarra enviada pelo Henrique.
 
-<video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/V%C3%ADdeos/Guitarra.mp4")"" controls width="100%">
+<video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/V%C3%ADdeos/Guitarra.mp4" controls width="100%">
   Seu navegador não suporta a tag de vídeo.
 </video>
 
