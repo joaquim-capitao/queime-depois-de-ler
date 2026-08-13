@@ -10,7 +10,7 @@ Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmen
 
 — _Claro que não!_ — respondeu. — _Não vês que é um bebé? E os bebés têm de estar sempre agasalhados!_
 
-O tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos dias de hoje. Creio que o excesso de mantas no ano 2000 avariaram-lhe o termóstato para sempre. 
+O tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos dias de hoje. Creio que o excesso de mantas no ano 2000 avariou-lhe o termóstato para sempre. 
 
 ## A ilusão da perceção do tempo
 
