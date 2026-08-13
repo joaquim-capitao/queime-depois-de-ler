@@ -8,7 +8,7 @@ Ainda assim, há quem olhe para essa riqueza com desconfiança. Mas, ironicament
 
 Existe, por exemplo, o preconceito em <strong><span style="color: #FFE5B4;">versão pastel</span></strong> que tenta parecer suave e inofensivo: *“Para alguém da tua cor, até és bonita.”* Quem diz isso talvez pense que está a fazer um elogio, mas a sua escolha de palavras denuncia o preconceito que tenta esconder.
 
-Depois há o preconceito em tons <strong><span style="color: #FF0000;">tão berrantes</span></strong> que até ferem os olhos: *“Volta para a tua terra!”*. Não é apenas um deslize verbal, mas uma agressão deliberada, dita por quem exibe ignorância como se fosse uma virtude.
+Depois há o preconceito em tons <mark style="background-color: orange;">tão berramtes</mark> que até ferem os olhos: *“Volta para a tua terra!”*. Não é apenas um deslize verbal, mas uma agressão deliberada, dita por quem exibe ignorância como se fosse uma virtude.
 
 Há também o preconceito disfarçado de humor, numa tonalidade <mark>fluorescente</mark> que acaba por destacá-lo ainda mais. *“Estava só a brincar”*, dizem alguns, alegando que fazer piadas sobre a cor da pele é como chamar *“poste”* ao mais alto da turma ou *“orelhas de abano”* ao colega com orelhas salientes. E, de facto, há uma semelhança: em qualquer dos casos, trata-se apenas de má educação com pretensões humorísticas.
 
