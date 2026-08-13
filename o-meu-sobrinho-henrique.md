@@ -8,15 +8,15 @@ Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmen
 
 — _O miúdo não estará a assar?_ — perguntei eu à minha irmã.
 
-— _Mas tu estás parvo?!_ — respondeu. — _Não vês que é um bebé? Os bebés têm de estar agasalhados!_
+— _Claro que não!_ — respondeu. — _Não vês que é um bebé? E os bebés têm de estar sempre agasalhados!_
 
-O tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos dias de hoje! Penso que o agasalho excessivo no ano 2000 selou o seu termóstato para sempre.
+O tempo encarregou-se de me dar razão. O miúdo ficou com o termóstato avariado e está cheio de calor até aos dias de hoje. 
 
 ## A ilusão da perceção do tempo
 
-Nesses primeiros meses, contudo, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra. Anos e anos para brincarmos, viajarmos... Mas enganei-me.
+Nesses primeiros meses, contudo, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra. Anos e anos para brincarmos, viajarmos, pregarmos partidas... Mas enganei-me.
 
-Fui com a minha esposa para os Açores e ficámos muito mais tempo do que o previsto. O Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As nossas idas ao continente tornaram-se espaçadas. E os anos, no seu galope discreto, foram passando...
+A minha permanência nos Açores prolongou-se muito mais do era previsto. E o Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As minhas idas ao continente tornaram-se espaçadas. E os anos, no seu galope discreto, passaram mais rapidamente do eu esperava...
 
 Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar com entusiasmo: _“Tio, Tio!...”_ Rodei sobre os calcanhares e demorei uns bons segundos até que o meu cérebro processasse a imagem. Já não era um bebé enrolado em mantas. Era um miúdo dinâmico, a transbordar de alegria por nos ver. 
 
@@ -31,7 +31,7 @@ Mas não há matemática nem nostalgia que nos devolva o tempo perdido, as viage
 
 Porém, a vida reserva surpresas elegantes.
 
-Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... Desde a intolerância ao calor à tendência de analisar tudo pela lógica e pela razão, passando por um sentido de humor ácido, daqueles que uns  apreciam, outros odeiam e maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
+Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... Desde a intolerância ao calor à tendência de analisar tudo pela lógica e pela razão, passando por um sentido de humor ácido, daqueles que uns apreciam, outros odeiam e maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
 E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida e bonita. Hoje, a palavra "sobrinho" fica manifestamente curta. Somos grandes amigos, no sentido mais pleno da expressão. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
@@ -39,7 +39,7 @@ Essa certeza consolidou-se num momento de aflição, quando a minha esposa foi s
 
 ## A Surpresa II
 
-Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: apesar da minha paixão pela música, nunca tive a oportunidade de aprender a tocar um instrumento. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir, deparei-me com uma guitarra enviada pelo Henrique.
+Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: apesar da minha paixão pela música, nunca tive a oportunidade de aprender a tocar um instrumento. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir a caixa, deparei-me com uma guitarra enviada pelo Henrique.
 
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/V%C3%ADdeos/Guitarra.mp4" controls width="100%">
   Seu navegador não suporta a tag de vídeo.
