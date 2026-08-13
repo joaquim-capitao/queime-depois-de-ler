@@ -63,7 +63,7 @@ header {
    TIPOGRAFIA (Estilo Clean & Moderno)
    ========================================================================== */
 h1, h2, h3, h4 {
-  color: #fc731e;            /* Cor forte para Títulos */
+  color: #f7853e;            /* Cor forte para Títulos */
   font-family: var(--font-ubuntu);
   font-weight: 700;
   line-height: 1.25;
