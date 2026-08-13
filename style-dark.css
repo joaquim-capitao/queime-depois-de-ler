@@ -7,7 +7,7 @@
   --bg-main: #1e1e2b;        /* Fundo */
   --bg-card: #37364a;        /* Fundo ligeiramente mais claro para cartões ou blocos */
   --text-main: #e6d9a1;      /* Texto principal */
-  --text-muted: #edd358;     /* Subtítulos, metadados e citações */
+  --text-muted: ##eff23a;     /* Subtítulos, metadados e citações */
   --accent: #9b9dfa;         /* Links e destaques */
   --accent-hover: #818cf8;   /* Variação mais clara do accent para estados hover */
   --border-color: #f26d1f;   /* Linhas divisórias subtis */
