@@ -86,7 +86,7 @@ h2 {
 
 p {
   margin-bottom: 1.5rem;
-  font-weight: 300;          /* A variante Light da Ubuntu funciona muito bem em ecrãs escuros */
+  font-weight: 400;          /* A variante Light da Ubuntu funciona muito bem em ecrãs escuros */
   text-align: justify; 
   line-height: 1.6;
 }
@@ -142,7 +142,7 @@ img {
 /* Elementos de Destaque */
 strong {
   color: #fcfced;            /* Realçar negrito */
-  font-weight: 900;
+  font-weight: 700;
 }
 
 hr {
