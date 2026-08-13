@@ -6,7 +6,7 @@
 :root {
   --bg-main: #1e1e2b;        /* Fundo */
   --bg-card: #37364a;        /* Fundo ligeiramente mais claro para cartões ou blocos */
-  --text-main: #f0dfbd;      /* Texto principal */
+  --text-main: #fbfcbd;      /* Texto principal */
   --text-muted: #f4f5a9;     /* Subtítulos, metadados e citações */
   --accent: #9b9dfa;         /* Links e destaques */
   --accent-hover: #818cf8;   /* Variação mais clara do accent para estados hover */
@@ -38,7 +38,7 @@ body {
   background-color: var(--bg-main);
   color: var(--text-main);
   font-family: var(--font-ubuntu);
-  font-weight: 400;
+  font-weight: 200;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding: 1.5rem 1.2rem;    /* Margem confortável para respiração do layout */
@@ -142,7 +142,7 @@ img {
 
 /* Elementos de Destaque */
 strong {
-  color: #fafae6;            /* Realçar negrito */
+  color: #fcfced;            /* Realçar negrito */
   font-weight: 900;
 }
 
