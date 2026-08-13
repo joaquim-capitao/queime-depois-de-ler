@@ -4,7 +4,7 @@ No ano 2000, enquanto o planeta temia que o famoso _Bug do Milénio_ fizesse exp
 
 Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmente bonito, mas compacto. Uma mini-pessoa. Estava enrolado em tantas camadas de mantas que até fiquei preocupado.
 
-![](https://i.ibb.co/tMC4YqjB/99a40e70-307e-4c87-b435-c80dfb638fa9.jpg)
+![](https://i.ibb.co/bMxBNQhq/9e0514ba-a2e3-4ef0-b754-f9785ee32721.jpg)
 
 — _O miúdo não estará a assar?_ — perguntei eu à minha irmã.
 
