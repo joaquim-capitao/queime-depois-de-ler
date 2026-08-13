@@ -136,8 +136,8 @@ img {
   height: auto;
   display: block;
   margin: 2rem auto;
-  border-radius: 8px;        /* Cantos arredondados */
-  border: 1px solid var(--border-color); /* Protege os limites de imagens escuras */
+  border-radius: 12px;        /* Cantos arredondados */
+  border: 3px solid var(--border-color); /* Protege os limites de imagens escuras */
 }
 
 /* Elementos de Destaque */
