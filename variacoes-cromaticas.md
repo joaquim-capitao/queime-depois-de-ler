@@ -6,7 +6,7 @@ Ainda assim, há quem olhe para essa riqueza com desconfiança. Mas, ironicament
 
 ![](https://i.ibb.co/S7sJNDkT/image.jpg)
 
-Existe, por exemplo, o preconceito em <mark style="background-color: #FFE5B4;">versão pastel</mark>que tenta parecer suave e inofensivo: *“Para alguém da tua cor, até és bonita.”* Quem diz isso talvez pense que está a fazer um elogio, mas a sua escolha de palavras denuncia o preconceito que tenta esconder.
+Existe, por exemplo, o preconceito em <mark style="background-color: #d1a758;">versão pastel</mark> que tenta parecer suave e inofensivo: *“Para alguém da tua cor, até és bonita.”* Quem diz isso talvez pense que está a fazer um elogio, mas a sua escolha de palavras denuncia o preconceito que tenta esconder.
 
 Depois há o preconceito em tons tão <mark style="background-color: red;">berrantes</mark> que até ferem os olhos: *“Volta para a tua terra!”*. Não é apenas um deslize verbal, mas uma agressão deliberada, dita por quem exibe ignorância como se fosse uma virtude.
 
