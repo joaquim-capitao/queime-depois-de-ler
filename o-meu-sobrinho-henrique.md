@@ -46,7 +46,7 @@ Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga
 </video>
 
 
-Se já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de bater à minha porta para reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
+Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de bater à minha porta para reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
 
 
 ## A Surpresa III
@@ -58,6 +58,6 @@ Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas
 ----
 
 <div align="right">Joaquim Capitão</div>
-<div align="right">08/08/2026</div>
+<div align="right">16/08/2026</div>
 
 
