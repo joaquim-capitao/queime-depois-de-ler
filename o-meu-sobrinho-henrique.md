@@ -14,18 +14,17 @@ O tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos d
 
 ## A ilusão da perceção do tempo
 
-Nesses primeiros meses, contudo, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra. Anos e anos para brincarmos, viajarmos, pregarmos partidas... Mas enganei-me.
+Nesses primeiros meses, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra para brincarmos, viajarmos, pregarmos partidas... Mas enganei-me.
 
-Mudei-me para os Açores com a minha esposa, e a nossa permanência prolongou-se muito mais do era previsto. O Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As minhas idas ao continente tornaram-se espaçadas. E os anos, no seu galope discreto, passaram rapidamente.
+Mudei-me para os Açores com a minha esposa, e a nossa permanência prolongou-se muito mais do era previsto. O oceano Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As nossas idas ao continente tornaram-se espaçadas. E os anos, no seu galope discreto, passaram rapidamente.
 
-Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar com entusiasmo: _“Tio, Tio!...”_ Rodei sobre os calcanhares e demorei uns bons segundos até que o meu cérebro processasse a imagem. Já não era um bebé enrolado em mantas. Era um miúdo dinâmico, a transbordar de alegria por nos ver. 
+Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar com entusiasmo: **_“Tio, Tio!...”_** Rodei sobre os calcanhares e demorei uns bons segundos até que o meu cérebro processasse a imagem. Já não era um bebé enrolado em mantas. Era um miúdo dinâmico, a transbordar de alegria por nos ver. 
 
-Num piscar de olhos, o tempo deu outro salto, e o miúdo já era um adolescente grandalhão, bem maior do que eu, a explicar-me coisas sobre informática. 
+Num piscar de olhos, o tempo deu outro salto, e o miúdo já era um adolescente grandalhão, bem maior do que eu, a explicar-me coisas sobre tecnologia. 
 
 E, num estalar de dedos, o adolescente passou a ser um homem feito, a conduzir automóveis, drones do tamanho de pequenas aeronaves e a tocar guitarra e outros instrumentos. Pelo caminho, tornou-se especialista em meia dúzia de assuntos que a minha geração apenas finge compreender.
 
-Mas não há matemática nem nostalgia que nos devolva o tempo perdido, as viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram... O tempo simplesmente não volta atrás.
-
+Mas a vida não é um filme. E eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. Não há matemática ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
 
 ## A Surpresa I
 
