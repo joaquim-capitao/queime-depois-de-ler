@@ -37,7 +37,7 @@ body {
   background-color: var(--bg-main);
   color: var(--text-main);
   font-family: var(--font-ubuntu);
-  font-weight: 200;
+  font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding: 1.5rem 1.2rem;    /* Margem confortável para respiração do layout */
