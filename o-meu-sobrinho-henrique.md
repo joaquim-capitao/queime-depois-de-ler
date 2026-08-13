@@ -16,7 +16,7 @@ O tempo encarregou-se de me dar razão. O miúdo ficou com o termóstato avariad
 
 Nesses primeiros meses, contudo, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra. Anos e anos para brincarmos, viajarmos, pregarmos partidas... Mas enganei-me.
 
-A minha permanência nos Açores prolongou-se muito mais do era previsto. E o Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As minhas idas ao continente tornaram-se espaçadas. E os anos, no seu galope discreto, passaram mais rapidamente do eu esperava...
+Mudei-me para os Açores com a minha esposa, e a nossa permanência prolongou-se muito mais do era previsto. O Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As minhas idas ao continente tornaram-se espaçadas. E os anos, no seu galope discreto, passaram rapidamente.
 
 Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar com entusiasmo: _“Tio, Tio!...”_ Rodei sobre os calcanhares e demorei uns bons segundos até que o meu cérebro processasse a imagem. Já não era um bebé enrolado em mantas. Era um miúdo dinâmico, a transbordar de alegria por nos ver. 
 
@@ -29,7 +29,7 @@ Mas não há matemática nem nostalgia que nos devolva o tempo perdido, as viage
 
 ## A Surpresa I
 
-Porém, a vida reserva surpresas elegantes.
+A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
 Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... Desde a intolerância ao calor à tendência de analisar tudo pela lógica e pela razão, passando por um sentido de humor ácido, daqueles que uns apreciam, outros odeiam e maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
@@ -42,7 +42,7 @@ Essa certeza consolidou-se num momento de aflição, quando a minha esposa foi s
 Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: apesar da minha paixão pela música, nunca tive a oportunidade de aprender a tocar um instrumento. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir a caixa, deparei-me com uma guitarra enviada pelo Henrique.
 
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/V%C3%ADdeos/Guitarra.mp4" controls width="100%">
-  Seu navegador não suporta a tag de vídeo.
+  O seu navegador não suporta a tag de vídeo.
 </video>
 
 
@@ -51,7 +51,7 @@ Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas 
 
 ## A Surpresa III
 
-Acima de tudo, ver o seu percurso espiritual recente enche-me de orgulho. O Henrique tem tomado excelentes decisões na vida e, hoje, partilhamos mais um ponto comum: ambos somos servos de tempo integral. As nossas prioridades são rigorosamente as mesmas. 
+Acima de tudo, ver o seu percurso espiritual recente enche-me de orgulho. O Henrique tem tomado excelentes decisões na vida e, hoje, partilhamos mais um ponto comum: ambos somos [pioneiros](https://www.jw.org/pt-pt/biblioteca/brochuras-livretos/vontade-de-jeova/o-que-e-um-pioneiro/), ou servos de tempo integral. As nossas prioridades são rigorosamente as mesmas. 
 
 Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas nos preparou para estarmos perfeitamente afinados no presente.
 
