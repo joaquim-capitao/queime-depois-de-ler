@@ -1,0 +1,63 @@
+# **O Meu Sobrinho Henrique**
+
+No ano 2000, enquanto o planeta temia que o famoso _Bug do Milénio_ fizesse explodir os computadores, a minha família assistia a um evento de impacto substancialmente mais ruidoso: **o nascimento do meu sobrinho Henrique.**
+
+Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmente bonito, mas compacto. Uma mini-pessoa. Estava enrolado em tantas camadas de mantas que até fiquei preocupado.
+
+![](https://i.ibb.co/tMC4YqjB/99a40e70-307e-4c87-b435-c80dfb638fa9.jpg)
+
+
+— _O miúdo não estará a assar?_ — perguntei eu à minha irmã.
+
+— _Claro que não!_ — respondeu. — _Não vês que é um bebé? Os bebés têm de estar agasalhados!_
+
+Bem, o tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos dias de hoje! Penso que o agasalho excessivo do ano 2000 selou o seu termóstato interno para sempre.
+
+### A ilusão da perceção do tempo
+
+Nesses primeiros meses, contudo, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra. Anos e anos para brincarmos, viajarmos... Mas enganei-me.
+
+Fui com a minha esposa para os Açores e ficámos muito mais tempo do que o previsto. O Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As nossas idas ao continente tornaram-se espaçadas. E os anos, no seu galope discreto, foram passando...
+
+Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar com entusiasmo: _“Tio, Tio!...”_ Rodei sobre os calcanhares e demorei uns bons segundos até que o meu cérebro processasse a imagem. Já não era um bebé enrolado em mantas. Era um miúdo dinâmico, a transbordar de alegria por nos ver. 
+
+Num piscar de olhos, o tempo deu outro salto, e o miúdo já era um adolescente grandalhão, bem maior do que eu, a explicar-me coisas sobre informática. 
+
+E, num estalar de dedos, o adolescente passou a ser um homem feito, a conduzir automóveis, drones do tamanho de pequenas aeronaves e a tocar guitarra e outros instrumentos. Pelo caminho, tornou-se especialista em meia dúzia de assuntos que a minha geração apenas finge compreender.
+
+Mas não há matemática nem nostalgia que nos devolva o tempo perdido, as viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram... O tempo simplesmente não volta atrás.
+
+
+### A Surpresa I
+
+Porém, a vida reserva surpresas elegantes.
+
+Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... Desde a intolerância ao calor à tendência de analisar tudo pela lógica e pela razão, passando por um sentido de humor ácido, daqueles que uns  apreciam, outros odeiam e maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
+
+E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida e bonita. Hoje, a palavra "sobrinho" fica manifestamente curta. Somos grandes amigos, no sentido mais pleno da expressão. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
+
+Essa certeza consolidou-se num momento de aflição, quando a minha esposa foi submetida a uma cirurgia delicada e arriscada. A figura firme e serena que tive ao meu lado no hospital foi o Henrique. Nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
+
+### A Surpresa II
+
+Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: apesar da minha paixão pela música, nunca tive a oportunidade de aprender a tocar um instrumento. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir, deparei-me com uma guitarra enviada pelo Henrique.
+
+<video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/V%C3%ADdeos/Guitarra.mp4")"" controls width="100%">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
+Se já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de bater à minha porta para reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
+
+
+### A Surpresa III
+
+Acima de tudo, ver o seu percurso espiritual recente enche-me de orgulho. O Henrique tem tomado excelentes decisões na vida e, hoje, partilhamos mais um ponto comum: ambos somos servos de tempo integral. As nossas prioridades são rigorosamente as mesmas. 
+
+Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas nos preparou para estarmos perfeitamente afinados no presente.
+
+----
+
+<div align="right">Joaquim Capitão</div>
+<div align="right">08/08/2026</div>
+
+#queime-depois-de-ler 
