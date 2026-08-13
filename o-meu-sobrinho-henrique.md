@@ -32,7 +32,7 @@ A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
 Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... Desde a intolerância ao calor à tendência de analisar tudo pela lógica e pela razão, passando por um sentido de humor ácido, daqueles que uns apreciam, outros odeiam e a maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
-E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida e bonita. Hoje, a palavra "sobrinho" fica manifestamente curta. Somos grandes amigos, no sentido mais pleno da expressão. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
+E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida e bonita. Hoje, somos grandes amigos, no sentido mais pleno da expressão. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
 Essa certeza consolidou-se num momento de aflição, quando a minha esposa foi submetida a uma cirurgia delicada e arriscada. A figura firme e serena que tive ao meu lado no hospital foi o Henrique. Nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
