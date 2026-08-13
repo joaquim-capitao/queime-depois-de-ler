@@ -6,11 +6,11 @@
 :root {
   --bg-main: #1e1e2b;        /* Fundo */
   --bg-card: #37364a;        /* Fundo ligeiramente mais claro para cartões ou blocos */
-  --text-main: #e3dec5;      /* Texto principa */
-  --text-muted: #bdb695;     /* Subtítulos, metadados e citações */
+  --text-main: #e6d9a1;      /* Texto principal */
+  --text-muted: #edd358;     /* Subtítulos, metadados e citações */
   --accent: #9b9dfa;         /* Links e destaques */
   --accent-hover: #818cf8;   /* Variação mais clara do accent para estados hover */
-  --border-color: #e8781c;   /* Linhas divisórias subtis */
+  --border-color: #f26d1f;   /* Linhas divisórias subtis */
   
   /* Tipografia */
   --font-ubuntu: "Ubuntu", system-ui, -apple-system, sans-serif;
