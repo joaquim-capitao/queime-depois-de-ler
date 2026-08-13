@@ -8,9 +8,9 @@ Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmen
 
 — _O miúdo não estará a assar?_ — perguntei eu à minha irmã.
 
-— _Claro que não!_ — respondeu. — _Não vês que é um bebé? Os bebés têm de estar agasalhados!_
+— _Mas tu estás parvo?!_ — respondeu. — _Não vês que é um bebé? Os bebés têm de estar agasalhados!_
 
-Bem, o tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos dias de hoje! Penso que o agasalho excessivo do ano 2000 selou o seu termóstato interno para sempre.
+O tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos dias de hoje! Penso que o agasalho excessivo no ano 2000 selou o seu termóstato para sempre.
 
 ## A ilusão da perceção do tempo
 
@@ -48,7 +48,7 @@ Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga
 Se já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de bater à minha porta para reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
 
 
-### A Surpresa III
+## A Surpresa III
 
 Acima de tudo, ver o seu percurso espiritual recente enche-me de orgulho. O Henrique tem tomado excelentes decisões na vida e, hoje, partilhamos mais um ponto comum: ambos somos servos de tempo integral. As nossas prioridades são rigorosamente as mesmas. 
 
@@ -59,4 +59,4 @@ Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas
 <div align="right">Joaquim Capitão</div>
 <div align="right">08/08/2026</div>
 
-#queime-depois-de-ler 
+
