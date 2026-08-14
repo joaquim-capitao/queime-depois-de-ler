@@ -1,5 +1,5 @@
 ---
-layout: style-index
+layout: indice-estilo
 ---
 
 <div class="container">
