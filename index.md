@@ -6,7 +6,7 @@ layout: style-index
 
 (Leia por sua conta e risco)
 
-## Índice
+### Índice
 
 * [Os Quarenta Mil](https://joaquim-capitao.github.io/queime-depois-de-ler/os-quarenta-mil) (09/08/2026)
 * [Pânico na Aldeia](https://joaquim-capitao.github.io/queime-depois-de-ler/panico-na-aldeia) (02/08/2026)
