@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Queime Depois de Ler</title>
+  
+  <!-- Fonte Ubuntu do Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      /* Cores baseadas na imagem fornecida */
+      --bg: #1c1b24; /* Fundo escuro azulado/acinzentado */
+      --card-bg: rgba(255, 255, 255, 0.03);
+      --card-border: rgba(255, 255, 255, 0.06);
+      --card-hover-border: rgba(243, 112, 34, 0.4);
+      --card-hover-bg: rgba(243, 112, 34, 0.05);
+      
+      --accent: #f37022; /* Laranja dos títulos */
+      --text-link: #7a8add; /* Azul suave dos links */
+      --text-date: #c8b975; /* Amarelado das datas e subtítulo */
+      
+      --accent-glow: rgba(243, 112, 34, 0.15);
+      --shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.3);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Ubuntu', sans-serif;
+      background-color: var(--bg);
+      color: var(--text-link);
+      min-height: 100vh;
+      line-height: 1.5;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 680px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 40px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid var(--card-border);
+    }
+
+    h1 {
+      font-size: 2.2rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    .subtitle {
+      color: var(--text-date);
+      font-size: 1rem;
+      font-weight: 400;
+    }
+
+    .section-title {
+      font-size: 1.4rem;
+      color: var(--accent);
+      margin-bottom: 20px;
+      font-weight: 700;
+    }
+
+    .chronicles-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .chronicles-list a {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 18px;
+      background-color: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      text-decoration: none;
+      box-shadow: var(--shadow);
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .chronicles-list a:hover {
+      transform: translateY(-2px);
+      border-color: var(--card-hover-border);
+      background-color: var(--card-hover-bg);
+      box-shadow: 0 8px 24px -4px var(--accent-glow);
+    }
+
+    .chronicles-list .title {
+      color: var(--text-link);
+      font-weight: 400;
+      font-size: 1rem;
+    }
+
+    .chronicles-list .date {
+      color: var(--text-date);
+      font-size: 0.9rem;
+      font-weight: 400;
+      white-space: nowrap;
+      margin-left: 16px;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      padding-top: 30px;
+    }
+
+    .home-btn {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      color: var(--text-date);
+      transition: all 0.2s ease;
+      padding: 10px 20px;
+      border-radius: 10px;
+    }
+
+    .home-btn:hover {
+      color: var(--accent);
+      transform: scale(1.05);
+    }
+
+    .home-icon {
+      font-size: 24px;
+    }
+
+    .home-label {
+      font-size: 0.85rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+
+  <main class="container">
+    <header>
+      <h1 id="queime-depois-de-ler">QUEIME DEPOIS DE LER</h1>
+      <p class="subtitle">(Leia por sua conta e risco)</p>
+    </header>
+
+    <h2 id="-ndice" class="section-title">Índice</h2>
+
+    <ul class="chronicles-list">
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/os-quarenta-mil"><span class="title">Os Quarenta Mil</span><span class="date">(09/08/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/panico-na-aldeia"><span class="title">Pânico na Aldeia</span><span class="date">(02/08/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/amor-ou-admiracao"><span class="title">Amor ou Admiração?</span><span class="date">(26/07/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/homens-de-coragem"><span class="title">Homens de Coragem</span><span class="date">(19/07/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/a-ocasiao-faz-o-ladrao"><span class="title">A Ocasião Faz o Ladrão?</span><span class="date">(14/07/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/Porto2026"><span class="title">Porto 2026</span><span class="date">(12/07/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/desporto-perfeito"><span class="title">O Desporto Perfeito</span><span class="date">(28/06/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/congresso-barcelona-2003"><span class="title">O Congresso em Barcelona em 2003</span><span class="date">(15/06/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/o-congresso-anos-80"><span class="title">O Congresso</span><span class="date">(07/06/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/inem"><span class="title">Não Chamem o INEM</span><span class="date">(25/05/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/o-luto"><span class="title">O Luto</span><span class="date">(26/05/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/variacoes-cromaticas"><span class="title">Variações Cromáticas</span><span class="date">(25/05/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/a-mulher-que-alinhava-o-mundo"><span class="title">A Mulher que Alinhava o Mundo</span><span class="date">(20/05/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/os-rabugentos"><span class="title">Os Rabugentos</span><span class="date">(01/05/2026)</span></a></li>
+      <li><a href="https://sites.google.com/view/ofogosempreexistiu/o-fogo"><span class="title">&quot;O Fogo Sempre Existiu&quot;</span><span class="date">(17/04/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/deviamos-dar-uma-voltinha"><span class="title">Devíamos Dar Uma Voltinha</span><span class="date">(06/04/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/o-menino-que-inventou-a-agenda"><span class="title">O Menino Que Inventou a Agenda</span><span class="date">(29/03/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/carta-a-um-filho"><span class="title">Carta a um Filho</span><span class="date">(21/03/2026)</span></a></li>
+      <li><a href="http://joaquim-capitao.github.io/queime-depois-de-ler/o-rambo-e-as-tartarugas"><span class="title">O Rambo e as Tartarugas</span><span class="date">(18/03/2026)</span></a></li>
+      <li><a href="https://sites.google.com/view/pandemiasepecados/entre-pandemias-e-pecados"><span class="title">Entre Pandemias e Pecados</span><span class="date">(10/03/2026)</span></a></li>
+      <li><a href="http://joaquim-capitao.github.io/queime-depois-de-ler/o-fruto-do-espirito"><span class="title">O Fruto do Espírito</span><span class="date">(02/03/2026)</span></a></li>
+      <li><a href="http://simp.ly/p/qLChfk"><span class="title">Aves Raras</span><span class="date">(24/02/2026)</span></a></li>
+      <li><a href="http://simp.ly/p/vqlf65"><span class="title">A Inimiga Impiedosa</span><span class="date">(19/02/2026)</span></a></li>
+      <li><a href="https://sites.google.com/view/aescrita/a-escrita"><span class="title">A Escrita</span><span class="date">(13/02/2026)</span></a></li>
+      <li><a href="https://sites.google.com/view/sacrificioinvisivel/joaquim-capit%C3%A3o"><span class="title">O Sacrifício Invisível</span><span class="date">(08/02/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/a-menina-das-mensagens"><span class="title">A Menina das Mensagens</span><span class="date">(05/02/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/amigos-para-toda-a-vida"><span class="title">Amigos para Toda a Vida</span><span class="date">(12/01/2026)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/o-livro-amarelo"><span class="title">O Livro Amarelo</span><span class="date">(30/12/2025)</span></a></li>
+      <li><a href="https://sites.google.com/view/obichopapao/o-bicho-pap%C3%A3o"><span class="title">O Bicho-Papão</span><span class="date">(27/12/2025)</span></a></li>
+      <li><a href="http://simp.ly/p/NPsGyr"><span class="title">Tempo</span><span class="date">(25/12/2025)</span></a></li>
+      <li><a href="http://simp.ly/p/RBDp5s"><span class="title">Black Friday</span><span class="date">(28/11/2025)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/o-meu-amigo-alberto"><span class="title">O Meu Grande Amigo Alberto</span><span class="date">(16/11/2025)</span></a></li>
+      <li><a href="http://simp.ly/p/CgWxft"><span class="title">O Verdadeiro Lar</span><span class="date">(10/11/2025)</span></a></li>
+      <li><a href="http://simp.ly/p/cpTkWb"><span class="title">As Duas Hortênsias</span><span class="date">(05/07/2025)</span></a></li>
+      <li><a href="http://simp.ly/p/yJMMGt"><span class="title">Beleza Eterna</span><span class="date">(20/05/2024)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/dedicacao"><span class="title">A Dedicação</span><span class="date">(04/02/2025)</span></a></li>
+      <li><a href="http://simp.ly/p/SQXThs"><span class="title">O Campo Minado</span><span class="date">(16/12/2025)</span></a></li>
+      <li><a href="https://sites.google.com/view/naturezaespiritual/a-natureza-espiritual-do-ser-humano"><span class="title">A Avó Lourdes</span><span class="date">(13/05/2024)</span></a></li>
+      <li><a href="https://sites.google.com/view/seitas/seitas"><span class="title">O Que É Uma Seita?</span><span class="date">(02/02/2024)</span></a></li>
+      <li><a href="http://simp.ly/p/jkZrmT"><span class="title">As Máscaras</span><span class="date">(15/07/2023)</span></a></li>
+      <li><a href="https://sites.google.com/view/cicatrizesqueensinam/cicatrizes"><span class="title">Cicatrizes que Ensinam</span><span class="date">(12/08/2022)</span></a></li>
+      <li><a href="https://sites.google.com/view/ummomentoespecial/um-momento-especial"><span class="title">Um Momento Especial</span><span class="date">(26/05/2022)</span></a></li>
+      <li><a href="https://sites.google.com/view/a-despedida/despedida"><span class="title">A Despedida</span><span class="date">(20/05/2022)</span></a></li>
+      <li><a href="https://sites.google.com/view/super-mulher/a-super-mulher"><span class="title">A Super-Mulher</span><span class="date">(18/05/2022)</span></a></li>
+      <li><a href="https://sites.google.com/view/20220220menina/a-menina-das-tran%C3%A7as"><span class="title">A Menina das Tranças</span><span class="date">(06/03/2022)</span></a></li>
+      <li><a href="https://sites.google.com/view/20211120liberdade/liberdade"><span class="title">A luta da minha mãe pela liberdade</span><span class="date">(19/11/2021)</span></a></li>
+      <li><a href="https://sites.google.com/view/20210920criacionismo/porque-n%C3%A3o-sou-criacionista"><span class="title">Não sou criacionista</span><span class="date">(24/09/2021)</span></a></li>
+      <li><a href="https://sites.google.com/view/tempoparachorar/p%C3%A1gina-inicial"><span class="title">O direito de estar triste</span><span class="date">(23/08/2021)</span></a></li>
+      <li><a href="http://joaquim-capitao.github.io/queime-depois-de-ler/no-dia-em-que-eu-morri"><span class="title">No dia em que eu morri...</span><span class="date">(02/06/2021)</span></a></li>
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/a-minha-infancia-feliz"><span class="title">A minha infância feliz</span><span class="date">(25/12/2018)</span></a></li>
+      <li><a href="https://app.simplenote.com/p/hnXRnr"><span class="title">Autobiografias involuntárias</span><span class="date">(18/06/2016)</span></a></li>
+      <li><a href="http://simp.ly/p/s9HSvN"><span class="title">Os ultracrepidários</span><span class="date">(12/01/2015)</span></a></li>
+    </ul>
+
+    <footer>
+      <a href="{{ 'https://joaquim-capitao.github.io/' | relative_url }}" class="home-btn" title="Página Inicial">
+        <span class="home-icon">🏠</span>
+        <span class="home-label">Início</span>
+      </a>
+    </footer>
+  </main>
+
+</body>
+</html>
