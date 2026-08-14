@@ -18,7 +18,7 @@ At that precise moment, a song and a prayer mark the end of those three days of 
 
 In unison, forty thousand voices rise in thrilling enthusiasm, transforming the stands of the Estádio do Dragão into a place of pure unity where no one, despite their secret battles, is truly alone.
 
-![](https://i.ibb.co/m5j1VvNz/1000132858.jpg)
+![](https://i.ibb.co/j2FXdDC/9bf27a4f-0acc-4ff1-99bf-d9979eea2071.jpg)
 
 Maria forgets her husband's threats. Filipa breaks free from the suffocating shadow of loneliness. José and Francisca reignite their hope for their son. João pushes the temptations tormenting him from his mind. Pedro stops hearing the frantic ringing of phones. And César? He knows time is slipping through his fingers, but he also understands that time only fully runs out for those who have already lost their faith.
 
