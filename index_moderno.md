@@ -1,7 +1,3 @@
----
-layout: style-index
----
-
 <style>
 :root {
   --bg: #f6f7fb;
