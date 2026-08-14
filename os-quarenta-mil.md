@@ -19,7 +19,7 @@ Nesse preciso momento, um cântico e uma oração marcam o fim daqueles três di
 
 Em uníssono, quarenta mil vozes erguem-se num entusiasmo emocionante, transformando as bancadas do **Estádio do Dragão** num local de pura união, onde ninguém, apesar das suas batalhas secretas, está verdadeiramente sozinho.
 
-![](https://i.ibb.co/m5j1VvNz/1000132858.jpg)
+![](https://i.ibb.co/j2FXdDC/9bf27a4f-0acc-4ff1-99bf-d9979eea2071.jpg)
 
 A Maria esquece as ameaças do marido. A Filipa liberta-se da sombra sufocante da solidão. O José e a Francisca reacendem a esperança no filho. O João afasta do pensamento as tentações que o atormentam. O Pedro deixa de escutar o toque frenético dos telefones. E o César? Esse sabe que o tempo escorre entre os dedos; mas compreende também que o tempo só se esgota por completo para quem já perdeu a fé.
 
