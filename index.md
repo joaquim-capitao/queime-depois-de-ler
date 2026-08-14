@@ -8,7 +8,7 @@ layout: style-index
 
 ## Índice
 
-* [Os Quarenta Mil](https://joaquim-capitao.github.io/queime-depois-de-ler/os-quarenta-mil) (09/08/2926)
+* [Os Quarenta Mil](https://joaquim-capitao.github.io/queime-depois-de-ler/os-quarenta-mil) (09/08/2026)
 * [Pânico na Aldeia](https://joaquim-capitao.github.io/queime-depois-de-ler/panico-na-aldeia) (02/08/2026)
 * [Amor ou Admiração?](https://joaquim-capitao.github.io/queime-depois-de-ler/amor-ou-admiracao) (26/07/2026)
 * [Homens de Coragem](https://joaquim-capitao.github.io/queime-depois-de-ler/homens-de-coragem) (19/07/2026)
