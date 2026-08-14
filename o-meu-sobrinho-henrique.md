@@ -12,7 +12,7 @@ Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmen
 
 O tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos dias de hoje. Creio que ficou com o termóstato danificado permanentemente. 
 
-## A ilusão da perceção do tempo
+### A ilusão da perceção do tempo
 
 Nesses primeiros meses, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra para brincarmos, viajarmos... Mas enganei-me.
 
@@ -26,7 +26,7 @@ E, num estalar de dedos, o adolescente passou a ser um homem, a conduzir automó
 
 Mas a vida não é um filme. E eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. Não há matemática ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
 
-## A Surpresa I
+### A Surpresa I
 
 A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
@@ -36,7 +36,7 @@ E assim, contra todas as probabilidades da distância, construímos algo raro: u
 
 Essa certeza consolidou-se num momento de aflição, quando a minha esposa foi submetida a uma cirurgia delicada e arriscada. A figura firme e serena que tive ao meu lado no hospital foi o Henrique. Nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
-## A Surpresa II
+### A Surpresa II
 
 Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: apesar da minha paixão pela música, nunca tive a oportunidade de aprender a tocar um instrumento. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir a caixa, deparei-me com uma guitarra enviada pelo Henrique.
 
@@ -48,7 +48,7 @@ Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga
 Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de bater à minha porta para reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
 
 
-## A Surpresa III
+### A Surpresa III
 
 Acima de tudo, ver o seu percurso espiritual recente enche-me de orgulho. O Henrique tem tomado excelentes decisões na vida e, hoje, partilhamos mais um ponto comum: ambos somos **[pioneiros](https://www.jw.org/pt-pt/biblioteca/brochuras-livretos/vontade-de-jeova/o-que-e-um-pioneiro/),** ou servos de tempo integral. As nossas prioridades são rigorosamente as mesmas. 
 
