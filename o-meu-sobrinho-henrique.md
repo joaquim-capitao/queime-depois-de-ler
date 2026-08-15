@@ -26,12 +26,7 @@ E, num estalar de dedos, o adolescente passou a ser um homem, a conduzir automó
 
 Mas a vida não é um filme. E eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. 
 
-A máquina a vapor transformou a economia europeia
-<span class="nota">ⓘ
-    <span class="texto-nota">
-        James Watt aperfeiçoou uma tecnologia que já existia.
-    </span>
-</span>.
+A CPU <abbr title="Unidade Central de Processamento">CPU</abbr> executa as instruções do programa.
 
 
  Não há matemática ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
