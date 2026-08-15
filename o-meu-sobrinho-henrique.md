@@ -37,7 +37,7 @@ Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. 
 
 A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
-Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... É intolerante ao calor, analisa tudo pela lógica e pela razão, e tem um sentido de humor ácido, que uns apreciam, outros odeiam e a maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
+Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... É intolerante ao calor, tende a racionalizar tudo, e possui um sentido de humor ácido, que uns apreciam, outros odeiam e a maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
 E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida. O meu sobrinho Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
@@ -61,7 +61,7 @@ Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas 
 
 ### A Surpresa III
 
-Acima de tudo, ver o seu percurso espiritual recente enche-me de orgulho. O Henrique tem tomado excelentes decisões na vida e, hoje, partilhamos mais um ponto comum: ambos somos [pioneiros](https://www.jw.org/pt-pt/biblioteca/brochuras-livretos/vontade-de-jeova/o-que-e-um-pioneiro/). As nossas prioridades são rigorosamente as mesmas. 
+Acima de tudo, ver o seu percurso espiritual enche-me de orgulho. O Henrique tem tomado excelentes decisões na vida e, hoje, partilhamos mais um ponto comum: ambos somos [pioneiros](https://www.jw.org/pt-pt/biblioteca/brochuras-livretos/vontade-de-jeova/o-que-e-um-pioneiro/). As nossas prioridades são rigorosamente as mesmas. 
 
 Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas nos preparou para estarmos perfeitamente afinados no presente.
 
@@ -70,5 +70,3 @@ Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas
 <div align="right">Joaquim Capitão</div>
 <div align="right">16/08/2026</div>
 
-
----
