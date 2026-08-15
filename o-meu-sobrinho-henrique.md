@@ -41,7 +41,7 @@ Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços as
 
 E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida. O meu sobrinho Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
-E essa certeza consolidou-se num momento de aflição, quando a minha esposa foi submetida a uma cirurgia delicada e arriscada. Quem foi a figura firme e serena que tive ao meu lado no hospital? O Henrique. Nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
+E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi submetida a uma cirurgia delicada e arriscada, quem foi a figura firme e serena que tive ao meu lado no hospital? Foi o Henrique. E creio que nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
 <br>
 
