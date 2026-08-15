@@ -43,7 +43,7 @@ Tal como eu, não tolera o calor, é apaixonado pela sétima arte e insiste em i
 
 E assim, contra todas as probabilidades, um tio e um sobrinho construiram algo raro: uma amizade sólida. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
-E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi submetida a uma cirurgia delicada e arriscada, quem foi a figura firme e serena que tive ao meu lado no hospital? Durante todo o tempo, tive comigo o Henrique. E creio que nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
+E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi submetida a uma cirurgia delicada, quem foi a figura firme e serena que esteve ao meu lado no hospital durante todo o tempo? O Henrique. E creio que nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
 <br>
 
