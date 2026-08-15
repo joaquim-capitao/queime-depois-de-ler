@@ -59,4 +59,5 @@ Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas
 <div align="right">Joaquim Capitão</div>
 <div align="right">16/08/2026</div>
 
+[^1]: A máquina a vapor já existia anteriormente, mas foi aperfeiçoada por James Watt.
 
