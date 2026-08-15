@@ -1,26 +1,27 @@
 # O Meu Sobrinho Henrique
 
-No ano 2000, enquanto o planeta temia que o famoso _Bug do Milénio_ fizesse explodir os computadores, a minha família assistia a um evento de impacto substancialmente mais ruidoso: **o nascimento do meu sobrinho Henrique.**
+No ano 2000, enquanto o planeta temia que o _Bug do Milénio_ fizesse explodir os computadores, a minha família assistia a um evento de impacto substancialmente mais ruidoso: **o nascimento do meu sobrinho Henrique.**
 
-Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmente bonito, mas compacto. Uma mini-pessoa. Estava enrolado em tantas camadas de mantas que até fiquei preocupado.
+Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmente bonito, mas compacto. Uma mini-pessoa. Estava enrolado em tantas mantas que até fiquei preocupado.
 
 ![](https://i.ibb.co/bMxBNQhq/9e0514ba-a2e3-4ef0-b754-f9785ee32721.jpg)
 
 — _O miúdo não estará a assar?_ — perguntei eu à minha irmã.
 
-— _Claro que não!_ — respondeu. — _Não vês que é um bebé? E os bebés têm de estar sempre agasalhados!_
+— _Claro que não!_ — respondeu. — _Não vês que é um bebé? Os bebés têm de estar sempre agasalhados!_
 
-O tempo encarregou-se de me dar razão. O miúdo ficou cheio de calor até aos dias de hoje. Creio que ficou com o termóstato danificado permanentemente. 
+O tempo encarregou-se de me dar razão,pois o miúdo ficou cheio de calor até aos dias de hoje. Creio que ficou com o termóstato danificado permanentemente. 
+
 
 ### A ilusão da perceção do tempo
 
-Nesses primeiros meses, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra para brincarmos, viajarmos... Mas enganei-me.
+Naqueles primeiros meses, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra para brincarmos, viajarmos... Mas enganei-me.
 
-Mudei-me para os Açores com a minha esposa, e a nossa permanência prolongou-se muito mais do era previsto. O oceano Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As nossas idas ao continente tornaram-se espaçadas, e os anos galoparam discreta e silenciosamente.
+Mudei-me para os Açores com a minha esposa, e a nossa permanência no arquipélago prolongou-se muito mais do era previsto. O oceano Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As nossas idas ao continente tornaram-se espaçadas, e os anos galoparam discreta e silenciosamente.
 
-Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar com entusiasmo: **_“Tio, Tio!...”_** Rodei sobre os calcanhares e demorei uns bons segundos até que o meu cérebro processasse a imagem. Já não era um bebé enrolado em mantas. Era um miúdo dinâmico, a transbordar de alegria por nos ver. 
+Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar com entusiasmo: **_“Tio, Tio!...”_** Demorei uns bons segundos até que o meu cérebro processasse a imagem. Já não era um bebé enrolado em mantas. Era um miúdo dinâmico, a transbordar de alegria por nos ver. 
 
-Num piscar de olhos, o tempo deu outro salto, e o miúdo já era um adolescente grandalhão, bem maior do que eu, a explicar-me coisas sobre tecnologia. 
+Num piscar de olhos, o tempo deu outro salto quântico, e o miúdo já era um adolescente grandalhão, bem maior do que eu, a explicar-me *coisas* sobre tecnologia. 
 
 E, num estalar de dedos, o adolescente passou a ser um homem, a conduzir automóveis, drones do tamanho de pequenas aeronaves e a tocar guitarra e outros instrumentos. Pelo caminho, tornou-se especialista em meia dúzia de assuntos que a minha geração apenas finge compreender.
 
@@ -35,9 +36,10 @@ A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
 Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... Desde a intolerância ao calor à tendência de analisar tudo pela lógica e pela razão, passando por um sentido de humor ácido, daqueles que uns apreciam, outros odeiam e a maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
-E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida e bonita. Hoje, somos grandes amigos, no sentido mais pleno da expressão. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
+E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida. Hoje, somos grandes amigos, no sentido mais pleno da expressão. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
 Essa certeza consolidou-se num momento de aflição, quando a minha esposa foi submetida a uma cirurgia delicada e arriscada. A figura firme e serena que tive ao meu lado no hospital foi o Henrique. Nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
+
 
 ### A Surpresa II
 
@@ -47,7 +49,8 @@ Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga
   O seu navegador não suporta a tag de vídeo.
 </video>
 
-
+   
+   
 Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de bater à minha porta para reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
 
 
