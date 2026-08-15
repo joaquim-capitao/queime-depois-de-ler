@@ -12,6 +12,7 @@ Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmen
 
 O tempo encarregou-se de me dar razão, pois o miúdo ficou cheio de calor até aos dias de hoje. Creio que ficou com o termóstato danificado permanentemente. 
 
+<br>
 
 ### A ilusão da perceção do tempo
 
@@ -23,12 +24,14 @@ Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar co
 
 Num piscar de olhos, o tempo deu outro salto quântico, e o miúdo passou a ser um adolescente grandalhão, bem maior do que eu, a explicar-me *coisas* sobre tecnologia. 
 
-E, num estalar de dedos, o adolescente passou a ser um homem, a conduzir automóveis, drones do tamanho de pequenas aeronaves e a tocar guitarra e outros instrumentos musicais com destreza. Pelo caminho, tornou-se especialista em meia dúzia de assuntos que a minha geração apenas finge compreender.
+E, num estalar de dedos, o adolescente passou a ser um homem adulto,especialista em meia dúzia de assuntos que a minha geração apenas finge compreender. Conduz automóveis, drones do tamanho de pequenas aeronaves e a toca guitarra com destreza.
 
-Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. [^nota] 
+Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. (Se não entendeste a referência, assiste a *Interstellar*, de 2014, pois o bom cinema nunca fez mal a ninguém.)
+
 
 Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
 
+<br>
 
 ### A Surpresa I
 
@@ -40,6 +43,7 @@ E assim, contra todas as probabilidades da distância, construímos algo raro: u
 
 E essa certeza consolidou-se num momento de aflição, quando a minha esposa foi submetida a uma cirurgia delicada e arriscada. Quem foi a figura firme e serena que tive ao meu lado no hospital? O Henrique. Nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
+<br>
 
 ### A Surpresa II
 
@@ -53,10 +57,11 @@ Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga
    
 Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
 
+<br>
 
 ### A Surpresa III
 
-Acima de tudo, ver o seu percurso espiritual recente enche-me de orgulho. O Henrique tem tomado excelentes decisões na vida e, hoje, partilhamos mais um ponto comum: ambos somos pioneiros [^nota2]. As nossas prioridades são rigorosamente as mesmas. 
+Acima de tudo, ver o seu percurso espiritual recente enche-me de orgulho. O Henrique tem tomado excelentes decisões na vida e, hoje, partilhamos mais um ponto comum: ambos somos [pioneiros](https://www.jw.org/pt-pt/biblioteca/brochuras-livretos/vontade-de-jeova/o-que-e-um-pioneiro/). As nossas prioridades são rigorosamente as mesmas. 
 
 Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas nos preparou para estarmos perfeitamente afinados no presente.
 
@@ -67,7 +72,3 @@ Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas
 
 
 ---
-
-[^nota]: Se não entendeste a referência, assiste a **Interstellar (2014)**. O bom cinema nunca fez mal a ninguém.
-
-[^nota2]: Um pioneiro é um ministro de tempo integral das Testemunhas de Jeová. Encontras informações mais detalhadas [aqui](https://www.jw.org/pt-pt/biblioteca/brochuras-livretos/vontade-de-jeova/o-que-e-um-pioneiro/).
