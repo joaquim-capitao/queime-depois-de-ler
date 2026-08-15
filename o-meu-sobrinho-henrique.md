@@ -6,7 +6,7 @@ Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmen
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/Henrique.jpg)
 
-— _O miúdo não estará a assar?_ — perguntei eu à minha irmã.
+— _O miúdo não estará a assar?_ — perguntei à minha irmã.
 
 — _Claro que não!_ — respondeu. — _Não vês que é um bebé? Os bebés têm de estar sempre agasalhados!_
 
