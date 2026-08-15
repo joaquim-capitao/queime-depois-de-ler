@@ -49,6 +49,7 @@ Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga
   O seu navegador não suporta a tag de vídeo.
 </video>
 
+<br>
    
    
 Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de bater à minha porta para reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
