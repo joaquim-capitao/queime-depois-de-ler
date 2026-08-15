@@ -49,7 +49,7 @@ E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi
 
 ### A Surpresa II
 
-Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: nunca tive a oportunidade de aprender a tocar um instrumento musical. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir a caixa, deparei-me com uma guitarra enviada pelo Henrique.
+Em outra ocasião, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: nunca tive a oportunidade de aprender música. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir a caixa, deparei-me com uma guitarra enviada pelo Henrique.
 
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/V%C3%ADdeos/Guitarra.mp4" controls width="100%">
   O seu navegador não suporta a tag de vídeo.
