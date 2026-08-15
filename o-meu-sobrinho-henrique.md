@@ -4,7 +4,7 @@ No ano 2000, enquanto o planeta temia que o _Bug do Milénio_ fizesse explodir o
 
 Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmente bonito, mas compacto. Uma mini-pessoa. Estava enrolado em tantas mantas que até fiquei preocupado.
 
-![](https://i.ibb.co/bMxBNQhq/9e0514ba-a2e3-4ef0-b754-f9785ee32721.jpg)
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/Henrique.jpg)
 
 — _O miúdo não estará a assar?_ — perguntei eu à minha irmã.
 
