@@ -24,7 +24,10 @@ Num piscar de olhos, o tempo deu outro salto, e o miúdo já era um adolescente 
 
 E, num estalar de dedos, o adolescente passou a ser um homem, a conduzir automóveis, drones do tamanho de pequenas aeronaves e a tocar guitarra e outros instrumentos. Pelo caminho, tornou-se especialista em meia dúzia de assuntos que a minha geração apenas finge compreender.
 
-Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. [^nota] Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
+Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. [^nota] 
+
+Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
+
 
 ### A Surpresa I
 
@@ -62,6 +65,6 @@ Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas
 
 ---
 
-[^nota]: Se não entendeste a referência, assiste a Interstellar (2014). O bom cinema nunca fez mal a ninguém.
+[^nota]: Se não entendeste a referência, assiste a *Interstellar* (2014). O bom cinema nunca fez mal a ninguém.
 
 [^nota2]: Um pioneiro é um servo de tempo integral das testemunhas de Jeová. encontras informações mais detalhadas [aqui](https://www.jw.org/pt-pt/biblioteca/brochuras-livretos/vontade-de-jeova/o-que-e-um-pioneiro/).
