@@ -37,7 +37,7 @@ Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. 
 
 A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
-Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... É intolerante ao calor, tende a racionalizar tudo, e possui um sentido de humor ácido, que uns apreciam, outros odeiam e a maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
+Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... É intolerante ao calor, analisa o mundo de um ponto de vista lógico e racional, e possui um sentido de humor ácido, que alguns apreciam, outros odeiam e a maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
 E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida. O meu sobrinho Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
