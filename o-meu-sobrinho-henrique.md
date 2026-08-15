@@ -24,7 +24,16 @@ Num piscar de olhos, o tempo deu outro salto, e o miúdo já era um adolescente 
 
 E, num estalar de dedos, o adolescente passou a ser um homem, a conduzir automóveis, drones do tamanho de pequenas aeronaves e a tocar guitarra e outros instrumentos. Pelo caminho, tornou-se especialista em meia dúzia de assuntos que a minha geração apenas finge compreender.
 
-Mas a vida não é um filme. E eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. [^1] Não há matemática ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
+Mas a vida não é um filme. E eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado.
+<details>
+<summary>Nota</summary>
+
+A máquina a vapor já existia antes de James Watt, mas foi significativamente aperfeiçoada por ele.
+
+</details>
+
+
+ Não há matemática ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
 
 ### A Surpresa I
 
@@ -59,5 +68,5 @@ Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas
 <div align="right">Joaquim Capitão</div>
 <div align="right">16/08/2026</div>
 
-[^1]: A máquina a vapor já existia anteriormente, mas foi aperfeiçoada por James Watt.
+
 
