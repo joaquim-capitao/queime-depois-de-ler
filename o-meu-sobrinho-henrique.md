@@ -14,7 +14,7 @@ O tempo encarregou-se de me dar razão, pois o miúdo ficou cheio de calor até 
 
 <br>
 
-### A ilusão da perceção do tempo
+### A ilusão
 
 Naqueles primeiros meses, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra para brincarmos, viajarmos... Mas enganei-me.
 
@@ -24,7 +24,7 @@ Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar co
 
 Num piscar de olhos, o tempo deu outro salto quântico, e o miúdo passou a ser um adolescente grandalhão, bem maior do que eu, a explicar-me *coisas* sobre tecnologia. 
 
-E, num estalar de dedos, o adolescente passou a ser um homem adulto, especialista em meia dúzia de assuntos que a minha geração apenas finge compreender. Conduz automóveis, drones do tamanho de pequenas aeronaves e toca guitarra com destreza.
+E, num estalar de dedos, o adolescente passou a ser um homem adulto, especialista em meia dúzia de assuntos que a minha geração apenas finge compreender. Toca guitarra com destreza, conduz automóveis,e até drones do tamanho de pequenas aeronaves.
 
 Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. (Se não entendeste a referência, assiste a *Interstellar*, de Christopher Nolan, pois o bom cinema nunca fez mal a ninguém.)
 
@@ -43,7 +43,7 @@ Não tolera o calor, é apaixonado pela sétima arte e insiste em interpretar es
 
 E assim, contra todas as probabilidades, um tio e um sobrinho construíram algo raro: uma amizade sólida. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
-E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi submetida a uma cirurgia delicada, quem foi a figura firme e serena que esteve ao meu lado no hospital durante todo o tempo? O Henrique. E creio que nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
+E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi submetida a uma cirurgia delicada, quem foi a figura firme e serena que esteve sempre ao meu lado no hospital? O Henrique. E creio que nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
 <br>
 
@@ -57,7 +57,7 @@ Em outra ocasião, confessei-lhe uma frustração antiga, daquelas que guardamos
 
 <br>
    
-Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram ousadia de reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
+Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram ousadia de reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem que o Henrique se tornou: um amigo atencioso, abnegado, atento às necessidades e aos desejos dos outros.
 
 <br>
 
