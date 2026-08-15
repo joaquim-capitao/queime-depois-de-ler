@@ -10,7 +10,7 @@ Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmen
 
 — _Claro que não!_ — respondeu. — _Não vês que é um bebé? Os bebés têm de estar sempre agasalhados!_
 
-O tempo encarregou-se de me dar razão,pois o miúdo ficou cheio de calor até aos dias de hoje. Creio que ficou com o termóstato danificado permanentemente. 
+O tempo encarregou-se de me dar razão, pois o miúdo ficou cheio de calor até aos dias de hoje. Creio que ficou com o termóstato danificado permanentemente. 
 
 
 ### A ilusão da perceção do tempo
