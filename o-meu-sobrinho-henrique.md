@@ -17,13 +17,13 @@ O tempo encarregou-se de me dar razão, pois o miúdo ficou cheio de calor até 
 
 Naqueles primeiros meses, fui vítima de uma ilusão muito comum: **a perceção do tempo**. Ao olhar para aquele rapazinho tão minúsculo, convenci-me de que haveria tempo de sobra para brincarmos, viajarmos... Mas enganei-me.
 
-Mudei-me para os Açores com a minha esposa, e a nossa permanência no arquipélago prolongou-se muito mais do era previsto. O oceano Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As nossas idas ao continente tornaram-se espaçadas, e os anos galoparam discreta e silenciosamente.
+Mudei-me para os Açores com a minha esposa, e a nossa permanência no arquipélago prolongou-se muito mais do que era previsto. O oceano Atlântico, com toda a sua majestade, tornou-se uma fronteira confortável e traiçoeira. As nossas idas ao continente tornaram-se espaçadas, e os anos galoparam discreta e silenciosamente.
 
-Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar com entusiasmo: **_“Tio, Tio!...”_** Demorei uns bons segundos até que o meu cérebro processasse a imagem. Já não era um bebé enrolado em mantas. Era um miúdo dinâmico, a transbordar de alegria por nos ver. 
+Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar com entusiasmo: **_“Tio, Tio!...”_** Rodei sobre os calcanhares e demorei uns bons segundos até que o meu cérebro processasse a imagem. Já não era um bebé enrolado em mantas. Era um miúdo dinâmico, a transbordar de alegria por nos ver. 
 
-Num piscar de olhos, o tempo deu outro salto quântico, e o miúdo já era um adolescente grandalhão, bem maior do que eu, a explicar-me *coisas* sobre tecnologia. 
+Num piscar de olhos, o tempo deu outro salto quântico, e o miúdo passou a ser um adolescente grandalhão, bem maior do que eu, a explicar-me *coisas* sobre tecnologia. 
 
-E, num estalar de dedos, o adolescente passou a ser um homem, a conduzir automóveis, drones do tamanho de pequenas aeronaves e a tocar guitarra e outros instrumentos. Pelo caminho, tornou-se especialista em meia dúzia de assuntos que a minha geração apenas finge compreender.
+E, num estalar de dedos, o adolescente passou a ser um homem, a conduzir automóveis, drones do tamanho de pequenas aeronaves e a tocar guitarra e outros instrumentos musicais com destreza. Pelo caminho, tornou-se especialista em meia dúzia de assuntos que a minha geração apenas finge compreender.
 
 Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. [^nota] 
 
@@ -34,16 +34,16 @@ Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. 
 
 A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
-Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... Desde a intolerância ao calor à tendência de analisar tudo pela lógica e pela razão, passando por um sentido de humor ácido, daqueles que uns apreciam, outros odeiam e a maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
+Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... É intolerante ao calor, analisa tudo pela lógica e pela razão, e tem um sentido de humor ácido, que uns apreciam, outros odeiam e a maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
-E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida. Hoje, somos grandes amigos, no sentido mais pleno da expressão. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
+E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida. O meu sobrinho Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
-Essa certeza consolidou-se num momento de aflição, quando a minha esposa foi submetida a uma cirurgia delicada e arriscada. A figura firme e serena que tive ao meu lado no hospital foi o Henrique. Nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
+E essa certeza consolidou-se num momento de aflição, quando a minha esposa foi submetida a uma cirurgia delicada e arriscada. Quem foi a figura firme e serena que tive ao meu lado no hospital? O Henrique. Nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
 
 ### A Surpresa II
 
-Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: apesar da minha paixão pela música, nunca tive a oportunidade de aprender a tocar um instrumento. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir a caixa, deparei-me com uma guitarra enviada pelo Henrique.
+Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: nunca tive a oportunidade de aprender a tocar um instrumento musical. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir a caixa, deparei-me com uma guitarra enviada pelo Henrique.
 
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/V%C3%ADdeos/Guitarra.mp4" controls width="100%">
   O seu navegador não suporta a tag de vídeo.
@@ -51,8 +51,7 @@ Em outra ocasião, numa conversa informal, confessei-lhe uma frustração antiga
 
 <br>
    
-   
-Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de bater à minha porta para reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
+Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
 
 
 ### A Surpresa III
@@ -69,6 +68,6 @@ Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas
 
 ---
 
-[^nota]: Se não entendeste a referência, assiste a *Interstellar* (2014). O bom cinema nunca fez mal a ninguém.
+[^nota]: Se não entendeste a referência, assiste a **Interstellar (2014)**. O bom cinema nunca fez mal a ninguém.
 
-[^nota2]: Um pioneiro é um servo de tempo integral das testemunhas de Jeová. encontras informações mais detalhadas [aqui](https://www.jw.org/pt-pt/biblioteca/brochuras-livretos/vontade-de-jeova/o-que-e-um-pioneiro/).
+[^nota2]: Um pioneiro é um ministro de tempo integral das Testemunhas de Jeová. Encontras informações mais detalhadas [aqui](https://www.jw.org/pt-pt/biblioteca/brochuras-livretos/vontade-de-jeova/o-que-e-um-pioneiro/).
