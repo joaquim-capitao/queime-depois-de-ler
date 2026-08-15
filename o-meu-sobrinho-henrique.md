@@ -37,11 +37,13 @@ Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. 
 
 A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
-Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Vejo tanto de mim nele que chega a ser preocupante... É intolerante ao calor, analisa o mundo de um ponto de vista lógico e racional, e possui um sentido de humor ácido, que alguns apreciam, outros odeiam e a maioria não sabe descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
+Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Há tanto de mim nele que chega a ser preocupante... 
 
-E assim, contra todas as probabilidades da distância, construímos algo raro: uma amizade sólida. O meu sobrinho Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
+Tal como eu, não tolera o calor, é apaixonado pela sétima arte e insiste em interpretar este mundo absurdo através da lógica e da razão. Mas, o pior é que herdou um sentido de humor ácido, que alguns apreciam, outros odeiam, e muitos não sabem descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
-E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi submetida a uma cirurgia delicada e arriscada, quem foi a figura firme e serena que tive ao meu lado no hospital? Foi o Henrique. E creio que nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
+E assim, contra todas as probabilidades, um tio e um sobrinho construiram algo raro: uma amizade sólida. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
+
+E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi submetida a uma cirurgia delicada e arriscada, quem foi a figura firme e serena que tive ao meu lado no hospital? Durante todo o tempo, tive comigo o Henrique. E creio que nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
 <br>
 
