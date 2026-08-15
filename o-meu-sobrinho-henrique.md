@@ -24,7 +24,7 @@ Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar co
 
 Num piscar de olhos, o tempo deu outro salto quântico, e o miúdo passou a ser um adolescente grandalhão, bem maior do que eu, a explicar-me *coisas* sobre tecnologia. 
 
-E, num estalar de dedos, o adolescente passou a ser um homem adulto, especialista em meia dúzia de assuntos que a minha geração apenas finge compreender. Conduz automóveis, drones do tamanho de pequenas aeronaves e a toca guitarra com destreza.
+E, num estalar de dedos, o adolescente passou a ser um homem adulto, especialista em meia dúzia de assuntos que a minha geração apenas finge compreender. Conduz automóveis, drones do tamanho de pequenas aeronaves e toca guitarra com destreza.
 
 Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. (Se não entendeste a referência, assiste a *Interstellar*, de 2014, pois o bom cinema nunca fez mal a ninguém.)
 
