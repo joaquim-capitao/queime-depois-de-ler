@@ -39,9 +39,9 @@ A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
 Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Há tanto de mim nele que chega a ser preocupante... 
 
-Tal como eu, não tolera o calor, é apaixonado pela sétima arte e insiste em interpretar este mundo absurdo através da lógica e da razão. Também, herdou um sentido de humor ácido, que alguns apreciam, outros odeiam, e muitos não sabem descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
+Não tolera o calor, é apaixonado pela sétima arte e insiste em interpretar este mundo absurdo através da lógica e da razão. Também, herdou um sentido de humor ácido, que alguns apreciam, outros odeiam, mas muitos não sabem descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
-E assim, contra todas as probabilidades, um tio e um sobrinho construiram algo raro: uma amizade sólida. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
+E assim, contra todas as probabilidades, um tio e um sobrinho construíram algo raro: uma amizade sólida. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
 E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi submetida a uma cirurgia delicada, quem foi a figura firme e serena que esteve ao meu lado no hospital durante todo o tempo? O Henrique. E creio que nem ele sonha o quão vital foi a sua presença para me manter de pé naquela hora incerta.
 
@@ -57,7 +57,7 @@ Em outra ocasião, confessei-lhe uma frustração antiga, daquelas que guardamos
 
 <br>
    
-Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram coragem de reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
+Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram ousadia de reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem em quem o Henrique se tornou: um amigo atencioso, abnegado, atento às fragilidades e aos desejos dos outros.
 
 <br>
 
