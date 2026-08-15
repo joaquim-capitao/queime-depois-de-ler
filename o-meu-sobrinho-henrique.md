@@ -26,7 +26,7 @@ Num piscar de olhos, o tempo deu outro salto quântico, e o miúdo passou a ser 
 
 E, num estalar de dedos, o adolescente passou a ser um homem adulto, especialista em meia dúzia de assuntos que a minha geração apenas finge compreender. Conduz automóveis, drones do tamanho de pequenas aeronaves e toca guitarra com destreza.
 
-Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. (Se não entendeste a referência, assiste a *Interstellar*, de 2014, pois o bom cinema nunca fez mal a ninguém.)
+Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. (Se não entendeste a referência, assiste a *Interstellar*, de Christopher Nolan, pois o bom cinema nunca fez mal a ninguém.)
 
 
 Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
