@@ -2,7 +2,7 @@
 
 No ano 2000, enquanto o planeta temia que o _Bug do Milénio_ fizesse explodir os computadores, a minha família assistia a um evento de impacto substancialmente mais ruidoso: **o nascimento do meu sobrinho Henrique.**
 
-Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmente bonito, mas compacto. Uma mini-pessoa. Estava enrolado em tantas mantas que até fiquei preocupado.
+Lembro-me perfeitamente da primeira vez que o vi. Era um ser humano admiravelmente bonito, mas compacto. Uma minipessoa. Estava enrolado em tantas mantas que até fiquei preocupado.
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/Henrique.jpg)
 
@@ -24,9 +24,9 @@ Até que, certo dia, à chegada ao Aeroporto de Lisboa, ouvi uma voz a gritar co
 
 Num piscar de olhos, o tempo deu outro salto quântico, e o miúdo passou a ser um adolescente grandalhão, bem maior do que eu, a explicar-me *coisas* sobre tecnologia. 
 
-E, num estalar de dedos, o adolescente passou a ser um homem adulto, especialista em meia dúzia de assuntos que a minha geração apenas finge compreender. Toca guitarra com destreza, conduz automóveis,e até drones do tamanho de pequenas aeronaves.
+E, num estalar de dedos, o adolescente passou a ser um homem adulto, especialista em meia dúzia de assuntos que a minha geração apenas finge compreender. Toca guitarra com destreza, conduz automóveis e até drones do tamanho de pequenas aeronaves.
 
-Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. (Se não entendeste a referência, assiste a *Interstellar*, de Christopher Nolan, pois o bom cinema nunca fez mal a ninguém.)
+Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. (Se não entendeste a referência, assiste a *"Interstellar"*, de Christopher Nolan, pois o bom cinema nunca fez mal a ninguém.)
 
 
 Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
@@ -39,7 +39,7 @@ A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
 Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Há tanto de mim nele que chega a ser preocupante... 
 
-Não tolera o calor, é apaixonado pela sétima arte e insiste em interpretar este mundo absurdo através da lógica e da razão. Também, herdou um sentido de humor ácido, que alguns apreciam, outros odeiam, mas muitos não sabem descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
+Não tolera o calor, é apaixonado pela sétima arte e insiste em interpretar este mundo absurdo através da lógica e da razão. Também herdou um sentido de humor ácido, que alguns apreciam, outros odeiam, mas muitos não sabem descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
 E assim, contra todas as probabilidades, um tio e um sobrinho construíram algo raro: uma amizade sólida. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
@@ -49,7 +49,7 @@ E essa certeza consolidou-se num momento de aflição. Quando a minha esposa foi
 
 ### A Surpresa II
 
-Em outra ocasião, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: nunca tive a oportunidade de aprender música. Dias depois, chegou à minha casa uma encomenda devidamente embalada. Ao abrir a caixa, deparei-me com uma guitarra enviada pelo Henrique.
+Noutra ocasião, confessei-lhe uma frustração antiga, daquelas que guardamos numa gaveta de sonhos não realizados: nunca tive a oportunidade de aprender música. Dias depois, chegou a minha casa uma encomenda devidamente embalada. Ao abrir a caixa, deparei-me com uma guitarra enviada pelo Henrique.
 
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/V%C3%ADdeos/Guitarra.mp4" controls width="100%">
   O seu navegador não suporta a tag de vídeo.
@@ -57,7 +57,7 @@ Em outra ocasião, confessei-lhe uma frustração antiga, daquelas que guardamos
 
 <br>
    
-Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram ousadia de reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem que o Henrique se tornou: um amigo atencioso, abnegado, atento às necessidades e aos desejos dos outros.
+Se eu já sei tocar? Bem... os meus vizinhos são pessoas extremamente educadas e ainda não tiveram a ousadia de reclamar. Mas aquele instrumento diz zero sobre a minha habilidade musical e diz absolutamente tudo sobre a nobreza de quem o ofereceu. Revela o homem que o Henrique se tornou: um amigo atencioso, abnegado, atento às necessidades e aos desejos dos outros.
 
 <br>
 
