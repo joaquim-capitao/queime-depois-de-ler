@@ -26,7 +26,7 @@ Num piscar de olhos, o tempo deu outro salto quântico, e o miúdo passou a ser 
 
 E, num estalar de dedos, o adolescente passou a ser um homem adulto, especialista em meia dúzia de assuntos que a minha geração apenas finge compreender. Toca guitarra com destreza, conduz automóveis e até drones do tamanho de pequenas aeronaves.
 
-Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. (Se não entendeste a referência, assiste a "Interstellar", de Christopher Nolan, pois o bom cinema nunca fez mal a ninguém.)
+Mas eu não sou o _Matthew McConaughey_ para ficar a esmurrar o espaço-tempo atrás de uma estante, a gritar em desespero para avisar o meu "eu" do passado. [^nota]
 
 
 Sei que não há matemática, ciência ou saudade que recupere o tempo perdido. As viagens não feitas, as conversas adiadas, as brincadeiras que nunca aconteceram… nada disso regressa. O tempo simplesmente não volta atrás.
@@ -39,7 +39,7 @@ A vida, porém, reserva-nos sempre algumas surpresas elegantes.
 
 Apesar de ter sido criado longe de mim, o Henrique desenvolveu alguns traços assustadoramente parecidos com os meus. Há tanto de mim nele que chega a ser preocupante... 
 
-Não tolera o calor, é apaixonado pela sétima arte e insiste em interpretar este mundo absurdo através da lógica e da razão. Também herdou um sentido de humor ácido, que alguns apreciam, outros odeiam, mas muitos não sabem descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
+Não tolera o calor, é apaixonado pela sétima arte e insiste em interpretar este mundo absurdo através da lógica e da razão. Também herdou um sentido de humor peculiar, que alguns apreciam, outros odeiam, mas muitos não sabem descodificar. (Pobre rapaz... que bela herança lhe fui deixar...)
 
 E assim, contra todas as probabilidades, um tio e um sobrinho construíram algo raro: uma amizade sólida. O Henrique tornou-se, sem sombra de dúvida, um dos meus amigos mais chegados.
 
@@ -71,4 +71,8 @@ Afinal de contas, o tempo que perdemos no passado não se escoou em vão. Apenas
 
 <div align="right">Joaquim Capitão</div>
 <div align="right">16/08/2026</div>
+
+---
+
+[^nota]: Se não entendeste a referência, assiste a "Interstellar", de Christopher Nolan, pois o bom cinema nunca fez mal a ninguém.
 
