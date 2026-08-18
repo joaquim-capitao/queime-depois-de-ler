@@ -49,7 +49,6 @@ Usando uma linguagem simples e própria da época, o livro bíblico de Génesis 
 
 ---
 
-
-<div align="right">Joaquim Capitão</div> 
-<div align="right">24/09/2021</div> 
+<div align="right">Joaquim Capitão</div>
+<div align="right">24/09/2021</div>
 
