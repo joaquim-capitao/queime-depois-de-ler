@@ -1,4 +1,4 @@
-# Por Que Não Me Considero «Criacionista»
+# Por Que Não Me Considero Criacionista
 
 Algumas pessoas pensam que acreditar em Deus é a mesma coisa que ser criacionista; mas essa ideia está incorreta. Atualmente, o termo “criacionista” refere-se a alguém que nega a ciência e prefere acreditar em lendas e mitos sobre a criação do mundo.
 
@@ -21,6 +21,8 @@ Muito cedo na História, os humanos perceberam que os seres vivos modificam-se a
 ### O criacionismo ensina que o Universo existe há uns poucos milhares de anos
 
 Os criacionistas dizem que o Universo existe há cerca de 6.000 anos. Até existem museus criacionistas onde é possível ver representações de humanos a conviver com dinossauros. Esses museus têm tanta credibilidade como a série de animação The Flintstones. 
+
+![](https://i.ibb.co/CpLKtTV5/8e5032ea-0fad-4878-838b-0ed61e15532e.jpg)
 
 No entanto, essas ideias anticientíficas não encontram apoio na Bíblia, pois ela não diz nada sobre a idade do Universo. A primeira declaração da Bíblia é: “No princípio, Deus criou os céus e a terra”. (Génesis 1:1) O texto diz apenas que houve um princípio. Não diz quando ocorreu. Portanto, o texto bíblico não entra em conflito com os cálculos científicos que indicam que o nosso Universo existe há cerca de 13,8 mil milhões de anos.
 
