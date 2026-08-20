@@ -43,5 +43,3 @@ Muitos dirão que fiz batota, mas o documento audiovisual acima constitui uma pr
 
 <div align="Right">Joaquim Capitão</div>
 <div align="Right">20/08/2026</div>
-
-#queime-depois-de-ler 
