@@ -11,7 +11,7 @@ Durante muito tempo, a minha irmã Lurdinhas e eu vivemos num regime idílico de
 <br>
 ### O Trapaceiro
 
-Para adensar o drama, tínhamos na vizinhança um jovem pulha, um prodígio da vigarice, que se autointitulava Mestre do Cubo. Fazia-nos crer que resolver o Cubo Mágico era uma tarefa fácil. Mas o seu método era tudo menos transparente. Primeiro, confiscava-nos o brinquedo; depois, dizia-nos: "Eu resolvo isto, mas ninguém pode olhar", e enfiava-se num quarto. Minutos depois, devolvia o cubo aparentemente resolvido, mas com as peças frouxas e desarticuladas.
+Para adensar o drama, tínhamos na vizinhança um jovem pulha, um prodígio da vigarice, que se autointitulava Mestre do Cubo, e que nos fazia acreditar que resolver o Cubo Mágico era uma tarefa fácil. Mas o seu método era tudo menos transparente. Primeiro, dizia-nos: "Eu resolvo isto, mas ninguém pode olhar". Em seguida, enfiava-se num quarto. Minutos depois, devolvia o cubo aparentemente resolvido, mas com as peças frouxas e desarticuladas.
 
 Ficávamos deslumbrados, pois a ingenuidade infantil tem esta particularidade: confunde facilmente um mero trapaceiro com um génio.
 
