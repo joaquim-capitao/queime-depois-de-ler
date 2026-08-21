@@ -2,6 +2,8 @@
 
 Há quem pratique "birdwatching", o hábito de observar aves por prazer ou interesse científico. Eu, movido por uma curiosidade semelhante, dedico-me à observação de outra criatura: o ser humano. E, entre todas as variedades, existe uma subespécie que me desperta particular fascínio: o teimoso.
 
+![](https://i.postimg.cc/Dy2WqjQv/a21f9db7-7f02-4b1c-b485-d9087b9b302c.jpg)
+
 À primeira vista, o teimoso é idêntico aos restantes humanos. Come a mesma comida, bebe a mesma água e respira o mesmo ar. A diferença reside num simples pormenor: as suas cordas vocais não conseguem produzir certas frequências de som. Por exemplo, frases como “Eu estava enganado”, “Tu tens razão” ou “Realmente, não tinha pensado nisso” simplesmente não saem.
 
 Tal como o pombo que regressa sempre ao mesmo pombal, o teimoso volta sempre ao mesmo ponto de vista. Assemelha-se ao papagaio que repete a mesma frase durante anos sem questionar o sentido. É como o beija-flor, que bate as asas mil vezes por segundo, mas permanece imóvel no ar.
