@@ -2,7 +2,7 @@
 
 Certo dia, observei uma bela jovem a caminhar entre a multidão. Usava óculos e carregava uns livros debaixo do braço. Vestia-se de maneira discreta, sem vaidades. O seu sorriso irradiava uma simpatia que me cativou. Descobri que se chamava Marisa. Ao conhecê-la melhor, percebi que não se tratava de uma mulher comum. Ela era, sem dúvida, a Super-Mulher. 
 
-![](https://i.postimg.cc/kgNR80z8/Gemini-Generated-Image-tyf35atyf35atyf3.png)
+![](https://i.postimg.cc/7Z4Mpnyh/super-mulher.jpg)
 
 Cuidava da mãe que adoecera gravemente. Ocupava-se de todas as tarefas domésticas. Trabalhava arduamente para conseguir pagar os estudos. Mesmo com uma agenda tão apertada, a jovem lutadora ainda encontrava tempo para fazer voluntariado. Fiquei apaixonado por aquela miúda inteligente e divertida que parecia ter superpoderes. Felizmente, ela aceitou casar comigo.
 
