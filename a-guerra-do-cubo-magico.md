@@ -2,11 +2,11 @@
 
 O mundo já assistiu a guerras devastadoras, mas nenhuma deixou marcas tão profundas na minha história pessoal como a **Guerra do Cubo Mágico**.
 
-Durante muito tempo, a minha irmã Lurdinhas e eu vivemos num regime idílico de partilha comunitária.  Cada brinquedo pertencia aos dois e a harmonia reinava na nossa casa. No entanto, esse tratado de paz ruiu de um dia para o outro. O responsável? Um pequeno, infernal e fascinante objeto de seis faces coloridas.
+Durante muito tempo, a minha irmã Lurdinhas e eu vivemos num regime idílico de partilha comunitária.  Cada brinquedo pertencia aos dois e a harmonia reinava na nossa casa. No entanto, esse tratado de paz ruiu de um dia para o outro. O responsável? Um pequeno e fascinante objeto de seis faces coloridas. 
 
 ![](https://i.ibb.co/hR6GRLxL/1000135991.jpg)
 
-Para as gerações mais novas, convém contextualizar: naquela era pré-PlayStation, o Cubo Mágico era visto como o expoente máximo da tecnologia. Existia, logo à partida, uma razão de peso (e perfeitamente legítima) para a Lurdinhas e eu entrarmos em pé de guerra.
+Àqueles que nasceram depois da PlayStation, convém contextualizar: naquela época, o Cubo Mágico era o auge absoluto da tecnologia. Um pedaço de plástico que girava sobre si próprio com a nobre promessa de treinar o raciocínio, mas cuja verdadeira função era triturar a paciência de qualquer pessoa. Existia, portanto, uma razão de peso (e perfeitamente legítima) para a Lurdinhas e eu entrarmos em pé de guerra.
 
 <br>
 ### O Trapaceiro
