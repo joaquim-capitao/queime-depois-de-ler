@@ -23,5 +23,5 @@ Certamente, as pessoas sensatas reconhecem a importância de procurar informaç�
 <div align="Right">02/02/2024</div>
 
 ---
-[nota1]: [Jim Jones – Wikipédia](https://pt.wikipedia.org/wiki/Jim_Jones)
-[nota2]: [Aum Shinrikyo - Wikipedia](https://pt.wikipedia.org/wiki/Aum_Shinrikyo)
+[^nota1]: [Jim Jones – Wikipédia](https://pt.wikipedia.org/wiki/Jim_Jones)      
+[^nota2]: [Aum Shinrikyo - Wikipedia](https://pt.wikipedia.org/wiki/Aum_Shinrikyo)
