@@ -1,6 +1,6 @@
 # O que é uma seita?
 
-Atualmente, a palavra “seita” tem uma conotação negativa e costuma ser usada para identificar grupos religiosos extremistas. No entanto, por vezes, alguns órgãos de comunicação social usam a palavra “seita” incorretamente para referir-se a qualquer minoria religiosa. Ao fazerem isso, tornam cada vez mais difícil identificar grupos que representem efetivamente uma ameaça. Sem dúvida, seria melhor informar as pessoas sobre as características distintivas de uma seita, as quais menciono abaixo:
+Atualmente, a palavra “seita” tem uma conotação negativa e costuma ser usada para identificar grupos religiosos extremistas. No entanto, por vezes, alguns órgãos de comunicação social usam a palavra “seita” incorretamente para referir-se a qualquer minoria religiosa. Ao fazerem isso, tornam cada vez mais difícil identificar grupos que representam efetivamente uma ameaça. Sem dúvida, seria melhor informar as pessoas sobre as características distintivas de uma seita, as quais menciono abaixo:
 
 ![](https://i.postimg.cc/T3PTnXnY/Captura-de-ecra-2026-08-21-103926.png)
 
@@ -8,7 +8,7 @@ Atualmente, a palavra “seita” tem uma conotação negativa e costuma ser usa
 
 **Controle excessivo**. Os seguidores são encorajados a cortar laços com vizinhos, amigos e familiares, sendo até mesmo proibidos de participar de expressões culturais, como música, literatura ou filmes produzidos fora do âmbito da seita. O objetivo é manter os indivíduos afastados da sociedade.
 
-**Violência.** As seitas promovem comportamentos hostis contra aqueles que não compartilham das crenças do grupo.  Atos de agressão baseados na cor da pele ou na orientação sexual são frequentemente observados. Algumas seitas até mesmo realizam atentados terroristas, como o caso da seita *Aum Shinrikyo* [nota2] (Verdade Suprema) nos anos 90, que realizou ataques com gás sarin em Tóquio.
+**Violência.** As seitas promovem comportamentos hostis contra aqueles que não compartilham das crenças do grupo. Atos de agressão baseados na cor da pele ou na orientação sexual são frequentemente observados. Algumas seitas até mesmo realizam atentados terroristas, como o caso da seita *Aum Shinrikyo* [nota2] (Verdade Suprema) nos anos 90, que realizou ataques com gás sarin em Tóquio.
 
 **Aprisionamento.** O processo de desvinculação de uma seita costuma ser extremamente complicado ou inexistente. Os membros podem ficar presos por anos, frequentemente sob ameaça de morte, ao tentar abandonar a seita.
 
