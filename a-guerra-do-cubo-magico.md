@@ -20,9 +20,11 @@ Mas a verdadeira tragédia doméstica ainda estava por acontecer.
 <br>
 ### A Tragédia
 
-Numa disputa particularmente acesa pela posse do cubo, a Lurdinhas decidiu recorrer a uma solução drástica: puxou-me o tapete debaixo dos pés e deixou a gravidade encarregar-se do resto.
+Numa disputa particularmente acesa pela posse do cubo, a Lurdinhas decidiu recorrer a uma solução drástica: puxou-me o tapete debaixo dos pés.
 
-O desfecho foi digno de um filme de Quentin Tarantino. O chão subiu contra o meu crânio a uma velocidade vertiginosa e a contenda terminou sem vencedores, mas com uma viagem direta às urgências e um galo monumental na minha cabeça.
+O que se seguiu poderia perfeitamente ter saído de um filme de Quentin Tarantino. 
+
+Num segundo eu estava de pé, no seguinte a gravidade encarregou-se de fazer o meu crânio embater violentamente no chão. A contenda terminou, mas eu ganhei uma ida às urgências e um galo monumental na cabeça.
 
 <br>
 ### A Redenção
