@@ -31,7 +31,7 @@ Num segundo eu estava de pé, no seguinte a gravidade encarregou-se de fazer o m
 
 Com o tempo, o galo sarou, a infância passou e a geografia encarregou-se de nos afastar. Contudo, o sentimento de culpa deve ter corroído a consciência da minha irmã durante décadas. Tanto é assim que, quarenta anos após o incidente, recebi dela uma encomenda de expiação: um novíssimo Cubo Mágico.
 
-Fiquei tão feliz que decidi aprender a resolver o cubo. Mas, ao contrário do infame vizinho da nossa meninice, não precisei de me esconder atrás de portas fechadas nem de recorrer ao desmantelamento ilegal de peças.
+Fiquei tão feliz que decidi aprender a resolver o cubo. Mas, ao contrário do infame vizinho da nossa meninice, não precisei de me esconder nem de recorrer ao desmantelamento ilegal de peças.
 
 Resolvi o cubo em escassos segundos, à vista de toda a gente e perante a lente implacável de uma câmara, provando de forma inequívoca o triunfo da minha inteligência:
 
