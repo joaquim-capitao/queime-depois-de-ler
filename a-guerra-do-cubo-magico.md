@@ -22,7 +22,7 @@ Mas a verdadeira tragédia doméstica ainda estava por acontecer.
 
 Numa disputa particularmente acesa pela posse do cubo, a Lurdinhas decidiu recorrer a uma solução drástica: puxou-me o tapete debaixo dos pés e deixou a gravidade encarregar-se do resto.
 
-O desfecho foi digno de um filme de Quentin Tarantino. O chão subiu contra o meu crânio a uma velocidade vertiginosa e a contenda terminou sem vencedores, mas com uma viagem direta às urgências e um galo monumental na minha cabeça. (Agora que penso nisso, acho que aquele traumatismo craniano explica muita coisa...)
+O desfecho foi digno de um filme de Quentin Tarantino. O chão subiu contra o meu crânio a uma velocidade vertiginosa e a contenda terminou sem vencedores, mas com uma viagem direta às urgências e um galo monumental na minha cabeça.
 
 <br>
 ### A Redenção
