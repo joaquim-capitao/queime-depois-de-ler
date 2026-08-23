@@ -6,7 +6,9 @@ Durante muito tempo, a minha irmã Lurdinhas e eu vivemos num regime idílico de
 
 ![](https://i.ibb.co/hR6GRLxL/1000135991.jpg)
 
-Àqueles que nasceram depois da PlayStation, convém contextualizar: naquela época, o Cubo Mágico era o auge absoluto da tecnologia. Um pedaço de plástico que girava sobre si próprio com a nobre promessa de treinar o raciocínio, mas cuja verdadeira função era triturar a paciência de qualquer pessoa. Existia, portanto, uma razão de peso (e perfeitamente legítima) para a Lurdinhas e eu entrarmos em pé de guerra.
+Àqueles que nasceram depois da PlayStation, convém contextualizar: naquela época, o Cubo Mágico era o grande fenómeno do entretenimento. Aquele pedaço de plástico que girava sobre si próprio prometia treinar a memória e o raciocínio, mas acabava por triturar a paciência de qualquer pessoa, tornando-se uma obsessão. 
+
+Não admira, portanto, que a Lurdinhas e eu tivéssemos uma razão de peso, e perfeitamente legítima, para entrarmos em pé de guerra.
 
 <br>
 ### O Trapaceiro
