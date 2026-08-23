@@ -1,8 +1,8 @@
 # A Guerra do Cubo Mágico 
 
-O mundo já assistiu a guerras devastadoras, mas nenhuma deixou marcas tão profundas na minha história pessoal como a **Guerra do Cubo Mágico**.
+O mundo já assistiu a muitas guerras devastadoras, mas nenhuma me causou marcas tão profundas como a **Guerra do Cubo Mágico**.
 
-Durante muito tempo, a minha irmã Lurdinhas e eu vivemos num regime idílico de partilha comunitária.  Cada brinquedo pertencia aos dois e a harmonia reinava na nossa casa. No entanto, esse tratado de paz ruiu de um dia para o outro. O responsável? Um pequeno e fascinante objeto de seis faces coloridas. 
+Durante muito tempo, a minha irmã Lurdinhas e eu vivemos num regime idílico de partilha comunitária. Cada brinquedo pertencia aos dois e a harmonia reinava na nossa casa. No entanto, esse tratado de paz ruiu de um dia para o outro. O responsável? Um pequeno e fascinante objeto de seis faces coloridas. 
 
 ![](https://i.ibb.co/hR6GRLxL/1000135991.jpg)
 
@@ -13,7 +13,7 @@ Não admira, portanto, que a Lurdinhas e eu tivéssemos uma razão de peso, e pe
 <br>
 ### O Trapaceiro
 
-Para adensar o drama, tínhamos na vizinhança um jovem pulha, um prodígio da vigarice, que se autointitulava Mestre do Cubo, e que nos fazia acreditar que resolver o Cubo Mágico era uma tarefa fácil. Mas o seu método era tudo menos transparente. Primeiro, dizia-nos: "Eu resolvo isto, mas ninguém pode olhar". Em seguida, enfiava-se num quarto. Minutos depois, devolvia o cubo aparentemente resolvido, mas com as peças frouxas e desarticuladas.
+Para adensar o drama, tínhamos na vizinhança um jovem pulha, um prodígio da vigarice, que se autointitulava Mestre do Cubo, e que nos fazia acreditar que resolver o Cubo Mágico era uma tarefa fácil. Mas o seu método era tudo menos transparente. Primeiro, dizia-nos: *"Eu resolvo isto, mas ninguém pode olhar"*. Em seguida, enfiava-se num quarto. Minutos depois, devolvia o cubo aparentemente resolvido, mas com as peças frouxas e desarticuladas.
 
 Ficávamos deslumbrados, pois a ingenuidade infantil tem esta particularidade: confunde facilmente um mero trapaceiro com um génio.
 
