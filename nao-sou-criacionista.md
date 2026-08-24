@@ -20,7 +20,7 @@ Muito cedo na História, os humanos perceberam que os seres vivos modificam-se a
 
 ### O criacionismo ensina que o Universo existe há uns poucos milhares de anos
 
-Os criacionistas dizem que o Universo existe há cerca de 6.000 anos. Até existem museus criacionistas onde é possível ver representações de humanos a conviver com dinossauros. Esses museus têm tanta credibilidade como a série de animação The Flintstones. 
+Os criacionistas dizem que o Universo existe há cerca de 6.000 anos. Até existem museus criacionistas onde é possível ver representações de humanos a conviver com dinossauros. Esses museus têm tanta credibilidade como a série de animação *The Flintstones*. 
 
 ![](https://i.ibb.co/CpLKtTV5/8e5032ea-0fad-4878-838b-0ed61e15532e.jpg)
 
