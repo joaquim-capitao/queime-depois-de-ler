@@ -32,8 +32,7 @@ No entanto, essas ideias anticientíficas não encontram apoio na Bíblia, pois
 
 É verdade que a Bíblia fala em "seis dias", mas o contexto mostra que esses versículos não falam sobre a criação do Universo, mas sim sobre como a Terra tornou-se um lugar habitável. Além disso, a palavra hebraica traduzida como “dia” também pode significar “era” ou “época”. Isso mostra que, tal como a ciência já descobriu, a Terra passou por várias etapas até se tornar aquilo que é hoje. Portanto, à luz do conhecimento atual, não faz sentido acreditar que o Universo tenha sido criado em menos de uma semana, tal como afirmam os criacionistas.
 
-Sobre o significado de cada “dia criativo” mencionado no livro de Génesis, o seguinte vídeo é muito esclarecedor: 
-[https://www.jw.org/pt-pt/biblioteca/videos/ebbv/foi-o-universo-criado/](https://www.jw.org/pt-pt/biblioteca/videos/ebbv/foi-o-universo-criado/)
+Sobre o significado de cada “dia criativo” mencionado no livro de Génesis, o seguinte vídeo é muito esclarecedor: ["Será Que o Universo Foi Criado?"](https://www.jw.org/pt-pt/biblioteca/videos/ebbv/foi-o-universo-criado/)
 
   
 
