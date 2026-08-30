@@ -32,5 +32,3 @@
 <div align="Right">Joaquim Capitão</div>
 <div align="Right">30/08/2026</div>
 
-
-#queime-depois-de-ler 
