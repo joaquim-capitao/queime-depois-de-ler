@@ -1,4 +1,4 @@
-# Titanic
+# Titanic - A Minha Crítica Definitiva
 
 Quando o filme **Titanic** estreou em Portugal, as multidões correram em histeria para as salas de cinema. E eu, devidamente munido de um balde de pipocas gigante, juntei-me à romaria.
 
