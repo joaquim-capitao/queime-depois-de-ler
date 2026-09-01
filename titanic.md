@@ -36,16 +36,17 @@ Mas penso que todos captámos a importante mensagem do filme:
 
 *"Arrisca tudo por alguém que acabaste de conhecer, pois, aparentemente, o verdadeiro amor não exige conhecer bem a outra pessoa. Basta haver uma boa química e uma excelente vista para o oceano. O pior que te pode acontecer é terminares na solidão do alto mar, em cima de uma porta, à espera que alguém te salve da hipotermia."*
 
-E é isto.
+É esta a lição, ou então há um final alternativo que faz mais sentido:
+
+<video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/titanic.mp4" 
+controls width="100%">
+Seu navegador não suporta a tag de vídeo.
+</video>
 
 ---
 
 <div align="Right">Joaquim Capitão</div>
 <div align="Right">06/09/2026</div>
 
-### Final Alternativo:
 
-<video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/titanic.mp4" 
-controls width="100%">
-Seu navegador não suporta a tag de vídeo.
-</video>
+
