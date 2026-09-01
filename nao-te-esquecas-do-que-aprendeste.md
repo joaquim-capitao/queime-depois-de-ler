@@ -18,5 +18,5 @@ O aluno, algo receoso, perguntou: «E se eu ficar isolado? E se os meus companhe
 
 ---
 
-<div align="right">Joaquim Capitão</div> 
-<div align="right">20/05/2023</div> 
+<div align="right">Joaquim Capitão</div>
+<div align="right">20/05/2023</div>
