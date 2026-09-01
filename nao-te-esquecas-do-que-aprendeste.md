@@ -1,3 +1,7 @@
+---
+layout: style-light
+---
+
 # Não Te Esqueças Do Que Aprendeste
 
 Sabendo que o futuro não seria pacífico, ela decidiu preparar o menino para a guerra. Ensinou-lhe a manejar a espada e revelou-lhe todos os segredos do combate. O treino era diário e exigente. Ainda assim, nunca desistiu de treiná-lo, mesmo quando o cansaço se fazia sentir.
@@ -16,6 +20,3 @@ O aluno, algo receoso, perguntou: «E se eu ficar isolado? E se os meus companhe
 
 <div align="right">Joaquim Capitão</div> 
 <div align="right">20/05/2023</div> 
-<div align="right">(Dois anos após perder a minha mentora)</div> 
-
-#queime-depois-de-ler 
