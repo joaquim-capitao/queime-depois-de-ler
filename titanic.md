@@ -10,11 +10,11 @@ Tudo começa quando um vagabundo desprovido de património, provavelmente carreg
 
 O vagabundo chama-se **Jack** e é interpretado por um Leonardo DiCaprio com cara de bebé e absolutamente nenhuma penugem facial. Apaixona-se por **Rose**, uma Kate Winslet no auge da beleza, mas consumida por aquela melancolia típica de quem tem demasiados talheres de prata à mesa do jantar.
 
-A química visual é fascinante. Ela é tem a aparência de uma mulher feita, elegante e sofisticada. Ele parece um miúdo do 9.º ano a quem a tia levou a passear ao centro comercial para lhe comprar um gelado. E eu, sentado no escuro do cinema, com 19 anos e uma barba densa e impecável, tive de engolir a revolta de ver aquele _pré-adolescente_ ficar com um papel que poderia ter sido meu. (Se eu fosse actor, claro.)
+A química visual é fascinante. Ela é uma mulher feita, elegante e sofisticada. Ele parece um miúdo do 9.º ano a quem a tia levou a passear ao centro comercial para lhe comprar um gelado. E eu, sentado no escuro do cinema, com 19 anos e uma barba densa e impecável, tive de engolir a revolta de ver aquele _pré-adolescente_ ficar com um papel que poderia ter sido meu. (Se eu fosse actor, claro.)
 
-​O romance floresce sob um rigoroso protocolo de transgressões: lições de cuspo para o mar, corridas pelos corredores como se fossem dois maluquinhos, e, no pico da audácia, uma sessão de desenho anatómico a carvão, com a jovem modelo vestida apenas com um colar que valia o PIB de um país em desenvolvimento.
+​O romance floresce sob um rigoroso protocolo de transgressões: lições de cuspo para o mar, corridas pelos corredores como se fossem dois maluquinhos, e, no pico da audácia, uma sessão de desenho anatómico a carvão, com Rose vestida apenas com um colar que valia o PIB de um país em desenvolvimento.
 
-Tudo está a correr lindamente, até que a tripulação, num esforço comovente para manter a pontualidade britânica, decide abalroar um iceberg no Atlântico Norte.
+Tudo está a correr lindamente, até que a tripulação, num esforço para manter a pontualidade britânica, decide abalroar um iceberg no Atlântico Norte.
 
 ​A partir daí, a longa-metragem transforma-se num gigantesco exercício de incompetência logística em alto-mar. Há violinos a tocar, milionários a tentar subornar marinheiros e uma tripulação inteira a descobrir, com admirável serenidade, que aquele navio não era tão *insubmersível*  como parecia.
 
@@ -49,7 +49,3 @@ E é isto.
 controls width="100%">
 Seu navegador não suporta a tag de vídeo.
 </video>
-
-
-
-#queime-depois-de-ler 
