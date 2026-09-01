@@ -41,7 +41,7 @@ E é isto.
 ---
 
 <div align="Right">Joaquim Capitão</div>
-<div align="Right">22/08/2026</div>
+<div align="Right">06/09/2026</div>
 
 ### Final Alternativo:
 
