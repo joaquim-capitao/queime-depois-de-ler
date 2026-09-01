@@ -14,7 +14,7 @@ Já adulto, no meio de uma batalha particularmente violenta, ele olhou em volta 
 
 Certo dia, quando já era um veterano, teve uma conversa com um jovem.  Enquanto afiavam as espadas, explicou-lhe a importância do escudo para travar as dúvidas, da couraça para proteger o coração e do capacete para resguardar a mente. Falou também do valor de um calçado firme e da estabilidade concedida por um cinto bem ajustado.
 
-O aluno, algo receoso, perguntou: «E se eu ficar isolado? E se os meus companheiros de batalha caírem ao meu lado?» Fitando a espada brilhante, transmitiu-lhe a derradeira lição: "Nunca te esqueças de que a força de cada movimento não vem de ti, mas de algo muito maior." E, com a mesma convicção que um dia lhe fora transmitida, concluiu: "Não te esqueças do que aprendeste. Mantém-te firme."
+O aluno, algo receoso, perguntou: "E se eu ficar isolado? E se os meus companheiros de batalha caírem ao meu lado?" Fitando a espada brilhante, transmitiu-lhe a derradeira lição: "Nunca te esqueças de que a força de cada movimento não vem de ti, mas de algo muito maior." E, com a mesma convicção que um dia lhe fora transmitida, concluiu: "Não te esqueças do que aprendeste. Mantém-te firme."
 
 ---
 
