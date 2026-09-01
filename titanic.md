@@ -38,9 +38,9 @@ Mas penso que todos captámos a importante mensagem do filme:
 
 *"Arrisca tudo por alguém que acabaste de conhecer, pois, aparentemente, o verdadeiro amor não exige conhecer bem a outra pessoa. Basta haver uma boa química e uma excelente vista para o oceano. O pior que te pode acontecer é terminares na solidão do alto mar, em cima de uma porta, à espera que alguém te salve da hipotermia."*
 
-É uma excelente lição. 
+É uma mensagem bonita, sem dúvida. 
 
-Ou então existe um final alternativo que faz muito mais sentido:
+Ou, então, este final alternativo faz muito mais sentido:
 
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/titanic.mp4" 
 controls width="100%">
