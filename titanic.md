@@ -32,15 +32,11 @@ Décadas mais tarde, Rose atira a jóia de valor inestimável aos peixes, confir
 
 ​Quando Rose morre, junta-se às alminhas no fundo do oceano e toda a gente aplaude o reencontro do casal num salão submerso, como se passar a eternidade a 4.000 metros de profundidade, com humidade e frio, fosse motivo para tanto êxtase.
 
-No final, saí daquela sala de cinema com o balde de pipocas vazio, ao som de Céline Dion, enquanto tentava esquivar-me dos soluços das senhoras da fila da frente.
-
-Mas penso que todos captámos a importante mensagem do filme: 
+No final, saí daquela sala de cinema com o balde de pipocas vazio, ao som de Céline Dion, enquanto pensava na importante mensagem do filme:
 
 *"Arrisca tudo por alguém que acabaste de conhecer, pois o verdadeiro amor não exige conhecer bem a outra pessoa. Basta haver uma boa química e uma excelente vista para o oceano. O pior que te pode acontecer é terminares na solidão do alto mar, em cima de uma porta, à espera que alguém te salve da hipotermia."*
 
-É uma mensagem comovente, sem dúvida. 
-
-Ou, então, este final alternativo faz muito mais sentido:
+É uma mensagem comovente, sem dúvida. Embora, se quisermos ser honestos, este final alternativo é muito mais realista:
 
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/titanic.mp4" 
 controls width="100%">
