@@ -2,9 +2,9 @@
 
 ## A Minha Crítica Definitiva
 
-Quando o filme **Titanic** estreou em Portugal, as multidões correram, em histeria, para as salas de cinema. E eu, devidamente munido de um balde gigante de pipocas, juntei-me à romaria.
+Quando o filme **Titanic** estreou em Portugal, as multidões correram em histeria para as salas de cinema. E eu, devidamente munido de um balde gigante de pipocas, juntei-me à romaria.
 
-Logo no início, percebi que aquilo não era um romance, mas sim um documentário de utilidade pública sobre os perigos de misturar classes sociais, engenharia naval e cubos de gelo gigantescos.
+Logo no início, percebi que aquilo não era um romance, mas um documentário de utilidade pública sobre os perigos de misturar classes sociais, engenharia naval e cubos de gelo gigantescos.
 
 <img src="https://variety.com/wp-content/uploads/2016/03/titanic-anniversary.jpg" title="" alt="" data-align="inline">
 
@@ -12,9 +12,9 @@ Tudo começa quando um vagabundo desprovido de património, provavelmente carreg
 
 O vagabundo chama-se **Jack** e é interpretado por um Leonardo DiCaprio com cara de bebé e absolutamente nenhuma penugem facial. Apaixona-se por **Rose**, uma Kate Winslet no auge da beleza, mas consumida por aquela melancolia típica de quem tem demasiados talheres de prata à mesa de jantar.
 
-A química visual é fascinante. Ela é uma mulher feita, elegante e sofisticada. Ele parece um miúdo do 9.º ano a quem a tia levou ao centro comercial para lhe comprar um gelado. E eu, sentado no escuro do cinema, com 19 anos e uma barba densa e impecável, tive de engolir a revolta de ver aquele *pré-adolescente* ficar com um papel que poderia ter sido meu. (Se eu fosse um ator, claro.)
+A química visual é fascinante. Ela é uma mulher feita, elegante e sofisticada. Ele parece um miúdo do 9.º ano que a tia levou ao centro comercial para lhe comprar um gelado. E eu, sentado no escuro do cinema, com 19 anos e uma barba densa e impecável, tive de engolir a revolta de ver aquele *pré-adolescente* ficar com um papel que poderia ter sido meu. (Se eu fosse um ator, claro.)
 
-​O romance floresce sob um rigoroso protocolo de transgressões: lições de cuspo para o mar, corridas pelos corredores como se fossem dois maluquinhos e, no auge da audácia, uma sessão de desenho anatómico a carvão, com Rose vestida apenas com um colar que valia o PIB de um país em desenvolvimento.
+O romance floresce sob um rigoroso protocolo de transgressões: lições de cuspo para o mar, corridas pelos corredores como se fossem dois maluquinhos e, no auge da audácia, uma sessão de desenho anatómico a carvão, com Rose vestida apenas com um colar que valia o PIB de um país em desenvolvimento.
 
 Tudo está a correr lindamente, até que a tripulação, num esforço para manter a pontualidade britânica, decide abalroar um icebergue no Atlântico Norte.
 
@@ -26,17 +26,17 @@ Existe uma enorme porta de madeira onde, claramente, caberiam os dois protagonis
 
 ![](https://i.ibb.co/9kVqJ59P/watermarked-img-7488824285450047067.jpg)
 
-​Jack, com estalactites no nariz, afunda-se com a dignidade de quem compreendeu tarde demais que a mobilidade social tem barreiras intransponíveis. 
+​Jack, com estalactites no nariz, afunda-se com a dignidade de quem compreendeu, tarde demais, que a mobilidade social tem barreiras intransponíveis.
 
 Décadas mais tarde, Rose atira a jóia de valor inestimável aos peixes, confirmando que a idade não perdoa e que a demência bate à porta de todos.
 
-​Quando Rose morre, junta-se às alminhas no fundo do oceano e toda a gente aplaude o reencontro do casal num salão submerso, como se passar a eternidade a 4.000 metros de profundidade, com humidade e frio, fosse motivo para tanto êxtase.
+Quando Rose morre, junta-se às alminhas no fundo do oceano, e toda a gente aplaude o reencontro do casal num salão submerso, como se passar a eternidade a 4.000 metros de profundidade, com humidade e frio, fosse motivo para tanto êxtase.
 
 No final, saí daquela sala de cinema com o balde de pipocas vazio, ao som de Céline Dion, enquanto pensava na importante mensagem do filme:
 
-*"Arrisca tudo por alguém que acabaste de conhecer, pois o verdadeiro amor não exige conhecer bem a outra pessoa. Basta haver uma boa química e uma excelente vista para o oceano. O pior que te pode acontecer é terminares na solidão do alto mar, em cima de uma porta, à espera que alguém te salve da hipotermia."*
+*"Arrisca tudo por alguém que acabaste de conhecer, pois o verdadeiro amor não exige conhecer bem a outra pessoa. Basta haver uma boa química e uma excelente vista para o oceano. O pior que te pode acontecer é terminares na solidão do alto-mar, em cima de uma porta, à espera que alguém te salve da hipotermia."*
 
-É uma mensagem comovente, sem dúvida. Embora, se quisermos ser honestos, este final alternativo é muito mais realista:
+É uma mensagem comovente, sem dúvida. Embora, se quisermos ser honestos, este final alternativo seja muito mais realista:
 
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/titanic.mp4" 
 controls width="100%">
