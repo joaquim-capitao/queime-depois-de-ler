@@ -29,5 +29,3 @@ Realmente, já que é inevitável que alguém ocupe espaço na nossa cabeça, co
 
 <div align="right">Joaquim Capitão</div> 
 <div align="right">06/09/2026</div> 
-
-#queime-depois-de-ler 
