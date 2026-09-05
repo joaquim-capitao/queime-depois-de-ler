@@ -21,7 +21,7 @@ Por isso, da próxima vez que alguém te disser *"pensa pela tua própria cabeç
 
 Além disso, a tua cabeça já está ocupada demais a gerir um condomínio com vários inquilinos. Entre eles estão Luís Vaz de Camões, a tua professora da escola primária, a tua avó, um comentador da televisão e, claro, o *Inspetor Max*.
 
-O segredo, portanto, não é ter uma cabeça "original". Isso não existe, pois ninguém escapa à influência dos outros. O truque está em escolher bem os inquilinos, de preferência aqueles que pagam a renda com boas ideias.
+O segredo, portanto, não é ter uma cabeça "original". Isso não existe. O truque está em escolher bem os inquilinos, de preferência aqueles que pagam a renda com boas ideias.
 
 ---
 
