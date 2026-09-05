@@ -18,7 +18,7 @@ O romance floresce sob um rigoroso protocolo de transgressões: lições de cusp
 
 Tudo está a correr lindamente, até que a tripulação, num esforço para manter a pontualidade britânica, decide abalroar um icebergue no Atlântico Norte.
 
-A partir daí, a longa-metragem transforma-se num gigantesco exercício de incompetência logística em alto-mar. Há violinos a tocar, milionários a tentar subornar marinheiros e uma tripulação inteira a descobrir, com admirável serenidade, que aquele navio não era tão insubmersível como parecia.
+Daí em diante, o filme descamba num festival de incompetência. Há violinos a tocar, milionários a tentar subornar marinheiros e uma tripulação inteira a descobrir, com admirável serenidade, que a teoria da insubmersibilidade tinha os seus furos.
 
 E, no meio do caos, surge o famoso momento que testa a nossa suspensão da descrença: **a porta**.
 
