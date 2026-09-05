@@ -34,7 +34,7 @@ No final, saí daquela sala de cinema com o balde de pipocas vazio, ao som de C�
 
 *"Arrisca tudo por alguém que acabaste de conhecer, pois o verdadeiro amor não exige conhecer bem a outra pessoa. Basta haver uma boa química e uma excelente vista para o oceano. O pior que te pode acontecer é terminares na solidão do alto-mar, em cima de uma porta, à espera que alguém te salve da hipotermia."*
 
-É uma mensagem comovente, sem dúvida. Embora, se quisermos ser honestos, este final alternativo faria muito mais sentido:
+É uma mensagem comovente, sem dúvida. Contudo, se quisermos ser honestos, este final alternativo faria muito mais sentido:
 
 <video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/titanic.mp4" 
 controls width="100%">
