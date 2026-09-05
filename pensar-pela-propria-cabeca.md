@@ -11,7 +11,7 @@ Uma das frases que mais se ouvem atualmente é: *"Tens de pensar pela tua própr
 
 ![](https://i.ibb.co/nqzSxcFK/1000142104.jpg)
 
-Portanto, o indivíduo que enche o peito e proclama *“Eu penso pela minha própria cabeça!”* é, por norma, uma das pessoas mais influenciáveis à face da Terra. Só isso explica a necessidade de verbalizar tamanho disparate.
+Portanto, o indivíduo que enche o peito e proclama *“Eu penso pela minha própria cabeça!”* é, por norma, uma das pessoas mais influenciáveis à face da Terra. A ironia é que essa frase nem sequer é original dele: ouviu-a num canto qualquer da internet e agora limita-se a papagueá-la com orgulho.
 
 A ideia de que é possível não ser influenciado é uma autêntica balela. Na realidade, somos influenciados desde que a parteira nos deu a primeira palmada. A verdadeira questão nunca é *<u>se</u>* estamos a ser influenciados, mas sim *<u>por quem</u>*.
 
@@ -21,9 +21,7 @@ Por isso, da próxima vez que alguém te disser *"pensa pela tua própria cabeç
 
 Além disso, a tua cabeça já está ocupada demais a gerir um condomínio com vários inquilinos. Entre eles estão Luís Vaz de Camões, a tua professora da escola primária, a tua avó, um comentador da televisão e, claro, o *Inspetor Max*.
 
-O segredo, portanto, não é ter uma cabeça "original". Isso não existe. Não é possível escapar à influência de outras pessoas. O segredo é escolher bem os inquilinos. 
-
-Realmente, já que é inevitável que alguém ocupe espaço na nossa cabeça, convém escolher apenas os inquilinos que estão dispostos a pagar a renda com boas ideias.
+O segredo, portanto, não é ter uma cabeça "original". Isso não existe, pois ninguém escapa à influência dos outros. O truque está em escolher bem os inquilinos, de preferência aqueles que pagam a renda com boas ideias.
 
 ---
 
