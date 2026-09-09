@@ -11,7 +11,7 @@ Uma das frases que mais se ouvem atualmente é: *"Tens de pensar pela tua própr
 
 ![](https://i.ibb.co/nqzSxcFK/1000142104.jpg)
 
-Portanto, o indivíduo que enche o peito e proclama *“Eu penso pela minha própria cabeça!”* é, por norma, uma das pessoas mais influenciáveis à face da Terra. A ironia é que essa frase nem sequer é original dele: ouviu-a num canto qualquer da internet e agora limita-se a papagueá-la com orgulho.
+Portanto, o indivíduo que enche o peito e proclama *“Eu penso pela minha própria cabeça!”* é, por norma, uma das pessoas mais influenciáveis à face da Terra. A ironia é que essa frase nem sequer é original dele. Provavelmente, ouviu-a num canto qualquer da internet e agora limita-se a papagueá-la com orgulho.
 
 A ideia de que é possível não ser influenciado é uma autêntica balela. Na realidade, somos influenciados desde que a parteira nos deu a primeira palmada. A verdadeira questão nunca é *<u>se</u>* estamos a ser influenciados, mas sim *<u>por quem</u>*.
 
