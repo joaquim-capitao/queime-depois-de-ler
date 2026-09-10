@@ -11,15 +11,13 @@ Uma das frases que mais se ouvem atualmente é: *"Tens de pensar pela tua própr
 
 ![](https://i.ibb.co/nqzSxcFK/1000142104.jpg)
 
-Portanto, o indivíduo que enche o peito e proclama *“Eu penso pela minha própria cabeça!”* é, por norma, uma das pessoas mais influenciáveis à face da Terra. A ironia é que essa frase nem sequer é original dele. Provavelmente, ouviu-a num canto qualquer da internet e agora limita-se a papagueá-la com orgulho.
+Portanto, o indivíduo que enche o peito e proclama *“Eu penso pela minha própria cabeça!”* é, por norma, uma das pessoas mais influenciáveis à face da Terra. A ironia é que nem essa frase é dele. Provavelmente, ouviu-a num canto qualquer da internet e agora limita-se a papagueá-la com orgulho.
 
 A ideia de que é possível não ser influenciado é uma autêntica balela. Na realidade, somos influenciados desde que a parteira nos deu a primeira palmada. A verdadeira questão nunca é *<u>se</u>* estamos a ser influenciados, mas sim *<u>por quem</u>*.
 
-Por isso, da próxima vez que alguém te disser *"pensa pela tua própria cabeça"*, agradece o conselho, mas declina educadamente. O que a pessoa realmente quer dizer é: *"Discorda de toda a gente, exceto de mim”.*
+Por isso, da próxima vez que alguém te disser *"pensa pela tua própria cabeça"*, agradece o conselho, mas declina educadamente. O que a pessoa realmente quer dizer é: *"Discorda de toda a gente, menos de mim”.*
 
-A nossa cabeça pode ser comparada a um condomínio de apartamentos do qual somos senhorios. A única liberdade que temos é selecionar os inquilinos. 
-
-E entre os inquilinos, já tens o Luís Vaz de Camões, a tua professora da escola primária, a tua avó, um comentador da televisão e, claro, o *Inspetor Max*.
+A nossa mente assemelha-se mais a um condomínio do qual somos os senhorios. Não podemos deixar o prédio vazio, mas cabe-nos a responsabilidade de selecionar os inquilinos. É provável que já tenhas arrendado um espaço para Luís de Camões, a tua avó, um comentador do telejornal e, claro, o Inspetor Max.
 
 O segredo, portanto, não é ter uma cabeça "original". Isso não existe. O truque está em escolher bem os inquilinos, de preferência aqueles que pagam a renda com boas ideias.
 
