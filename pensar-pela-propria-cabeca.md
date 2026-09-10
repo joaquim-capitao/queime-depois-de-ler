@@ -7,17 +7,17 @@ Uma das frases que mais se ouvem atualmente é: *"Tens de pensar pela tua própr
 
 ​A ingenuidade da frase reside no pressuposto de que existe, algures no cérebro, um compartimento selado a vácuo, imune ao resto da humanidade, de onde brotam ideias puras e originais. Mas isso é inteiramente falso.
 
-​Tudo o que temos na mente foi deixado por alguém. Até para pensar precisamos de uma ferramenta que nos foi oferecida: a linguagem. As palavras que usamos para estruturar raciocínios, incluindo os conceitos de "justiça" ou "sucesso", foram-nos ensinadas durante a infância pelos nossos pais, pela nossa avó e, provavelmente, por alguns episódios do *Inspetor Max*.
+​Tudo o que temos na mente foi deixado por alguém. Até para pensar precisamos de uma ferramenta que nos foi oferecida: a linguagem. As palavras que usamos para estruturar raciocínios, incluindo os conceitos de "justiça" ou "sucesso", foram-nos ensinadas durante a infância pelos nossos pais e, provavelmente, por alguns episódios do *Inspetor Max*.
 
 ![](https://i.ibb.co/nqzSxcFK/1000142104.jpg)
 
-Portanto, o indivíduo que enche o peito e proclama *“Eu penso pela minha própria cabeça!”* é, por norma, uma das pessoas mais influenciáveis à face da Terra. A ironia é que nem essa frase é dele. Provavelmente, ouviu-a num canto qualquer da internet e agora limita-se a papagueá-la com orgulho.
+Portanto, o indivíduo que enche o peito e proclama *“Eu penso pela minha própria cabeça!”* é, por norma, uma das pessoas mais influenciáveis à face da Terra. A ironia é que nem essa frase é dele. Ouviu-a num canto qualquer da internet e agora limita-se a papagueá-la com orgulho.
 
 A ideia de que é possível não ser influenciado é uma autêntica balela. Na realidade, somos influenciados desde que a parteira nos deu a primeira palmada. A verdadeira questão nunca é *<u>se</u>* estamos a ser influenciados, mas sim *<u>por quem</u>*.
 
 Por isso, da próxima vez que alguém te disser *"pensa pela tua própria cabeça"*, agradece o conselho, mas declina educadamente. O que a pessoa realmente quer dizer é: *"Discorda de toda a gente, menos de mim”.*
 
-A nossa mente assemelha-se mais a um condomínio do qual somos os senhorios. Não podemos deixar o prédio vazio, mas cabe-nos a responsabilidade de selecionar os inquilinos. É provável que já tenhas arrendado um espaço para Luís de Camões, a tua avó, um comentador do telejornal e, claro, o Inspetor Max.
+A nossa mente assemelha-se mais a um condomínio do qual somos os senhorios, e cabe-nos a responsabilidade de selecionar os inquilinos. É provável que já tenhas um espaço reservado para Luís de Camões, a tua avó, um comentador do telejornal e, claro, o Inspetor Max.
 
 O segredo, portanto, não é ter uma cabeça "original". Isso não existe. O truque está em escolher bem os inquilinos, de preferência aqueles que pagam a renda com boas ideias.
 
