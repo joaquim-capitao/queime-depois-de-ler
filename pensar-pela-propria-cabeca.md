@@ -15,11 +15,11 @@ Portanto, o indivíduo que enche o peito e proclama *“Eu penso pela minha pró
 
 A ideia de que é possível não ser influenciado é uma autêntica balela. Na realidade, somos influenciados desde que a parteira nos deu a primeira palmada. A verdadeira questão nunca é *<u>se</u>* estamos a ser influenciados, mas sim *<u>por quem</u>*.
 
-Nesse sentido, a nossa cabeça pode ser comparada a um apartamento do qual somos senhorios. Entra tudo o que nós deixarmos: desde os *slogans* publicitários até aos desabafos de um taxista. A única liberdade que temos é selecionar os inquilinos. 
-
 Por isso, da próxima vez que alguém te disser *"pensa pela tua própria cabeça"*, agradece o conselho, mas declina educadamente. O que a pessoa realmente quer dizer é: *"Discorda de toda a gente, exceto de mim”.*
 
-Além disso, a tua cabeça já está ocupada demais a gerir um condomínio com vários inquilinos. Entre eles estão Luís Vaz de Camões, a tua professora da escola primária, a tua avó, um comentador da televisão e, claro, o *Inspetor Max*.
+A nossa cabeça pode ser comparada a um condomínio de apartamentos do qual somos senhorios. A única liberdade que temos é selecionar os inquilinos. 
+
+E entre os inquilinos, já tens o Luís Vaz de Camões, a tua professora da escola primária, a tua avó, um comentador da televisão e, claro, o *Inspetor Max*.
 
 O segredo, portanto, não é ter uma cabeça "original". Isso não existe. O truque está em escolher bem os inquilinos, de preferência aqueles que pagam a renda com boas ideias.
 
