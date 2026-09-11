@@ -17,9 +17,13 @@ A ideia de que é possível não ser influenciado é uma autêntica balela. Na r
 
 Por isso, da próxima vez que alguém te disser *"pensa pela tua própria cabeça"*, agradece o conselho, mas declina educadamente. O que a pessoa realmente quer dizer é: *"Discorda de toda a gente, menos de mim”.*
 
-A nossa mente assemelha-se mais a um condomínio do qual somos os senhorios, e cabe-nos a responsabilidade de selecionar os inquilinos. É provável que já tenhas um espaço reservado para Luís de Camões, a tua avó, um comentador do telejornal e, claro, o Inspetor Max.
+A nossa mente assemelha-se mais a um prédio de apartamentos onde nós somos os senhorios, com a responsabilidade de selecionar os inquilinos. 
 
-O segredo, portanto, não é ter uma cabeça "original". Isso não existe. O truque está em escolher bem os inquilinos, de preferência aqueles que pagam a renda com boas ideias.
+Mesmo sem te aperceberes, a tua cabeça já tem espaço reservado para Luís de Camões, para a tua avó e, claro, para o Inspetor Max. (No meu caso, um dos primeiros inquilinos foi o Dartacão.)
+
+O objetivo, portanto, não é ter uma mente virgem ou original, até porque essa pureza não existe. A verdadeira sabedoria está em saber filtrar as influências e acolher apenas os inquilinos que pagam a renda com boas ideias.
+
+
 
 ---
 
