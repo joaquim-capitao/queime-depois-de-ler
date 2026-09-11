@@ -17,15 +17,13 @@ A ideia de que é possível não ser influenciado é uma autêntica balela. Na r
 
 Por isso, da próxima vez que alguém te disser *"pensa pela tua própria cabeça"*, agradece o conselho, mas declina educadamente. O que a pessoa realmente quer dizer é: *"Discorda de toda a gente, menos de mim”.*
 
-A nossa mente assemelha-se mais a um prédio de apartamentos onde nós somos os senhorios, com a responsabilidade de selecionar os inquilinos. 
+A nossa mente assemelha-se mais a um prédio de apartamentos onde nós somos os senhorios, com a responsabilidade de selecionar os inquilinos. Mesmo sem te aperceberes, a tua cabeça já arrendou um espaço a Luís Vaz de Camões, outro à tua avó e, claro, ao *Inspector Max*. (No meu caso, um dos meus primeiros inquilinos foi o *D'Artacão*.)
 
-Mesmo sem te aperceberes, a tua cabeça já tem espaço reservado para Luís de Camões, para a tua avó e, claro, para o Inspetor Max. (No meu caso, um dos primeiros inquilinos foi o Dartacão.)
-
-O objetivo, portanto, não é ter uma mente virgem ou original, até porque essa pureza não existe. A verdadeira sabedoria está em saber filtrar as influências e acolher apenas os inquilinos que pagam a renda com boas ideias.
+Portanto, não vale a pena tentar ter uma mente virgem ou original. A verdadeira sabedoria está em saber filtrar as influências e acolher apenas os inquilinos que pagam a renda com boas ideias.
 
 
 
 ---
 
 <div align="right">Joaquim Capitão</div> 
-<div align="right">06/09/2026</div> 
+<div align="right">13/09/2026</div> 
