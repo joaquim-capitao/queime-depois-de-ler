@@ -15,13 +15,13 @@ No entanto, perante a simulação de uma desgraça, as nossas glândulas lacrima
 
 O pacto que fazemos com o cinema é, portanto, uma vigarice consentida. Aceitamos tudo:
 
-- que um rapaz ganhe superpoderes porque foi picado por uma aranha;
+  - que um rapaz ganhe superpoderes porque foi picado por uma aranha;
 
-- que uma nave espacial faça barulho no vácuo;
+  - que uma nave espacial faça barulho no vácuo;
 
-- que uma mulher como Michelle Pfeiffer se apaixone por alguém como Jack Nicholson;
+  - que uma mulher como Michelle Pfeiffer se apaixone por alguém como Jack Nicholson;
 
-- e até que o Tom Cruise corra daquela maneira estranha sem sofrer uma crise de ciática.
+  - e até que o Tom Cruise corra daquela maneira estranha sem sofrer uma crise de ciática.
 
 ![](https://media1.tenor.com/m/qhdAL8UNVU0AAAAd/run.gif)
 
