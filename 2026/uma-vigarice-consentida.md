@@ -1,5 +1,5 @@
 
-# A Mentira Mais Honesta do Mundo
+# Uma Vigarice Consentida
 
 Um homem respeitável, vacinado, que declara o IRS e paga a prestação de uma casa, senta-se numa cadeira almofadada, às escuras, e aguarda o começo de um filme.
 
