@@ -50,5 +50,3 @@ O cinema não é uma fuga da realidade, mas um reencontro com a parte de nós qu
 <div align="Right">13/09/2026</div>
 
 
-#queime-depois-de-ler 
-
