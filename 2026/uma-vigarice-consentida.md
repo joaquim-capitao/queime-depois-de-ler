@@ -13,15 +13,15 @@ Nós sabemos perfeitamente que aquilo são apenas feixes de luz projetados contr
 
 No entanto, perante a simulação de uma desgraça, as nossas glândulas lacrimais comportam-se como se estivéssemos a assistir a uma tragédia real.
 
-O pacto que fazemos com o cinema é, portanto, uma vigarice consentida. Aceitamos tudo:
+O pacto que fazemos com o cinema é, portanto, uma vigarice consentida. Aceitamos tudo.
 
-  - que um rapaz ganhe superpoderes porque foi picado por uma aranha;
+  - Aceitamos que um rapaz ganhe superpoderes porque foi picado por uma aranha.
 
-  - que uma nave espacial faça barulho no vácuo;
+  - Aceitamos que uma nave espacial faça barulho no vácuo.
 
-  - que uma mulher como Michelle Pfeiffer se apaixone por alguém como Jack Nicholson;
+  - Aceitamos que uma mulher como Michelle Pfeiffer se apaixone por alguém como Jack Nicholson.
 
-  - e até que o Tom Cruise corra daquela maneira estranha sem sofrer uma crise de ciática.
+  - Aceitamos até que o Tom Cruise corra daquela maneira estranha sem sofrer uma crise de ciática.
 
 ![](https://media1.tenor.com/m/qhdAL8UNVU0AAAAd/run.gif)
 
