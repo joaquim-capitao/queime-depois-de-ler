@@ -13,7 +13,7 @@ Nós sabemos perfeitamente que aquilo são apenas feixes de luz projetados contr
 
 No entanto, perante a simulação de uma desgraça, as nossas glândulas lacrimais comportam-se como se estivéssemos a assistir a uma tragédia real.
 
-O pacto que fazemos com o cinema é, portanto, uma vigarice consentida. Aceitamos tudo.
+O pacto que fazemos com o cinema é, portanto, uma vigarice consentida. Aceitamos tudo:
 
   - Aceitamos que um rapaz ganhe superpoderes porque foi picado por uma aranha.
 
