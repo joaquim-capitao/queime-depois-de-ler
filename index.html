@@ -115,10 +115,51 @@
       margin-left: 16px;
     }
 
+    /* Paginação Discreta */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 36px;
+      padding-top: 20px;
+      border-top: 1px solid var(--card-border);
+    }
+
+    .page-btn {
+      background-color: transparent;
+      border: 1px solid transparent;
+      color: var(--text-link);
+      padding: 6px 12px;
+      font-size: 0.9rem;
+      border-radius: 8px;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all 0.2s ease;
+    }
+
+    .page-btn:hover:not(:disabled) {
+      border-color: var(--card-hover-border);
+      background-color: var(--card-hover-bg);
+      color: var(--accent);
+    }
+
+    .page-btn.active {
+      background-color: var(--card-bg);
+      border-color: var(--accent);
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    .page-btn:disabled {
+      opacity: 0.3;
+      cursor: default;
+    }
+
     footer {
       text-align: center;
-      margin-top: 50px;
-      padding-top: 30px;
+      margin-top: 30px;
+      padding-top: 20px;
     }
 
     .home-btn {
@@ -158,8 +199,7 @@
       <p class="subtitle">(Leia por sua conta e risco)</p>
     </header>
     
-    <ul class="chronicles-list">
-
+    <ul class="chronicles-list" id="chronicles-list">
       <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/2026/uma-vigarice-consentida"><span class="title">Uma Vigarice Consentida</span><span class="date">(13/09/2026)</span></a></li>
       <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/a-verdade-mais-dolorosa"><span class="title">A Verdade Mais Dolorosa</span><span class="date">(06/09/2026)</span></a></li>
       <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/a-infancia"><span class="title">A Infância</span><span class="date">(30/08/2026)</span></a></li>
@@ -227,6 +267,9 @@
       <li><a href="http://simp.ly/p/nGczqM"><span class="title">A Regra dos Cinco Segundos</span><span class="date">(02/01/2011)</span></a></li>      
     </ul>
 
+    <!-- Navegação de Páginas -->
+    <nav class="pagination" id="pagination" aria-label="Navegação das crónicas"></nav>
+
     <footer>
       <a href="https://joaquim-capitao.github.io/" class="home-btn" title="Página Inicial">
         <span class="home-icon">🏠</span>
@@ -235,6 +278,71 @@
     </footer>
 
   </main>
+
+  <script>
+    const ITEMS_PER_PAGE = 50;
+    const list = document.getElementById('chronicles-list');
+    const items = Array.from(list.children);
+    const paginationContainer = document.getElementById('pagination');
+    const totalPages = Math.ceil(items.length / ITEMS_PER_PAGE);
+
+    function showPage(page) {
+      const start = (page - 1) * ITEMS_PER_PAGE;
+      const end = start + ITEMS_PER_PAGE;
+
+      items.forEach((item, index) => {
+        item.style.display = (index >= start && index < end) ? '' : 'none';
+      });
+
+      renderPagination(page);
+    }
+
+    function renderPagination(currentPage) {
+      if (totalPages <= 1) {
+        paginationContainer.innerHTML = '';
+        return;
+      }
+
+      paginationContainer.innerHTML = '';
+
+      // Botão Anterior
+      const prevBtn = document.createElement('button');
+      prevBtn.className = 'page-btn';
+      prevBtn.textContent = '← Anterior';
+      prevBtn.disabled = currentPage === 1;
+      prevBtn.onclick = () => {
+        showPage(currentPage - 1);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      };
+      paginationContainer.appendChild(prevBtn);
+
+      // Botões numéricos
+      for (let i = 1; i <= totalPages; i++) {
+        const numBtn = document.createElement('button');
+        numBtn.className = 'page-btn' + (i === currentPage ? ' active' : '');
+        numBtn.textContent = i;
+        numBtn.onclick = () => {
+          showPage(i);
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        };
+        paginationContainer.appendChild(numBtn);
+      }
+
+      // Botão Seguinte
+      const nextBtn = document.createElement('button');
+      nextBtn.className = 'page-btn';
+      nextBtn.textContent = 'Seguinte →';
+      nextBtn.disabled = currentPage === totalPages;
+      nextBtn.onclick = () => {
+        showPage(currentPage + 1);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      };
+      paginationContainer.appendChild(nextBtn);
+    }
+
+    // Inicialização na primeira página
+    showPage(1);
+  </script>
 
 </body>
 </html>
