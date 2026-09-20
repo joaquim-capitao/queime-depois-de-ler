@@ -8,7 +8,7 @@ A verdade é que a minha desconfiança em relação à guerra nasceu cedo...
 
 Tudo começou em Loures, onde passei a infância. Diariamente, a caminho da escola, cruzava-me com o monumento municipal aos combatentes da Primeira Guerra Mundial.
 
-![](https://i.ibb.co/bRbDc50Z/1000125666.jpg)
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/um-estranho-capitao.jpg)
 
 Ao olhar para aquele amontoado de pedras, pensava: *"As pedras são péssimas a contar histórias. Nunca falam sobre o choro das mães, nem sobre os soldados que voltaram sem pernas e sem braços."* Com isso, a minha rejeição à guerra só crescia.
 
