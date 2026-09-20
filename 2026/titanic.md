@@ -1,0 +1,49 @@
+# Titanic 
+
+## A Minha Crítica Definitiva
+
+Quando o filme **Titanic** estreou em Portugal, as multidões correram em histeria para as salas de cinema. E eu, devidamente munido de um balde gigante de pipocas, juntei-me à romaria.
+
+Logo no início, percebi que aquilo não era um romance, mas um documentário de utilidade pública sobre os perigos de misturar classes sociais, engenharia naval e cubos de gelo gigantescos.
+
+<img src="https://variety.com/wp-content/uploads/2016/03/titanic-anniversary.jpg" title="" alt="" data-align="inline">
+
+Tudo começa quando um vagabundo desprovido de património, provavelmente carregado de piolhos, ganha, num jogo de cartas, um bilhete para entrar no grande navio "insubmersível".
+
+O vagabundo chama-se **Jack** e é interpretado por um Leonardo DiCaprio com cara de bebé e absolutamente nenhuma penugem facial. Apaixona-se por **Rose**, uma Kate Winslet no auge da beleza, mas consumida por aquela melancolia típica de quem tem demasiados talheres de prata à mesa de jantar.
+
+A química visual é fascinante. Ela é uma mulher feita, elegante e sofisticada. Ele parece um miúdo do 9.º ano que a tia levou ao centro comercial para lhe comprar um gelado. E eu, sentado no escuro do cinema, com 19 anos e uma barba densa e impecável, tive de engolir a revolta de ver aquele *pré-adolescente* ficar com um papel que poderia ter sido meu. (Se eu fosse um ator, claro.)
+
+O romance floresce sob um rigoroso protocolo de transgressões: lições de cuspo para o mar, corridas pelos corredores como se fossem dois maluquinhos e, no auge da audácia, uma sessão de desenho anatómico a carvão, com Rose vestida apenas com um colar que valia o PIB de um país em desenvolvimento.
+
+Tudo está a correr lindamente, até que a tripulação, num esforço para manter a pontualidade britânica, decide abalroar um icebergue no Atlântico Norte.
+
+Daí em diante, o filme descamba num festival de incompetência. Há violinos a tocar, milionários a tentar subornar marinheiros e uma tripulação inteira a descobrir, com admirável serenidade, que a teoria da insubmersibilidade tinha os seus furos.
+
+E, no meio do caos, surge o famoso momento que testa a nossa suspensão da descrença: **a porta**.
+
+Existe uma enorme porta de madeira onde, claramente, caberiam os dois protagonistas mais um tabuleiro de xadrez. Mas, em nome da intensidade dramática, Rose decide que a melhor solução é deixar Jack congelar.
+
+![](https://i.ibb.co/9kVqJ59P/watermarked-img-7488824285450047067.jpg)
+
+​Jack, com estalactites no nariz, afunda-se com a dignidade de quem compreendeu, tarde demais, que a mobilidade social tem barreiras intransponíveis.
+
+Décadas mais tarde, Rose atira a jóia de valor inestimável aos peixes, confirmando que a idade não perdoa e que a demência bate à porta de todos.
+
+No final, saí daquela sala de cinema com o balde de pipocas vazio, ao som de Céline Dion, enquanto meditava na importante mensagem do filme:
+
+*"Arrisca tudo por alguém que acabaste de conhecer, pois o verdadeiro amor não exige conhecer bem a outra pessoa. Basta haver uma boa química e uma excelente vista para o oceano. O pior que te pode acontecer é terminares na solidão do alto-mar, em cima de uma porta, à espera que alguém te salve da hipotermia."*
+
+É uma mensagem comovente, sem dúvida. Contudo, se quisermos ser honestos, este final alternativo faria muito mais sentido:
+
+<video src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/titanic.mp4" 
+controls width="100%">
+Seu navegador não suporta a tag de vídeo.
+</video>
+
+---
+
+<div align="Right">Joaquim Capitão</div>
+<div align="Right">06/09/2026</div>
+
+
