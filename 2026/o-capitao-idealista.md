@@ -6,13 +6,13 @@ Para quebrar o gelo, costumo disparar uma curiosidade sobre mim: *“Apesar de s
 
 A verdade é que a minha desconfiança em relação à guerra nasceu cedo... 
 
-Cresci no centro de Loures e, todos os dias, a caminho da escola, passava pelo monumento erguido aos soldados que morreram na Primeira Guerra Mundial.   
+Tudo começou em Loures, onde passei a infância. Diariamente, a caminho da escola, cruzava-me com o monumento municipal aos combatentes da Primeira Guerra Mundial.
 
 ![](https://i.ibb.co/bRbDc50Z/1000125666.jpg)
 
-Ao olhar para aquele amontoado de pedras, pensava: "As pedras são péssimas a contar histórias. Nunca falam sobre o choro das mães, nem sobre os soldados que voltaram sem pernas e sem braços." Com isso, a minha rejeição à guerra só crescia.
+Ao olhar para aquele amontoado de pedras, pensava: *"As pedras são péssimas a contar histórias. Nunca falam sobre o choro das mães, nem sobre os soldados que voltaram sem pernas e sem braços."* Com isso, a minha rejeição à guerra só crescia.
 
-De vez em quando, ouvia dizer: *“A tropa faz com que os rapazes se tornem homens.”*  Mas eu pensava: *“Se ser homem significa aprender a matar, talvez seja mais prudente permanecer na infância. Sempre é mais seguro e não corro o risco de levar um tiro. Aquilo, em princípio, deve doer."* 
+De vez em quando, ouvia dizer: *“A tropa faz com que os rapazes se tornem homens.”*  Mas eu pensava: *“Se ser homem significa aprender a matar, talvez seja mais prudente permanecer na infância. Sempre é mais seguro. Levar com estilhaços, em princípio, deve doer."* 
 
 Então, quando atingi a idade do serviço militar obrigatório, a decisão já estava tomada. Pedi o estatuto de objetor de consciência, não por rebeldia, nem para fugir às flexões matinais (embora essas também não fossem do meu agrado). Foi uma decisão tomada por convicção, daquelas que não passam com a idade, moldada principalmente pelos meus [valores cristãos](https://www.jw.org/pt-pt/testemunhas-de-jeova/perguntas-frequentes/testemunhas-de-jeova-nao-participam-em-guerra/). 
 
@@ -20,9 +20,9 @@ Após 3 décadas, continuo com o mesmo defeito: **não me apetece matar**. Sei q
 
 Há quem diga que isto não passa de idealismo ingénuo. Mas aqueles que marcham para a guerra também o fazem movidos por ideais. Portanto, se temos de escolher os ideais pelos quais vamos viver (ou morrer), prefiro os que defendem o valor da vida humana. 
 
-Além disso, sei que não estou sozinho. Há mais pessoas que aceitam a prisão ou até a morte, mas nunca aceitariam participar em guerras. E a existência dessas pessoas convence-me de que é possível quebrar o ciclo de ódio que domina a humanidade.
+Sei, felizmente, que não estou sozinho nesta teimosia. Há mais pessoas que aceitam a prisão ou até a morte, mas nunca aceitariam participar em guerras. E a existência dessas pessoas convence-me de que é possível quebrar o ciclo de ódio que domina a humanidade.
 
-Sim, sou um “Capitão” muito estranho. Não sei disparar um tiro. Mas carrego uma arma que dispara palavras que curam, consolam e, às vezes, libertam. 
+Sim, reconheço que sou um “Capitão” muito estranho. Não sei disparar um tiro. O mais perto que estive de manusear explosivos foi ao acender fósforos de cozinha. Mas, em contrapartida, carrego uma arma que dispara palavras que curam, consolam e, às vezes, libertam.
 
 A vitória que ambiciono é simples: viver em paz com os outros e com a minha própria consciência. 
 
