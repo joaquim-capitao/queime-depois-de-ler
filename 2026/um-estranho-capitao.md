@@ -1,4 +1,4 @@
-# O Capitão Idealista
+# Um Estranho Capitão
 
 Às vezes, ter o nome “Capitão” é uma patente difícil de carregar. Quando me apresento, há sempre quem me pergunte: *"Quando é que és promovido a major?"* E eu limito-me a esboçar o sorriso forçado de quem já ouviu aquela piada milhares de vezes. 
 
