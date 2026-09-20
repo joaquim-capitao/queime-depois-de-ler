@@ -22,7 +22,7 @@ Há quem diga que isto não passa de idealismo ingénuo. Mas aqueles que marcham
 
 Sei, felizmente, que não estou sozinho nesta teimosia. Há mais pessoas que aceitam a prisão ou até a morte, mas nunca aceitariam participar em guerras. E a existência dessas pessoas convence-me de que é possível quebrar o ciclo de ódio que domina a humanidade.
 
-Sim, reconheço que sou um “Capitão” muito estranho. Não sei disparar um tiro. O mais perto que estive de manusear explosivos foi ao acender fósforos de cozinha. Mas, em contrapartida, carrego uma arma que dispara palavras que curam, consolam e, às vezes, libertam.
+Sim, reconheço que sou um “Capitão” muito estranho. Não sei disparar um tiro. O mais perto que estive de manusear explosivos foi ao acender fósforos de cozinha. Em contrapartida, carrego uma arma que dispara palavras que curam, consolam e, às vezes, libertam.
 
 A vitória que ambiciono é simples: viver em paz com os outros e com a minha própria consciência. 
 
