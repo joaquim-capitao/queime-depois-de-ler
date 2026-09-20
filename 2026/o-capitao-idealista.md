@@ -12,7 +12,7 @@ Tudo começou em Loures, onde passei a infância. Diariamente, a caminho da esco
 
 Ao olhar para aquele amontoado de pedras, pensava: *"As pedras são péssimas a contar histórias. Nunca falam sobre o choro das mães, nem sobre os soldados que voltaram sem pernas e sem braços."* Com isso, a minha rejeição à guerra só crescia.
 
-De vez em quando, ouvia dizer: *“A tropa faz com que os rapazes se tornem homens.”*  Mas eu pensava: *“Se ser homem significa aprender a matar, talvez seja mais prudente permanecer na infância. Sempre é mais seguro. Levar com estilhaços, em princípio, deve doer."* 
+De vez em quando, ouvia dizer: *“A tropa faz com que os rapazes se tornem homens.”*  Mas eu pensava: *“Se para ser homem é preciso aprender a matar, então prefiro continuar a ser criança. É muito mais seguro. Os estilhaços devem doer que se farta. E porque é que eu havia de querer aleijar outra pessoa?"* 
 
 Então, quando atingi a idade do serviço militar obrigatório, a decisão já estava tomada. Pedi o estatuto de objetor de consciência, não por rebeldia, nem para fugir às flexões matinais (embora essas também não fossem do meu agrado). Foi uma decisão tomada por convicção, daquelas que não passam com a idade, moldada principalmente pelos meus [valores cristãos](https://www.jw.org/pt-pt/testemunhas-de-jeova/perguntas-frequentes/testemunhas-de-jeova-nao-participam-em-guerra/). 
 
