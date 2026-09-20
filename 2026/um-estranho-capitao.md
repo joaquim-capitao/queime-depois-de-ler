@@ -12,7 +12,7 @@ Tudo começou em Loures, onde passei a infância. Diariamente, a caminho da esco
 
 Ao olhar para aquele amontoado de pedras, pensava: *"As pedras são péssimas a contar histórias. Nunca falam sobre o choro das mães, nem sobre os soldados que voltaram sem pernas e sem braços."* Com isso, a minha rejeição à guerra só crescia.
 
-De vez em quando, ouvia dizer: *“A tropa faz com que os rapazes se tornem homens.”*  Mas eu pensava: *“Se para ser homem é preciso aprender a matar, então prefiro continuar a ser criança. É muito mais seguro. Os estilhaços devem doer que se farta. E porque é que eu havia de querer aleijar outra pessoa?"* 
+De vez em quando, ouvia dizer: *“A tropa faz com que os rapazes se tornem homens.”*  Mas eu pensava: *“Se para ser homem é preciso aprender a matar, então prefiro continuar a ser criança. É muito mais seguro. Os estilhaços devem doer que se farta. E porque é que eu havia de querer aleijar outras pessoas?"* 
 
 Então, quando atingi a idade do serviço militar obrigatório, a decisão já estava tomada. Pedi o estatuto de objetor de consciência, não por rebeldia, nem para fugir às flexões matinais (embora essas também não fossem do meu agrado). Foi uma decisão tomada por convicção, daquelas que não passam com a idade, moldada principalmente pelos meus [valores cristãos](https://www.jw.org/pt-pt/testemunhas-de-jeova/perguntas-frequentes/testemunhas-de-jeova-nao-participam-em-guerra/). 
 
@@ -22,7 +22,7 @@ Há quem diga que isto não passa de idealismo ingénuo. Mas aqueles que marcham
 
 Sei, felizmente, que não estou sozinho nesta teimosia. Há mais pessoas que aceitam a prisão ou até a morte, mas nunca aceitariam participar em guerras. E a existência dessas pessoas convence-me de que é possível quebrar o ciclo de ódio que domina a humanidade.
 
-Sim, reconheço que sou um “Capitão” muito estranho. Não sei disparar um tiro. O mais perto que estive de manusear explosivos foi ao acender fósforos de cozinha. Em contrapartida, carrego uma arma que dispara palavras que curam, consolam e, às vezes, libertam.
+Sim, reconheço que sou um “Capitão” muito estranho. Não sei disparar um tiro. O mais perto que estive de manusear explosivos foi ao acender fósforos na cozinha. Em contrapartida, carrego uma arma que dispara palavras que curam, consolam e, às vezes, libertam.
 
 A vitória que ambiciono é simples: viver em paz com os outros e com a minha própria consciência. 
 
