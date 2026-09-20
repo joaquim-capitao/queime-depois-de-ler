@@ -8,7 +8,7 @@ De facto, a minha desconfiança em relação à guerra começou muito cedo...
 
 Cresci no centro cidade de Loures. Portanto, todos os dias, a caminho da escola, eu passava pelo monumento dedicado aos soldados que morreram na Primeira Guerra Mundial.
 
-![](https://i.ibb.co/BHzjhKn3/1000125666.png)
+![](https://i.ibb.co/bRbDc50Z/1000125666.jpg)
 
 Ao olhar para aquele amontoado de pedras, pensava: *“As pedras são péssimas a contar histórias. Nunca falam sobre o choro das mães, nem dos soldados que voltaram sem pernas e sem braços"*. Logo ali, comecei a desenvolver uma atitude de rejeição à guerra.
 
