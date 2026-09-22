@@ -6,11 +6,11 @@ Como nasci em Lisboa, cresci a acreditar que, na capital, não se fala com sotaq
 
 ![](https://i.ibb.co/0jXVsQ1p/agua-nascente-lingua.jpg)
 
-Na cabeça de um lisboeta comum, a pronúncia é uma espécie de sarampo que só ataca quem vive a sul da **Ponte 25 de Abril** ou a norte da **CREL**. Nós, os lisboetas, achamos ter sido abençoados com um dialeto que é o *"grau zero"* da fonética. Não temos sotaque; temos a *"fala normal"*. Acreditamos que se o Camões se levantasse do túmulo, falaria rigorosamente como um residente atual da avenida Almirante Reis.
+Na cabeça de um lisboeta comum, a pronúncia é uma espécie de sarampo que só ataca quem vive a sul da Ponte 25 de Abril ou a norte da *CREL*. Nós, os lisboetas, pensamos que fomos abençoados com um dialeto que é o *"grau zero"* da fonética. Não temos sotaque; temos a *"fala normal"*. Acreditamos que se o Camões se levantasse do túmulo, falaria rigorosamente como um residente atual da avenida Almirante Reis.
 
 Pois bem, tantos anos de açorianidade desfizeram-me esse dogma e ensinaram-me que isso de haver um português verdadeiro e outro adulterado com pronúncia é um disparate de proporções continentais. A verdade é simples e objetiva: não existem pessoas sem pronúncia. Todos temos uma. 
 
-Lembro-me perfeitamente do meu primeiro dia em Ponta Delgada. Quando ouvi um habitante local a falar, fiquei à espera das legendas. Pois bem... isto é irónico, principalmente porque, como lisboeta, passei a vida inteira a dizer "jo<u>â</u>lho" em vez de "jo<u>e</u>lho". Mesmo assim, dei-me ao luxo de ficar perplexo com a pronúncia dos micaelenses.
+Lembro-me perfeitamente do meu primeiro dia em Ponta Delgada. Quando ouvi um habitante local a falar, fiquei à espera das legendas. Pois bem... isto é irónico, principalmente porque, como lisboeta, passei a vida inteira a dizer "jo<u>â</u>lho" em vez de "jo<u>e</u>lho", e "tr<u>eu</u>ze" em vez de "tr<u>e</u>ze. Mesmo assim, dei-me ao luxo de ficar perplexo com a pronúncia dos micaelenses.
 
 Depois, ainda há a teoria da *"pronúncia às doses"*. Quando um continental visita a Terceira, o Faial ou outra ilha, costuma soltar um suspiro de alívio: _"Ah, estas ilhas têm menos pronúncia!"_
 
