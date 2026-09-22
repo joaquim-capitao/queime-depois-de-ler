@@ -1,0 +1,58 @@
+
+# A Luz do Amanhecer
+
+Numa manhã ensolarada, o José percorria as ruas da cidade, de pasta na mão, enquanto batia às portas com a tranquilidade de quem já está habituado a encontrar os mais diversos humores.
+
+​Numa dessas portas abriu-se uma fresta. O anfitrião, na casa dos cinquenta anos, não trazia pressa nem hostilidade nos olhos. Trazia apenas uma interrogação antiga. [^1]
+
+— A minha falecida mãe pertencia à vossa religião — disse o António, apoiando o braço na ombreira da porta. — Por isso, tenho muito respeito por todos vocês. Ainda assim... há coisas que nunca me entraram na cabeça.
+
+O José manteve o tom calmo e disse:
+
+— É natural, senhor António. Ninguém compreende tudo à primeira. Se quiser partilhar uma dessas dúvidas, podemos conversar sobre isso com calma.
+
+— Olhe... digo-lhe já uma. Sei que, de vez em quando, vocês alteram algumas das vossas crenças. Sempre me pareceu uma enorme incoerência. Como é que conseguem lidar com isso sem perder o chão?
+
+— Agradeço a franqueza — respondeu o José, sorrindo levemente. — Não é o único a levantar essa pergunta. Mas... deixe-me fazer uma comparação simples: lembra-se de quando os médicos diziam que comer ovos fazia mal ao coração? Mais tarde, a ciência estudou melhor o assunto e percebeu que, afinal, não era bem assim. A recomendação mudou. Isso faz com que a medicina deixe de ser de confiança?
+
+— Não, claro que não. Confiamos na mesma.
+
+— Com a nossa fé acontece algo parecido: à medida que compreendemos melhor as coisas, temos a humildade de corrigir o rumo.
+
+O António franziu o sobrolho, sem se deixar convencer:
+
+— Percebo a ideia, mas não me parece a mesma coisa. A ciência estuda o corpo humano e faz testes de laboratório. A religião apoia-se em textos sagrados que já estão escritos há milhares de anos. Se a palavra é sagrada, não devia mudar.
+
+— Tem razão. A Palavra de Deus nunca muda. Mas os avanços científicos, as descobertas arqueológicas e o estudo das línguas antigas podem levar a um entendimento mais claro dos textos. Portanto, o que muda não é a verdade. Somos nós.
+
+— Mesmo assim, como dá para confiar em algo que está sujeito a mudanças?
+
+— Entendo o seu ponto de vista — afirmou o José. — Realmente, há muitas religiões que afirmam ser infalíveis. Dizem que os seus líderes recebem revelações divinas e que nada pode ser alterado. Respeito quem pensa assim. Mas, curiosamente, para mim é exatamente o contrário: o facto de estarmos dispostos a mudar é uma das razões pelas quais confio no que aprendo.
+
+— Como assim?
+
+— Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É honestidade. Aliás, longe de termos vergonha disso, temos no nosso site oficial uma lista com os ajustes que foram feitos ao longo dos anos. Para nós, o conhecimento é como caminhar numa estrada ao amanhecer: à medida que a luz do sol aumenta, vemos o caminho com mais nitidez.
+
+— Mas isso não vos deixa com o pé atrás em relação ao que vos ensinam?
+
+— Pelo contrário. Saber que quem exerce a liderança tem a coragem de dizer «não somos perfeitos nem inspirados, estamos apenas a fazer o nosso melhor» dá-me segurança. Não acha que esse tipo de humildade faz muita falta no mundo de hoje?
+
+O António cruzou os braços, pensativo:
+
+— Tem o seu sentido, admito. Mas... não fica com receio de que aquilo em que acredita hoje esteja completamente errado amanhã?
+
+— Tenho duas certezas que me descansam — explicou o José. — Primeiro, as correções que fazemos nunca tocam nos alicerces fundamentais da nossa fé. Segundo, a minha devoção é ao Criador, não a um conjunto de decretos humanos.
+
+O António ficou em silêncio por breves momentos. Depois, com a expressão mais desanuviada, avançou:
+
+— É uma perspetiva curiosa. Deu-me algo em que pensar hoje.
+
+---
+
+<div align="right">Joaquim Capitão</div>
+<div align="right">27/09/2026</div>
+
+[^1]: Nota: O diálogo acima é apenas uma transcrição aproximada de uma conversa real ocorrida recentemente. Os motivos pelos quais as Testemunhas de Jeová fazem ajustes são explicados no site oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
+
+
+#queime-depois-de-ler 
