@@ -44,6 +44,6 @@ Seu navegador não suporta a tag de vídeo.
 ---
 
 <div align="Right">Joaquim Capitão</div>
-<div align="Right">06/09/2026</div>
+<div align="Right">18/10/2026</div>
 
 
