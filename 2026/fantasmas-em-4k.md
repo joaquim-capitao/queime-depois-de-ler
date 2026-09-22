@@ -25,5 +25,5 @@ No silêncio do quarto, a Júlia ouviu a respiração dele a abrandar. Então, a
 ---
 
 <div align="right">Joaquim Capitão</div>
-<div align="right">21/09/2026</div>
+<div align="right">11/10/2026</div>
 
