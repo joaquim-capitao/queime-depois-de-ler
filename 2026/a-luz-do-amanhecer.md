@@ -1,6 +1,8 @@
 
 # A Luz do Amanhecer
 
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/nascer-do-sol.jpeg)
+
 Numa manhã ensolarada, o José percorria as ruas da Ponta Delgada, de pasta na mão, enquanto batia às portas com a tranquilidade de quem já está habituado a encontrar os mais diversos humores.
 
 ​Numa dessas portas abriu-se uma fresta. O anfitrião, na casa dos cinquenta anos, não trazia pressa nem hostilidade nos olhos. Trazia apenas uma interrogação antiga. [^1]
@@ -32,8 +34,6 @@ O António franziu o sobrolho, sem se deixar convencer:
 — Como assim?
 
 — Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É honestidade. Aliás, longe de termos vergonha disso, temos no nosso site oficial uma lista com os ajustes que foram feitos ao longo dos anos. Para nós, o conhecimento é como caminhar numa estrada ao amanhecer: à medida que a luz do sol aumenta, vemos o caminho com mais nitidez.
-
-![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/nascer-do-sol.jpeg)
 
 — Mas isso não vos deixa com o pé atrás em relação ao que vos ensinam?
 
