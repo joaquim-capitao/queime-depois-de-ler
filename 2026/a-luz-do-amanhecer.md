@@ -3,11 +3,11 @@
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/nascer-do-sol.jpeg)
 
-Numa manhã ensolarada, o José percorria as ruas da Ponta Delgada, de pasta na mão, enquanto batia às portas com a tranquilidade de quem já está habituado a encontrar os mais diversos humores.
+Numa manhã ensolarada, o José percorria as ruas de Ponta Delgada, com uma pasta na mão, enquanto batia às portas com a tranquilidade de quem já está habituado aos mais diversos humores.
 
-​Numa dessas portas abriu-se uma fresta. O anfitrião, na casa dos cinquenta anos, não trazia pressa nem hostilidade nos olhos. Trazia apenas uma interrogação antiga. [^1]
+​Numa dessas portas abriu-se uma fresta. O anfitrião, na casa dos cinquenta anos, não tinha pressa nem hostilidade nos olhos. Tinha apenas uma interrogação antiga. [^1]
 
-— A minha falecida mãe pertencia à vossa religião — disse o António, apoiando o braço na ombreira da porta. — Por isso, tenho muito respeito por todos vocês. Ainda assim... há coisas que nunca me entraram na cabeça.
+— A minha falecida mãe pertencia à vossa religião — disse o António, enquanto apoiava o braço na ombreira da porta. — Por isso, tenho muito respeito por todos vocês. Ainda assim... há coisas que nunca me entraram na cabeça.
 
 O José manteve o tom calmo e disse:
 
@@ -15,7 +15,7 @@ O José manteve o tom calmo e disse:
 
 — Olhe... digo-lhe já uma. Sei que, de vez em quando, vocês alteram algumas das vossas crenças. Sempre me pareceu uma enorme incoerência. Como é que conseguem lidar com isso sem perder o chão?
 
-— Agradeço a franqueza — respondeu o José, sorrindo levemente. — Não é o único a levantar essa pergunta. Mas... deixe-me fazer uma comparação simples: lembra-se de quando os médicos diziam que comer ovos fazia mal ao coração? Mais tarde, a ciência estudou melhor o assunto e percebeu que, afinal, não era bem assim. A recomendação mudou. Isso faz com que a medicina deixe de ser de confiança?
+— Agradeço a sua sinceridade — respondeu o José, sorrindo levemente. — Não é o único a levantar essa pergunta. Mas... deixe-me fazer uma comparação simples: lembra-se de quando os médicos diziam que comer ovos fazia mal ao coração? Mais tarde, a ciência estudou melhor o assunto e percebeu que, afinal, não era bem assim. A recomendação mudou. Isso faz com que a medicina deixe de ser de confiança?
 
 — Não, claro que não. Confiamos na mesma.
 
@@ -33,21 +33,28 @@ O António franziu o sobrolho, sem se deixar convencer:
 
 — Como assim?
 
-— Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É honestidade. Aliás, longe de termos vergonha disso, temos no nosso site oficial uma lista com os ajustes que foram feitos ao longo dos anos. Para nós, o conhecimento é como caminhar numa estrada ao amanhecer: à medida que a luz do sol aumenta, vemos o caminho com mais nitidez.
+— Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É honestidade. Aliás, longe de termos vergonha disso, o nosso site oficial contém uma lista com os ajustes que foram feitos ao longo dos anos. Para nós, o conhecimento é como caminhar numa estrada ao amanhecer: à medida que a luz do sol aumenta, vemos o caminho com mais nitidez.
 
 — Mas isso não vos deixa com o pé atrás em relação ao que vos ensinam?
 
-— Pelo contrário. Saber que quem exerce a liderança tem a coragem de dizer «não somos perfeitos nem inspirados, estamos apenas a fazer o nosso melhor» dá-me segurança. Não acha que esse tipo de humildade faz muita falta no mundo de hoje?
+— Pelo contrário. Saber que quem exerce a liderança tem a coragem de dizer «não somos perfeitos nem inspirados, estamos apenas a fazer o nosso melhor» dá-me segurança. Não acha que o mundo atual está a precisar de mais pessoas com esse grau de humildade?
 
 O António cruzou os braços, pensativo:
 
 — Tem o seu sentido, admito. Mas... não fica com receio de que aquilo em que acredita hoje esteja completamente errado amanhã?
 
-— Tenho duas certezas que me descansam — explicou o José. — Primeiro, as correções que fazemos nunca tocam nos alicerces fundamentais da nossa fé. Segundo, a minha devoção é ao Criador, não a um conjunto de decretos humanos.
+— Não. Não tenho receio, pois tenho duas certezas que me descansam — explicou o José. — Primeiro, as correções que fazemos nunca tocam nos alicerces fundamentais da nossa fé. Segundo, a minha devoção é ao Criador, não a um conjunto de decretos humanos.
 
 O António ficou em silêncio por breves momentos. Depois, com a expressão mais desanuviada, avançou:
 
 — É uma perspetiva curiosa. Deu-me algo em que pensar hoje.
+
+Conversaram por mais uns minutos, e o José retomou a marcha pelas ruas de basalto.
+
+Ao caminhar, ocorreu-lhe que a fé não exige que finjamos estar já sob o sol do meio-dia. Afinal, quem aceita que a luz ainda está a nascer não teme as sombras que encontra pelo caminho. Sente apenas vontade de continuar a avançar.
+
+Enquanto caminhava, pensou em como a fé não precisa de fingir que já chegou ao meio-dia. Afinal, quem aceita que a luz ainda está a nascer não tem medo das sombras do caminho. Basta-lhe a vontade de seguir em frente 
+
 
 ---
 
