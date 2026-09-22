@@ -61,4 +61,4 @@ Enquanto caminhava, pensou em como a fé não precisa de fingir que já chegou a
 
 <br>
 
-> Nota: O diálogo acima é apenas uma transcrição aproximada de uma conversa real ocorrida recentemente. Os motivos pelos quais as Testemunhas de Jeová fazem ajustes são explicados no site oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
+> Nota: O diálogo acima é apenas uma transcrição aproximada de uma conversa real ocorrida há uns anos. Os motivos pelos quais as Testemunhas de Jeová fazem ajustes são explicados no site oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
