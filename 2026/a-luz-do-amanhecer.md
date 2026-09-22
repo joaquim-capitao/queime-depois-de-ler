@@ -5,13 +5,13 @@
 
 Numa manhã ensolarada, o José percorria as ruas de Ponta Delgada, com uma pasta na mão, enquanto batia às portas com a tranquilidade de quem já está habituado aos mais diversos humores.
 
-​Numa dessas portas abriu-se uma fresta. O anfitrião, na casa dos cinquenta anos, não tinha pressa nem hostilidade nos olhos. Tinha apenas uma interrogação antiga. [^1]
+​Numa dessas portas abriu-se uma fresta. O senhor António, na casa dos cinquenta anos, não tinha pressa nem hostilidade nos olhos. Tinha apenas uma interrogação antiga.
 
-— A minha falecida mãe pertencia à vossa religião — disse o António, enquanto apoiava o braço na ombreira da porta. — Por isso, tenho muito respeito por todos vocês. Ainda assim... há coisas que nunca me entraram na cabeça.
+— A minha falecida mãe pertencia à vossa religião — disse ele, enquanto apoiava o braço na ombreira da porta. — Por isso, tenho muito respeito por todos vocês. Ainda assim... há coisas que nunca me entraram na cabeça.
 
-O José manteve o tom calmo e disse:
+O José manteve o tom calmo e respondeu:
 
-— É natural, senhor António. Ninguém compreende tudo à primeira. Se quiser partilhar uma dessas dúvidas, podemos conversar sobre isso com calma.
+— É natural. Ninguém compreende tudo à primeira. Se quiser partilhar uma dessas dúvidas, podemos conversar sobre isso com calma.
 
 — Olhe... digo-lhe já uma. Sei que, de vez em quando, vocês alteram algumas das vossas crenças. Sempre me pareceu uma enorme incoerência. Como é que conseguem lidar com isso sem perder o chão?
 
@@ -33,7 +33,7 @@ O António franziu o sobrolho, sem se deixar convencer:
 
 — Como assim?
 
-— Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É honestidade. Aliás, longe de termos vergonha disso, o nosso site oficial contém uma lista com os ajustes que foram feitos ao longo dos anos. Para nós, o conhecimento é como caminhar numa estrada ao amanhecer: à medida que a luz do sol aumenta, vemos o caminho com mais nitidez.
+— Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É honestidade. Aliás, longe de termos vergonha disso, o nosso site oficial contém uma lista com os ajustes que foram feitos ao longo dos anos. Para nós, ter conhecimento é como caminhar numa estrada ao amanhecer: à medida que a luz do sol aumenta, vemos o caminho com mais nitidez.
 
 — Mas isso não vos deixa com o pé atrás em relação ao que vos ensinam?
 
@@ -41,9 +41,9 @@ O António franziu o sobrolho, sem se deixar convencer:
 
 O António cruzou os braços, pensativo:
 
-— Tem o seu sentido, admito. Mas... não fica com receio de que aquilo em que acredita hoje esteja completamente errado amanhã?
+— Faz algum sentido, admito. Mas... você não fica com receio de que aquilo em que acredita hoje esteja completamente errado amanhã?
 
-— Não. Não tenho receio, pois tenho duas certezas que me descansam — explicou o José. — Primeiro, as correções que fazemos nunca tocam nos alicerces fundamentais da nossa fé. Segundo, a minha devoção é ao Criador, não a um conjunto de decretos humanos.
+— Não. Não tenho receio, pois há duas certezas que me descansam — explicou o José. — Primeiro, as correções que fazemos nunca tocam nos alicerces fundamentais da nossa fé. Segundo, a minha devoção é ao Criador, não a um conjunto de decretos humanos.
 
 O António ficou em silêncio por breves momentos. Depois, com a expressão mais desanuviada, avançou:
 
@@ -51,9 +51,7 @@ O António ficou em silêncio por breves momentos. Depois, com a expressão mais
 
 Conversaram por mais uns minutos, e o José retomou a marcha pelas ruas de basalto.
 
-Ao caminhar, ocorreu-lhe que a fé não exige que finjamos estar já sob o sol do meio-dia. Afinal, quem aceita que a luz ainda está a nascer não teme as sombras que encontra pelo caminho. Sente apenas vontade de continuar a avançar.
-
-Enquanto caminhava, pensou em como a fé não precisa de fingir que já chegou ao meio-dia. Afinal, quem aceita que a luz ainda está a nascer não tem medo das sombras do caminho. Basta-lhe a vontade de seguir em frente 
+Enquanto caminhava, pensou em como a fé não precisa de fingir que já chegou ao meio-dia. Afinal, quem aceita que a luz ainda está a nascer não tem medo das sombras do caminho. Basta-lhe a vontade de seguir em frente.
 
 
 ---
@@ -63,4 +61,4 @@ Enquanto caminhava, pensou em como a fé não precisa de fingir que já chegou a
 
 <br>
 
-[^1]: Nota: O diálogo acima é apenas uma transcrição aproximada de uma conversa real ocorrida recentemente. Os motivos pelos quais as Testemunhas de Jeová fazem ajustes são explicados no site oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
+> Nota: O diálogo acima é apenas uma transcrição aproximada de uma conversa real ocorrida recentemente. Os motivos pelos quais as Testemunhas de Jeová fazem ajustes são explicados no site oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
