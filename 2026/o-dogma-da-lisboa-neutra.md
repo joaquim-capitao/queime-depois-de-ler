@@ -16,13 +16,13 @@ Depois, ainda há a teoria da *"pronúncia às doses"*. Quando um continental vi
 
 **"Menos pronúncia!"** é uma expressão maravilhosa e absurda ao mesmo tempo. Até parece que a pronúncia é um ingrediente que se mede às colheres. *"Em São Miguel puseram três quilos de pronúncia, mas no Faial deitaram só duzentas gramas"*. 
 
-No fundo, quando um continental diz *"aquela pessoa tem menos pronúncia"* está simplesmente a querer dizer *"aquela pessoa fala quase como eu"*. Ou seja, quando conseguimos entender alguém sem ter de franzir os olhos, concluímos que a pessoa tem *"pouca pronúncia"*.
+No fundo, quando um continental diz *"aquela pessoa tem menos pronúncia"* está simplesmente a querer dizer *"aquela pessoa fala quase tão bem como eu"*. Ou seja, quando conseguimos entender alguém sem ter de franzir os olhos, concluímos que a pessoa tem *"pouca pronúncia"*.
 
 A verdade é que não há sotaques gordos ou magros, nem pronúncias mais ou menos puras. A cadência típica de São Miguel tem o mesmo valor linguístico de quem murmura *"ma bica, faxavor"* num café da Baixa de Lisboa.
 
 Não existe um único cidadão português que fale sem sotaque. Existe apenas uma grande diversidade de pronúncias dentro da mesma língua.
 
-Portanto, os lisboetas que me perdoem, mas nós, os alfacinhas, temos uma pronúncia tão carregada, tão esquisita e tão comicamente local como a de qualquer outro falante da língua portuguesa.
+Portanto, os alfacinhas que me perdoem, mas Lisboa tem uma pronúncia tão carregada, tão esquisita e tão cómica como a de qualquer outro lugar de Portugal.
 
 ----
 
