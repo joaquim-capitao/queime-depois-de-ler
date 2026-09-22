@@ -11,7 +11,7 @@ O José percorria as ruas de Ponta Delgada, com uma pasta na mão, enquanto bati
 
 O José manteve o tom calmo e respondeu:
 
-— É natural. Ninguém compreende tudo à primeira. Se quiser partilhar uma dessas dúvidas, podemos conversar sobre isso com calma.
+— Ninguém compreende tudo à primeira. Se quiser partilhar uma dessas dúvidas, podemos conversar sobre isso com calma.
 
 — Olhe... digo-lhe já uma. Sei que, de vez em quando, vocês alteram algumas das vossas crenças. Sempre me pareceu uma enorme incoerência. Como é que conseguem lidar com isso sem perder o chão?
 
