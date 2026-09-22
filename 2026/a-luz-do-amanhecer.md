@@ -3,9 +3,9 @@
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/nascer-do-sol.jpeg)
 
-Numa manhã ensolarada, o José percorria as ruas de Ponta Delgada, com uma pasta na mão, enquanto batia às portas com a tranquilidade de quem já está habituado aos mais diversos humores.
+O José percorria as ruas de Ponta Delgada, com uma pasta na mão, enquanto batia às portas com a tranquilidade de quem já está habituado aos mais diversos humores.
 
-​Numa dessas portas abriu-se uma fresta. O senhor António, na casa dos cinquenta anos, não tinha pressa nem hostilidade nos olhos. Tinha apenas uma interrogação antiga.
+​Numa dessas portas abriu-se uma fresta. O dono da casa, o senhor António, não tinha pressa nem hostilidade no olhos. Tinha apenas uma interrogação antiga:
 
 — A minha falecida mãe pertencia à vossa religião — disse ele, enquanto apoiava o braço na ombreira da porta. — Por isso, tenho muito respeito por todos vocês. Ainda assim... há coisas que nunca me entraram na cabeça.
 
