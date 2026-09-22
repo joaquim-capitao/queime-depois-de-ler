@@ -18,7 +18,7 @@ Depois, ainda há a teoria da *"pronúncia às doses"*. Quando um continental vi
 
 No fundo, quando um continental diz *"aquela pessoa tem menos pronúncia"* está simplesmente a querer dizer *"aquela pessoa fala quase tão bem como eu"*. Ou seja, quando conseguimos entender alguém sem ter de franzir os olhos, concluímos que a pessoa tem *"pouca pronúncia"*.
 
-A verdade é que não há sotaques gordos ou magros, nem pronúncias mais ou menos puras. A cadência típica de São Miguel tem o mesmo valor linguístico de quem murmura *"ma bica, faxavor"* num café da Baixa de Lisboa.
+A verdade é que não há sotaques gordos ou magros, nem pronúncias mais ou menos puras. A cadência típica de São Miguel tem o mesmo valor linguístico do *"ma bica, faxavor"* murmurado num qualquer café da Baixa de Lisboa.
 
 Não existe um único cidadão português que fale sem sotaque. Existe apenas uma grande diversidade de pronúncias dentro da mesma língua.
 
