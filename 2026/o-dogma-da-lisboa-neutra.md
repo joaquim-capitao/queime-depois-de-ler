@@ -28,5 +28,3 @@ Portanto, os alfacinhas que me perdoem, mas Lisboa tem uma pronúncia tão carre
 
 <div align="Right">Joaquim Capitão</div>
 <div align="Right">05/10/2026</div>
-
-#queime-depois-de-ler 
