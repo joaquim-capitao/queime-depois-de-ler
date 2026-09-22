@@ -55,6 +55,3 @@ O António ficou em silêncio por breves momentos. Depois, com a expressão mais
 <div align="right">27/09/2026</div>
 
 [^1]: Nota: O diálogo acima é apenas uma transcrição aproximada de uma conversa real ocorrida recentemente. Os motivos pelos quais as Testemunhas de Jeová fazem ajustes são explicados no site oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
-
-
-#queime-depois-de-ler 
