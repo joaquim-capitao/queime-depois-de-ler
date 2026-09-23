@@ -5,7 +5,7 @@
 
 Numa manhã de outono, o José percorria as ruas de Ponta Delgada, com uma pasta na mão, enquanto batia às portas com a tranquilidade de quem já se habituou aos mais diversos humores.
 
-​Numa dessas portas abriu-se uma fresta. O dono da casa, o senhor António, não tinha pressa nem hostilidade no olhos. Tinha apenas uma interrogação antiga:
+​Numa dessas portas abriu-se uma fresta. O dono da casa, o senhor António, não tinha pressa nem hostilidade nos olhos. Tinha apenas uma interrogação antiga:
 
 — A minha falecida mãe pertencia à vossa religião — disse ele, enquanto apoiava o braço na ombreira da porta. — Por isso, tenho muito respeito por todos vocês. Ainda assim... há coisas que nunca me entraram na cabeça.
 
@@ -39,7 +39,7 @@ O António cruzou os braços, pensativo:
 
 — Faz algum sentido, admito. Mas... você não fica com medo de que aquilo em que acredita hoje esteja completamente errado amanhã?
 
-— Não, não tenho medo disso, pois duas certezas que me descansam. Primeiro, as correções que fazemos nunca tocam nos alicerces fundamentais da nossa fé. Segundo, a minha devoção é ao Criador, não a um conjunto de decretos humanos.
+— Não, não tenho medo disso, pois há duas certezas que me descansam. Primeiro, as correções que fazemos nunca tocam nos alicerces fundamentais da nossa fé. Segundo, a minha devoção é ao Criador, não a um conjunto de decretos humanos.
 
 O António ficou em silêncio por breves momentos. Depois, com a expressão mais desanuviada, avançou:
 
