@@ -29,7 +29,7 @@ O António franziu o sobrolho, sem se deixar convencer:
 
 — Mas tem noção de quantas mudanças a vossa religião já fez ao longo das décadas?
 
-— Claro que sim. E não tentamos esconder isso debaixo do tapete. O nosso próprio site lista essas revisões históricas abertamente. Costumamos ver esse processo como uma caminhada ao amanhecer: à medida que o sol sobe, a mesma estrada ganha contornos mais nítidos.
+— Claro que sim. E não tentamos esconder isso debaixo do tapete. O nosso próprio site lista essas revisões históricas abertamente. Costumamos ver esse processo como uma caminhada ao amanhecer. À medida que o sol sobe, a mesma estrada ganha contornos mais nítidos.
 
 — Compreendo a metáfora — retorquiu o António. — Mas se quem vos ensina muda de ideias com o tempo... como dá para confiar?
 
@@ -37,19 +37,19 @@ O António franziu o sobrolho, sem se deixar convencer:
 
 — Porquê?
 
-— Porque confio mais em quem tem a coragem de assumir que é imperfeito e comete erros. Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É sinceridade. E acho que concorda comigo que esse tipo de honestidade anda bem escasso.
+— Porque acho mais fácil confiar em quem admite os erros e assume que não sabe tudo. Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É sinceridade. Certamente concorda comigo que esse tipo de honestidade anda bem escasso.
 
-O António cruzou os braços sobre o peito, pousando o olhar nas lajes do passeio:
+O António cruzou firmemente os braços sobre o peito, pousando o olhar nas lajes do passeio:
 
-— Tem a sua lógica, admito. Mas... não fica com medo de que aquilo em que acredita hoje esteja errado amanhã?
+— Tem a sua lógica, admito. Mas... não fica com medo de que aquilo em que acredita hoje esteja completamente errado amanhã?
 
-— Não sinto esse receio, por dois motivos muito simples: primeiro, as mudanças nunca alteram os alicerces fundamentais da nossa fé; segundo, a minha devoção pertence ao Criador, não a um conjunto de decretos humanos.
+— Não sinto esse receio, por dois motivos muito simples: primeiro, as correções nunca tocam nos alicerces fundamentais da nossa fé; segundo, a minha devoção pertence ao Criador, não a um conjunto de decretos humanos.
 
-Fez-se um silêncio breve entre os dois, apenas preenchido pelo som do vento e do mar. Então, o António desanuviou o rosto num sorriso calmo:
+Fez-se um silêncio breve entre os dois, apenas preenchido pelo som suave do vento. Então, o António desanuviou o rosto num sorriso calmo:
 
 — É uma perspetiva interessante. Deu-me algo em que pensar enquanto tomo o café.
 
-Após se despedirem com um aperto de mão caloroso, o José ajeitou a pasta sob o braço e retomou o passo pelas calçadas de basalto escuro.
+Após se despedirem com um aperto de mão caloroso, o José ajeitou cuidadosamente a pasta sob o braço e retomou o passo pelas calçadas de basalto escuro.
 
 Enquanto descia a rua, refletiu sobre como a fé não precisa de fingir que já atingiu o brilho do meio-dia. Afinal, quem aceita que a luz ainda está a nascer não tem medo das sombras do caminho. Basta-lhe a vontade de seguir em frente. 
 
