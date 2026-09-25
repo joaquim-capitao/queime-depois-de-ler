@@ -3,52 +3,55 @@
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/nascer-do-sol.jpeg)
 
-Numa manhã de outono, o José percorria as ruas de Ponta Delgada. Segurava a pasta com a serenidade de quem já aprendera a lidar com todos os humores do outro lado do trinco. 
+Numa manhã húmida de outono, o José percorria as ruas de Ponta Delgada. Ao bater às portas, segurava a pasta com a serenidade de quem já aprendera a lidar com todos os humores do outro lado do trinco.
 
-Numa das portas, abriu-se uma fresta. O senhor António não trazia pressa nem hostilidade no olhar. Tinha apenas uma interrogação antiga:
+Numa das portas, abriu-se uma fresta. O senhor António não trazia pressa nem desconfiança no olhar; trazia apenas uma interrogação antiga:
 
-— A minha falecida mãe pertencia à vossa religião — disse ele, enquanto apoiava o braço na ombreira da porta. — Por isso, tenho muito respeito por todos vocês. Ainda assim... há coisas que nunca me entraram na cabeça.
+— A minha falecida mãe pertencia à vossa religião — disse ele, enquanto apoiava o braço na ombreira da porta. — Tenho muito respeito por vocês por causa dela. Mas confesso que há coisas que nunca me entraram bem na cabeça.
 
 O José manteve o tom calmo e respondeu:
 
-— Ninguém compreende tudo à primeira. Se quiser partilhar uma dessas dúvidas, podemos conversar sobre isso com calma.
+— É natural, senhor António. Ninguém compreende tudo de um dia para o outro. Se desejar, pode expor as suas dúvidas.
 
 — Olhe... digo-lhe já uma. Sei que, de vez em quando, vocês alteram algumas das vossas crenças. Sempre me pareceu uma enorme incoerência. Como é que conseguem lidar com isso sem perder o chão?
 
-— Agradeço a sua sinceridade — respondeu o José, sorrindo levemente. — Não é o único a levantar essa pergunta. Mas... deixe-me fazer uma comparação: lembra-se de quando os médicos diziam que comer ovos fazia mal ao coração? Mais tarde, a ciência estudou melhor o assunto e percebeu que, afinal, não era bem assim. A recomendação mudou. Isso faz com que a medicina deixe de ser de confiança?
+— Agradeço a sua sinceridade — respondeu o José, com um sorriso compreensivo. — Não é o primeiro a levantar essa pergunta. Mas pense comigo: lembra-se de quando os médicos diziam que comer ovos fazia mal ao coração? Mais tarde, a ciência estudou melhor o assunto e percebeu que, afinal, não era bem assim. A recomendação mudou. Isso faz com que a medicina deixe de ser de confiança?
 
 — Não, claro que não. Confiamos na mesma.
 
-— Com a nossa fé acontece algo parecido: à medida que compreendemos melhor as coisas, temos a humildade de corrigir o rumo.
+— Com a nossa fé acontece algo parecido: à medida que compreendemos melhor as coisas, corrigimos o rumo.
 
 O António franziu o sobrolho, sem se deixar convencer:
 
-— Desculpe, mas não acho que seja a mesma coisa. A ciência estuda o corpo humano e faz testes de laboratório. A religião apoia-se em textos sagrados que já estão escritos há milhares de anos. Se a Palavra de Deus é sagrada, não devia mudar.
+— Desculpe, mas não é a mesma coisa. A ciência estuda o corpo humano e faz testes de laboratório. A religião apoia-se em textos sagrados com milhares de anos. Se a Palavra de Deus é sagrada, não devia mudar.
 
-— Tem razão. A Palavra de Deus nunca muda. Mas os avanços científicos, as descobertas arqueológicas e o estudo das línguas antigas podem levar a um entendimento mais claro dos textos. Portanto, o que muda não é a Bíblia. Somos nós.
+— Tem razão. A Palavra de Deus não muda. Mas as ferramentas de estudo, as descobertas da arqueologia e a compreensão dos idiomas originais evoluem. Portanto, o que muda não é a Bíblia. Somos nós.
 
-— Mesmo assim, como dá para confiar em algo que está sujeito a mudanças?
+— Mas tem noção de quantas mudanças a vossa religião já fez ao longo das décadas?
 
-— Entendo a sua preocupação — afirmou o José. — Realmente, há muitas religiões que afirmam ser infalíveis. Dizem que os seus líderes recebem revelações divinas e que nada pode ser alterado. Respeito quem pensa assim. Mas, curiosamente, para mim é exatamente o contrário: o facto de estarmos dispostos a mudar é uma das razões pelas quais confio no que aprendo.
+— Claro que sim. E não tentamos esconder isso debaixo do tapete. O nosso próprio site lista essas revisões históricas abertamente. Costumamos ver esse processo como uma caminhada ao amanhecer: à medida que o sol sobe, a mesma estrada ganha contornos mais nítidos.
 
-— Como assim?
+— Compreendo a metáfora — retorquiu o António. — Mas se quem vos ensina muda de ideias com o tempo... como dá para confiar?
 
-— Saber que quem exerce a liderança tem a coragem de dizer "não somos perfeitos nem inspirados, estamos apenas a fazer o nosso melhor" dá-me segurança, pois revela uma humildade rara neste mundo. Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É honestidade. Para nós, ter conhecimento é como caminhar numa estrada ao amanhecer: à medida que a luz do sol aumenta, vemos o caminho com mais nitidez.
+— Compreendo a dúvida. Realmente, há religiões que afirmam ter líderes inspirados e infalíveis. Mas nós não dizemos isso. Curiosamente, é exatamente essa transparência que me dá segurança.
 
-O António cruzou os braços, pensativo:
+— Porquê?
 
-— Faz algum sentido, admito. Mas... você não fica com medo de que aquilo em que acredita hoje esteja completamente errado amanhã?
+— Porque prefiro seguir o exemplo de quem tem a coragem de assumir que é imperfeito e comete erros. Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É sinceridade. E acho que concorda comigo que esse tipo de honestidade anda bem escasso.
 
-— Não, não tenho medo disso, pois há duas certezas que me descansam. Primeiro, as correções que fazemos nunca tocam nos alicerces fundamentais da nossa fé. Segundo, a minha devoção é ao Criador, não a um conjunto de decretos humanos.
+O António cruzou os braços sobre o peito, pousando o olhar nas lajes do passeio:
 
-O António ficou em silêncio por breves momentos. Depois, com a expressão mais desanuviada, avançou:
+— Tem a sua lógica, admito. Mas... não fica com medo de que aquilo em que acredita hoje esteja errado amanhã?
 
-— É uma perspetiva curiosa. Deu-me algo em que pensar hoje.
+— Não sinto esse receio, por dois motivos muito simples: primeiro, as mudanças nunca alteram os alicerces fundamentais da nossa fé; segundo, a minha devoção pertence ao Criador, não a um conjunto de decretos humanos.
 
-Os dois conversaram por mais uns minutos, e depois o José retomou a marcha pelas ruas de basalto.
+Fez-se um silêncio breve entre os dois, apenas preenchido pelo som do vento e do mar. Então, o António desanuviou o rosto num sorriso calmo:
 
-Enquanto caminhava, pensou em como a fé não precisa de fingir que já chegou ao meio-dia. Afinal, quem aceita que a luz ainda está a nascer não tem medo das sombras do caminho. Basta-lhe a vontade de seguir em frente.
+— É uma perspetiva interessante. Deu-me algo em que pensar enquanto tomo o café.
 
+Após se despedirem com um aperto de mão caloroso, o José ajeitou a pasta sob o braço e retomou o passo pelas calçadas de basalto escuro.
+
+Enquanto descia a rua, refletiu sobre como a fé não precisa de fingir que já atingiu o brilho do meio-dia. Afinal, quem aceita que a luz ainda está a nascer não tem medo das sombras do caminho. Basta-lhe a vontade de seguir em frente. 
 
 ---
 
@@ -57,4 +60,4 @@ Enquanto caminhava, pensou em como a fé não precisa de fingir que já chegou a
 
 <br>
 
-> Nota: O diálogo acima é apenas uma transcrição aproximada de uma conversa real ocorrida há poucos anos. Os motivos pelos quais as Testemunhas de Jeová ajustam o seu entendimento bíblico são explicados no site oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
+> Nota: Este texto baseia-se numa conversa real ocorrida há poucos anos. As razões bíblicas e históricas que fundamentam os ajustes de entendimento das Testemunhas de Jeová podem ser consultadas diretamente no seu site oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
