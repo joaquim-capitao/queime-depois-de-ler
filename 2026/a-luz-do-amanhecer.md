@@ -3,9 +3,9 @@
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/nascer-do-sol.jpeg)
 
-Numa manhã de outono, o José percorria as ruas de Ponta Delgada, com uma pasta na mão, enquanto batia às portas com a tranquilidade de quem já se habituou aos mais diversos humores.
+Numa manhã de outono, o José percorria as ruas de Ponta Delgada. Segurava a pasta com a serenidade de quem já aprendera a lidar com todos os humores do outro lado do trinco. 
 
-​Numa dessas portas abriu-se uma fresta. O dono da casa, o senhor António, não tinha pressa nem hostilidade nos olhos. Tinha apenas uma interrogação antiga:
+Numa das portas, abriu-se uma fresta. O senhor António não trazia pressa nem hostilidade no olhar. Tinha apenas uma interrogação antiga:
 
 — A minha falecida mãe pertencia à vossa religião — disse ele, enquanto apoiava o braço na ombreira da porta. — Por isso, tenho muito respeito por todos vocês. Ainda assim... há coisas que nunca me entraram na cabeça.
 
