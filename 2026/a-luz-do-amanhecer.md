@@ -37,7 +37,7 @@ O António franziu o sobrolho, sem se deixar convencer:
 
 — Porquê?
 
-— Porque prefiro seguir o exemplo de quem tem a coragem de assumir que é imperfeito e comete erros. Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É sinceridade. E acho que concorda comigo que esse tipo de honestidade anda bem escasso.
+— Porque confio mais em quem tem a coragem de assumir que é imperfeito e comete erros. Admitir um erro ou afinar uma ideia não é fraqueza nem falta de convicção. É sinceridade. E acho que concorda comigo que esse tipo de honestidade anda bem escasso.
 
 O António cruzou os braços sobre o peito, pousando o olhar nas lajes do passeio:
 
