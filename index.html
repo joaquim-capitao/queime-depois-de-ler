@@ -12,7 +12,7 @@
 
   <style>
     :root {
-      /* Cores baseadas na imagem fornecida */
+      /* Cores baseadas no design da página */
       --bg: #1c1b24; /* Fundo escuro azulado/acinzentado */
       --card-bg: rgba(255, 255, 255, 0.03);
       --card-border: rgba(255, 255, 255, 0.06);
@@ -39,12 +39,55 @@
       color: var(--text-link);
       min-height: 100vh;
       line-height: 1.5;
-      padding: 40px 20px;
+      padding: 30px 20px 40px;
     }
 
     .container {
       max-width: 680px;
       margin: 0 auto;
+    }
+
+    /* Barra Superior com o Link de Retorno */
+    .top-nav {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      margin-bottom: 24px;
+    }
+
+    .nav-home-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 14px;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 999px;
+      color: var(--text-date);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .nav-home-btn svg {
+      width: 16px;
+      height: 16px;
+      fill: currentColor;
+      transition: transform 0.2s ease;
+    }
+
+    .nav-home-btn:hover {
+      color: var(--accent);
+      border-color: var(--card-hover-border);
+      background-color: var(--card-hover-bg);
+      transform: translateX(-2px);
+      box-shadow: 0 4px 14px -2px var(--accent-glow);
+    }
+
+    .nav-home-btn:hover svg {
+      transform: translateX(-2px);
     }
 
     header {
@@ -59,19 +102,13 @@
       text-transform: uppercase;
       color: var(--accent);
       margin-bottom: 12px;
+      letter-spacing: 0.02em;
     }
  
     .subtitle {
       color: var(--text-date);
       font-size: 1rem;
       font-weight: 400;
-    }
-
-    .section-title {
-      font-size: 1.4rem;
-      color: var(--accent);
-      margin-bottom: 20px;
-      font-weight: 700;
     }
 
     .chronicles-list {
@@ -115,7 +152,7 @@
       margin-left: 16px;
     }
 
-    /* Paginação Discreta */
+    /* Paginação */
     .pagination {
       display: flex;
       justify-content: center;
@@ -162,39 +199,27 @@
       padding-top: 20px;
     }
 
-    .home-btn {
+    .footer-home-btn {
       display: inline-flex;
-      flex-direction: column;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
       text-decoration: none;
       color: var(--text-date);
-      transition: all 0.2s ease;
-      padding: 10px 20px;
-      border-radius: 10px;
-    }
-
-    .home-btn:hover {
-      color: var(--accent);
-      transform: scale(1.05);
-    }
-
-    .home-icon {
-      font-size: 24px;
-    }
-
-    .home-label {
       font-size: 0.85rem;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      font-weight: 500;
+      opacity: 0.7;
+      transition: all 0.2s ease;
+    }
+
+    .footer-home-btn:hover {
+      opacity: 1;
+      color: var(--accent);
     }
   </style>
 </head>
 <body>
 
   <main class="container">
-
+    
     <!-- Botão Elegante no Início -->
     <nav class="top-nav" aria-label="Navegação Superior">
       <a href="https://joaquim-capitao.github.io/" class="nav-home-btn">
@@ -204,7 +229,7 @@
         <span>Página Inicial</span>
       </a>
     </nav>
-    
+
     <header>
       <h1 id="queime-depois-de-ler">QUEIME DEPOIS DE LER</h1>
       <p class="subtitle">(Leia por sua conta e risco)</p>
@@ -283,9 +308,8 @@
     <nav class="pagination" id="pagination" aria-label="Navegação das crónicas"></nav>
 
     <footer>
-      <a href="https://joaquim-capitao.github.io/" class="home-btn" title="Página Inicial">
-        <span class="home-icon">🏠</span>
-        <span class="home-label">Página Inicial</span>
+      <a href="https://joaquim-capitao.github.io/" class="footer-home-btn" title="Página Inicial">
+        <span>← Voltar à Página Inicial</span>
       </a>
     </footer>
 
