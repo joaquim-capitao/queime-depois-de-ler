@@ -1,7 +1,7 @@
 
 # A Luz do Amanhecer
 
-![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/nascer-do-sol.jpeg)
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/ponta-delgada.jpg)
 
 Numa manhã húmida de outono, o José percorria as ruas de Ponta Delgada. Ao bater às portas, segurava a pasta com a serenidade de quem já aprendeu a lidar com todos os humores do outro lado do trinco.
 
