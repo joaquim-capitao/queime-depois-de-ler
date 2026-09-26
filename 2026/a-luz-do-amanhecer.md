@@ -29,7 +29,7 @@ O António franziu o sobrolho, sem se deixar convencer:
 
 — Mas tem noção de quantas mudanças a vossa religião já fez ao longo das décadas?
 
-— Claro que sim. E não tentamos esconder isso debaixo do tapete. O nosso próprio site lista essas revisões históricas abertamente. Costumamos ver esse processo como uma caminhada ao amanhecer. À medida que o sol sobe, a mesma estrada ganha contornos mais nítidos.
+— Claro que sim. E não nos envergonhamos disso. O nosso próprio site lista essas revisões históricas abertamente. Costumamos ver esse processo como uma caminhada ao amanhecer. À medida que o sol sobe, a mesma estrada ganha contornos mais nítidos.
 
 — Mas se quem vos ensina muda de ideias com o tempo... como dá para confiar? — retorquiu o António.
 
@@ -43,7 +43,7 @@ O António cruzou os braços firmemente sobre o peito, pousando o olhar nas laje
 
 — Tem a sua lógica, admito. Mas... não fica com medo de que aquilo em que acredita hoje esteja completamente errado amanhã?
 
-— Não sinto esse receio, por dois motivos muito simples: primeiro, as correções nunca tocam nos alicerces fundamentais da nossa fé; segundo, a minha devoção pertence ao Criador, não a um conjunto de decretos humanos.
+— Não sinto esse receio por dois motivos muito simples: primeiro, as correções nunca tocam nos alicerces fundamentais da nossa fé; segundo, a minha devoção pertence ao Criador, não a um conjunto de decretos humanos.
 
 Fez-se um silêncio breve entre os dois, apenas preenchido pelo som suave do vento. Então, o António desanuviou o rosto num sorriso calmo:
 
