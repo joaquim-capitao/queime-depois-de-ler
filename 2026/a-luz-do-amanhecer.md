@@ -37,7 +37,7 @@ O António franziu o sobrolho, sem se deixar convencer:
 
 — Porquê?
 
-— Porque acho mais fácil confiar em quem assume que errou. Para mim, admitir erros ou afinar ideias não é fraqueza nem falta de convicção. É sinceridade. Certamente concorda comigo que esse tipo de honestidade faz muita falta neste mundo.
+— Porque acho mais fácil confiar em quem assume as falhas. Para mim, admitir equívocos ou afinar ideias não é fraqueza nem falta de convicção. É sinceridade. Certamente concorda comigo que esse tipo de honestidade faz muita falta neste mundo.
 
 O António cruzou os braços firmemente sobre o peito, pousando o olhar nas lajes do passeio:
 
