@@ -23,7 +23,7 @@ O José manteve o tom calmo e respondeu:
 
 O António franziu o sobrolho, sem se deixar convencer:
 
-— Desculpe, mas não é a mesma coisa. A ciência estuda o corpo humano e faz testes de laboratório. Mas a religião apoia-se em textos sagrados com milhares de anos. Se a Palavra de Deus é sagrada, não devia mudar.
+— Desculpe, mas não é a mesma coisa. A medicina estuda o corpo humano e faz testes de laboratório. Mas a religião apoia-se em textos sagrados com milhares de anos. Se a Palavra de Deus é sagrada, não devia mudar.
 
 — Tem razão. A Palavra de Deus não muda. Mas as ferramentas de estudo, as descobertas arqueológicas e a compreensão dos idiomas originais evoluem. Portanto, o que muda não é a Bíblia. Somos nós.
 
