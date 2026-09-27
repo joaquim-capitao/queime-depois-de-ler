@@ -5,7 +5,7 @@
 
 Numa manhã húmida de outono, o José percorria as ruas de Ponta Delgada. Ao bater às portas, segurava a pasta com a serenidade de quem já aprendeu a lidar com todos os humores do outro lado do trinco.
 
-Numa das portas, surgiu um homem de meia idade, o António, que não trazia pressa nem desconfiança no olhar. Trazia apenas uma interrogação antiga:
+Numa das portas, surgiu um homem de meia-idade, o António, que não trazia pressa nem desconfiança no olhar. Trazia apenas uma interrogação antiga:
 
 — A minha falecida mãe pertencia à vossa religião — disse ele, enquanto apoiava o braço na ombreira da porta. — Tenho muito respeito por vocês por causa dela. Mas confesso que há coisas que nunca me entraram bem na cabeça.
 
@@ -60,4 +60,4 @@ Enquanto descia a rua, refletiu sobre como a fé não precisa de fingir que já 
 
 <br>
 
-> Nota: Este texto baseia-se numa conversa real ocorrida há poucos anos. As razões bíblicas e históricas que fundamentam os ajustes de entendimento das Testemunhas de Jeová podem ser consultadas diretamente no seu site oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
+> Nota: Este texto baseia-se numa conversa real ocorrida há poucos anos. As razões bíblicas e históricas que fundamentam os ajustes de entendimento das Testemunhas de Jeová podem ser consultadas diretamente no seu *site* oficial: [jw.org](https://www.jw.org/finder?wtlocale=TPO&docid=502016179&srcid=share)
