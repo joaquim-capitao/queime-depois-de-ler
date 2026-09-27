@@ -18,7 +18,7 @@ Aos olhos do Carlos, o monitor era um amante mais dócil: entregava tudo e não 
 
 Naquele mundo de fantasia, desfilava um carrossel infinito de corpos esculpidos em silicone e pós-produção, sem gripes, sem rugas de preocupação, sem nódoas negras, sem cheiro a suor e sem aquela curva que as costas ganham depois de trinta anos a carregar sacos de compras. Só havia deusas que nunca tiveram de engomar uma camisa nem desentupir um ralo, dotadas de uma elasticidade que faria inveja a qualquer acrobata do Circo Cardinali. 
 
-Habituado a esse fogo-de-artifício digital, o Carlos chegou à cama e o corpo desligou-se. Ficou ali como uma espécie de eletrodoméstico avariado. Por hábito ou remorso, a mão do Carlos ainda deslizou sobre o ombro da mulher. Mas não havia desejo, nem ternura. Apenas uma mera geolocalização. De facto, ele procurava a textura polida e sem costuras daqueles fantasmas em 4K.
+Habituado a esse fogo-de-artifício digital, o Carlos chegou à cama e o corpo desligou-se. Ficou ali como uma espécie de eletrodoméstico avariado. Por hábito ou remorso, a mão do Carlos ainda deslizou sobre o ombro da mulher. Mas não havia desejo, nem ternura. Havia apenas uma mera geolocalização. De facto, ele procurava a textura polida e sem costuras daqueles fantasmas em 4K.
 
 No silêncio do quarto, a Júlia ouviu a respiração dele a abrandar. Então, ajeitou-lhe o lençol com carinho e chorou por dentro. Doía-lhe a solidão de estar ali, cheia de amor para dar, com sangue a correr nas veias, deitada ao lado de um homem que preferia abraçar o vento.
 
