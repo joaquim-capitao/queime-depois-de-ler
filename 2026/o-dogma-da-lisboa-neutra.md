@@ -10,7 +10,7 @@ Na cabeça de um lisboeta comum, a pronúncia é uma espécie de sarampo que só
 
 Pois bem, tantos anos de açorianidade desfizeram-me esse dogma e ensinaram-me que isso de haver um português verdadeiro e outro adulterado com pronúncia é um disparate de proporções continentais. A verdade é simples e objetiva: não existem pessoas sem pronúncia. Todos temos uma. 
 
-Lembro-me perfeitamente de chegar, pela primeira vez, ao aeroporto de Ponta Delgada. Um habitante local, que hoje é um grande amigo, foi buscar-me à área de chegadas mesmo sem me conhecer. Quando o ouvi falar, confesso que fiquei à espera que surgissem legendas no ar. Pois bem... isto é irónico, principalmente porque, como lisboeta, passei a vida inteira a dizer "jo<u>â</u>lho" em vez de "jo<u>e</u>lho", e "tr<u>eu</u>ze" em vez de "tr<u>e</u>ze". Mesmo assim, dei-me ao luxo de ficar perplexo com a pronúncia dos micaelenses.
+Lembro-me perfeitamente de chegar, pela primeira vez, ao aeroporto de Ponta Delgada. Um habitante local, que hoje é um grande amigo, foi-me buscar à área de chegadas mesmo sem me conhecer. Quando o ouvi falar, confesso que fiquei à espera que surgissem legendas no ar. Pois bem... isto é irónico, principalmente porque, como lisboeta, passei a vida inteira a dizer "jo<u>â</u>lho" em vez de "jo<u>e</u>lho", e "tr<u>eu</u>ze" em vez de "tr<u>e</u>ze". Mesmo assim, dei-me ao luxo de ficar perplexo com a pronúncia dos micaelenses.
 
 Depois, ainda há a teoria da *"pronúncia às doses"*. Quando um continental visita a Terceira, o Faial ou outra ilha, descobre que consegue entender a população local sem ter de franzir os olhos. Então, solta um suspiro de alívio: _"Ah, estas ilhas têm menos pronúncia!"_
 
