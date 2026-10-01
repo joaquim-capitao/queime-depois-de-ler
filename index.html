@@ -104,19 +104,87 @@
       margin-bottom: 12px;
       letter-spacing: 0.02em;
     }
- 
-    .subtitle {
-      color: var(--text-date);
-      font-size: 1rem;
-      font-weight: 400;
-    }
 
     .disclaimer {
-      font-size: 0.8rem;
+      font-size: 0.85rem;
       line-height: 1.5;
       color: var(--text-date);
-      opacity: 0.85;
+      opacity: 0.9;
       margin-top: 8px;
+    }
+
+    .btn-link {
+      background: none;
+      border: none;
+      padding: 0;
+      color: var(--accent);
+      text-decoration: underline;
+      cursor: pointer;
+      font: inherit;
+    }
+
+    .btn-link:hover {
+      opacity: 0.8;
+    }
+
+    /* Modal / Pop-up nativo */
+    dialog.modal-dialogo {
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      background-color: #23222e;
+      color: var(--text-date);
+      padding: 24px;
+      max-width: min(90vw, 500px);
+      margin: auto;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+    }
+
+    dialog.modal-dialogo::backdrop {
+      background: rgba(10, 10, 15, 0.75);
+      backdrop-filter: blur(4px);
+    }
+
+    .modal-dialogo h3 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
+    }
+
+    .modal-dialogo p {
+      font-size: 0.92rem;
+      line-height: 1.6;
+      color: rgba(255, 255, 255, 0.85);
+      margin-bottom: 20px;
+    }
+
+    .modal-dialogo a {
+      color: var(--accent);
+      text-decoration: underline;
+    }
+
+    .btn-fechar {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 6px 16px;
+      border-radius: 999px;
+      border: 1px solid var(--card-border);
+      background-color: var(--card-bg);
+      color: var(--text-date);
+      font-family: inherit;
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .btn-fechar:hover {
+      color: var(--accent);
+      border-color: var(--card-hover-border);
+      background-color: var(--card-hover-bg);
     }
 
     .chronicles-list {
@@ -240,13 +308,13 @@
 
     <header>
       <h1 id="queime-depois-de-ler">QUEIME DEPOIS DE LER</h1>
-      <p class="disclaimer">Criei este espaço pessoal para partilhar memórias e reflexões. Como é natural, a minha fé reflete-se naquilo que escrevo; no entanto, esta página tem caráter estritamente individual e não representa nem substitui a fonte oficial das Testemunhas de Jeová (jw.org). Da mesma forma, as minhas palavras não têm qualquer teor partidário ou ideológico, mantendo-me, por convicção, politicamente neutro.</p>
+      <p class="disclaimer">
+        Espaço pessoal de memórias e reflexões, não vinculado a nenhuma organização. (<button type="button" class="btn-link" onclick="document.getElementById('modal-aviso').showModal()">saber mais</button>).
+      </p>
     </header>
     
     <ul class="chronicles-list" id="chronicles-list">
-
-     <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/2026/a-luz-do-amanhecer"><span class="title">A Luz do Amanhecer</span><span class="date">(27/09/2026)</span></a></li>
-
+      <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/2026/a-luz-do-amanhecer"><span class="title">A Luz do Amanhecer</span><span class="date">(27/09/2026)</span></a></li>
       <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/2026/um-estranho-capitao"><span class="title">Um Estranho Capitão</span><span class="date">(20/09/2026)</span></a></li>      
       <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/2026/uma-vigarice-consentida"><span class="title">Uma Vigarice Consentida</span><span class="date">(13/09/2026)</span></a></li>
       <li><a href="https://joaquim-capitao.github.io/queime-depois-de-ler/a-verdade-mais-dolorosa"><span class="title">A Verdade Mais Dolorosa</span><span class="date">(06/09/2026)</span></a></li>
@@ -325,6 +393,15 @@
     </footer>
 
   </main>
+
+  <!-- Modal / Pop-up nativo -->
+  <dialog id="modal-aviso" class="modal-dialogo" onclick="if (event.target === this) this.close()">
+    <h3>Nota de Isenção</h3>
+    <p>
+      Como é natural, as minhas crenças religiosas refletem-se naquilo que escrevo; no entanto, esta página tem caráter estritamente individual e não representa nem substitui a fonte oficial das Testemunhas de Jeová (<a href="https://www.jw.org" target="_blank" rel="noopener">jw.org</a>). Da mesma forma, as minhas palavras não têm qualquer teor partidário ou ideológico, mantendo-me, por convicção, politicamente neutro.
+    </p>
+    <button type="button" class="btn-fechar" onclick="document.getElementById('modal-aviso').close()">Fechar</button>
+  </dialog>
 
   <script>
     const ITEMS_PER_PAGE = 100;
