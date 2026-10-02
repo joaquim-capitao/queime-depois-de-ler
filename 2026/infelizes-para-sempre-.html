@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infelizes para Sempre</title>
+  <style>
+    /* === Configurações Globais === */
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.75;
+      /* === Novo Esquema de Cores === */
+      color: #ebf2bf; /* Texto claro (quase branco) */
+      background-color: #1a1d2d; /* Fundo azul-petróleo escuro */
+      /* ============================= */
+      margin: 0;
+      padding: 2rem 1rem;
+    }
+
+    article {
+      max-width: 680px;
+      margin: 0 auto;
+      /* O fundo do artigo agora é transparente para assumir o fundo do body */
+      background: transparent;
+      padding: 2.5rem;
+      border-radius: 8px;
+      /* Sombra mais suave contra o fundo escuro */
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      /* === Novo Esquema de Cores === */
+      color: #ff8c00; /* Título laranja */
+      /* ============================= */
+      margin-bottom: 1.5rem;
+      line-height: 1.25;
+      font-weight: 700;
+    }
+
+    p {
+      margin-bottom: 1.25rem;
+      font-size: 1.3rem;
+      text-align: justify;
+      hyphens: auto;
+      -webkit-hyphens: auto;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+      display: block;
+      margin: 2rem auto;
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      /* Linha horizontal escura para combinar com o tema */
+      background: #33395c;
+      margin: 2.5rem 0 1.5rem;
+    }
+
+    .signature {
+      text-align: right;
+      color: #8899ac; /* Cor da assinatura mais suave */
+      font-size: 1.2rem;
+      line-height: 1.4;
+    }
+
+    /* === Estilo da palavra com popup (mantido) === */
+    .termo-com-nota {
+      position: relative;
+      cursor: pointer;
+      /* Cor do link ajustada para o tema escuro */
+      color: #4fa1ff;
+      text-decoration: underline dotted #4fa1ff;
+      font-weight: 600;
+      display: inline-block;
+    }
+
+    .termo-com-nota .popup-nota {
+      visibility: hidden;
+      opacity: 0;
+      position: absolute;
+      bottom: 130%;
+      left: 50%;
+      transform: translateX(-50%) translateY(4px);
+      width: 220px;
+      /* Fundo mais escuro para o popup */
+      background-color: #0d1117;
+      color: #ffffff;
+      text-align: center;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: normal;
+      line-height: 1.4;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+      z-index: 100;
+      transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+      pointer-events: none;
+    }
+
+    .termo-com-nota .popup-nota::after {
+      content: "";
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      margin-left: -6px;
+      border-width: 6px;
+      border-style: solid;
+      border-color: #0d1117 transparent transparent transparent;
+    }
+
+    .termo-com-nota:hover .popup-nota,
+    .termo-com-nota:focus .popup-nota {
+      visibility: visible;
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    /* === Botão Índice (mantido) === */
+    .indice-wrapper {
+      display: flex;
+      justify-content: center;
+      margin-top: 2.5rem;
+    }
+
+    .btn-indice {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      /* Fundo do botão ajustado para o tema escuro */
+      background-color: #0d1117;
+      color: #e5e7eb;
+      text-decoration: none;
+      padding: 10px 18px 8px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+      transition: transform 0.15s ease, background-color 0.2s ease;
+      min-width: 68px;
+    }
+
+    .btn-indice:hover {
+      background-color: #1a222e;
+      transform: translateY(-2px);
+    }
+
+    .btn-indice .icone-casa {
+      font-size: 1.85rem;
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+
+    .btn-indice .texto-indice {
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #e0e3eb;
+    }
+  </style>
+</head>
+<body>
+
+  <article>
+    <h1 id="infelizes-para-sempre">Infelizes para Sempre</h1>
+
+    <p>Logo no primeiro encontro, o Eduardo e a Susana descobriram ter muitas coisas em comum.</p>
+
+    <p>Gostavam das mesmas músicas, dos mesmos filmes, de pôr canela no café e de ouvir o som da chuva a bater na janela. Eram <em>"almas gémeas"</em>, como gostavam de dizer. Então, namoraram à pressa e casaram na primeira oportunidade.</p>
+
+    <p><img src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/IMG_20260924_195401.jpg" alt="Infelizes para Sempre"></p>
+
+    <p>Só que, com o tempo, a ternura começou a fechar os punhos.</p>
+
+    <p>Não aconteceu de rompante. O desastre de um casamento nunca entra com um pontapé na porta; entra em bicos de pés, disfarçado, embrulhado num laço de veludo.</p>
+
+    <p><em>"Talvez seja melhor não rires tão alto quando temos visitas, meu amor. Fica… deselegante"</em>, disse o Eduardo, com a mão pousada no ombro da Susana, com a voz mansa de um educador. E ela engoliu o <em>conselho</em>, em nome da harmonia.</p>
+
+    <p>A seguir veio o vestido vermelho que <em>"dava nas vistas sem necessidade"</em>. Depois, veio o conselho sobre a forma como ela gesticulava ao contar uma história. <em>"Fica-te mal, querida. Aprende a comportar-te."</em></p>
+
+    <p>As frases mansas do Eduardo vinham sempre acompanhadas daquele carinho azedo: <em>"Faço isto por ti. Quero que sejas a melhor versão de ti própria."</em> Em seguida, suspirava, como se a mulher devesse sentir gratidão por ele ser tão paciente. E, entre um suspiro e outro, dizia repetidamente:</p>
+
+    <p><em>"Não fales assim."</em></p>
+    <p><em>"Não andes assim."</em></p>
+    <p><em>"Não penses assim."</em></p>
+    <p><em>"Não sejas assim."</em></p>
+
+    <p>Ele já não pedia. Decretava. O rapaz que se apaixonara por um reflexo estava aborrecido por descobrir que, por trás do espelho, havia um ser humano vivo, autónomo, que teimava em respirar sem a autorização dele. Queria uma Susana esculpida à medida exata do seu próprio ego.</p>
+
+    <p>Só que, daquela maneira, nenhum dos dois era realmente feliz. Ela sabia que o marido não a via como um ser humano completo. Por isso, sentia-se como um rascunho inacabado.</p>
+
+    <p>Por outro lado, ele estava frustrado. Era como se tivesse adotado um São Bernardo e descobrisse depois que o raio do bicho não sabia miar, nem usar a caixa de areia.</p>
+
+    <p>O Eduardo não sabia, mas quem ama de verdade aceita o outro como ele é. Acolhe as diferenças. Se precisamos de limar, cortar e calar alguém, não sentimos verdadeiro amor. Estamos apenas aterrorizados com o tamanho da nossa própria solidão.</p>
+
+    <p>Portanto, dirijo-me a ti, meu querido amigo solteiro... Se desejas ardentemente moldar alguém para se encaixar nos teus caprichos, faz um favor a ti próprio: <strong>não te cases</strong>.</p>
+
+    <p>Para quem gosta de moldar, o mercado oferece alternativas muito mais baratas, como a 
+      <span class="termo-com-nota" tabindex="0">
+        plasticina
+        <span class="popup-nota">Na Amazon, vende-se plasticina a 5 euros por unidade.</span>
+      </span>. 
+      Essa, pelo menos, não ressona nem tem opiniões.
+    </p>
+
+    <hr>
+
+    <div class="signature">Joaquim Capitão</div>
+    <div class="signature">11/10/2026</div>
+
+    <!-- Botão de retorno ao índice -->
+    <div class="indice-wrapper">
+      <a href="https://joaquim-capitao.github.io/queime-depois-de-ler/" class="btn-indice" title="Voltar ao Índice">
+        <span class="icone-casa">🏡</span>
+        <span class="texto-indice">ÍNDICE</span>
+      </a>
+    </div>
+  </article>
+
+</body>
+</html>
