@@ -44,4 +44,3 @@ Para quem gosta de moldar, o mercado oferece alternativas muito mais baratas, co
 
 [^1]: Na Amazon existe plasticina a 5 euros por cada unidade.
 
-#queime-depois-de-ler
