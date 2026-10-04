@@ -8,9 +8,9 @@ Como nasci em Lisboa, cresci a acreditar que, na capital, não se fala com sotaq
 
 Na cabeça de um lisboeta comum, o sotaque é uma espécie de sarampo que só ataca quem vive a sul do Tejo ou a norte da CREL. Pensamos que fomos abençoados com um dialeto que é o *"grau zero"* da fonética. Não temos pronúncia; temos a *"fala normal"*. Acreditamos que, se Camões se levantasse do túmulo, falaria rigorosamente como um residente atual do Bairro Alto.
 
-Pois bem, tantos anos de açorianidade desfizeram-me esse dogma e ensinaram-me que isso de haver um português verdadeiro e outro adulterado com pronúncia é um disparate de proporções continentais. A verdade é simples e objetiva: não existem pessoas sem pronúncia. Todos temos uma. 
+Pois bem, tantos anos de açorianidade ensinaram-me que isso de haver um português verdadeiro e outro adulterado com pronúncia é um disparate de proporções continentais. A verdade é simples e objetiva: não existem pessoas sem pronúncia. Todos temos uma. 
 
-Lembro-me perfeitamente de chegar, pela primeira vez, ao aeroporto de Ponta Delgada. Um habitante local, que hoje é um grande amigo, foi-me buscar à área de chegadas mesmo sem me conhecer. Quando o ouvi falar, confesso que fiquei à espera das legendas. Pois bem... o mais irónico é que, como lisboeta, passei a vida a dizer "jo<u>â</u>lho" em vez de "jo<u>e</u>lho", e "tr<u>eu</u>ze" em vez de "tr<u>e</u>ze". Ainda assim, tive o descaramento de me surpreender com a pronúncia dos micaelenses.
+Lembro-me perfeitamente de chegar, pela primeira vez, ao aeroporto de Ponta Delgada. Um habitante local, que hoje é um grande amigo, foi-me buscar à área de chegadas mesmo sem me conhecer. Quando o ouvi falar, confesso que fiquei à espera das legendas. O mais irónico é que, como lisboeta, passei a vida a dizer "jo<u>â</u>lho" em vez de "jo<u>e</u>lho", e "tr<u>eu</u>ze" em vez de "tr<u>e</u>ze". Ainda assim, tive o descaramento de julgar a pronúncia dos micaelenses.
 
 Depois, ainda há a teoria da *"pronúncia às doses"*. Quando um continental visita a Terceira, o Faial ou outra ilha, descobre que consegue entender a população local sem ter de franzir os olhos. Então, solta um suspiro de alívio: _"Ah, estas ilhas têm menos pronúncia!"_
 
