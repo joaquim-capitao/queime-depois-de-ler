@@ -12,7 +12,7 @@ Pois bem, tantos anos de açorianidade ensinaram-me que isso de haver um portugu
 
 Lembro-me perfeitamente de chegar, pela primeira vez, ao aeroporto de Ponta Delgada. Um habitante local, que hoje é um grande amigo, foi-me buscar à área de chegadas mesmo sem me conhecer. Quando o ouvi falar, confesso que fiquei à espera das legendas. 
 
-O mais irónico é que, como lisboeta, passei a vida a dizer "jo<u>â</u>lho" em vez de "jo<u>e</u>lho", e "tr<u>eu</u>ze" em vez de "tr<u>e</u>ze". Ainda assim, tive o descaramento de achar esquisita a pronúncia dos micaelenses.
+O mais irónico é que, como lisboeta, passei a vida inteira a dizer "jo<u>â</u>lho" em vez de "jo<u>e</u>lho", e "tr<u>eu</u>ze" em vez de "tr<u>e</u>ze". Ainda assim, tive o descaramento de achar esquisita a pronúncia dos micaelenses.
 
 Depois, ainda há a teoria da *"pronúncia às doses"*. Quando um continental visita a Terceira, o Faial ou outra ilha, descobre que consegue entender a população local sem ter de franzir os olhos. Então, solta um suspiro de alívio: _"Ah, estas ilhas têm menos pronúncia!"_
 
