@@ -1,8 +1,8 @@
 # O Dogma da Lisboa Neutra
 
-Faz hoje precisamente 19 anos que vim morar para os Açores. E talvez por isso já me libertei da mais perigosa ilusão continental: o **Dogma da Lisboa Neutra**.
+Faz hoje precisamente 19 anos que vim morar para os Açores. Talvez por isso já me tenha libertado daquela que considero a mais perigosa ilusão continental: o **Dogma da Lisboa Neutra**.
 
-Como nasci em Lisboa, cresci a acreditar que, na capital, não se fala com sotaque. Fala-se a _Língua Portuguesa Original e Sem Aditivos_, engarrafada na nascente e servida à temperatura ambiente.  
+Como nasci em Lisboa, cresci convencido de que, na capital, não se fala com sotaque. Fala-se a *Língua Portuguesa Original e Sem Aditivos*, engarrafada na nascente e servida à temperatura ambiente.
 
 ![](https://i.ibb.co/0jXVsQ1p/agua-nascente-lingua.jpg)
 
