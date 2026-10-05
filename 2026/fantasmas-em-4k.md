@@ -16,7 +16,7 @@ Para o Carlos, a realidade tornou-se uma maçada. As pessoas reais passaram a te
 
 Aos olhos do Carlos, o monitor era um amante mais dócil: entregava tudo e não exigia nada. 
 
-Naquele mundo de fantasia, desfilava um carrossel infinito de corpos esculpidos em silicone e pós-produção, sem gripes, sem rugas de preocupação, sem nódoas negras, sem cheiro a suor e sem aquela curva que as costas ganham depois de trinta anos a carregar sacos de compras. Só havia deusas que nunca tiveram de engomar uma camisa nem desentupir um ralo, dotadas de uma elasticidade que faria inveja a qualquer acrobata do Circo Cardinali. 
+Naquele mundo de fantasia, desfilava um carrossel infinito de corpos esculpidos em silicone e pós-produção, sem gripes, sem rugas de preocupação, sem nódoas negras, sem cheiro a suor e sem aquela curva que as costas ganham depois de trinta anos a carregar sacos de compras. Só havia "deusas" que nunca tiveram de engomar uma camisa nem desentupir um ralo, dotadas de uma elasticidade que faria inveja a qualquer acrobata do Circo Cardinali. 
 
 Habituado a esse fogo-de-artifício digital, o Carlos chegou à cama e o corpo desligou-se. Ficou ali como uma espécie de eletrodoméstico avariado. Por hábito ou remorso, a mão do Carlos ainda deslizou sobre o ombro da mulher. Mas não havia desejo, nem ternura. Havia apenas uma mera geolocalização. De facto, ele procurava a textura polida e sem costuras daqueles fantasmas em 4K.
 
