@@ -1,6 +1,6 @@
 # Fantasmas em 4K 
 
-O Carlos entrou novamente no escritório improvisado e trancou a porta. Depois, não se ouviu mais nada. Nem passos, nem páginas a virar; apenas alguns cliques discretos no rato. Pela frincha inferior da porta, escorria uma luz azulada e trémula, como a luz de um aquário.
+O Carlos entrou novamente no seu escritório improvisado e trancou a porta. Depois, não se ouviu mais nada. Nem passos, nem páginas a virar; apenas alguns cliques discretos no rato. Pela frincha inferior da porta, escorria uma luz azulada e trémula, como a luz de um aquário.
 
 A Júlia, do lado de fora, sabia perfeitamente o que o marido andava a fazer, mas fingia não saber. Nem precisava de espreitar pelo buraco da fechadura, porque há coisas que uma mulher simplesmente sabe.
 
