@@ -2,6 +2,8 @@
 
 Um bombeiro chega ao local do incêndio e grita: *“O fogo está fora de controlo!”* E alguém, de braços cruzados, responde: *“Fogo? Qual fogo? O fogo sempre existiu.”* Penso que qualquer pessoa acharia esse comentário ridículo. Ainda assim, ouço algo parecido quase todos os dias.
 
+![](https://hypescience.com/wp-content/uploads/2013/01/fire_wallpaper_by_knato97-d576xm1.jpg)
+
 Quando menciono as guerras, os crimes ou outros acontecimentos como sinais dos _"[últimos dias](https://www.jw.org/pt-pt/ensinos-biblicos/perguntas/sinal-dos-ultimos-dias-profecias/)"_, há sempre quem responda: *“Guerras? As guerras sempre existiram!”* ou *"Maldade? As pessoas sempre foram más."* Mas isso não anula a relevância do que está a acontecer no mundo.
 
 Quando a Bíblia disse que os *"[tempos seriam críticos, difíceis de suportar](https://www.jw.org/pt-pt/biblioteca/biblia/biblia-estudo/livros/2-Tim%C3%B3teo/3/#:~:text=Por%C3%A9m%2C%20fica%20a,Destes%2C%20afasta%2Dte.)"*, não estava a sugerir que o mal passaria a existir nos nossos dias. É evidente que sempre houve crueldade. A novidade está na escala, na eficiência e na velocidade com que o ser humano consegue ser horrível.
