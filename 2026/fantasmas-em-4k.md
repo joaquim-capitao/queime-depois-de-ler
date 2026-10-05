@@ -4,7 +4,7 @@ O Carlos entrou novamente no escritório improvisado e trancou a porta. Depois, 
 
 A Júlia, do lado de fora, sabia perfeitamente o que o marido andava a fazer, mas fingia não saber. Nem precisava de espreitar pelo buraco da fechadura, porque há coisas que uma mulher simplesmente sabe.
 
-![](https://i.ibb.co/C5PpwjX2/luz-azulada.jpg)
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/fantasmas-em-4k.jpg)
 
 Ela sentia uma humilhação que não dava para gritar nem atirar pratos ao chão. Não havia sequer uma rival a quem odiar, puxar os cabelos ou rogar uma praga. A Júlia sabia que estava a competir com o **nada**. E o nada tem a vantagem desleal de nunca ter celulite, nem as estrias de quem já carregou três filhos na barriga.
 
