@@ -16,5 +16,6 @@ Portanto, embora eu não acredite que o planeta e a humanidade estejam prestes a
 
 ---
 
-Joaquim Capitão
-17/04/2026
+<div align="Right">Joaquim Capitão</div>
+<div align="Right">17/04/2026</div>
+
