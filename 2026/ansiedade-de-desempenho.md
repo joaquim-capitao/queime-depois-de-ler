@@ -10,7 +10,7 @@ O campo de terra batida. As chuteiras apertadas a magoar os dedos. O pó a entra
 
 Pela primeira vez na tua vida inteira, ele levantou-se. Ele sorriu. Ele bateu as palmas com tanta força que parecia que o mundo recomeçava ali. No fim, colocou-te a mão na cabeça, olhou-te nos olhos e disse: *Assim, sim. Hoje tiveste valor.*
 
-Hoje.
+Hoje. Repara bem: _hoje_.
 
 Aí, no peito frágil de uma criança que só queria colo, nasceu um veneno: *Eu só serei amado se vencer. Se não marcar o golo, não existo. Se falhar o passe, sou invisível. Para ser amado, tenho de me esforçar primeiro.* 
 
@@ -30,7 +30,9 @@ Falha. Por favor, falha. Erra de propósito, só para veres que o teto não desa
 
 Olha para ti e diz o que aquele homem nunca soube dizer: *Amo-te. Mesmo que percas tudo, amo-te. Porque tu não és o que fazes; tu és o milagre de estares aqui.*
 
-E se por acaso tiveres filhos, não cometas o mesmo erro. Lembra-te que o amor **nunca** devia ser uma medalha. Nunca.
+E se por acaso tiveres filhos, não cometas o mesmo erro. Lembra-te que o amor <u>**nunca**</u> devia ser uma medalha. 
+
+Nunca.
 
 ---
 
