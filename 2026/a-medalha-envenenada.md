@@ -1,4 +1,4 @@
-# Ansiedade de Desempenho
+# A Medalha Envenenada
 
 Tu eras pequenino. Tinhas os joelhos esfolados e os olhos cheios de fome. Não de comida. Não de brinquedos. Fome daquele olhar. Do olhar dele. Da sua mão pesada e morna a pousar no teu ombro com as palavras: *tu és o meu rapaz, basta existires para eu me orgulhar de ti.*
 
