@@ -6,7 +6,7 @@ Mas não havia nada. Havia o silêncio. Aquele silêncio que os pais constroem q
 
 O campo de terra batida. As chuteiras apertadas a magoar os dedos. O pó a entrar-te pela garganta. Corrias como quem foge da morte, mas tu não estavas a fugir: estavas a caçar um abraço. E a bola entrou. 
 
-![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/ansiedade-de-desempenho-1.jpg)
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/ansiedade-de-desmpenho-1.jpg)
 
 Pela primeira vez na tua vida inteira, ele levantou-se. Ele sorriu. Ele bateu as palmas com tanta força que parecia que o mundo recomeçava ali. No fim, colocou-te a mão na cabeça, olhou-te nos olhos e disse: *Assim, sim. Hoje tiveste valor.*
 
