@@ -20,7 +20,7 @@ Cresceste. O campo de terra batida transformou-se num escritório com luz fluore
 
 É a ansiedade de quem corre uma maratona que não tem fim. Estás exausto. O teu peito aperta, o ar falta, o estômago dá nós e tu continuas a exigir a ti próprio a perfeição. A perfeição que julgas ser o preço da entrada no coração dos outros.
 
-Deixa-me dizer-te uma coisa: o teu pai estava errado. Mas não foi um vilão. Foi apenas vítima de outros pais que também só lhe batiam palmas set tivesse um troféu nas mãos, ou o diploma da quarta classe sem nódoas.
+Deixa-me dizer-te uma coisa: o teu pai estava errado. Mas não foi um vilão. Foi apenas vítima de outros pais que também só lhe batiam palmas se tivesse um troféu nas mãos.
 
 Por isso, pára de correr. Descalça essas chuteiras invisíveis.
 
