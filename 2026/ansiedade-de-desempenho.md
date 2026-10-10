@@ -1,6 +1,6 @@
 # Ansiedade de Desempenho
 
-Tu eras pequenino. Tinhas os joelhos esfolados e os olhos cheios de fome. Não de comida. Não de brinquedos. Fome daquele olhar. Do olhar dele. Da mão pesada e morna a pousar no teu ombro a dizer qualquer coisa simples que te salvasse: *tu és o meu rapaz, basta existires para eu me orgulhar de ti.*
+Tu eras pequenino. Tinhas os joelhos esfolados e os olhos cheios de fome. Não de comida. Não de brinquedos. Fome daquele olhar. Do olhar dele. Da sua mão pesada e morna a pousar no teu ombro com as palavras: *tu és o meu rapaz, basta existires para eu me orgulhar de ti.*
 
 Mas não havia nada. Havia o silêncio. Aquele silêncio que os pais constroem quando não sabem como descer da montanha da sua própria rigidez. Uma casa cheia de ecos e vazia de aplausos. Até que veio o dia.
 
@@ -8,7 +8,7 @@ O campo de terra batida. As chuteiras apertadas a magoar os dedos. O pó a entra
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/ansiedade-de-desmpenho-1.jpg)
 
-Pela primeira vez na tua vida inteira, ele levantou-se. Ele sorriu. Ele bateu as palmas com tanta força que parecia que o mundo recomeçava ali. No fim, colocou-te a mão na cabeça, olhou-te nos olhos e disse: *Assim, sim. Hoje tiveste valor.*
+Pela primeira vez na tua vida, ele levantou-se. Ele sorriu. Ele bateu as palmas com tanta força que parecia que o mundo recomeçava ali. No fim, colocou-te a mão na cabeça, olhou-te nos olhos e disse: *Assim, sim. Hoje tiveste valor.*
 
 "Hoje". Repara bem no pormenor: _hoje_.
 
@@ -23,7 +23,7 @@ Chamam-lhe "Ansiedade de Desempenho", um nome pomposo escolhido por uma comissã
 
 Estás exausto porque corres, todos os dias, uma maratona sem fim. O teu peito aperta, o ar falta, e tu continuas a exigir a ti próprio a perfeição. A perfeição que julgas ser o preço da entrada no coração dos outros.
 
-Deixa-me dizer-te uma coisa: o teu pai estava errado. Não por ser um vilão. Mas por ter sido vítima de pais que também só o abraçavam se ele tivesse um troféu nas mãos.
+Deixa-me dizer-te uma coisa: o teu pai estava errado. Não por ser um vilão. Mas por ter sido vítima do mesmo veneno. Os pais dele só o abraçavam se tivesse um troféu nas mãos.
 
 Por isso, pára de correr. Descalça essas chuteiras invisíveis.
 
@@ -31,7 +31,7 @@ Tu tens valor quando vences, mas tens exatamente o mesmo valor quando cais no ch
 
 Falha. Por favor, falha. Erra de propósito, só para veres que o teto não desaba por causa disso. E depois, respira fundo.
 
-Olha para ti e diz o que aquele homem nunca soube dizer: *Amo-te. Mesmo que percas tudo, amo-te. Porque tu não és o que fazes; tu és o milagre de estares aqui.*
+Olha para ti e diz o que aquele homem nunca te soube dizer: *Amo-te. Mesmo que percas tudo, amo-te. Porque tu não és o que fazes; tu és o milagre de estares aqui.*
 
 E se por acaso tiveres filhos, não lhes dês o mesmo veneno. Lembra-te que o amor **<u>nunca</u>** devia ser uma medalha. 
 
