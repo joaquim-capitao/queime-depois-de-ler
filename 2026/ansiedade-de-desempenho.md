@@ -36,7 +36,9 @@ Falha. Por favor, falha. Erra de propósito, só para veres que o teto não desa
 
 Olha para ti e diz o que aquele homem nunca soube dizer: *Amo-te. Mesmo que percas tudo, amo-te. Porque tu não és o que fazes; tu és o milagre de estares aqui.*
 
-O amor nunca devia ser uma medalha. Nunca.
+E tu que és pai, lembra-te sempre disto: o amor **nunca** devia ser uma medalha. 
+
+Nunca.
 
 ---
 
