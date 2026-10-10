@@ -23,13 +23,13 @@ Chamam-lhe "Ansiedade de Desempenho". Uma comissão de especialistas, de bata br
 
 Estás exausto porque corres uma maratona sem fim. O teu peito aperta, o ar falta, e tu continuas a exigir a ti próprio a perfeição. A perfeição que julgas ser o preço da entrada no coração dos outros.
 
-Deixa-me dizer-te uma coisa: o teu pai estava errado. Não por ser um vilão. Mas por ter sido vítima de outros pais que também só lhe batiam palmas se tivesse um troféu nas mãos.
+Deixa-me dizer-te uma coisa: o teu pai estava errado. Não por ser um vilão. Mas por ter sido vítima de outros pais que também só o abraçavam se ele tivesse um troféu nas mãos.
 
 Por isso, pára de correr. Descalça essas chuteiras invisíveis.
 
 Tu tens valor quando vences, mas tens exatamente o mesmo valor quando cais no chão. O teu coração bate com a mesma beleza quando acertas e quando fazes a maior asneira do ano. Não precisas de merecer o ar que respiras. Não precisas de ser o melhor do departamento para teres direito à ternura.
 
-Falha. Por favor, falha. Erra de propósito, só para veres que o teto não desaba. E depois, respira fundo.
+Falha. Por favor, falha. Erra de propósito, só para veres que o teto não desaba por causa disso. E depois, respira fundo.
 
 Olha para ti e diz o que aquele homem nunca soube dizer: *Amo-te. Mesmo que percas tudo, amo-te. Porque tu não és o que fazes; tu és o milagre de estares aqui.*
 
