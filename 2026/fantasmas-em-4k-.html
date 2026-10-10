@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infelizes para Sempre</title>
+  
+  <!-- Importação da fonte Ubuntu via Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+  <style>
+    /* === Configurações Globais === */
+    body {
+      font-family: "Ubuntu", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.75;
+      /* === Novo Esquema de Cores === */
+      color: #ebf2bf; /* Texto claro (quase branco) */
+      background-color: #1a1d2d; /* Fundo azul-petróleo escuro */
+      /* ============================= */
+      margin: 0;
+      padding: 2rem 1rem;
+    }
+
+    article {
+      max-width: 680px;
+      margin: 0 auto;
+      /* O fundo do artigo agora é transparente para assumir o fundo do body */
+      background: transparent;
+      padding: 2.5rem;
+      border-radius: 8px;
+      /* Sombra mais suave contra o fundo escuro */
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      /* === Novo Esquema de Cores === */
+      color: #ff8c00; /* Título laranja */
+      /* ============================= */
+      margin-bottom: 1.5rem;
+      line-height: 1.25;
+      font-weight: 700;
+    }
+
+    p {
+      margin-bottom: 1.25rem;
+      font-size: 1.3rem;
+      text-align: justify;
+      hyphens: auto;
+      -webkit-hyphens: auto;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+      display: block;
+      margin: 2rem auto;
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      /* Linha horizontal escura para combinar com o tema */
+      background: #33395c;
+      margin: 2.5rem 0 1.5rem;
+    }
+
+    .signature {
+      text-align: right;
+      color: #8899ac; /* Cor da assinatura mais suave */
+      font-size: 1.2rem;
+      line-height: 1.4;
+    }
+
+    /* === Estilo da palavra com popup (mantido) === */
+    .termo-com-nota {
+      position: relative;
+      cursor: pointer;
+      /* Cor do link ajustada para o tema escuro */
+      color: #a8cdf7;
+      text-decoration: underline dotted #4fa1ff;
+      font-weight: 600;
+      display: inline-block;
+    }
+
+    .termo-com-nota .popup-nota {
+      visibility: hidden;
+      opacity: 0;
+      position: absolute;
+      bottom: 130%;
+      left: 50%;
+      transform: translateX(-50%) translateY(4px);
+      width: 220px;
+      /* Fundo mais escuro para o popup */
+      background-color: #0d1117;
+      color: #ffffff;
+      text-align: center;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: normal;
+      line-height: 1.4;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+      z-index: 100;
+      transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+      pointer-events: none;
+    }
+
+    .termo-com-nota .popup-nota::after {
+      content: "";
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      margin-left: -6px;
+      border-width: 6px;
+      border-style: solid;
+      border-color: #0d1117 transparent transparent transparent;
+    }
+
+    .termo-com-nota:hover .popup-nota,
+    .termo-com-nota:focus .popup-nota {
+      visibility: visible;
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    /* === Botão Índice (mantido) === */
+    .indice-wrapper {
+      display: flex;
+      justify-content: center;
+      margin-top: 2.5rem;
+    }
+
+    .btn-indice {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      /* Fundo do botão ajustado para o tema escuro */
+      background-color: #0d1117;
+      color: #e5e7eb;
+      text-decoration: none;
+      padding: 10px 18px 8px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+      transition: transform 0.15s ease, background-color 0.2s ease;
+      min-width: 68px;
+    }
+
+    .btn-indice:hover {
+      background-color: #1a222e;
+      transform: translateY(-2px);
+    }
+
+    .btn-indice .icone-casa {
+      font-size: 1.85rem;
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+
+    .btn-indice .texto-indice {
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #e0e3eb;
+    }
+
+    /* === Ajustes para Telemóvel / Ecrãs Pequenos === */
+    @media (max-width: 600px) {
+      body {
+        padding: 1rem 0.5rem;
+      }
+
+      article {
+        padding: 1.25rem 0.75rem;
+      }
+
+      h1 {
+        font-size: 1.9rem;
+      }
+
+      p {
+        font-size: 1.15rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+    <main class="container">
+        <article>
+            <h1 id="fantasmas-em-4k">Fantasmas em 4K</h1>
+
+<p>O Carlos entrou novamente no seu escritório improvisado e trancou a porta. Depois, não se ouviu mais nada. Nem passos, nem páginas a virar; apenas alguns cliques discretos no rato. Pela frincha inferior da porta, escorria uma luz azulada e trémula, como a luz de um aquário.</p>
+
+<p>A Júlia, do lado de fora, sabia perfeitamente o que o marido andava a fazer, mas fingia não saber. Nem precisava de espreitar pelo buraco da fechadura, porque há coisas que uma mulher simplesmente sabe.</p>
+
+<p><img src="https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/fantasmas-em-4k.jpg" alt="" /></p>
+
+<p>Ela sentia uma humilhação que não dava para gritar nem atirar pratos ao chão. Não havia sequer uma rival a quem odiar, puxar os cabelos ou rogar uma praga. A Júlia sabia que estava a competir com o <strong>nada</strong>. E o nada tem a vantagem desleal de nunca ter celulite, nem as estrias de quem já carregou três filhos na barriga.</p>
+
+<p>Lá dentro, consumada a cerimónia solitária, o Carlos apagou o histórico de navegação com o mesmo zelo de um assassino a limpar as impressões digitais. Baixou a tampa do portátil e saiu com os olhos vermelhos e as mãos enfiadas nos bolsos, com o ar de quem esteve apenas a ver passar um comboio. Cruzou o olhar com a Júlia, mas nem a viu. Na cabeça dele persistiam imagens soltas de silhuetas, como manchas de vinho tinto sobre uma toalha de linho.</p>
+
+<p>Ele disse a si mesmo: <em>“Não fiz mal a ninguém; foi só para aliviar o stress.”</em>  Mas o problema é que, agora, já não sabia viver no mundo real.</p>
+
+<p>Para o Carlos, a realidade tornou-se uma maçada. As pessoas reais passaram a ter defeitos imperdoáveis: joelhos que estalam, pés frios, tosse, soluços inoportunos… A intimidade de carne e osso tinha perdido a graça, pois exigia que duas pessoas se apresentassem com os seus corpos flácidos, cicatrizes, tiques nervosos e a terrível possibilidade de falhar.</p>
+
+<p>Aos olhos do Carlos, o monitor era um amante mais dócil: entregava tudo e não exigia nada.</p>
+
+<p>Naquele mundo de fantasia, desfilava um carrossel infinito de corpos esculpidos em silicone e pós-produção, sem gripes, sem rugas de preocupação, sem nódoas negras, sem cheiro a suor e sem aquela curva que as costas ganham depois de trinta anos a carregar sacos de compras. Só havia “deusas” que nunca tiveram de engomar uma camisa nem desentupir um ralo, dotadas de uma elasticidade que faria inveja a qualquer acrobata do Circo Cardinali.</p>
+
+<p>Habituado a esse fogo-de-artifício digital, o Carlos chegou à cama e o corpo desligou-se. Ficou ali como uma espécie de eletrodoméstico avariado. Por hábito ou remorso, a mão do Carlos ainda deslizou sobre o ombro da mulher. Mas não havia desejo, nem ternura. Havia apenas uma mera geolocalização. De facto, ele procurava a textura polida e sem costuras daqueles fantasmas em 4K.</p>
+
+<p>No silêncio do quarto, a Júlia ouviu a respiração dele a abrandar. Então, ajeitou-lhe o lençol com carinho e chorou por dentro. Doía-lhe a solidão de estar ali, cheia de amor para dar, com sangue a correr nas veias, deitada ao lado de um homem que preferia abraçar o vento.</p>
+
+   <hr>
+
+    <div class="signature">Joaquim Capitão</div>
+    <div class="signature">25/10/2026</div>
+
+    <!-- Botão de retorno ao índice -->
+    <div class="indice-wrapper">
+      <a href="https://joaquim-capitao.github.io/queime-depois-de-ler/" class="btn-indice" title="Voltar ao Índice">
+        <span class="icone-casa">🏡</span>
+        <span class="texto-indice">ÍNDICE</span>
+      </a>
+    </div>
+  </article>
+
+</body>
+</html>
