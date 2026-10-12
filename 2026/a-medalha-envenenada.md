@@ -23,7 +23,7 @@ Chamam-lhe **Ansiedade de Desempenho**, um nome pomposo escolhido por uma comiss
 
 Estás exausto porque corres, todos os dias, uma maratona sem fim. O teu peito aperta, o ar falta, e tu continuas a exigir a ti próprio a perfeição. A perfeição que julgas ser o preço da entrada no coração dos outros.
 
-Deixa-me dizer-te uma coisa: o teu pai estava errado. Não por ser um vilão. Mas por ter sido vítima do mesmo veneno. Os pais dele só o abraçavam se tivesse um troféu nas mãos. E os pais dos pais fizeram a mesma coisa, numa *matrioska* infinita de ansiedade.
+Deixa-me dizer-te uma coisa: o teu pai estava errado. Não por ser um vilão. Mas por ter sido vítima do mesmo veneno. Os pais dele só o abraçavam se tivesse um troféu nas mãos. E os pais dos pais fizeram a mesma coisa, numa *matrioska* infinita de gerações ansiosas.
 
 Por isso, pára de correr. Descalça essas chuteiras invisíveis.
 
@@ -31,7 +31,7 @@ Tu tens valor quando vences, mas tens exatamente o mesmo valor quando cais no ch
 
 Falha. Por favor, falha. Erra de propósito, só para veres que o teto não desaba por causa disso. E depois, respira fundo.
 
-Olha para ti e diz o que aquele homem nunca te soube dizer: *"Amo-te. Mesmo que percas tudo, amo-te. Porque tu não és o que fazes; tu és o milagre de estares aqui."*
+Olha para ti e diz o que aquele homem sentia, mas nunca teve coragem de te dizer: *"Amo-te. Mesmo que percas tudo, amo-te. Porque tu não és o que fazes; tu és o milagre de estares aqui."*
 
 E se por acaso tiveres filhos, não lhes dês o mesmo veneno. Lembra-te de que o amor nunca devia ser uma medalha. 
 
