@@ -24,15 +24,13 @@ Portanto, agora, quando vejo que é preciso salvar uma *vespa*, faço-o rapidame
 
 E quando não é possível evitar a ferroada, o melhor é sacudir o veneno, passar um bocadinho de gelo no orgulho e continuar a caminhar ao sol da Caparica. 
 
-Afinal, mais vale levar uma picada de vez em quando do que deixar que a vida nos transforme num inseto.
-
+Afinal, mais vale levar uma picada do que permitir que a vida nos transforme num inseto raivoso.
 
 ---
 
 <div align="Right">Joaquim Capitão</div>
-<div align="Right">30/09/2026</div>
+<div align="Right">18/10/2026</div>
 
-#queime-depois-de-ler 
 
 
 
