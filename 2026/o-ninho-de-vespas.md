@@ -24,7 +24,7 @@ Portanto, agora, quando vejo que é preciso salvar uma *vespa*, faço-o rapidame
 
 E quando não é possível evitar a ferroada, o melhor é sacudir o veneno, passar um bocadinho de gelo no orgulho e continuar a caminhar ao sol da Caparica. 
 
-Afinal, mais vale levar uma picada e continuar a fazer o bem do que transformar-nos nós próprios em *vespas*.
+Afinal, mais vale levar uma picada de vez em quando do que deixar que a vida nos transforme num inseto.
 
 
 ---
