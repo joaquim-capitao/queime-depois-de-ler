@@ -10,7 +10,9 @@ Na minha mente de criança, achei que aquilo era uma crueldade intolerável. Ent
 
 Perante aquele ato heroico, eu esperava, no mínimo, um zumbido de agradecimento ou uma pequena vénia no ar. Mas, surpreendentemente, uma das vespas voou em direção à minha mão e deu-me uma ferroada.
 
-Chorei imenso, não apenas pela dor aguda na pele, mas pela dor na alma, essa zona onde guardamos as nossas ilusões mais ridículas. Aquela vespa não quis saber do meu heroísmo. Eu salvei-a de uma morte horrível por asfixia, mas ela retribuiu com uma picada cheia de veneno. Ingrata!
+Chorei imenso, não apenas pela dor aguda na pele, mas pela dor na alma, essa zona onde guardamos as nossas ilusões mais ridículas. Aquela vespa não quis saber do meu heroísmo. Eu salvei-a de uma morte horrível por asfixia, mas ela retribuiu com uma picada cheia de veneno. 
+
+Ingrata!
 
 Anos mais tarde, descobri que o mundo é exatamente como o tal muro da Caparica. **O mundo é um ninho de vespas.** E as picadas que mais doem são as que recebemos depois de fazermos um ato de bondade.
 
@@ -20,11 +22,11 @@ A vespa não me picou porque me odiava. A vespa picou-me porque é uma vespa. É
 
 Depois de muitas ferroadas, a vida já me ensinou a melhor maneira de lidar com a ingratidão. E é tão simples que até parece um insulto: **Faz o bem porque a tua consciência assim o dita, não porque esperas reconhecimento e gratidão.**
 
-Portanto, agora, quando vejo que é preciso salvar uma *vespa*, faço-o rapidamente. Mas, em vez de ficar à espera do "obrigado", ponho-me a milhas! Se, entretanto, a *vespa* enviar um postal a agradecer, muito bem. Se não houver gratidão, paciência. 
+Portanto, agora, quando vejo que é preciso salvar uma *vespa*, faço-o rapidamente. Mas, em vez de ficar à espera do "obrigado", ponho-me a milhas! Se, entretanto, a *vespa* enviar um postal a agradecer, muito bem. Mas não conto com isso.
 
 E quando não é possível evitar a ferroada, o melhor é sacudir o veneno, passar um bocadinho de gelo no orgulho e continuar a caminhar ao sol da Caparica. 
 
-Afinal, mais vale levar uma picada do que permitir que a vida nos transforme num inseto raivoso.
+Afinal, mais vale levar uma picada do que permitir que a vida nos transforme também num inseto raivoso.
 
 ---
 
