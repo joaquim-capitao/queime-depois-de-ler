@@ -2,11 +2,11 @@
 
 Certa vez, na Costa de Caparica, num daqueles verões compridos da minha infância, deparei-me com um muro velho, gretado e inteiramente habitado por vespas.
 
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/o-ninho-de-vespas.jpg)
+
 Ora, as vespas não estavam a pedir nada a ninguém. Limitavam-se a existir com aquela antipatia amarela e preta que lhes é própria. Até que um homem, um daqueles adultos insensíveis, pegou num jornal velho, rasgou-o em tiras e tapou, um por um, todos os buraquinhos do muro.
 
 Na minha mente de criança, achei que aquilo era uma crueldade intolerável. Então, esperei que o homem virasse as costas e avancei, de peito feito, armado em *Clark Kent* da Caparica. Fui até ao muro e destapei um dos buracos para libertar os oprimidos! 
-
-![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/o-ninho-de-vespas.jpg)
 
 Perante aquele ato heroico, eu esperava, no mínimo, um zumbido de agradecimento ou uma pequena vénia no ar. Mas, surpreendentemente, uma das vespas voou em direção à minha mão e deu-me uma ferroada.
 
