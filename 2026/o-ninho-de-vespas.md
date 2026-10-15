@@ -2,7 +2,7 @@
 
 Certa vez, na Costa de Caparica, num daqueles verões compridos da minha infância, deparei-me com um muro velho, gretado e inteiramente habitado por vespas.
 
-![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/o-ninho-de-vespas.jpg)
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/o-ninho-de-vespas-01.jpg)
 
 Ora, as vespas não estavam a pedir nada a ninguém. Limitavam-se a existir com aquela antipatia amarela e preta que lhes é própria. Até que um homem, um daqueles adultos insensíveis, pegou num jornal velho, rasgou-o em tiras e tapou, um por um, todos os buraquinhos do muro.
 
