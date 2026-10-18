@@ -8,7 +8,7 @@ Ora, as vespas não estavam a pedir nada a ninguém. Limitavam-se a existir com 
 
 Na minha mente de criança, achei que aquilo era uma crueldade intolerável. Então, esperei que o homem virasse as costas e avancei, de peito feito, armado em Clark Kent da Caparica. Fui até ao muro e comecei a destapar os buracos para libertar as oprimidas! 
 
-Perante aquele ato heroico, eu esperava, no mínimo, um zumbido de agradecimento ou uma pequena vénia no ar. Mas, surpreendentemente, uma das vespas voou na minha direção e espetou-me uma ferroada na mão.
+Perante aquele ato heroico, eu esperava, no mínimo, um zumbido de agradecimento ou uma pequena vénia no ar. Mas, surpreendentemente, uma das vespas voou na minha direção e deu-me uma ferroada na mão.
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/o-ninho-de-vespas-01.jpg)
 
@@ -28,7 +28,7 @@ Portanto, agora, quando vejo que é preciso salvar uma *vespa*, faço-o rapidame
 
 E quando não é possível evitar a ferroada, o melhor é sacudir o veneno, passar um bocadinho de gelo no orgulho e continuar a caminhar ao sol da Caparica.
 
-No fim de contas, pior do que ser picado por uma vespa raivosa é transformarmo-nos numa delas.
+No fim de contas, pior do que ser picado por uma vespa é transformarmo-nos numa delas.
 
 ---
 
