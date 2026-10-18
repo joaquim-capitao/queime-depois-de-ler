@@ -28,7 +28,7 @@ Portanto, agora, quando vejo que é preciso salvar uma *vespa*, faço-o rapidame
 
 E quando não é possível evitar a ferroada, o melhor é sacudir o veneno, passar um bocadinho de gelo no orgulho e continuar a caminhar ao sol da Caparica.
 
-No fim de contas, pior do que ser picado por uma vespa é transformarmo-nos numa delas.
+No fim de contas, pior do que sermos picados por uma vespa é transformarmo-nos numa delas.
 
 ---
 
