@@ -27,8 +27,5 @@ Durante as próximas horas, estarei ocupado a olhar para o ecrã, enquanto aguar
 ---
 
 <div align="right">Joaquim Capitão</div>
-<div align="right">16/10/2026</div>
+<div align="right">25/10/2026</div>
 
-
-
-#queime-depois-de-ler 
