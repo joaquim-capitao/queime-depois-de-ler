@@ -6,13 +6,13 @@ Para repor a ordem no universo, a Raquel estende a toalha na areia da praia e pe
 
 A poucos quilómetros dali, encontramos o **Mateus**. O Mateus não foi agraciado pela lotaria genética da beleza, mas descobriu cedo o truque dos feios: fazer rir. 
 
-Sempre que inventa uma piada genial, o Mateus atira-a para as redes sociais. Minutos depois, chovem os comentários: *"Só tu!", "Não aguento, ahahah"*. E ele dorme descansado, dopado pela doce ilusão de que o mundo o ama incondicionalmente pelo seu intelecto brilhante.
+Sempre que inventa uma piada genial, o Mateus atira-a para o Facebook. Minutos depois, chovem os comentários: *"Só tu!", "Não aguento, ahahah"*. E ele dorme descansado, dopado pela doce ilusão de que o mundo o ama incondicionalmente pelo seu intelecto brilhante.
 
 Por fim, temos o **Santo**. 
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/1792494403263.jpg)
 
-O Santo nunca publica nada. A sua foto de perfil é a mesma desde 2010: a imagem desfocada de um pôr do sol. Ele não perde tempo com futilidades. Prefere policiar as redes sociais em busca de pecados que comprovem a sua superioridade moral. *"Olha para esta, quase nua na praia, que desespero por atenção!"* ou *"Lá está ele armado em humorista de vão de escada..."*.
+O Santo nunca publica nada. A sua foto de perfil é a mesma desde 2010: a imagem desfocada de um pôr do sol. Ele não perde tempo com futilidades. Prefere policiar as redes sociais em busca de pecados que comprovem a sua superioridade moral. *"Olha para esta, quase nua na praia, que desespero por atenção!"* ou *"Lá está este palerma, novamente, armado em humorista..."*.
 
 O que o Santo finge não perceber é que o desejo de aprovação nunca foi um exclusivo de quem usa redes sociais na Internet. Desde sempre, todos nós mendigamos validação. Rigorosamente todos. A única diferença reside no produto que estamos a tentar vender no mercado do elogio. 
 
