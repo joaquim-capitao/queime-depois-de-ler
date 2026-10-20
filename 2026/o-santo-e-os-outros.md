@@ -4,7 +4,7 @@ A **Raquel** sabe perfeitamente que é bonita. Desde a primária que lhe sussurr
 
 Para repor a ordem no universo, a Raquel estende a toalha na areia da praia e pede a uma amiga para lhe tirar uma fotografia. Adota uma pose milimetricamente ensaiada, encolhe a barriga e _voilà_. Meia dúzia de filtros depois, a obra de arte está no Instagram. Então, a cada *like*, a Raquel esboça um sorriso de alívio, pois, felizmente, o mundo não se esqueceu de que ela é linda.
 
-A cem quilómetros dali, encontramos o **Mateus**. O Mateus não foi agraciado pela lotaria genética da beleza, mas descobriu cedo o truque dos feios: fazer rir. 
+A poucos quilómetros dali, encontramos o **Mateus**. O Mateus não foi agraciado pela lotaria genética da beleza, mas descobriu cedo o truque dos feios: fazer rir. 
 
 Sempre que inventa uma piada genial, o Mateus atira-a para as redes sociais. Minutos depois, chovem os comentários: *"Só tu!", "Não aguento, ahahah"*. E ele dorme descansado, dopado pela doce ilusão de que o mundo o ama incondicionalmente pelo seu intelecto brilhante.
 
