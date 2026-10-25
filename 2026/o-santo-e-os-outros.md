@@ -14,7 +14,7 @@ Por fim, temos o **Santo**.
 
 O Santo nunca publica nada. A sua foto de perfil mantém-se inalterada desde 2010: uma imagem desfocada de um pôr do sol. Ele não se rebaixa a essas futilidades. Tem coisas mais importantes para fazer, como policiar as redes sociais à procura de pecados que confirmem a sua própria superioridade moral.
 
-"Olha para esta, quase nua na praia. Que desespero por atenção!" Ou então: "Lá está este palerma, outra vez armado em humorista…"
+*"Olha para esta, quase nua na praia. Que desespero por atenção!"* Ou então: *"Lá está este palerma, outra vez armado em humorista…"*
 
 O que o Santo finge não perceber é que, se a ostentação é um pecado, o julgamento alheio também o é. Além disso, todos mendigamos validação. Rigorosamente todos. A única diferença está no produto que cada um tenta vender no mercado do elogio.
 
