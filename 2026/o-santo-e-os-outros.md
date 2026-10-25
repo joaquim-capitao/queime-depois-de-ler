@@ -2,7 +2,7 @@
 
 A **Raquel** sabe perfeitamente que é bonita. Desde a primária que lhe sussurram ao ouvido que foi abençoada com uns lindos olhos azuis. O problema é que já passou mais de vinte e quatro horas desde a última vez que recebeu um elogio, o que lhe parece uma eternidade. 
 
-Para repor a ordem no universo, a Raquel estende a toalha na areia da praia e pede a uma amiga para lhe tirar uma fotografia. Adota uma pose milimetricamente ensaiada, encolhe a barriga e _voilà_. Meia dúzia de filtros depois, a obra de arte está no Instagram. Então, a cada *like*, a Raquel esboça um sorriso de alívio. Felizmente, o mundo ainda não se esqueceu de que ela é linda.
+Para repor a ordem no universo, a Raquel estende a toalha na areia da praia e pede a uma amiga para lhe tirar uma fotografia. Adota uma pose milimetricamente ensaiada, encolhe a barriga e _voilà_. Meia dúzia de filtros depois, a obra de arte está no Instagram. Então, a cada *like*, a Raquel esboça um sorriso de alívio. Aparentemente, o mundo ainda não se esqueceu de que ela é linda.
 
 A poucos quilómetros dali, encontramos o **Mateus**. O Mateus não foi agraciado pela lotaria genética da beleza, mas descobriu cedo o truque dos feios: fazer rir. 
 
@@ -12,7 +12,7 @@ Por fim, temos o **Santo**.
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/1792494403263.jpg)
 
-O Santo nunca publica nada. A sua foto de perfil é a mesma desde 2010: a imagem desfocada de um pôr do sol. Ele não perde tempo com essas futilidades. Prefere policiar as redes sociais em busca de pecados que comprovem a sua superioridade. *"Olha para esta, quase nua na praia, que desespero por atenção!"* ou *"Lá está este palerma, novamente, armado em humorista..."*.
+O Santo nunca publica nada. A sua foto de perfil é a mesma desde 2010: a imagem desfocada de um pôr do sol. Ele não perde tempo com esse tipo de futilidades. Prefere policiar as redes sociais em busca de pecados que comprovem a sua superioridade. *"Olha para esta, quase nua na praia, que desespero por atenção!"* ou *"Lá está este palerma, novamente, armado em humorista..."*.
 
 O que o Santo finge não perceber é que o desejo de aprovação nunca foi um exclusivo de quem usa redes sociais. Desde sempre, todos nós mendigamos validação. Rigorosamente todos. A única diferença reside no produto que estamos a tentar vender no mercado do elogio. 
 
