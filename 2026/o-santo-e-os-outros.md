@@ -16,7 +16,7 @@ O Santo nunca publica nada. A sua foto de perfil mantém-se inalterada desde 201
 
 "Olha para esta, quase nua na praia. Que desespero por atenção!" Ou então: "Lá está este palerma, outra vez armado em humorista…"
 
-O que o Santo finge não perceber é que o desejo de aprovação nunca foi um exclusivo de quem usa redes sociais. Desde sempre, todos nós mendigamos validação. Rigorosamente todos. A única diferença reside no produto que estamos a tentar vender no mercado do elogio. 
+O que o Santo finge não perceber é que, se a ostentação é um pecado, o julgamento alheio também o é. Além disso, todos mendigamos validação. Rigorosamente todos. A única diferença está no produto que cada um tenta vender no mercado do elogio.
 
 É certo que o Santo não publica fotografias em tronco nu (um ato de pura caridade visual para a humanidade, diga-se). Optou, antes, por cultivar uma aura de monge eremita do século XXI. No entanto, quando alguém lhe diz *"admiro-te imenso porque não te exibes nas redes sociais"*, o seu peito inflama-se de vaidade. Aquele elogio equivale a ter setecentos *likes* numa foto de sunga em Ibiza.
 
