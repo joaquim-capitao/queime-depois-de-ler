@@ -2,7 +2,7 @@
 
 A **Raquel** sabe perfeitamente que é bonita. Desde a primária que lhe sussurram ao ouvido que foi abençoada com uns lindos olhos azuis. O problema é que já passou mais de vinte e quatro horas desde a última vez que recebeu um elogio, o que lhe parece uma eternidade. 
 
-Para repor a ordem no universo, a Raquel estende a toalha na areia da praia e pede a uma amiga para lhe tirar uma fotografia. Adota uma pose milimetricamente ensaiada, encolhe a barriga e _voilà_. Meia dúzia de filtros depois, a obra de arte está no Instagram. Então, a cada *like*, a Raquel esboça um sorriso de alívio. Aparentemente, o mundo ainda não se esqueceu de que ela é linda.
+Para repor a ordem no universo, a Raquel estende a toalha na areia da praia e pede a uma amiga para lhe tirar uma fotografia. Adota uma pose milimetricamente ensaiada, encolhe a barriga e _voilà_. Meia dúzia de filtros depois, a obra de arte está no Instagram. Então, a cada *like*, a Raquel sorri de alívio, pois o mundo ainda não se esqueceu de que ela é linda.
 
 A poucos quilómetros dali, encontramos o **Mateus**. O Mateus não foi agraciado pela lotaria genética da beleza, mas descobriu cedo o truque dos feios: fazer rir. 
 
