@@ -12,7 +12,9 @@ Por fim, temos o **Santo**.
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/1792494403263.jpg)
 
-O Santo nunca publica nada. A sua foto de perfil é a mesma desde 2010: a imagem desfocada de um pôr do sol. Ele não perde tempo com esse tipo de futilidades. Prefere policiar as redes sociais em busca de pecados que comprovem a sua superioridade. *"Olha para esta, quase nua na praia, que desespero por atenção!"* ou *"Lá está este palerma, novamente, armado em humorista..."*.
+O Santo nunca publica nada. A sua foto de perfil mantém-se inalterada desde 2010: uma imagem desfocada de um pôr do sol. Ele não se rebaixa a essas futilidades. Tem coisas mais importantes para fazer, como policiar as redes sociais à procura de pecados que confirmem a sua própria superioridade moral.
+
+"Olha para esta, quase nua na praia. Que desespero por atenção!" Ou então: "Lá está este palerma, outra vez armado em humorista…"
 
 O que o Santo finge não perceber é que o desejo de aprovação nunca foi um exclusivo de quem usa redes sociais. Desde sempre, todos nós mendigamos validação. Rigorosamente todos. A única diferença reside no produto que estamos a tentar vender no mercado do elogio. 
 
