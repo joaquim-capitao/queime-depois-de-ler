@@ -1,6 +1,6 @@
 # A Oração
 
-Esta semana, uma senhora disse-me que costuma orar a Deus com frequência, pois isso a ajuda a sentir-se bem. E eu acreditei nela. Afinal, a oração pode, de facto, proporcionar paz interior e alívio emocional. 
+Esta semana, uma senhora contou-me que costuma orar a Deus com frequência, porque isso a faz sentir-se melhor. E eu compreendi o que ela queria dizer, pois a oração pode realmente trazer-nos paz e conforto emocional.
 
 Mas aquela conversa despertou em mim uma questão importante: **será que compreendemos verdadeiramente o que é a oração e o que ela não é?**
 
@@ -37,11 +37,7 @@ Por isso, fala com o teu Criador, com sinceridade, sem fingimentos, e nunca vais
 ---
 
 <div align="Right">Joaquim Capitão</div>
-<div align="Right">21/09/2026</div>
-
-#queime-depois-de-ler 
-
-
+<div align="Right">01/11/2026</div>
 
 
 
