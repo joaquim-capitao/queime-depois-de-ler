@@ -1,6 +1,6 @@
 # A Oração
 
-Esta semana, uma pessoa disse-me que ora a Deus com frequência porque isso lhe dá paz interior. E eu acreditei nela, pois sei que a oração pode realmente trazer-nos conforto emocional.
+Esta semana, uma pessoa disse-me que ora a Deus com frequência porque isso lhe dá paz interior. E eu concordei, pois sei que a oração pode realmente trazer-nos conforto emocional.
 
 Mas aquela conversa despertou em mim uma questão importante: **será que compreendemos verdadeiramente o que é a oração?**
 
@@ -24,7 +24,7 @@ Por isso, fecha os olhos e deixa sair o que tens dentro de ti. Grita, se for pre
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/a-oracao.jpg)
 
-Há quem espere uma resposta espetacular com efeitos especiais de uma superprodução de Hollywood. 
+Depois de orar, há quem espere uma resposta espetacular com efeitos especiais de uma superprodução de Hollywood. 
 
 Mas o Criador prefere responder com a subtileza de quem não precisa de provar nada a ninguém. Por isso, muitas vezes, responde na voz de um amigo que te liga à hora mais improvável e te diz exatamente o que precisas de ouvir.
 
