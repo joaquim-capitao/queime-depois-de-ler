@@ -1,8 +1,8 @@
 # A Oração
 
-Esta semana, uma senhora contou-me que ora a Deus com frequência porque isso lhe dá paz interior. E eu acreditei nela, pois sei que a oração pode realmente trazer-nos conforto emocional.
+Esta semana, uma pessoa disse-me que ora a Deus com frequência porque isso lhe dá paz interior. E eu acreditei nela, pois sei que a oração pode realmente trazer-nos conforto emocional.
 
-Mas aquela conversa despertou em mim uma questão importante: **será que compreendemos verdadeiramente o que é a oração e o que ela não é?**
+Mas aquela conversa despertou em mim uma questão importante: **será que compreendemos verdadeiramente o que é a oração?**
 
 Ao contrário do que alguns pensam, a oração não é um banho de espuma, nem um chá de camomila. Não é uma sessão de ioga para quem tem preguiça de esticar os tendões. Também não é uma daquelas aplicações de telemóvel com sons de chuva e de baleias.
 
