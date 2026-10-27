@@ -1,6 +1,8 @@
 # A Oração
 
-Esta semana, uma senhora contou-me que costuma orar a Deus com frequência, porque isso a faz sentir-se melhor. E eu acreditei nela, pois sei que a oração pode realmente trazer-nos paz e conforto emocional.
+![Pilares da Criação](https://aventurasnahistoria.com.br/wp-content/uploads/2024/06/pilares.jpg)
+
+Esta semana, uma senhora contou-me que ora a Deus com frequência porque isso a faz sentir-se bem. E eu acreditei nela, pois sei que a oração pode realmente trazer-nos paz e conforto emocional.
 
 Mas aquela conversa despertou em mim uma questão importante: **será que compreendemos verdadeiramente o que é a oração e o que ela não é?**
 
@@ -12,7 +14,6 @@ A oração não é nada disso.
 
 Orar é ligar diretamente para Aquele que desenhou as nebulosas e que calculou a distância perfeita entre a Terra e o Sol. Orar é falar com Aquele que inventou os teus ossos, as tuas impressões digitais e cada peça do _puzzle_ que compõe o teu corpo.
 
-![Pilares da Criação](https://aventurasnahistoria.com.br/wp-content/uploads/2024/06/pilares.jpg)
 
 A oração contribui para o nosso bem-estar? Sem dúvida. Mas o Criador não precisa que relaxes. Quer que fales com ele como és e como estás, mesmo que te sintas vulnerável, dominado pelo medo ou simplesmente em paz.
 
@@ -20,7 +21,9 @@ E Ele escuta? Sim. Escuta sempre. Escuta como aquele pai que olha para o desenho
 
 Não precisas de usar palavras caras. Também não precisas de fingir que és santo, pois Ele ouviu-te a praguejar quando entornaste o café. Ele sabe quando sentiste inveja, quando odiaste alguém ou desejaste algo que não devias. Ele, o Arquiteto que desenhou a tua massa cinzenta, sabe tudo o que tentas esconder.
 
-Por isso, fecha os olhos e deixa sair o que tens dentro de ti.Grita, se for preciso. Sussurra, se não conseguires fazer mais. Para Ele, a intensidade da tua voz não importa. Não precisas de ser forte diante dele. Só precisas de ser sincero.
+Por isso, fecha os olhos e deixa sair o que tens dentro de ti. Grita, se for preciso. Sussurra, se não conseguires fazer mais. Para Ele, a intensidade da tua voz não importa. Não precisas de ser forte diante dele. Só precisas de ser sincero.
+
+![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/a-oracao.jpg)
 
 Há quem espere uma resposta espetacular com efeitos especiais de uma superprodução de Hollywood. 
 
