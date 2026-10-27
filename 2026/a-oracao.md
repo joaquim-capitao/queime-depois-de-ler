@@ -1,12 +1,12 @@
 # A Oração
 
-Esta semana, uma senhora contou-me que ora a Deus com frequência porque isso a faz sentir-se bem. E eu acreditei nela, pois sei que a oração pode realmente trazer-nos paz e conforto emocional.
+Esta semana, uma senhora contou-me que ora a Deus com frequência porque isso lhe traz bem-estar. E eu acreditei nela, pois sei que a oração pode realmente trazer-nos paz e conforto emocional.
 
 Mas aquela conversa despertou em mim uma questão importante: **será que compreendemos verdadeiramente o que é a oração e o que ela não é?**
 
 Ao contrário do que alguns pensam, a oração não é um banho de espuma, nem um chá de camomila. Não é uma sessão de ioga para quem tem preguiça de esticar os tendões. Também não é uma daquelas aplicações de telemóvel com o som de chuva.
 
-Há quem diga que orar é pedir ajuda ao universo. Mas o universo, embora belo, é composto basicamente por planetas, cometas e outros calhaus que não fazem ideia de quem és.
+Há quem diga que orar é pedir ajuda ao universo. Mas o universo, embora belo, é composto basicamente por planetas, cometas e outros pedregulhos que não fazem ideia de quem és.
 
 A oração não é nada disso. 
 
