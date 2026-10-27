@@ -1,7 +1,5 @@
 # A Oração
 
-![Pilares da Criação](https://aventurasnahistoria.com.br/wp-content/uploads/2024/06/pilares.jpg)
-
 Esta semana, uma senhora contou-me que ora a Deus com frequência porque isso a faz sentir-se bem. E eu acreditei nela, pois sei que a oração pode realmente trazer-nos paz e conforto emocional.
 
 Mas aquela conversa despertou em mim uma questão importante: **será que compreendemos verdadeiramente o que é a oração e o que ela não é?**
@@ -12,8 +10,9 @@ Há quem diga que orar é pedir ajuda ao universo. Mas o universo, embora belo, 
 
 A oração não é nada disso. 
 
-Orar é ligar diretamente para Aquele que desenhou as nebulosas e que calculou a distância perfeita entre a Terra e o Sol. Orar é falar com Aquele que inventou os teus ossos, as tuas impressões digitais e cada peça do _puzzle_ que compõe o teu corpo.
+![Pilares da Criação](https://aventurasnahistoria.com.br/wp-content/uploads/2024/06/pilares.jpg)
 
+Orar é ligar diretamente para Aquele que desenhou as nebulosas e que calculou a distância perfeita entre a Terra e o Sol. Orar é falar com Aquele que inventou os teus ossos, as tuas impressões digitais e cada peça do _puzzle_ que compõe o teu corpo.
 
 A oração contribui para o nosso bem-estar? Sem dúvida. Mas o Criador não precisa que relaxes. Quer que fales com ele como és e como estás, mesmo que te sintas vulnerável, dominado pelo medo ou simplesmente em paz.
 
