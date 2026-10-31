@@ -1,6 +1,6 @@
 # A Oração
 
-Esta semana, uma pessoa disse-me que costuma orar a Deus porque isso lhe dá paz interior. E eu concordei. Realmente, a oração pode trazer-nos conforto emocional.
+Esta semana, uma pessoa disse-me que costuma orar porque isso lhe dá paz interior. E eu concordei. Realmente, a oração pode trazer-nos conforto emocional.
 
 Mas aquela conversa despertou em mim uma questão importante: **será que compreendemos verdadeiramente o que é a oração?**
 
