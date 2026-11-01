@@ -30,9 +30,9 @@ Mas o Criador prefere responder com a subtileza de quem não precisa de provar n
 
 Como é que se explica que uma boca humana, cheia de imperfeições, te dê o remédio certo, na hora certa, para o estrago que tens no íntimo? Não se explica. Acolhe-se.
 
-Depois, existe aquela resposta sem palavras. Sem presença física. É quando tudo continua péssimo à tua volta, mas tu, inexplicavelmente, já não estás a afundar.
+Depois, existe aquela resposta sem palavras. Sem presença física. É quando tudo continua péssimo à tua volta, mas tu já não estás a afundar.
 
-De onde vem isso? Da tua força de vontade? Não sejas convencido! Sabes perfeitamente que o teu depósito estava na reserva, a piscar há imenso tempo. Mas agora, de repente, está cheio outra vez.
+De onde vem isso? Da tua força de vontade? Não sejas convencido! Sabes perfeitamente que o teu depósito de ânimo estava na reserva. Mas agora, inexplicavelmente, está cheio outra vez.
 
 Por isso, fala com o teu Criador, com sinceridade, sem fingimentos, e nunca vais ouvir sinal de impedido.  
 
