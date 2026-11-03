@@ -1,6 +1,6 @@
 # Quando é que te casas?
 
-Na cabeça de algumas pessoas, estar solteiro não é um estado civil, mas uma doença que exige intervenção urgente. É por isso que, entre uma garfada de bacalhau e um golo de vinho, há sempre um parente pronto a disparar: *"Então, e tu? Não arranjas ninguém? Quando é que te casas?"*
+Na cabeça de algumas pessoas, estar solteiro não é um estado civil, mas sim uma doença que exige intervenção urgente. É por isso que, entre uma garfada de bacalhau e um golo de vinho, há sempre um parente pronto a disparar: *"Então, e tu? Não arranjas ninguém? Quando é que te casas?"*
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/casar.jpg)
 
