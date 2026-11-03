@@ -29,6 +29,5 @@ A solteirice não é uma sala de espera. É, muitas vezes, a sabedoria de saber 
 ---
 
 <div align="Right">Joaquim Capitão</div>
- <div align="Right">30/09/2026</div>
+<div align="Right">09/11/2026</div>
 
- #queime-depois-de-ler 
