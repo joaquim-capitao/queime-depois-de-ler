@@ -1,6 +1,6 @@
 # Quando é que arranjas alguém?
 
-Na cabeça de algumas pessoas, estar solteiro não é um estado civil, mas sim uma doença que exige intervenção urgente. É por isso que, na presença de um solteiro, entre uma garfada de bacalhau e um golo de vinho, há sempre um parente pronto a disparar: *"Então, e tu? Quando é que arranjas alguém?"*
+Na cabeça de algumas pessoas, estar solteiro não é um estado civil, mas sim uma doença grave que exige intervenção urgente. É por isso que, na presença de um solteiro, entre uma garfada de bacalhau e um golo de vinho, há sempre um parente pronto a disparar: *"Então, e tu? Quando é que arranjas alguém?"*
 
 Repara na violência da pergunta: *"Quando é que arranjas alguém?"* É o mesmo que dizer: *"Para ti, qualquer criatura desprezível serve. Portanto, resolve isso depressa, porque a tua solidão está a incomodar-me."*
 
