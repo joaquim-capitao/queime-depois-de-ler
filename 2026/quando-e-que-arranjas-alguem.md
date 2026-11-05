@@ -6,9 +6,9 @@ Repara na violência da pergunta: *"Quando é que arranjas alguém?"* É o mesmo
 
 Contudo, antes de fazerem perguntas parvas, as pessoas deviam refletir, ainda que por breves instantes, sobre as delícias da vida a solo.
 
-O solteiro chega a casa e põe a tocar a música que lhe apetece, no volume que lhe apetece, enquanto come o que lhe apetece. Se assim entender, janta três latas de atum diretamente com o garfo, em cima da tábua de engomar, às quatro da manhã, enquanto assiste ao seu filme preferido pela milésima vez. Acima de tudo, o solteiro governa a própria existência sem precisar de obter maioria parlamentar.
-
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/quando-e-que-arranjas-alguem.jpg)
+
+O solteiro chega a casa e põe a tocar a música que lhe apetece, no volume que lhe apetece, enquanto come o que lhe apetece. Se assim entender, janta três latas de atum diretamente com o garfo, em cima da tábua de engomar, às quatro da manhã, enquanto assiste ao seu filme preferido pela milésima vez. Acima de tudo, o solteiro governa a própria existência sem precisar de obter maioria parlamentar.
 
 Juntar os trapinhos, por outro lado, implica assinar tratados de paz sobre a rotação da ventoinha e a temperatura do ar condicionado. Envolve resolver disputas territoriais por causa do edredão e fazer negociações sobre a legitimidade de ocupar mais de metade da cama. No limite, casar é aceitar o sacrifício de conviver com sogros e cunhados em todos os feriados nacionais e municipais. 
 
