@@ -14,7 +14,7 @@ Juntar os trapinhos, por outro lado, implica assinar tratados de paz sobre a rot
 
 O solteiro está livre dessas calamidades. De facto, estar sozinho é infinitamente mais saudável do que a tragédia da solidão a dois.
 
-Isto significa que casar é uma má ideia? Claro que não! Casar é uma loucura magnífica. É o milagre que se dá quando duas pessoas decidem, à revelia do bom senso, que a vida a dois é mais suportável.
+Será que casar é uma má ideia? Claro que não! Casar é uma loucura magnífica. É o milagre que se dá quando duas pessoas decidem, à revelia do bom senso, que a vida a dois é mais suportável.
 
 Estatisticamente, encontrar a pessoa certa é uma aberração matemática. No vasto casino do planeta, com oito mil milhões de pessoas a girar na roleta, encontrar alguém que tolera as nossas neuroses é uma coisa fantástica. Ora, transformar algo tão improvável e belo numa obrigação com prazo de validade, como se estivéssemos a entregar a declaração de IRS, é de um absoluto mau gosto.
 
