@@ -8,7 +8,7 @@ Contudo, antes de fazerem perguntas parvas, as pessoas deviam refletir, ainda qu
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/quando-e-que-arranjas-alguem.jpg)
 
-O solteiro chega a casa e põe a tocar a música que lhe apetece, no volume que lhe apetece, enquanto come o que lhe apetece. Se assim entender, janta três latas de atum diretamente com o garfo, em cima da tábua de engomar, às quatro da manhã, enquanto assiste ao seu filme preferido pela milésima vez. Acima de tudo, o solteiro governa a própria existência sem precisar de obter maioria parlamentar.
+O solteiro chega a casa e põe a tocar a música que lhe apetece, no volume que lhe apetece, enquanto come o que lhe apetece. Se assim entender, janta três latas de atum diretamente com o garfo, em cima da tábua de engomar, enquanto assiste ao seu filme preferido pela milésima vez. Acima de tudo, o solteiro governa a própria existência sem precisar de obter maioria parlamentar.
 
 Juntar os trapinhos, por outro lado, implica assinar tratados de paz sobre a rotação da ventoinha e a temperatura do ar condicionado. Envolve resolver disputas territoriais por causa do edredão e fazer negociações sobre a legitimidade de ocupar mais de metade da cama. No limite, casar é aceitar o sacrifício de conviver com sogros e cunhados em todos os feriados nacionais e municipais. 
 
@@ -16,7 +16,7 @@ O solteiro está livre dessas calamidades. De facto, estar sozinho é infinitame
 
 Será que casar é uma má ideia? Claro que não! Casar é uma loucura magnífica. É o milagre que se dá quando duas pessoas decidem, à revelia do bom senso, que a vida a dois é mais suportável.
 
-Estatisticamente, encontrar a pessoa certa é uma aberração matemática. No vasto casino do planeta, com oito mil milhões de pessoas a girar na roleta, encontrar alguém que tolera as nossas neuroses é uma coisa fantástica. Ora, transformar algo tão improvável e belo numa obrigação com prazo de validade, como se estivéssemos a entregar a declaração de IRS, é de um absoluto mau gosto.
+Estatisticamente, encontrar a pessoa certa é uma aberração matemática. No vasto casino do planeta, com oito mil milhões de pessoas a girar na roleta, encontrar alguém que tolera as nossas neuroses é uma coisa fantástica. Portanto, transformar algo tão improvável e belo numa obrigação com prazo de validade, como se estivéssemos a entregar a declaração de IRS, é de um absoluto mau gosto.
 
 A solteirice não é uma sala de espera. É, muitas vezes, não querer trocar uma doce solidão pela tragédia de viver com uma má companhia.
 
