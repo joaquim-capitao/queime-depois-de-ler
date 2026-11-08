@@ -24,5 +24,5 @@ A solteirice não é uma sala de espera. É, muitas vezes, não querer trocar um
 ---
 
 <div align="Right">Joaquim Capitão</div>
-<div align="Right">09/11/2026</div>
+<div align="Right">08/11/2026</div>
 
