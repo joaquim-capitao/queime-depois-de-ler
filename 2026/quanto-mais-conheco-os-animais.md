@@ -26,6 +26,5 @@ A humanidade é uma desgraça? Sim, sem dúvida. Mas é a única desgraça capaz
 ----
 
 <div align="right">Joaquim Capitão</div>
-<div align="right">17/10/2026</div>
+<div align="right">15/11/2026</div>
 
-#queime-depois-de-ler 
