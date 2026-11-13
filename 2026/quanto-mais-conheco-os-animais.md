@@ -6,7 +6,7 @@ O primeiro é que, longe de enobrecer os bichos, quem diz isso está apenas a co
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/quanto-mais-conheco-os-animais.jpg)
 
-Lidar com pessoas dá trabalho. As pessoas falam demais, têm opiniões sobre temas que não dominam, zangam-se por motivos absurdos, pedem dinheiro emprestado e aparecem no dia seguinte com ténis novos. Os humanos obrigam-te a estar vivo: tens de olhar nos olhos, pedir desculpa, engolir sapos e, com alguma frequência, admitir que o imbecil da história foste tu. Amar um semelhante é um exercício diário e extenuante de cedência e tolerância. 
+Lidar com pessoas dá trabalho. As pessoas falam demais, gabam-se, têm opiniões sobre temas que não dominam, zangam-se por motivos absurdos, pedem dinheiro emprestado e aparecem no dia seguinte com ténis novos. Os humanos obrigam-te a estar vivo: tens de olhar nos olhos, pedir desculpa, engolir sapos e, com alguma frequência, admitir que o imbecil da história foste tu. Amar um semelhante é um exercício diário e extenuante de cedência e tolerância. 
 
 Portanto, é claro que é infinitamente mais fácil lidar com o Pantufa, o teu cão que passa catorze horas a dormir e as restantes dez a lamber as próprias virilhas.
 
