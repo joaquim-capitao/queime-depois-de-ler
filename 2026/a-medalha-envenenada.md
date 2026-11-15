@@ -19,11 +19,11 @@ Entretanto, cresceste. O campo de terra batida transformou-se num escritório co
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/ansiedade-de-desempenho-2.jpg)
 
 
-Chamam-lhe **Ansiedade de Desempenho**, um nome pomposo escolhido por uma comissão de especialistas, de bata branca e caneta na mão. Porque todos os venenos precisam de um rótulo. Mas pouco importa o nome. O que importa é que estás exausto.
+Chamam-lhe **Ansiedade de Desempenho**. Acredito que esse nome terá sido escolhido por uma comissão de especialistas, de bata branca e óculos fundo de garrafa. Porque todos os venenos precisam de um rótulo. Mas pouco importa o nome. O que importa é que estás exausto.
 
 Estás exausto porque corres, todos os dias, uma maratona sem fim. O teu peito aperta, o ar falta, e tu continuas a exigir a ti próprio a perfeição. A perfeição que julgas ser o preço da entrada no coração dos outros.
 
-Deixa-me dizer-te uma coisa: o teu pai estava errado. Não por ser um vilão. Mas por ter sido vítima do mesmo veneno. Os pais dele só o abraçavam se tivesse um troféu nas mãos. E os pais dos pais fizeram a mesma coisa, numa *matrioska* infinita de gerações ansiosas.
+Deixa-me dizer-te uma coisa: o teu pai estava errado. Não por ser um vilão. Mas por ter sido vítima do mesmo veneno. Os pais dele só o abraçavam se tivesse um troféu nas mãos. E os pais dos teus pais fizeram a mesma coisa, numa *matrioska* infinita de gerações ansiosas.
 
 Por isso, pára de correr. Descalça essas chuteiras invisíveis.
 
