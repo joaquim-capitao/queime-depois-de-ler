@@ -16,7 +16,7 @@ O segundo equívoco está na injustiça da comparação. Um animal não é bom n
 
 Tu olhas para o Pantufa e suspiras: *"Que pureza! Nunca me mentiu, nunca me passou uma rasteira, nunca disse que vinha jantar e cancelou cinco minutos antes."* Realmente, o Pantufa nunca te tramou. Mas não foi por ter boa moral. Foi por pura incapacidade técnica. Se ele soubesse usar o teu telemóvel, já teria feito uma transferência por MBWay para encomendar biscoitos na Internet. 
 
-Além disso, falta-lhe ferramentas cognitivas para te julgar. Não quer saber se foste rude com um colega, se te atrasaste a entregar um relatório ou se cometeste a atrocidade de enviar áudios de cinco minutos no WhatsApp. A única coisa que o preocupa é que não morras, porque és tu quem lhe abre as latas de patê.
+Além disso, faltam-lhe ferramentas cognitivas para te julgar. Não quer saber se foste rude com um colega, se te atrasaste a entregar um relatório ou se cometeste a atrocidade de enviar áudios de cinco minutos no WhatsApp. A única coisa que o preocupa é que não morras, porque és tu quem lhe abre as latas de patê.
 
 E o teu gato, sejamos francos... esse não gosta realmente de ti. Nunca gostou. Não te iludas. Se o Tareco tivesse o tamanho de um frigorífico e te encontrasse estendido no chão, com uma quebra de tensão, mastigava-te a cara e depois ia apanhar sol. (Eu amo os gatos, mas não sou parvo. Sei muito bem que eles são pequenos psicopatas.)
 
