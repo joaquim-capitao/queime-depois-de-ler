@@ -18,7 +18,7 @@ Tu olhas para o Pantufa e suspiras: *"Que pureza! Nunca me mentiu, nunca me pass
 
 Além disso, falta-lhe ferramentas cognitivas para te julgar. Não quer saber se foste rude com um colega, se te atrasaste a entregar um relatório ou se cometeste a atrocidade de enviar áudios de cinco minutos no WhatsApp. A única coisa que o preocupa é que não morras, porque és tu quem lhe abre as latas de patê.
 
-E o teu gato, sejamos francos... esse não gosta realmente de ti. Nunca gostou. Não te iludas. Se o Tareco tivesse o tamanho de um frigorífico e te encontrasse estendido no chão, com uma quebra de tensão, mastigava-te a cara noe depois ia apanhar sol. (Eu amo os gatos, mas não sou parvo. Sei muito bem que eles são psicopatas.)
+E o teu gato, sejamos francos... esse não gosta realmente de ti. Nunca gostou. Não te iludas. Se o Tareco tivesse o tamanho de um frigorífico e te encontrasse estendido no chão, com uma quebra de tensão, mastigava-te a cara e depois ia apanhar sol. (Eu amo os gatos, mas não sou parvo. Sei muito bem que eles são pequenos psicopatas.)
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/cronicas/quanto-mais-conheco-os-animais-2.jpg)
 
