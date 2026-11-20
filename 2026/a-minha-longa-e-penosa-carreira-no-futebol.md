@@ -34,4 +34,5 @@ E assim continuo a minha longa, involuntária e penosa carreira futebolística, 
 
 ---
 
-#queime-depois-de-ler 
+<div align="Right">Joaquim Capitão</div>
+<div align="Right">22/11/2026</div>
