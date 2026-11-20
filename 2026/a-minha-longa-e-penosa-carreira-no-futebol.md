@@ -28,7 +28,7 @@ Só este ano, por exemplo, cientistas britânicos conseguiram imprimir a primeir
 
 Agora pergunto: alguém viu uma análise exaustiva de três horas, em horário nobre, sobre algum destes assuntos? Claro que não. A comunicação social não parece disposta a desperdiçar tempo com ninharias como avanços científicos capazes de salvar vidas. Há assuntos muito mais importantes a merecer a nossa atenção, como as declarações da dona Dolores Aveiro, indignada por não deixarem o seu menino jogar.
 
-Não me interpretem mal. Não tenho absolutamente nada contra quem gosta de futebol. Nunca critico os gostos de ninguém, nem sequer dos que bebem café sem açúcar. Afinal, gostos não se discutem. O que me intriga é a dimensão quase religiosa que se atribui a uma atividade que, na sua essência, consiste em dar pontapés numa bola.
+Não me interpretem mal. Não tenho absolutamente nada contra quem gosta de futebol. Nunca critico os gostos de ninguém, nem sequer daqueles que bebem café sem açúcar. Afinal, gostos não se discutem. O que me intriga é a dimensão quase religiosa que se atribui a uma atividade que, na sua essência, consiste apenas em dar pontapés numa bola.
 
 E assim continuo a minha longa, involuntária e penosa carreira futebolística, neste país eternamente hipnotizado por bolas reluzentes a saltitar em relvados.
 
