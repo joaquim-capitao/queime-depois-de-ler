@@ -30,7 +30,7 @@ Agora pergunto: alguém viu uma análise exaustiva de três horas, em horário n
 
 Não me interpretem mal. Não tenho absolutamente nada contra quem gosta de futebol. Nunca critico os gostos de ninguém, nem sequer daqueles que bebem café sem açúcar. Afinal, gostos não se discutem. O que me intriga é a dimensão quase religiosa que se atribui a uma atividade que, na sua essência, consiste apenas em dar pontapés numa bola.
 
-E assim continuo a minha longa, involuntária e penosa carreira futebolística, neste país eternamente hipnotizado por bolas reluzentes a saltitar em relvados.
+E assim prossigo nesta minha longa, involuntária e penosa carreira futebolística, num país hipnotizado por bolas reluzentes a saltitar em relvados.
 
 ---
 
