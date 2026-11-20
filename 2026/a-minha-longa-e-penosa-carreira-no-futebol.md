@@ -2,7 +2,7 @@
 
 Desde a infância que sou assombrado por uma dúvida metafísica: _como é possível o planeta parar para ver 22 homens suados a correr atrás de uma bola?_
 
-O meu martírio começou em 1986, quando o México acolheu o Mundial. Nessa ocasião, ofereceram-me uma caderneta de cromos e um boneco que usava um _sombrero_. Mas nem o simpático _Pique_ conseguiu despertar em mim o mais pequeno entusiasmo pelo desporto-rei.
+O meu martírio começou em 1986, quando o México acolheu o Mundial. Nessa ocasião, recebi uma caderneta de cromos e um boneco que usava um _sombrero_. Mas nem o simpático _Pique_ conseguiu despertar em mim o mais pequeno entusiasmo pelo desporto-rei.
 
 ![](https://s2.glbimg.com/Xad6cFoCdWD3gBxhd8LDwqWTUJ8=/67x0:850x600/300x230/s.glbimg.com/es/ge/f/original/2013/12/04/pique-copa86-rep_1.jpg)
 
@@ -16,13 +16,13 @@ _"Acho que o_ **_Plantel_** _é um excelente jogador. Tem muito futuro!"_, afirm
 
 Seguiu-se uma gargalhada monumental, e só escapei à humilhação pública porque os meus colegas ficaram convencidos de que eu estava a fazer uma piada.
 
-Depois chegou o Euro 2004 e o país enlouqueceu. Havia bandeiras nas janelas, nos carros e nas varandas. E eu, não querendo passar por extraterrestre, decidi fazer mais um esforço de integração: comprei uma dose de tremoços e uma Coca-Cola bem fresca para assistir ao mítico **Portugal-Inglaterra**.
+Depois chegou o Euro 2004 e o país enlouqueceu. Havia bandeiras nas janelas, nos carros e em todo o lado. E eu, não querendo passar por extraterrestre, decidi fazer mais um esforço de integração: comprei uma dose de tremoços e uma Coca-Cola bem fresca para assistir ao mítico **Portugal-Inglaterra**.
 
 ![](https://i.ibb.co/XxyX56zh/1000126374.png)
 
 O problema é que os tremoços acabaram, a Coca-Cola também, e o raio do jogo parecia não ter fim. Sempre que eu começava a perceber para que lado Portugal estava a atacar, os jogadores invertiam o sentido. Foi uma experiência angustiante!
 
-Os anos foram passando, mas continuo sem entender as o prioridades deste mundo.
+Os anos foram passando, mas continuo sem entender as prioridades deste mundo.
 
 Veja-se alguns exemplos. Há pouco tempo, cientistas britânicos conseguiram imprimir a primeira córnea humana em 3D, um avanço extraordinário que poderá devolver a visão a milhões de pessoas. Na Coreia do Sul, uma equipa de investigadores descobriu uma forma de reverter alterações celulares associadas ao cancro. E, por cá, cinco jovens portugueses conquistaram um prémio internacional com projetos de investigação sobre o Alzheimer e o cancro do pulmão.
 
