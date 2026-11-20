@@ -24,9 +24,9 @@ O problema é que os tremoços acabaram, a Coca-Cola também, e o raio do jogo p
 
 Os anos foram passando, mas o mundo continua com as prioridades aparentemente definidas por alguém que perdeu o juízo.
 
-Só este ano, por exemplo, cientistas britânicos conseguiram imprimir a primeira córnea humana em 3D, um avanço extraordinário que poderá devolver a visão a milhões de pessoas. Na Coreia do Sul, uma equipa de investigadores descobriu uma forma de reverter alterações celulares associadas ao cancro. E, por cá, cinco jovens portugueses conquistaram um prémio internacional com projectos de investigação sobre o Alzheimer e o cancro do pulmão.
+Veja-se alguns exemplos. Há pouco tempo, cientistas britânicos conseguiram imprimir a primeira córnea humana em 3D, um avanço extraordinário que poderá devolver a visão a milhões de pessoas. Na Coreia do Sul, uma equipa de investigadores descobriu uma forma de reverter alterações celulares associadas ao cancro. E, por cá, cinco jovens portugueses conquistaram um prémio internacional com projetos de investigação sobre o Alzheimer e o cancro do pulmão.
 
-Agora pergunto: alguém viu uma análise exaustiva de três horas, em horário nobre, sobre algum destes assuntos? Claro que não. A comunicação social não parece disposta a desperdiçar tempo com ninharias como avanços científicos capazes de salvar vidas. Há assuntos muito mais importantes a merecer a nossa atenção, como as declarações da dona Dolores Aveiro, indignada por não deixarem o seu menino jogar.
+Agora pergunto: alguém viu uma análise exaustiva de três horas, em horário nobre, sobre algum destes assuntos? Claro que não. A comunicação social não desperdiça tempo com ninharias. Há assuntos muito mais importantes a merecer a nossa atenção, como as declarações da dona Dolores Aveiro, indignada por não deixarem o seu menino jogar.
 
 Não me interpretem mal. Não tenho absolutamente nada contra quem gosta de futebol. Nunca critico os gostos de ninguém, nem sequer daqueles que bebem café sem açúcar. Afinal, gostos não se discutem. O que me intriga é a dimensão quase religiosa que se atribui a uma atividade que, na sua essência, consiste apenas em dar pontapés numa bola.
 
