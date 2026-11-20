@@ -2,7 +2,7 @@
 
 Desde a infância que sou assombrado por uma dúvida metafísica: _como é possível o planeta parar para ver 22 homens suados a correr atrás de uma bola?_
 
-O meu martírio começou em 1986, quando o México acolheu o Mundial. Nessa ocasião, ofereceram-me uma caderneta de cromos e um boneco que usava _sombrero_. Mas nem o simpático _Pique_ conseguiu despertar em mim o mais pequeno entusiasmo pelo desporto-rei.
+O meu martírio começou em 1986, quando o México acolheu o Mundial. Nessa ocasião, ofereceram-me uma caderneta de cromos e um boneco que usava um _sombrero_. Mas nem o simpático _Pique_ conseguiu despertar em mim o mais pequeno entusiasmo pelo desporto-rei.
 
 ![](https://s2.glbimg.com/Xad6cFoCdWD3gBxhd8LDwqWTUJ8=/67x0:850x600/300x230/s.glbimg.com/es/ge/f/original/2013/12/04/pique-copa86-rep_1.jpg)
 
