@@ -6,9 +6,9 @@ O meu martírio começou em 1986, quando o México acolheu o Mundial. Nessa ocas
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/mexico86%20(1).jpg)
 
-Enquanto os outros miúdos tentavam imitar a célebre _Mão de Deus_ do **Maradona**, eu ficava fascinado com outro fenómeno, bem mais difícil de compreender: homens adultos a chorar porque uma bola não entrou onde devia.
+Enquanto os outros miúdos tentavam imitar a célebre _Mão de Deus_ do Maradona, eu ficava fascinado com outro fenómeno, bem mais difícil de compreender: homens adultos a chorar porque uma bola não entrou onde devia.
 
-Mais tarde, na adolescência, os anos 90 foram um verdadeiro teste de sobrevivência. Na escola, quem desconhecesse o **Luís Figo** ou o **Vítor Baía** arriscava-se a ser condenado ao limbo social. Então, para tentar integrar-me, fingia ter interesse pela modalidade, mas sem muito sucesso.
+Mais tarde, na adolescência, os anos 90 foram um verdadeiro teste de sobrevivência. Na escola, quem desconhecesse o Luís Figo ou o Vítor Baía arriscava-se a ser condenado ao limbo social. Então, para tentar integrar-me, fingia ter interesse pela modalidade, mas sem muito sucesso.
 
 Certa vez, uns colegas benfiquistas perguntaram-me o que achava do plantel. Como desconhecia por completo o significado da palavra, fiquei alguns segundos em silêncio e arrisquei a resposta que me pareceu mais segura:
 
@@ -22,7 +22,7 @@ Depois chegou o Euro 2004 e o país enlouqueceu. Havia bandeiras nas janelas, no
 
 O problema é que os tremoços acabaram, a Coca-Cola também, e o raio do jogo parecia não ter fim. Sempre que eu começava a perceber para que lado Portugal estava a atacar, os jogadores invertiam o sentido. Foi uma experiência angustiante!
 
-Os anos foram passando, mas continuo sem entender como é que o futebol consegue ocupar um lugar tão central na sociedade.
+Décadas passaram, mas continuo sem entender como é que o futebol consegue ocupar um lugar tão central na sociedade.
 
 Vejamos alguns exemplos. Há pouco tempo, cientistas britânicos conseguiram imprimir a primeira córnea humana em 3D, um avanço extraordinário que poderá devolver a visão a milhões de pessoas. Na Coreia do Sul, uma equipa de investigadores descobriu uma forma de reverter alterações celulares associadas ao cancro. Por cá, cinco jovens portugueses conquistaram um prémio internacional com projetos de investigação sobre o Alzheimer e o cancro do pulmão.
 
