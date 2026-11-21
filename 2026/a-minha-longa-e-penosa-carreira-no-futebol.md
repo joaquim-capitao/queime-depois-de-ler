@@ -2,7 +2,7 @@
 
 Desde criança que me intriga um dos grandes mistérios da existência humana: _como é possível o planeta parar para ver 22 homens suados a correr atrás de uma bola?_
 
-O meu martírio começou em 1986, quando o México acolheu o Mundial. Nessa ocasião, recebi uma caderneta de cromos e um boneco que usava um _sombrero_. Mas nem o simpático _Pique_ conseguiu despertar em mim o mais pequeno entusiasmo pelo desporto-rei.
+O meu martírio começou em 1986, quando o México acolheu o Mundial. Nessa ocasião, recebi uma caderneta de cromos e um boneco que usava um _sombrero_. Mas nem isso despertou o meu interesse no desporto-rei.
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/mexico86%20(1).jpg)
 
@@ -16,7 +16,7 @@ _"Acho que o_ **_Plantel_** _é um excelente jogador. Tem muito futuro!"_, afirm
 
 Seguiu-se uma gargalhada monumental, e só escapei à humilhação pública porque os meus colegas ficaram convencidos de que eu estava a fazer uma piada.
 
-Depois chegou o Euro 2004 e o país enlouqueceu. Havia bandeiras nas janelas, nos carros e em todo o lado. E eu, não querendo passar por extraterrestre, decidi fazer mais um esforço de integração: comprei uma dose de tremoços e uma Coca-Cola bem fresca para assistir ao mítico **Portugal-Inglaterra**.
+Depois chegou o Euro 2004 e o país enlouqueceu. Havia bandeiras nas janelas, nos carros e em todo o lado. E eu, não querendo passar por extraterrestre, decidi fazer um esforço de integração: comprei uma dose de tremoços e uma Coca-Cola bem fresca para assistir ao mítico **Portugal-Inglaterra**.
 
 ![](https://i.ibb.co/XxyX56zh/1000126374.png)
 
