@@ -6,7 +6,7 @@ O meu martírio começou em 1986, quando o México acolheu o Mundial. Nessa ocas
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/mexico86%20(1).jpg)
 
-Enquanto os outros miúdos tentavam imitar a célebre _Mão de Deus_ de Maradona, eu ficava fascinado com outro fenómeno, bem mais difícil de compreender: homens adultos a chorar porque uma bola não entrou onde devia.
+Enquanto os outros miúdos tentavam imitar a célebre _Mão de Deus_ do **Maradona**, eu ficava fascinado com outro fenómeno, bem mais difícil de compreender: homens adultos a chorar porque uma bola não entrou onde devia.
 
 Mais tarde, na adolescência, os anos 90 foram um verdadeiro teste de sobrevivência. Na escola, quem desconhecesse o **Luís Figo** ou o **Vítor Baía** arriscava-se a ser condenado ao limbo social. Então, para tentar integrar-me, fingia ter interesse pela modalidade, mas sem muito sucesso.
 
