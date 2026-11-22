@@ -20,7 +20,7 @@ Depois chegou o Euro 2004 e o país enlouqueceu. Havia bandeiras nas janelas, no
 
 O problema é que os tremoços acabaram, a Coca-Cola também, mas o raio do jogo parecia não ter fim. Quando eu começava a perceber para que lado Portugal estava a atacar, os jogadores invertiam o sentido. Foi uma experiência angustiante!
 
-Com o tempo, decidi assumir que tenho tanto interesse em futebol como em acompanhar o [campeonato de pesagem de abóboras](https://sapo.pt/artigo/abobora-de-905-quilos-estabelece-novo-recorde-no-concurso-o-maior-da-minha-aldeia-6aa864e7cd80d8fcaaf15a4e). Mas, por mais anos que passem, continuo sem entender como é que o futebol consegue ocupar um lugar tão central na sociedade.
+Com o tempo, decidi assumir que tenho tanto interesse em futebol como em acompanhar o [campeonato de pesagem de abóboras](https://sapo.pt/artigo/abobora-de-905-quilos-estabelece-novo-recorde-no-concurso-o-maior-da-minha-aldeia-6aa864e7cd80d8fcaaf15a4e). Por mais anos que passem, continuo sem entender como é que o futebol consegue ocupar um lugar tão central na sociedade.
 
 Vejamos apenas dois exemplos. No último ano, cientistas britânicos conseguiram imprimir a primeira córnea humana em 3D, um avanço extraordinário que poderá devolver a visão a milhões de pessoas. Por cá, cinco jovens portugueses conquistaram um prémio internacional com projetos de investigação sobre o Alzheimer e o cancro do pulmão.
 
