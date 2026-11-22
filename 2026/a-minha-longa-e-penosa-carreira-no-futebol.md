@@ -2,7 +2,7 @@
 
 Desde criança que fico intrigado com um dos grandes mistérios da existência humana: _como é possível o planeta parar para ver 22 homens suados a correr atrás de uma bola?_
 
-Em 1986, quando o México acolheu o Mundial de Futebol, recebi uma caderneta de cromos e um boneco simpático que usava um _sombrero_. Mas enquanto os outros miúdos tentavam imitar a célebre _Mão de Deus_ do Maradona, eu tentava decifrar aquele estranho fenómeno que transformava homens adultos em criaturas inconsoláveis sempre que a bola não entrava onde devia.
+Em 1986, quando o México acolheu o Mundial de Futebol, recebi uma caderneta de cromos e um boneco simpático que usava um _sombrero_. Mas enquanto os outros miúdos tentavam imitar a célebre _Mão de Deus_ do Maradona, eu tentava decifrar aquele estranho fenómeno que punha homens crescidos a chorar baba e ranho quando a bola não entrava na baliza.
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/mexico86%20(1).jpg)
 
