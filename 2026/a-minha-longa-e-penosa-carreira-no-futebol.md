@@ -26,11 +26,9 @@ Com o tempo, decidi assumir que tenho tanto interesse em futebol como em acompan
 
 Vejamos apenas dois exemplos. No último ano, cientistas britânicos conseguiram imprimir a primeira córnea humana em 3D, um avanço extraordinário que poderá devolver a visão a milhões de pessoas. Por cá, cinco jovens portugueses conquistaram um prémio internacional com projetos de investigação sobre o Alzheimer e o cancro do pulmão.
 
-Agora pergunto: alguém viu uma análise exaustiva de três horas, em horário nobre, sobre algum destes assuntos? Claro que não. A comunicação social não desperdiça tempo com ninharias. Há assuntos muito mais importantes a merecer a nossa atenção, como as declarações da senhora Dolores Aveiro, indignada por não deixarem o seu menino jogar. Isso, sim, abre telejornais.
+Agora pergunto: alguém viu uma análise exaustiva de três horas, em horário nobre, sobre algum destes assuntos? Claro que não. A comunicação social não desperdiça tempo com ninharias. Há assuntos muito mais importantes a merecer a nossa atenção, como as declarações de uma senhora idosa indignada por não deixarem o seu menino jogar na seleção. Isso, sim, abre telejornais!
 
-Não me interpretem mal. Não tenho absolutamente nada contra quem gosta de futebol. Não tenho o hábito de criticar os gostos de ninguém, nem sequer daqueles masoquistas que preferem beber o café sem açúcar. Afinal, gostos não se discutem. 
-
-O que me intriga é a dimensão quase religiosa que se atribui a uma atividade que, na sua essência, consiste apenas em correr atrás de um objeto redondo e dar-lhe pontapés.
+Não me interpretem mal. Não tenho absolutamente nada contra quem gosta de futebol. Não tenho o hábito de criticar os gostos de ninguém, nem sequer daqueles masoquistas que preferem beber o café sem açúcar. Afinal, gostos não se discutem. O que me intriga é a dimensão quase religiosa que se atribui a uma atividade que, na sua essência, consiste apenas em correr atrás de um objeto redondo. 
 
 E assim prossigo nesta minha longa e penosa carreira futebolística. Uma carreira involuntária, pois vivo num país hipnotizado por bolas reluzentes a saltitar em relvados.
 
