@@ -6,7 +6,7 @@ Em 1986, quando o México acolheu o Mundial de Futebol, recebi uma caderneta de 
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/mexico86%20(1).jpg)
 
-Mais tarde, na adolescência, os anos 90 foram um verdadeiro teste de sobrevivência. Na escola, quem desconhecesse o Luís Figo ou o Vítor Baía arriscava-se a ser condenado ao limbo social. Então, para tentar integrar-me, fingia ter interesse pela modalidade. Mas não é fácil fingir.
+Mais tarde, na adolescência, os anos 90 foram um verdadeiro teste de sobrevivência. Na escola, quem não conhecesse o Luís Figo ou o Vítor Baía arriscava-se a ser condenado ao limbo social. Então, para tentar integrar-me, fingia ter interesse pela modalidade. Mas não é fácil fingir.
 
 Certa vez, uns colegas perguntaram-me o que achava do plantel do Benfica. Como desconhecia por completo o significado da palavra "plantel", fiquei alguns segundos em silêncio e arrisquei a resposta que me pareceu mais segura:
 
